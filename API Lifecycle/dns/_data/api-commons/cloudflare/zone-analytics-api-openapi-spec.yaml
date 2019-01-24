@@ -1,0 +1,102 @@
+swagger: "2.0"
+info:
+  title: Zone Analytics API
+  description: The API for managing CloudFlare Zone Analytics
+  termsOfService: https://www.cloudflare.com/terms/
+  version: 1.0.0
+host: api.cloudflare.com
+basePath: /client/v4
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /zones/:zone_identifier/analytics/colos:
+    get:
+      summary: This view provides a breakdown of analytics data by datacenter
+      description: This view provides a breakdown of analytics data by datacenter
+      operationId: cloudflare-zone-analytics-api
+      parameters:
+      - in: query
+        name: continuous
+        description: When set to true, the range returned by the response acts like
+          a sliding window to provide a contiguous time-window. Analytics data is
+          processed and aggregated asynchronously and can sometimes lead to recent
+          data points being incomplete if this value is set to false. If a start date
+          provided is earlier than a date for which data is available, the API will
+          return 0s for those dates until the first available date with datatttttttttttttttrue
+      - in: query
+        name: since
+        description: 'The (inclusive) beginning of the requested time frame. This
+          value can be a negative integer representing the number of minutes in the
+          past relative to time the request is made, or can be an absolute timestamp
+          that conforms to RFC 3339. At this point in time, it cannot exceed a time
+          in the past greater than one year.tRanges that the CloudFlare web application
+          provides will provide the following period length for each point:ttLast
+          30 minutes (-30): 1 minutetLast 6 hours (-360): 15 minutestLast 12 hours
+          (-720): 30 minutestLast 24 hours (-1440): 1 hourtLast week (-10080): 1 daytLast
+          month (-43200): 1 dayttttttttttttttt2015-01-01T12:23:00Z'
+      - in: query
+        name: until
+        description: The (exclusive) end of the requested time frame. This value can
+          be a negative integer representing the number of minutes in the past relative
+          to time the request is made, or can be an absolute timestamp that conforms
+          to RFC 3339. If omitted, the time of the request is used.tttttttttttttt2015-01-02T12:23:00Z
+      - in: header
+        name: X-AUTH-EMAIL
+        description: Email address associated with your account
+      - in: header
+        name: X-AUTH-KEY
+        description: API key generated on the My Account page
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /zones/:zone_identifier/analytics/dashboard:
+    get:
+      summary: The dashboard view provides both totals and timeseries data for the
+        given zone and time period across the entire CloudFlare network
+      description: The dashboard view provides both totals and timeseries data for
+        the given zone and time period across the entire CloudFlare network
+      operationId: cloudflare-zone-analytics-api
+      parameters:
+      - in: query
+        name: continuous
+        description: When set to true, the range returned by the response acts like
+          a sliding window to provide a contiguous time-window. Analytics data is
+          processed and aggregated asynchronously and can sometimes lead to recent
+          data points being incomplete if this value is set to false. If a start date
+          provided is earlier than a date for which data is available, the API will
+          return 0s for those dates until the first available date with datatttttttttttttttrue
+      - in: query
+        name: since
+        description: 'The (inclusive) beginning of the requested time frame. This
+          value can be a negative integer representing the number of minutes in the
+          past relative to time the request is made, or can be an absolute timestamp
+          that conforms to RFC 3339. At this point in time, it cannot exceed a time
+          in the past greater than one year.tRanges that the CloudFlare web application
+          provides will provide the following period length for each point:ttLast
+          30 minutes (-30): 1 minutetLast 6 hours (-360): 15 minutestLast 12 hours
+          (-720): 30 minutestLast 24 hours (-1440): 1 hourtLast week (-10080): 1 daytLast
+          month (-43200): 1 dayttttttttttttttt2015-01-01T12:23:00Z'
+      - in: query
+        name: until
+        description: The (exclusive) end of the requested time frame. This value can
+          be a negative integer representing the number of minutes in the past relative
+          to time the request is made, or can be an absolute timestamp that conforms
+          to RFC 3339. If omitted, the time of the request is used.tttttttttttttt2015-01-02T12:23:00Z
+      - in: header
+        name: X-AUTH-EMAIL
+        description: Email address associated with your account
+      - in: header
+        name: X-AUTH-KEY
+        description: API key generated on the My Account page
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

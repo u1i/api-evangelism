@@ -1,0 +1,57 @@
+swagger: "2.0"
+info:
+  title: User API
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  api/v1/user:
+    get:
+      summary: Get All Users
+      description: ""
+      operationId: get-all-users
+      responses:
+        200:
+          description: OK
+      tags:
+      - Users
+    post:
+      summary: Create User
+      description: ""
+      operationId: create-user
+      parameters:
+      - type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Users
+  api/v1/user/:handle:
+    get:
+      summary: Get User
+      description: ""
+      operationId: get-user
+      parameters:
+      - type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Users
+    put:
+      summary: Update User
+      description: '          Can only be used with application keys belonging to
+        administrators.        '
+      operationId: update-user
+      parameters:
+      - type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Users
+definitions: []

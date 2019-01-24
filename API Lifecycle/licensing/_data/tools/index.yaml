@@ -1,0 +1,13 @@
+- slug: choosealicense.com
+  name: choosealicense.com
+  description: >-
+    A site to provide non-judgmental guidance on choosing a license for your
+    open source project
+  url: 'https://github.com/github/choosealicense.com'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Licensing

@@ -1,0 +1,127 @@
+swagger: "2.0"
+info:
+  title: Alert Plugin Condition API
+  description: The Alert Plugin Condition API.
+  version: 1.0.0
+host: api.newrelic.com
+basePath: /
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /v2/alerts_plugins_conditions.{format}:
+    get:
+      summary: List
+      description: <p>This API endpoint allows you to list the Plugins conditions
+        for your alert policy.</p><p>See our documentation for a discussion on <a
+        href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/pagination-api-output
+        target=_blank>output pagination</a>.</p>
+      operationId: list
+      parameters:
+      - in: query
+        name: page
+        description: Pagination index
+        type: integer
+      - in: query
+        name: policy_id
+        description: Alerts policy ID
+        type: integer
+      responses:
+        200:
+          description: OK
+      tags:
+      - Alert Plugin Conditions
+  /v2/alerts_plugins_conditions/policies/{policy_id}.{format}:
+    post:
+      summary: Create
+      description: '<p>This API endpoint allows you to create Plugins conditions for
+        your alert policies.</p><p>Note: <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/rest-api-key>Admin
+        Useru2019s API Key</a> is required.</p><p>See our documentation for a discussion
+        on <a href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/rest-api-calls-new-relic-alerts#plugins-conditions-create
+        target=_blank>creating conditions for plugins</a>.</p><p>All fields are required
+        except for u201crunbook_urlu201d, u201cenabledu201d (defaults to false).</p><p><a
+        href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/alerts-conditions-api-field-names#name
+        target=_blank>name</a>: A title for your condition.</p><p><a href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/alerts-conditions-api-field-names#enabled
+        target=_blank>enabled</a>: The status of your condition (optional).</p><p><a
+        href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/alerts-conditions-api-field-names#entities
+        target=_blank>entities</a>: An array of instance IDs associated with your
+        condition.</p><p><a href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/alerts-conditions-api-field-names#metric_description
+        target=_blank>metric_description</a>: A title for the metric to display in
+        notifications.</p><p><a href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/alerts-conditions-api-field-names#metric
+        target=_blank>metric</a>: The metric to evaluate on.</p><p><a href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/alerts-conditions-api-field-names#value_function
+        target=_blank>value_function</a>: min, max, average, sample_size, total, percent</p><p><a
+        href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/alerts-conditions-api-field-names#runbook_url
+        target=_blank>runbook_url</a>: Runbook URL to display in notifications (optional).</p><p><a
+        href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/alerts-conditions-api-field-names#terms_duration
+        target=_blank>terms[duration]</a> (in minutes): 5, 10, 15, 30, 60, 120.</p><p><a
+        href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/alerts-conditions-api-field-names#terms_operator
+        target=_blank>terms[operator]</a>: above, below, equal.</p><p><a href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/alerts-conditions-api-field-names#terms_priority
+        target=_blank>terms[priority]</a>: critical, warning.</p><p><a href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/alerts-conditions-api-field-names#terms_threshold
+        target=_blank>terms[threshold]</a>: Must be 0 or greater.</p><p><a href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/alerts-conditions-api-field-names#terms_time_function
+        target=_blank>terms[time_function]</a>: all, any.</p><p><a href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/alerts-conditions-api-field-names#plugin_id
+        target=_blank>plugin[id]</a>: The ID of the plugin.</p><p><a href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/alerts-conditions-api-field-names#plugin_guid
+        target=_blank>plugin[guid]</a>: The GUID of the plugin.</p>'
+      operationId: create
+      parameters:
+      - in: body
+        name: plugins_condition
+        description: Condition schema
+        schema:
+          $ref: '#/definitions/holder'
+      - in: path
+        name: policy_id
+        description: Alerts policy ID
+        type: integer
+      responses:
+        200:
+          description: OK
+      tags:
+      - Alert Plugin Conditions
+  /v2/alerts_plugins_conditions/{condition_id}.{format}:
+    delete:
+      summary: Delete
+      description: '<p>This API endpoint allows you to delete Plugins conditions associated
+        with your alert policy.</p><p>Note: <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/rest-api-key>Admin
+        Useru2019s API Key</a> is required.</p><p>See our documentation for a discussion
+        on <a href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/rest-api-calls-new-relic-alerts#plugins-conditions-delete
+        target=_blank>deleting Plugins conditions</a>.</p>'
+      operationId: delete
+      parameters:
+      - in: path
+        name: condition_id
+        description: Alerts condition ID
+        type: integer
+      responses:
+        200:
+          description: OK
+      tags:
+      - Alert Plugin Conditions
+  /v2/alerts_plugins_conditions/{id}.{format}:
+    put:
+      summary: Update
+      description: '<p>This API endpoint allows you to update Plugins conditions for
+        your alert policies.</p><p>Note: <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/rest-api-key>Admin
+        Useru2019s API Key</a> is required.</p><p>See Alerts Plugins Conditions &gt;
+        Create for an explanation of the field values ued in this command or the online
+        document on<a href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/rest-api-calls-new-relic-alerts#plugins-conditions-update
+        target=_blank>updating conditions for plugins</a>.</p>'
+      operationId: update
+      parameters:
+      - in: path
+        name: id
+        description: Alerts condition ID to update
+        type: integer
+      - in: body
+        name: plugins_condition
+        description: Condition schema
+        schema:
+          $ref: '#/definitions/holder'
+      responses:
+        200:
+          description: OK
+      tags:
+      - Alert Plugin Conditions
+definitions: []

@@ -1,0 +1,55 @@
+swagger: "2.0"
+info:
+  title: CloudFlare User&#x27;s Invites API
+  description: The API for managing CloudFlare User&amp;#x27;s Invites
+  termsOfService: https://www.cloudflare.com/terms/
+  version: 1.0.0
+host: api.cloudflare.com
+basePath: /client/v4
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /user/invites:
+    get:
+      summary: List all invitations associated with my user
+      description: List all invitations associated with my user
+      operationId: cloudflare-userx27s-invites-api
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /user/invites/:identifier:
+    get:
+      summary: Get the details of an invitation
+      description: Get the details of an invitation
+      operationId: cloudflare-userx27s-invites-api
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    patch:
+      summary: Respond to an invitation
+      description: Respond to an invitation
+      operationId: cloudflare-userx27s-invites-api
+      parameters:
+      - in: query
+        name: status
+        description: Status of your response to the invitation (rejected or accepted)accepted
+      - in: header
+        name: X-AUTH-EMAIL
+        description: Email address associated with your account
+      - in: header
+        name: X-AUTH-KEY
+        description: API key generated on the My Account page
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

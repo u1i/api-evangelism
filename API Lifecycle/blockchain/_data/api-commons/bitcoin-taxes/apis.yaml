@@ -1,0 +1,22 @@
+name: Bitcoin Taxes
+description: Calculate Bitcoin taxes of capital gains and income for Bitcoin, Ethererum,
+  and other alt-coins from trading, spending, donations / tipping and mining.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26445-bitcoin-tax.jpg
+tags:
+- Technology
+- Marketplace
+- Blockchain Taxes
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/bitcoin-taxes/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: https://bitcoin.tax
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

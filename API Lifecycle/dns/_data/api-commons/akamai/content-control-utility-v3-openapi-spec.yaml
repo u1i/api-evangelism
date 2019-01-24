@@ -1,0 +1,49 @@
+swagger: "2.0"
+info:
+  title: Content Control Utility (v3)
+  description: The Content Control Utility (CCU) API allows you to purge edge content
+    by request using Akamai's new Fast Purge capability. At this time, you can invalidate
+    or delete by URL only.
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /ccu/v3/delete/url/{network}:
+    post:
+      summary: Delete by URL
+      description: ""
+      operationId: ccuv3deleteurlnetwork
+      parameters:
+      - in: Enumeration
+        name: network
+        description: The network on which you want to delete the URL, either production
+          or staging. If you do not specify a network, the operation is applied to
+          Production.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /ccu/v3/invalidate/url/{network}:
+    post:
+      summary: Invalidate by URL
+      description: ""
+      operationId: ccuv3invalidateurlnetwork
+      parameters:
+      - in: Enumeration
+        name: network
+        description: The network on which you want to invalidate the URL, either production
+          or staging. If you do not specify a network, the operation is applied to
+          Production.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

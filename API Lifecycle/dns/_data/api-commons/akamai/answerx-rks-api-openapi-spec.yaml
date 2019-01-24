@@ -1,0 +1,91 @@
+swagger: "2.0"
+info:
+  title: AnswerX RKS API
+  description: Configure custom DNS behavior based on rules stored in Akamai's Reputation
+    Knowledge Server (RKS).
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  '%22key%22':
+    get:
+      summary: Get Row or Table by Service Instance
+      description: ""
+      operationId: 22key22
+      parameters:
+      - in: String
+        name: action
+        description: The action taking place. The parameters are dump to remove an
+          entire table, dump-data-only to remove only the data found in a table, subscribe
+          to return table metadata up to the current sync point with a service instance
+          ID, or schema to describe the table&#8217;s structure. Used with the GET
+          and POST operations.
+        type: string
+      - in: String
+        name: contractId
+        description: The contract ID.
+        type: string
+      - in: String
+        name: key
+        description: The value of the key column to access. If the key column is a
+          string, it must be wrapped with URL-encoded double quotes, such as %22key%22.
+        type: string
+      - in: String
+        name: productType
+        description: The type of RKS.
+        type: string
+      - in: Integer
+        name: serviceInstanceId
+        description: The service instance ID.
+        type: string
+      - in: String
+        name: tableName
+        description: The table to be queried.
+        type: string
+      - in: String
+        name: table_type
+        description: Table types may be static, dynamic, or rtt. You can set this
+          parameter to static. The default value is rtt.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  key:
+    delete:
+      summary: Remove Row by Service Instance
+      description: ""
+      operationId: key
+      parameters:
+      - in: String
+        name: contractId
+        description: The contract ID.
+        type: string
+      - in: String
+        name: key
+        description: The value of the key column to access. If the key column is a
+          string, it must be wrapped with URL-encoded double quotes, such as %22key%22.
+        type: string
+      - in: String
+        name: productType
+        description: The type of RKS.
+        type: string
+      - in: Integer
+        name: serviceInstanceId
+        description: The service instance ID.
+        type: string
+      - in: String
+        name: tableName
+        description: The table to be queried.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

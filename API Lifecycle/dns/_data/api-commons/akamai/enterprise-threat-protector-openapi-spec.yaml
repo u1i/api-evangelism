@@ -1,0 +1,245 @@
+swagger: "2.0"
+info:
+  title: Enterprise Threat Protector
+  description: Manages policy settings to protect against enterprise security related
+    events and acceptable user policy events.
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /etp-report/v1/configs/{configId}/aup-events/details{?startTimeSec,endTimeSec,dimension,filters}:
+    get:
+      summary: Report AUP Event Details
+      description: ""
+      operationId: etpreportv1configsconfigidaupeventsdetailsstarttimesecendtimesecdimensionfilters
+      parameters:
+      - in: Number
+        name: configId
+        description: ETP Configuration identifier assigned to the customer.
+        type: string
+      - in: String
+        name: dimension
+        description: Flag to group the data. If omitted, then time is the dimension.
+        type: string
+      - in: Number
+        name: endTimeSec
+        description: Timestamp for the end of the data window, in UTC seconds format.
+          This must be later than the startTimeSec.
+        type: string
+      - in: String
+        name: filters
+        description: filter parameters to filter the data.
+        type: string
+      - in: Number
+        name: startTimeSec
+        description: Timestamp for the start of the data window, in UTC seconds format.
+          This must be prior to the endTimeSec.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /etp-report/v1/configs/{configId}/aup-events/time-series{?startTimeSec,endTimeSec,dimension,filters}:
+    get:
+      summary: Report AUP Event Time Series
+      description: ""
+      operationId: etpreportv1configsconfigidaupeventstimeseriesstarttimesecendtimesecdimensionfilters
+      parameters:
+      - in: Number
+        name: configId
+        description: ETP Configuration identifier assigned to the customer.
+        type: string
+      - in: String
+        name: dimension
+        description: Flag to group the data. If omitted, then time is the dimension.
+        type: string
+      - in: Number
+        name: endTimeSec
+        description: Timestamp for the end of the data window, in UTC seconds format.
+          This must be later than the startTimeSec.
+        type: string
+      - in: String
+        name: filters
+        description: filter parameters to filter the data.
+        type: string
+      - in: Number
+        name: startTimeSec
+        description: Timestamp for the start of the data window, in UTC seconds format.
+          This must be prior to the endTimeSec.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /etp-report/v1/configs/{configId}/dns-activities/aggregate{?startTimeSec,endTimeSec,dimension,filters}:
+    get:
+      summary: Report DNS Activities Totals
+      description: ""
+      operationId: etpreportv1configsconfigiddnsactivitiesaggregatestarttimesecendtimesecdimensionfilters
+      parameters:
+      - in: Number
+        name: configId
+        description: ETP Configuration identifier assigned to the customer.
+        type: string
+      - in: String
+        name: dimension
+        description: Flag to group the data. If omitted, then time is the dimension.
+        type: string
+      - in: Number
+        name: endTimeSec
+        description: Timestamp for the end of the data window, in UTC seconds format.
+          This must be later than the startTimeSec.
+        type: string
+      - in: String
+        name: filters
+        description: filter parameters to filter the data.
+        type: string
+      - in: Number
+        name: startTimeSec
+        description: Timestamp for the start of the data window, in UTC seconds format.
+          This must be prior to the endTimeSec.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /etp-report/v1/configs/{configId}/dns-activities/time-series{?startTimeSec,endTimeSec,dimension,filters}:
+    get:
+      summary: Report DNS Activity Time Series
+      description: ""
+      operationId: etpreportv1configsconfigiddnsactivitiestimeseriesstarttimesecendtimesecdimensionfilters
+      parameters:
+      - in: Number
+        name: configId
+        description: ETP Configuration identifier assigned to the customer.
+        type: string
+      - in: String
+        name: dimension
+        description: Flag to group the data. If omitted, then time is the dimension.
+        type: string
+      - in: Number
+        name: endTimeSec
+        description: Timestamp for the end of the data window, in UTC seconds format.
+          This must be later than the startTimeSec.
+        type: string
+      - in: String
+        name: filters
+        description: filter parameters to filter the data.
+        type: string
+      - in: Number
+        name: startTimeSec
+        description: Timestamp for the start of the data window, in UTC seconds format.
+          This must be prior to the endTimeSec.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /etp-report/v1/configs/{configId}/threat-events/aggregate{?startTimeSec,endTimeSec,dimension,filters}:
+    get:
+      summary: Report Security Event Aggregation
+      description: ""
+      operationId: etpreportv1configsconfigidthreateventsaggregatestarttimesecendtimesecdimensionfilters
+      parameters:
+      - in: Number
+        name: configId
+        description: ETP Configuration identifier assigned to the customer.
+        type: string
+      - in: String
+        name: dimension
+        description: Flag to group the data. If omitted, then time is the dimension.
+        type: string
+      - in: Number
+        name: endTimeSec
+        description: Timestamp for the end of the data window, in UTC seconds format.
+          This must be later than the startTimeSec.
+        type: string
+      - in: String
+        name: filters
+        description: filter parameters to filter the data.
+        type: string
+      - in: Number
+        name: startTimeSec
+        description: Timestamp for the start of the data window, in UTC seconds format.
+          This must be prior to the endTimeSec.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /etp-report/v1/configs/{configId}/threat-events/details{?startTimeSec,endTimeSec,dimension,filters}:
+    get:
+      summary: Report Security Event Details
+      description: ""
+      operationId: etpreportv1configsconfigidthreateventsdetailsstarttimesecendtimesecdimensionfilters
+      parameters:
+      - in: Number
+        name: configId
+        description: ETP Configuration identifier assigned to the customer.
+        type: string
+      - in: String
+        name: dimension
+        description: Flag to group the data. If omitted, then time is the dimension.
+        type: string
+      - in: Number
+        name: endTimeSec
+        description: Timestamp for the end of the data window, in UTC seconds format.
+          This must be later than the startTimeSec.
+        type: string
+      - in: String
+        name: filters
+        description: filter parameters to filter the data.
+        type: string
+      - in: Number
+        name: startTimeSec
+        description: Timestamp for the start of the data window, in UTC seconds format.
+          This must be prior to the endTimeSec.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /etp-report/v1/configs/{configId}/threat-events/time-series{?startTimeSec,endTimeSec,dimension,filters}:
+    get:
+      summary: Report Security Event Time Series
+      description: ""
+      operationId: etpreportv1configsconfigidthreateventstimeseriesstarttimesecendtimesecdimensionfilters
+      parameters:
+      - in: Number
+        name: configId
+        description: ETP Configuration identifier assigned to the customer.
+        type: string
+      - in: String
+        name: dimension
+        description: Flag to group the data. If omitted, then time is the dimension.
+        type: string
+      - in: Number
+        name: endTimeSec
+        description: Timestamp for the end of the data window, in UTC seconds format.
+          This must be later than the startTimeSec.
+        type: string
+      - in: String
+        name: filters
+        description: filter parameters to filter the data.
+        type: string
+      - in: Number
+        name: startTimeSec
+        description: Timestamp for the start of the data window, in UTC seconds format.
+          This must be prior to the endTimeSec.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

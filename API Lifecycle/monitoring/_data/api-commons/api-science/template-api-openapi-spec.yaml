@@ -1,0 +1,78 @@
+swagger: "2.0"
+info:
+  title: Template API
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /monitors/{id}/templates:
+    get:
+      summary: Show a Monitors Templates
+      description: Show a Monitors Templates
+      operationId: showMonitorsTemplates
+      parameters:
+      - in: path
+        name: id
+        description: The id for the monitor.
+      responses:
+        200:
+          description: OK
+      tags:
+      - Templates
+  /monitors/{id}/templates/{templates]:
+    get:
+      summary: Get a Template
+      description: Get a Template
+      operationId: getTemplate
+      responses:
+        200:
+          description: OK
+      tags:
+      - Templates
+    post:
+      summary: Create a Template
+      description: Create a Template
+      operationId: createTemplate
+      parameters:
+      - in: formData
+        name: body
+        description: Raw body to be send with the request.
+      - in: formData
+        name: followRedirects
+        description: True if this call should automatically follow HTTP redirects
+          (default is False).
+      - in: formData
+        name: headers
+        description: An array of key/value pairs to send as URL parameters. These
+          will be URL encoded. If you have provided parameters as part of the base
+          URL these will be appended to those existing parameters.
+      - in: formData
+        name: method
+        description: 'The HTTP action to access the given URL. Options are: GET, POST,
+          PUTS, PATCH, DELETE.'
+      - in: formData
+        name: name
+        description: The name of the template.
+      - in: formData
+        name: preProcessScript
+        description: 'JavaScript to be executed prior to running this template. In
+          the context of a multi-step monitor, the results of the previous call are
+          available to this JavaScript context (ex: thus enabling you to extract and
+          use data or variables from previous step prior to running this step).'
+      - in: formData
+        name: url
+        description: The URL to be accessed.
+      - in: formData
+        name: validations
+        description: An array of validation objects to be run on the results of this
+          template.
+      responses:
+        200:
+          description: OK
+      tags:
+      - Templates
+definitions: []

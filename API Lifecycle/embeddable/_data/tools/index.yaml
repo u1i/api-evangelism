@@ -1,0 +1,61 @@
+- slug: highchartimageapi
+  name: highchart-image-api
+  description: API for generating custom highchart images to be embedded in emails.
+  url: 'https://github.com/kbaum/highchart-image-api'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Embeddable,Visualizations'
+- slug: apiembed
+  name: apiembed
+  description: 'Embeddable API code snippets for your website, blog or API documentation'
+  url: 'https://github.com/Mashape/apiembed'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Embeddable
+- slug: embedlyclosure
+  name: embedly-closure
+  description: Google Closure Library for Embedly
+  url: 'https://github.com/embedly/embedly-closure'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Embeddable,Closure'
+- slug: jquery-oembed-all
+  name: JQuery OEmbed All
+  description: >-
+    JQuery OEmbed All is a fork (with a lot of changes) of the jquery-oembed,
+    but instead of using oohembed or other such services it tries to embed the
+    object natively without having to use some kind of local server. This
+    project will happily use native oembed services when it can, however it also
+    use other types of embedding whenever oembed is not possible.
+  url: 'https://github.com/starfishmod/jquery-oembed-all'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/bw-github.jpg
+  tags: Embeddable
+- slug: oembed
+  name: oembed
+  description: The oEmbed Spec
+  url: 'https://github.com/iamcal/oembed'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Embeddable

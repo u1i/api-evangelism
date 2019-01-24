@@ -1,0 +1,282 @@
+swagger: "2.0"
+info:
+  title: Server API
+  description: The Server API.
+  version: 1.0.0
+host: api.newrelic.com
+basePath: /
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /v2/servers.{format}:
+    get:
+      summary: List
+      description: <p>This API endpoint returns a <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/pagination-api-output
+        target=_blank>paginated</a>list of the Servers associated with your New Relic
+        account. The time range for summary data is the last 10 minutes.</p><p>Servers
+        can be filtered by their name, hostname, or the list of server IDs.</p><p>See
+        our documentation for a discussion and examples ofusing <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/application-examples-v2/list-application-specific-server-host-instance-ids
+        target=_blank>filters</a>and <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/application-examples-v2/summary-data-examples-v2
+        target=_blank>summary data output</a>.</p>
+      operationId: list
+      parameters:
+      - in: query
+        name: filter[host]
+        description: Filter by host
+        type: string
+      - in: query
+        name: filter[ids]
+        description: Filter by server IDs
+        type: list
+      - in: query
+        name: filter[labels]
+        description: Filter by server labels (beta)
+        type: string
+      - in: query
+        name: filter[name]
+        description: Filter by name
+        type: string
+      - in: query
+        name: filter[reported]
+        description: Filter by reported in last 10 hours
+        type: boolean
+      - in: query
+        name: page
+        description: Pagination index
+        type: integer
+      responses:
+        200:
+          description: OK
+      tags:
+      - Server
+  /v2/servers/{id}.{format}:
+    delete:
+      summary: Delete
+      description: '<p>This API endpoint deletes a server and all of its reported
+        data.</p><p><strong>WARNING</strong>: Only servers that have stopped reporting
+        can be deleted. This is an irreversible process whichwill delete all reported
+        data for this server.</p>'
+      operationId: delete
+      parameters:
+      - in: path
+        name: id
+        description: Server ID
+        type: integer
+      responses:
+        200:
+          description: OK
+      tags:
+      - Server
+    get:
+      summary: Show
+      description: <p>This API endpoint returns a single Server, identified by ID.
+        The time range for summary data is the last 10 minutes.u201d</p><p>See our
+        documentation for a discussion on<a href=https://docs.newrelic.com/docs/apis/rest-api-v2/application-examples-v2/summary-data-examples-v2
+        target=_blank>summary data output</a>.</p>
+      operationId: show
+      parameters:
+      - in: path
+        name: id
+        description: Server ID
+        type: integer
+      responses:
+        200:
+          description: OK
+      tags:
+      - Server
+    put:
+      summary: Update
+      description: <p>This API endpoint allows you to rename your server.</p><p>The
+        input is expected to be in <strong>JSON or XML</strong> format in the body
+        parameter of the PUT request. The exactschema is defined below. Any extra
+        parameters passed in the body <strong>will be ignored</strong>.</p>
+      operationId: update
+      parameters:
+      - in: path
+        name: id
+        description: Server ID
+        type: integer
+      - in: body
+        name: server
+        description: New name of the server
+        schema:
+          $ref: '#/definitions/holder'
+      responses:
+        200:
+          description: OK
+      tags:
+      - Server
+  /v2/servers/{server_id}/metrics.{format}:
+    get:
+      summary: Metric Names
+      description: <p>Return a list of known metrics and their value names for the
+        given resource.</p><p>See our documentation for a discussionon <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/pagination-api-output
+        target=_blank> output pagination</a>and for examples of <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/new-relic-rest-api-v2-getting-started#examples
+        target=_blank>requesting and using metric values</a>.</p>
+      operationId: names
+      parameters:
+      - in: query
+        name: cursor
+        description: Cursor for next page (replacing page param)
+        type: string
+      - in: query
+        name: name
+        description: Filter metrics by name
+        type: string
+      - in: query
+        name: page
+        description: Pagination index (will be deprecated)
+        type: integer
+      - in: path
+        name: server_id
+        description: Server ID
+        type: integer
+      responses:
+        200:
+          description: OK
+      tags:
+      - Server
+  /v2/servers/{server_id}/metrics/data.{format}:
+    get:
+      summary: Metric Data
+      description: <p>This API endpoint returns a list of values for each of the requested
+        metrics. The list of available metricscan be returned using the Metric Name
+        API endpoint.</p><p>Metric data can be filtered by a number of parameters,
+        including multiple names and values, and by time range.Metric names and values
+        will be matched intelligently in the background.</p><p>You can also retrieve
+        a summarized data point across the entire time range selected by using the
+        summarizeparameter.</p><p>See our documentation for a discussion on <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/pagination-api-output
+        target=_blank>output pagination</a>, <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/extracting-metric-data
+        target=_blank> time range</a> related considerations, and for examples of
+        <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/new-relic-rest-api-v2-getting-started#examples
+        target=_blank>requesting and using metric values</a>.</p>
+      operationId: data
+      parameters:
+      - in: query
+        name: from
+        description: Retrieve metrics after this time
+        type: time
+      - in: query
+        name: names
+        description: Retrieve specific metrics by name
+        type: array
+      - in: query
+        name: period
+        description: Period of timeslices in seconds
+        type: integer
+      - in: query
+        name: raw
+        description: Return unformatted raw values
+        type: boolean
+      - in: path
+        name: server_id
+        description: Server ID
+        type: integer
+      - in: query
+        name: summarize
+        description: Summarize the data
+        type: boolean
+      - in: query
+        name: to
+        description: Retrieve metrics before this time
+        type: time
+      - in: query
+        name: values
+        description: Retrieve specific metric values
+        type: array
+      responses:
+        200:
+          description: OK
+      tags:
+      - Server
+definitions:
+  "":
+    properties:
+      server:
+        description: This is a default description.
+        type: GET
+      id:
+        description: This is a default description.
+        type: GET
+      account_id:
+        description: This is a default description.
+        type: GET
+      name:
+        description: This is a default description.
+        type: GET
+      host:
+        description: This is a default description.
+        type: GET
+      health_status:
+        description: This is a default description.
+        type: GET
+      reporting:
+        description: This is a default description.
+        type: GET
+      last_reported_at:
+        description: This is a default description.
+        type: GET
+      summary:
+        description: This is a default description.
+        type: GET
+      links:
+        description: This is a default description.
+        type: GET
+      cpu:
+        description: This is a default description.
+        type: GET
+      cpu_stolen:
+        description: This is a default description.
+        type: GET
+      disk_io:
+        description: This is a default description.
+        type: GET
+      memory:
+        description: This is a default description.
+        type: GET
+      memory_used:
+        description: This is a default description.
+        type: GET
+      memory_total:
+        description: This is a default description.
+        type: GET
+      fullest_disk:
+        description: This is a default description.
+        type: GET
+      fullest_disk_free:
+        description: This is a default description.
+        type: GET
+      alert_policy:
+        description: This is a default description.
+        type: GET
+      metric:
+        description: This is a default description.
+        type: GET
+      values:
+        description: This is a default description.
+        type: GET
+      metric_data:
+        description: This is a default description.
+        type: GET
+      from:
+        description: This is a default description.
+        type: GET
+      to:
+        description: This is a default description.
+        type: GET
+      metrics_not_found:
+        description: This is a default description.
+        type: GET
+      metrics_found:
+        description: This is a default description.
+        type: GET
+      metrics:
+        description: This is a default description.
+        type: GET
+      timeslices:
+        description: This is a default description.
+        type: GET

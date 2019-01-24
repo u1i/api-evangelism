@@ -1,0 +1,402 @@
+swagger: "2.0"
+info:
+  title: Cloud DNS API
+  description: Configures and serves authoritative DNS records.
+  contact:
+    name: Google
+    url: https://google.com
+  version: v1beta1
+host: www.googleapis.com
+basePath: /dns/v1/projects
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /{project}:
+    get:
+      summary: Get Projects
+      description: Fetch the representation of an existing Project.
+      operationId: dns.projects.get
+      parameters:
+      - in: path
+        name: project
+        description: Identifies the project addressed by this request.
+      responses:
+        200:
+          description: OK
+      tags:
+      - Projects
+    parameters:
+      summary: Project Parameters
+      description: ""
+      operationId: ""
+      responses:
+        200:
+          description: OK
+      tags:
+      - Projects
+  /{project}/managedZones:
+    get:
+      summary: Get Managed Zones
+      description: Enumerate ManagedZones that have been created but not yet deleted.
+      operationId: dns.managedZones.list
+      parameters:
+      - in: query
+        name: dnsName
+        description: Restricts the list to return only zones with this domain name.
+      - in: query
+        name: maxResults
+        description: Optional. Maximum number of results to be returned. If unspecified,
+          the server will decide how many results to return.
+      - in: query
+        name: pageToken
+        description: Optional. A tag returned by a previous list request that was
+          truncated. Use this parameter to continue a previous list request.
+      - in: path
+        name: project
+        description: Identifies the project addressed by this request.
+      responses:
+        200:
+          description: OK
+      tags:
+      - Zones
+    parameters:
+      summary: Managed Zones Parameters
+      description: ""
+      operationId: ""
+      responses:
+        200:
+          description: OK
+      tags:
+      - Zones
+    post:
+      summary: Add Managed Zone
+      description: Create a new ManagedZone.
+      operationId: dns.managedZones.create
+      parameters:
+      - in: body
+        name: body
+        schema:
+          $ref: '#/definitions/holder'
+      - in: path
+        name: project
+        description: Identifies the project addressed by this request.
+      responses:
+        200:
+          description: OK
+      tags:
+      - Zones
+  /{project}/managedZones/{managedZone}:
+    delete:
+      summary: Delete Managed Zone
+      description: Delete a previously created ManagedZone.
+      operationId: dns.managedZones.delete
+      parameters:
+      - in: path
+        name: managedZone
+        description: Identifies the managed zone addressed by this request. Can be
+          the managed zone name or id.
+      - in: path
+        name: project
+        description: Identifies the project addressed by this request.
+      responses:
+        200:
+          description: OK
+      tags:
+      - Zones
+    get:
+      summary: Get Managed Zone
+      description: Fetch the representation of an existing ManagedZone.
+      operationId: dns.managedZones.get
+      parameters:
+      - in: path
+        name: managedZone
+        description: Identifies the managed zone addressed by this request. Can be
+          the managed zone name or id.
+      - in: path
+        name: project
+        description: Identifies the project addressed by this request.
+      responses:
+        200:
+          description: OK
+      tags:
+      - Zones
+    parameters:
+      summary: Managed Zone Parameters
+      description: ""
+      operationId: ""
+      responses:
+        200:
+          description: OK
+      tags:
+      - Zones
+  /{project}/managedZones/{managedZone}/changes:
+    get:
+      summary: Get Managed Zone Changes
+      description: Enumerate Changes to a ResourceRecordSet collection.
+      operationId: dns.changes.list
+      parameters:
+      - in: path
+        name: managedZone
+        description: Identifies the managed zone addressed by this request. Can be
+          the managed zone name or id.
+      - in: query
+        name: maxResults
+        description: Optional. Maximum number of results to be returned. If unspecified,
+          the server will decide how many results to return.
+      - in: query
+        name: pageToken
+        description: Optional. A tag returned by a previous list request that was
+          truncated. Use this parameter to continue a previous list request.
+      - in: path
+        name: project
+        description: Identifies the project addressed by this request.
+      - in: query
+        name: sortBy
+        description: Sorting criterion. The only supported value is change sequence.
+      - in: query
+        name: sortOrder
+        description: 'Sorting order direction: ascending or descending.'
+      responses:
+        200:
+          description: OK
+      tags:
+      - Zones
+    parameters:
+      summary: Get Managed Zone Changes Parameters
+      description: ""
+      operationId: ""
+      responses:
+        200:
+          description: OK
+      tags:
+      - Zones
+    post:
+      summary: Add Managed Zone Changes
+      description: Atomically update the ResourceRecordSet collection.
+      operationId: dns.changes.create
+      parameters:
+      - in: body
+        name: body
+        schema:
+          $ref: '#/definitions/holder'
+      - in: path
+        name: managedZone
+        description: Identifies the managed zone addressed by this request. Can be
+          the managed zone name or id.
+      - in: path
+        name: project
+        description: Identifies the project addressed by this request.
+      responses:
+        200:
+          description: OK
+      tags:
+      - Zones
+  /{project}/managedZones/{managedZone}/changes/{changeId}:
+    get:
+      summary: Get Managed Zone Change
+      description: Fetch the representation of an existing Change.
+      operationId: dns.changes.get
+      parameters:
+      - in: path
+        name: changeId
+        description: The identifier of the requested change, from a previous ResourceRecordSetsChangeResponse.
+      - in: path
+        name: managedZone
+        description: Identifies the managed zone addressed by this request. Can be
+          the managed zone name or id.
+      - in: path
+        name: project
+        description: Identifies the project addressed by this request.
+      responses:
+        200:
+          description: OK
+      tags:
+      - Zones
+    parameters:
+      summary: Get Managed Zone Changes Parameters
+      description: ""
+      operationId: ""
+      responses:
+        200:
+          description: OK
+      tags:
+      - Zones
+  /{project}/managedZones/{managedZone}/rrsets:
+    get:
+      summary: Get Managed Zone Resources
+      description: Enumerate ResourceRecordSets that have been created but not yet
+        deleted.
+      operationId: dns.resourceRecordSets.list
+      parameters:
+      - in: path
+        name: managedZone
+        description: Identifies the managed zone addressed by this request. Can be
+          the managed zone name or id.
+      - in: query
+        name: maxResults
+        description: Optional. Maximum number of results to be returned. If unspecified,
+          the server will decide how many results to return.
+      - in: query
+        name: name
+        description: Restricts the list to return only records with this fully qualified
+          domain name.
+      - in: query
+        name: pageToken
+        description: Optional. A tag returned by a previous list request that was
+          truncated. Use this parameter to continue a previous list request.
+      - in: path
+        name: project
+        description: Identifies the project addressed by this request.
+      - in: query
+        name: type
+        description: Restricts the list to return only records of this type. If present,
+          the name parameter must also be present.
+      responses:
+        200:
+          description: OK
+      tags:
+      - Zones
+    parameters:
+      summary: Get Managed Zone Resources Parameters
+      description: ""
+      operationId: ""
+      responses:
+        200:
+          description: OK
+      tags:
+      - Zones
+definitions:
+  Change:
+    properties:
+      additions:
+        description: This is a default description.
+        type: parameters
+      deletions:
+        description: This is a default description.
+        type: parameters
+      id:
+        description: This is a default description.
+        type: parameters
+      kind:
+        description: This is a default description.
+        type: parameters
+      startTime:
+        description: This is a default description.
+        type: parameters
+      status:
+        description: This is a default description.
+        type: parameters
+  ChangesListResponse:
+    properties:
+      changes:
+        description: This is a default description.
+        type: parameters
+      kind:
+        description: This is a default description.
+        type: parameters
+      nextPageToken:
+        description: This is a default description.
+        type: parameters
+  ManagedZone:
+    properties:
+      creationTime:
+        description: This is a default description.
+        type: parameters
+      description:
+        description: This is a default description.
+        type: parameters
+      dnsName:
+        description: This is a default description.
+        type: parameters
+      id:
+        description: This is a default description.
+        type: parameters
+      kind:
+        description: This is a default description.
+        type: parameters
+      name:
+        description: This is a default description.
+        type: parameters
+      nameServerSet:
+        description: This is a default description.
+        type: parameters
+      nameServers:
+        description: This is a default description.
+        type: parameters
+  ManagedZonesListResponse:
+    properties:
+      kind:
+        description: This is a default description.
+        type: parameters
+      managedZones:
+        description: This is a default description.
+        type: parameters
+      nextPageToken:
+        description: This is a default description.
+        type: parameters
+  Project:
+    properties:
+      id:
+        description: This is a default description.
+        type: parameters
+      kind:
+        description: This is a default description.
+        type: parameters
+      number:
+        description: This is a default description.
+        type: parameters
+  Quota:
+    properties:
+      kind:
+        description: This is a default description.
+        type: parameters
+      managedZones:
+        description: This is a default description.
+        type: parameters
+      resourceRecordsPerRrset:
+        description: This is a default description.
+        type: parameters
+      rrsetAdditionsPerChange:
+        description: This is a default description.
+        type: parameters
+      rrsetDeletionsPerChange:
+        description: This is a default description.
+        type: parameters
+      rrsetsPerManagedZone:
+        description: This is a default description.
+        type: parameters
+      totalRrdataSizePerChange:
+        description: This is a default description.
+        type: parameters
+  ResourceRecordSet:
+    properties:
+      kind:
+        description: This is a default description.
+        type: parameters
+      name:
+        description: This is a default description.
+        type: parameters
+      rrdatas:
+        description: This is a default description.
+        type: parameters
+      ttl:
+        description: This is a default description.
+        type: parameters
+      type:
+        description: This is a default description.
+        type: parameters
+  ResourceRecordSetsListResponse:
+    properties:
+      kind:
+        description: This is a default description.
+        type: parameters
+      nextPageToken:
+        description: This is a default description.
+        type: parameters
+      rrsets:
+        description: This is a default description.
+        type: parameters

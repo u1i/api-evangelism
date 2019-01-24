@@ -1,0 +1,175 @@
+name: DataDog
+description: Datadog is a monitoring service that brings together metrics and events
+  from servers, databases, applications, tools and services to present a unified view
+  of the infrastructure. These capabilities are provided on a SaaS-based data analytics
+  platform that enables Dev and Ops teams to work collaboratively on the infrastructure
+  to avoid downtime, resolve performance problems, and ensure that development and
+  deployment cycles finish on time.
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/datadog-logo.png
+tags:
+- Monitoring
+created: "2016-10-02"
+modified: "2016-10-02"
+url: http://monitoring.apievangelist.com
+specificationVersion: "0.14"
+apis:
+- name: Check API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/datadog-logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - Monitoring
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/datadog/check-api-openapi-spec.yaml
+- name: Comments API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/datadog-logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - Monitoring
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/datadog/comments-api-openapi-spec.yaml
+- name: Dashboard API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/datadog-logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - Monitoring
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/datadog/dashboard-api-openapi-spec.yaml
+- name: Downtime API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/datadog-logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - Monitoring
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/datadog/downtime-api-openapi-spec.yaml
+- name: Events API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/datadog-logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - Monitoring
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/datadog/events-api-openapi-spec.yaml
+- name: Graph API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/datadog-logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - Monitoring
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/datadog/graph-api-openapi-spec.yaml
+- name: Host API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/datadog-logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - Monitoring
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/datadog/host-api-openapi-spec.yaml
+- name: Metrics API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/datadog-logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - Monitoring
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/datadog/metrics-api-openapi-spec.yaml
+- name: Monitor API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/datadog-logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - Monitoring
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/datadog/monitor-api-openapi-spec.yaml
+- name: Query API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/datadog-logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - Monitoring
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/datadog/query-api-openapi-spec.yaml
+- name: Screen API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/datadog-logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - Monitoring
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/datadog/screen-api-openapi-spec.yaml
+- name: Series
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/datadog-logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - Monitoring
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/datadog/series-openapi-spec.yaml
+- name: Tags API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/datadog-logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - Monitoring
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/datadog/tags-api-openapi-spec.yaml
+- name: User API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/datadog-logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - Monitoring
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/datadog/user-api-openapi-spec.yaml
+x-common:
+- type: x-blog
+  url: https://www.datadoghq.com/blog/
+- type: x-blog-rss-feed
+  url: https://www.datadoghq.com/feed/
+- type: x-github
+  url: https://github.com/datadog
+- type: x-twitter
+  url: https://twitter.com/datadoghq
+- type: x-dedicated-plans--pricing-page
+  url: https://www.datadoghq.com/pricing/
+- type: x-security-practices-page
+  url: https://www.datadoghq.com/security/
+- type: x-portal
+  url: https://www.datadoghq.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

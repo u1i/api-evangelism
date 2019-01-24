@@ -1,0 +1,745 @@
+swagger: "2.0"
+info:
+  title: Property Manager
+  description: Manage your web content on the Akamai edge network.
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /papi/v0/build:
+    get:
+      summary: Get Build Details
+      description: ""
+      operationId: papiv0build
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /papi/v0/client-settings:
+    get:
+      summary: Get Client Settings
+      description: ""
+      operationId: papiv0clientsettings
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    put:
+      summary: Update Client Settings
+      description: ""
+      operationId: papiv0clientsettings
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /papi/v0/contracts/:
+    get:
+      summary: List Contracts
+      description: ""
+      operationId: papiv0contracts
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /papi/v0/cpcodes/{?contractId,groupId}:
+    get:
+      summary: List CP Codes
+      description: ""
+      operationId: papiv0cpcodescontractidgroupid
+      parameters:
+      - in: String
+        name: contractId
+        description: Unique identifier for the contract. Remove the ctr_ prefix if
+          using the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: groupId
+        description: Unique identifier for the group. Remove the grp_ prefix if using
+          the value in other OPEN APIs.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    post:
+      summary: Create a New CP Code
+      description: ""
+      operationId: papiv0cpcodescontractidgroupid
+      parameters:
+      - in: String
+        name: contractId
+        description: Unique identifier for the contract. Remove the ctr_ prefix if
+          using the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: groupId
+        description: Unique identifier for the group. Remove the grp_ prefix if using
+          the value in other OPEN APIs.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /papi/v0/cpcodes/{cpcodeId}{?contractId,groupId}:
+    get:
+      summary: Get a CP Code
+      description: ""
+      operationId: papiv0cpcodescpcodeidcontractidgroupid
+      parameters:
+      - in: String
+        name: contractId
+        description: Unique identifier for the contract. Remove the ctr_ prefix if
+          using the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: cpcodeId
+        description: Unique identifier for the CP code. Remove the cpc_ prefix if
+          using the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: groupId
+        description: Unique identifier for the group. Remove the grp_ prefix if using
+          the value in other OPEN APIs.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /papi/v0/edgehostnames/{?contractId,groupId,options}:
+    get:
+      summary: List Edge Hostnames
+      description: ""
+      operationId: papiv0edgehostnamescontractidgroupidoptions
+      parameters:
+      - in: String
+        name: contractId
+        description: Unique identifier for the contract. Remove the ctr_ prefix if
+          using the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: groupId
+        description: Unique identifier for the group. Remove the grp_ prefix if using
+          the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: options
+        description: Comma-separated list of options to enable; mapDetails enables
+          extra mapping-related information.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    post:
+      summary: Create a New Edge Hostname
+      description: ""
+      operationId: papiv0edgehostnamescontractidgroupidoptions
+      parameters:
+      - in: String
+        name: contractId
+        description: Unique identifier for the contract. Remove the ctr_ prefix if
+          using the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: groupId
+        description: Unique identifier for the group. Remove the grp_ prefix if using
+          the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: options
+        description: Comma-separated list of options to enable; mapDetails enables
+          extra mapping-related information.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /papi/v0/edgehostnames/{edgeHostnameId}{?contractId,groupId,options}:
+    get:
+      summary: Get an Edge Hostname
+      description: ""
+      operationId: papiv0edgehostnamesedgehostnameidcontractidgroupidoptions
+      parameters:
+      - in: String
+        name: contractId
+        description: Unique identifier for the contract. Remove the ctr_ prefix if
+          using the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: edgeHostnameId
+        description: Unique identifier for the edge hostname. Remove the ehn_ prefix
+          if using the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: groupId
+        description: Unique identifier for the group. Remove the grp_ prefix if using
+          the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: options
+        description: Comma-separated list of options to enable; mapDetails enables
+          extra mapping-related information.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /papi/v0/groups/:
+    get:
+      summary: List Groups
+      description: ""
+      operationId: papiv0groups
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /papi/v0/products/{?contractId}:
+    get:
+      summary: List Products
+      description: ""
+      operationId: papiv0productscontractid
+      parameters:
+      - in: String
+        name: contractId
+        description: Unique identifier for the contract. Remove the ctr_ prefix if
+          using the value in other OPEN APIs.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /papi/v0/properties/{?contractId,groupId}:
+    get:
+      summary: List Properties
+      description: ""
+      operationId: papiv0propertiescontractidgroupid
+      parameters:
+      - in: String
+        name: contractId
+        description: Unique identifier for the contract. Remove the ctr_ prefix if
+          using the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: groupId
+        description: Unique identifier for the group. Remove the grp_ prefix if using
+          the value in other OPEN APIs.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    post:
+      summary: Create or Clone a Property
+      description: ""
+      operationId: papiv0propertiescontractidgroupid
+      parameters:
+      - in: String
+        name: contractId
+        description: Unique identifier for the contract. Remove the ctr_ prefix if
+          using the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: groupId
+        description: Unique identifier for the group. Remove the grp_ prefix if using
+          the value in other OPEN APIs.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /papi/v0/properties/{propertyId}/activations/{?contractId,groupId}:
+    get:
+      summary: List a Property&#8217;s Activations
+      description: ""
+      operationId: papiv0propertiespropertyidactivationscontractidgroupid
+      parameters:
+      - in: String
+        name: contractId
+        description: Unique identifier for the contract. Remove the ctr_ prefix if
+          using the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: groupId
+        description: Unique identifier for the group. Remove the grp_ prefix if using
+          the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: propertyId
+        description: Unique identifier for the property. Remove the prp_ prefix if
+          using the value in other OPEN APIs.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /papi/v0/properties/{propertyId}/versions/latest{?contractId,groupId,activatedOn}:
+    get:
+      summary: Get a Property&#8217;s Latest Version
+      description: ""
+      operationId: papiv0propertiespropertyidversionslatestcontractidgroupidactivatedon
+      parameters:
+      - in: String
+        name: activatedOn
+        description: If present, returns the latest version activated on the given
+          network, either STAGING or PRODUCTION.
+        type: string
+      - in: String
+        name: contractId
+        description: Unique identifier for the contract. Remove the ctr_ prefix if
+          using the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: groupId
+        description: Unique identifier for the group. Remove the grp_ prefix if using
+          the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: propertyId
+        description: Unique identifier for the property. Remove the prp_ prefix if
+          using the value in other OPEN APIs.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /papi/v0/properties/{propertyId}/versions/{?contractId,groupId}:
+    get:
+      summary: List Property Versions
+      description: ""
+      operationId: papiv0propertiespropertyidversionscontractidgroupid
+      parameters:
+      - in: String
+        name: contractId
+        description: Unique identifier for the contract. Remove the ctr_ prefix if
+          using the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: groupId
+        description: Unique identifier for the group. Remove the grp_ prefix if using
+          the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: propertyId
+        description: Unique identifier for the property. Remove the prp_ prefix if
+          using the value in other OPEN APIs.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /papi/v0/properties/{propertyId}/versions/{propertyVersion}/available-criteria{?contractId,groupId}:
+    get:
+      summary: List Available Criteria
+      description: ""
+      operationId: papiv0propertiespropertyidversionspropertyversionavailablecriteriacontractidgroupid
+      parameters:
+      - in: String
+        name: contractId
+        description: Unique identifier for the contract. Remove the ctr_ prefix if
+          using the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: groupId
+        description: Unique identifier for the group. Remove the grp_ prefix if using
+          the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: propertyId
+        description: Unique identifier for the property. Remove the prp_ prefix if
+          using the value in other OPEN APIs.
+        type: string
+      - in: Number
+        name: propertyVersion
+        description: Property&#8217;s incremental version number.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /papi/v0/properties/{propertyId}/versions/{propertyVersion}/hostnames/{?contractId,groupId}:
+    get:
+      summary: List a Property Version&#8217;s Hostnames
+      description: ""
+      operationId: papiv0propertiespropertyidversionspropertyversionhostnamescontractidgroupid
+      parameters:
+      - in: String
+        name: contractId
+        description: Unique identifier for the contract. Remove the ctr_ prefix if
+          using the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: groupId
+        description: Unique identifier for the group. Remove the grp_ prefix if using
+          the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: propertyId
+        description: Unique identifier for the property. Remove the prp_ prefix if
+          using the value in other OPEN APIs.
+        type: string
+      - in: Number
+        name: propertyVersion
+        description: Property&#8217;s incremental version number.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /papi/v0/properties/{propertyId}/versions/{propertyVersion}/rules/{?contractId,groupId}:
+    get:
+      summary: Get a Property Version&#8217;s Rule Tree
+      description: ""
+      operationId: papiv0propertiespropertyidversionspropertyversionrulescontractidgroupid
+      parameters:
+      - in: String
+        name: contractId
+        description: Unique identifier for the contract. Remove the ctr_ prefix if
+          using the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: groupId
+        description: Unique identifier for the group. Remove the grp_ prefix if using
+          the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: propertyId
+        description: Unique identifier for the property. Remove the prp_ prefix if
+          using the value in other OPEN APIs.
+        type: string
+      - in: Number
+        name: propertyVersion
+        description: Property&#8217;s incremental version number.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    head:
+      summary: Get a Rule Tree&#8217;s Digest
+      description: ""
+      operationId: papiv0propertiespropertyidversionspropertyversionrulescontractidgroupid
+      parameters:
+      - in: String
+        name: contractId
+        description: Unique identifier for the contract. Remove the ctr_ prefix if
+          using the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: groupId
+        description: Unique identifier for the group. Remove the grp_ prefix if using
+          the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: propertyId
+        description: Unique identifier for the property. Remove the prp_ prefix if
+          using the value in other OPEN APIs.
+        type: string
+      - in: Number
+        name: propertyVersion
+        description: Property&#8217;s incremental version number.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    put:
+      summary: Update a Property Version&#8217;s Rule Tree
+      description: ""
+      operationId: papiv0propertiespropertyidversionspropertyversionrulescontractidgroupid
+      parameters:
+      - in: String
+        name: contractId
+        description: Unique identifier for the contract. Remove the ctr_ prefix if
+          using the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: groupId
+        description: Unique identifier for the group. Remove the grp_ prefix if using
+          the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: propertyId
+        description: Unique identifier for the property. Remove the prp_ prefix if
+          using the value in other OPEN APIs.
+        type: string
+      - in: Number
+        name: propertyVersion
+        description: Property&#8217;s incremental version number.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /papi/v0/properties/{propertyId}{?contractId,groupId}:
+    get:
+      summary: Get a Property
+      description: ""
+      operationId: papiv0propertiespropertyidcontractidgroupid
+      parameters:
+      - in: String
+        name: contractId
+        description: Unique identifier for the contract. Remove the ctr_ prefix if
+          using the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: groupId
+        description: Unique identifier for the group. Remove the grp_ prefix if using
+          the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: propertyId
+        description: Unique identifier for the property. Remove the prp_ prefix if
+          using the value in other OPEN APIs.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /papi/v0/rule-formats:
+    get:
+      summary: List Available Rule Formats
+      description: ""
+      operationId: papiv0ruleformats
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /papi/v0/schemas/products/{productId}/{ruleFormat}:
+    get:
+      summary: Get a Rule Format&#8217;s JSON Schema
+      description: ""
+      operationId: papiv0schemasproductsproductidruleformat
+      parameters:
+      - in: String
+        name: productId
+        description: Unique identifier for the product. Remove the prd_ prefix if
+          using the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: ruleFormat
+        description: Name of the rule format, either one frozen to a specific date,
+          or representing the latest set of behaviors and criteria.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /papi/v0/schemas/request/{filename}:
+    get:
+      summary: Get a Request&#8217;s JSON Schema
+      description: ""
+      operationId: papiv0schemasrequestfilename
+      parameters:
+      - in: String
+        name: filename
+        description: Schema&#8217;s filename.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  'Accept: text/xml':
+    get:
+      summary: Get a Property Version
+      description: ""
+      operationId: accept-textxml
+      parameters:
+      - in: String
+        name: contractId
+        description: Unique identifier for the contract. Remove the ctr_ prefix if
+          using the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: groupId
+        description: Unique identifier for the group. Remove the grp_ prefix if using
+          the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: propertyId
+        description: Unique identifier for the property. Remove the prp_ prefix if
+          using the value in other OPEN APIs.
+        type: string
+      - in: Number
+        name: propertyVersion
+        description: Property&#8217;s incremental version number.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  cnameFrom:
+    put:
+      summary: Update a Property Version&#8217;s Hostnames
+      description: ""
+      operationId: cnamefrom
+      parameters:
+      - in: String
+        name: contractId
+        description: Unique identifier for the contract. Remove the ctr_ prefix if
+          using the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: groupId
+        description: Unique identifier for the group. Remove the grp_ prefix if using
+          the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: propertyId
+        description: Unique identifier for the property. Remove the prp_ prefix if
+          using the value in other OPEN APIs.
+        type: string
+      - in: Number
+        name: propertyVersion
+        description: Property&#8217;s incremental version number.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  createFromVersion:
+    post:
+      summary: Create a New Property Version
+      description: ""
+      operationId: createfromversion
+      parameters:
+      - in: String
+        name: contractId
+        description: Unique identifier for the contract. Remove the ctr_ prefix if
+          using the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: groupId
+        description: Unique identifier for the group. Remove the grp_ prefix if using
+          the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: propertyId
+        description: Unique identifier for the property. Remove the prp_ prefix if
+          using the value in other OPEN APIs.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  Retry-After:
+    get:
+      summary: Get an Activation
+      description: ""
+      operationId: retryafter
+      parameters:
+      - in: String
+        name: activationId
+        description: Unique identifier for the activation. Remove the atv_ prefix
+          if using the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: contractId
+        description: Unique identifier for the contract. Remove the ctr_ prefix if
+          using the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: groupId
+        description: Unique identifier for the group. Remove the grp_ prefix if using
+          the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: propertyId
+        description: Unique identifier for the property. Remove the prp_ prefix if
+          using the value in other OPEN APIs.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  status:
+    delete:
+      summary: Cancel a Pending Activation
+      description: ""
+      operationId: status
+      parameters:
+      - in: String
+        name: activationId
+        description: Unique identifier for the activation. Remove the atv_ prefix
+          if using the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: contractId
+        description: Unique identifier for the contract. Remove the ctr_ prefix if
+          using the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: groupId
+        description: Unique identifier for the group. Remove the grp_ prefix if using
+          the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: propertyId
+        description: Unique identifier for the property. Remove the prp_ prefix if
+          using the value in other OPEN APIs.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  '{&quot;type&quot;:&quot;/papi/v0/activation-warnings-not-acknowledged&quot;}':
+    post:
+      summary: Create a New Activation
+      description: ""
+      operationId: quottypequotquotpapiv0activationwarningsnotacknowledgedquot
+      parameters:
+      - in: String
+        name: contractId
+        description: Unique identifier for the contract. Remove the ctr_ prefix if
+          using the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: groupId
+        description: Unique identifier for the group. Remove the grp_ prefix if using
+          the value in other OPEN APIs.
+        type: string
+      - in: String
+        name: propertyId
+        description: Unique identifier for the property. Remove the prp_ prefix if
+          using the value in other OPEN APIs.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

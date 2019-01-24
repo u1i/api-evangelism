@@ -1,0 +1,72 @@
+name: Uptrends
+description: Uptrends is all about Cloud-based website performance and network monitoring.
+  We are proud to say that we have become a trusted standard in network and website
+  performance monitoring since our founding in 2007. We are developers at heart and
+  our highly skilled professionals are dedicated to helping you to get the most out
+  of our monitoring services.
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/uptrends-monitoring-logo.png
+tags:
+- Monitoring
+created: "2016-10-02"
+modified: "2016-10-02"
+url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/uptrends/apis.yaml
+specificationVersion: "0.14"
+apis:
+- name: Checkpoint Server API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/uptrends-monitoring-logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - Monitoring
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/uptrends/checkpoint-server-api-openapi-spec.yaml
+- name: Probe API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/uptrends-monitoring-logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - Monitoring
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/uptrends/probe-api-openapi-spec.yaml
+- name: Probe Group API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/uptrends-monitoring-logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - Monitoring
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/uptrends/probe-group-api-openapi-spec.yaml
+- name: Uptrends Complete API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/uptrends-monitoring-logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - Monitoring
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/uptrends/uptrends-complete-api-openapi-spec.yaml
+x-common:
+- type: x-blog
+  url: https://blog.uptrends.com
+- type: x-blog-rss-feed
+  url: https://blog.uptrends.com/feed/
+- type: x-github
+  url: https://github.com/Uptrends
+- type: x-twitter
+  url: https://twitter.com/UptrendsMonitor
+- type: x-dedicated-plans--pricing-page
+  url: https://www.uptrends.com/pricing
+- type: x-portal
+  url: https://www.uptrends.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

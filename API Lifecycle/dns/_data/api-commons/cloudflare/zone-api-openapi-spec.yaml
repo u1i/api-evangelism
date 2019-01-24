@@ -1,0 +1,162 @@
+swagger: "2.0"
+info:
+  title: Zone API
+  description: The API for managing CloudFlare Zone
+  termsOfService: https://www.cloudflare.com/terms/
+  version: 1.0.0
+host: api.cloudflare.com
+basePath: /client/v4
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /zones:
+    get:
+      summary: List, search, sort, and filter your zones
+      description: List, search, sort, and filter your zones
+      operationId: cloudflare-zone-api
+      parameters:
+      - in: query
+        name: direction
+        description: Direction to order zonesttttttttttttttdesc
+      - in: query
+        name: match
+        description: Whether to match all search requirements or at least one (any)ttttttttttttttall
+      - in: query
+        name: name
+        description: A domain namettttttttttttttexample.com
+      - in: query
+        name: order
+        description: Field to order zones byttttttttttttttstatus
+      - in: query
+        name: page
+        description: Page number of paginated resultstttttttttttttt1
+      - in: query
+        name: per_page
+        description: Number of zones per pagetttttttttttttt20
+      - in: query
+        name: status
+        description: Status of the zonettttttttttttttactive
+      - in: header
+        name: X-AUTH-EMAIL
+        description: Email address associated with your account
+      - in: header
+        name: X-AUTH-KEY
+        description: API key generated on the My Account page
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    post:
+      summary: The domain name
+      description: The domain name
+      operationId: cloudflare-zone-api
+      parameters:
+      - in: query
+        name: name
+        description: The domain namettttttttttttttexample.com
+      - in: header
+        name: X-AUTH-EMAIL
+        description: Email address associated with your account
+      - in: header
+        name: X-AUTH-KEY
+        description: API key generated on the My Account page
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /zones/:identifier:
+    delete:
+      summary: Delete an existing zone
+      description: Delete an existing zone
+      operationId: cloudflare-zone-api
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    get:
+      summary: 'Zone details permission needed: #zone:read'
+      description: ' Zone details permission needed: #zone:readntt  '
+      operationId: cloudflare-zone-api
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    patch:
+      summary: Only one zone property can be changed at a time
+      description: Only one zone property can be changed at a time
+      operationId: cloudflare-zone-api
+      parameters:
+      - in: query
+        name: paused
+        description: Indicates if the zone is only using CloudFlare DNS services.
+          A true value means the zone will not receive security or performance benefits.ttttttttttttttfalse
+      - in: query
+        name: plan
+        description: The desired plan for the zone. Changing this value will create/cancel
+          associated subscriptions. To view available plans for this zone, see Zone
+          Planstttttttttttttt{id:e592fd9519420ba7405e1307bff33214}ttttttttttttttttttttttttttttShow
+          definition &raquo;ttttttttttttttttttttttttttttttttttName /typettttttttttDescription
+          /examplettttttttttConstraintstttttttttttttttttttttttttttttttttttttttttttttttttttidttttttttttttstring
+      - in: query
+        name: vanity_name_servers
+        description: An array of domains used for custom name servers. This is only
+          available for Business and Enterprise plans.tttttttttttttt[ns1.example.com,ns2.example.com]
+      - in: header
+        name: X-AUTH-EMAIL
+        description: Email address associated with your account
+      - in: header
+        name: X-AUTH-KEY
+        description: API key generated on the My Account page
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /zones/:identifier/activation_check:
+    put:
+      summary: 'Initiate another zone activation check permission needed: #zone:edit'
+      description: ' Initiate another zone activation check permission needed: #zone:editntt  '
+      operationId: cloudflare-zone-api
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /zones/:identifier/purge_cache:
+    delete:
+      summary: Remove ALL files from CloudFlare&#39;s cache
+      description: Remove ALL files from CloudFlare&#39;s cache
+      operationId: cloudflare-zone-api
+      parameters:
+      - in: query
+        name: files
+        description: An array of URLs that should be removed from cachetttttttttttttt[http://www.example.com/css/styles.css]
+      - in: query
+        name: purge_everything
+        description: 'A flag that indicates all resources in CloudFlares cache should
+          be removed. Note: This may have dramatic affects on your origin server load
+          after performing this action.tttttttttttttttrue'
+      - in: query
+        name: tags
+        description: Any assets served with a Cache-Tag header that matches one of
+          the provided values will be purged from the CloudFlare cachetttttttttttttt[some-tag,another-tag]
+      - in: header
+        name: X-AUTH-EMAIL
+        description: Email address associated with your account
+      - in: header
+        name: X-AUTH-KEY
+        description: API key generated on the My Account page
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

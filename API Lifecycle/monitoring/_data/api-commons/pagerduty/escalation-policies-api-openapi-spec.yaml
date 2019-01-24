@@ -1,0 +1,132 @@
+swagger: "2.0"
+info:
+  title: Escalation Policies API
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /escalation_policies:
+    get:
+      summary: List escalation policies
+      description: List all of the existing escalation policies.
+      operationId: list-all-of-the-existing-escalation-policies
+      parameters:
+      - in: query
+        name: No Name
+      - in: query
+        name: query
+        description: Filters the results, showing only the escalation policies whose
+          names contain the query.
+      - in: query
+        name: user_ids[]
+        description: Filters the results, showing only escalation policies on which
+          any of the users is a target.
+      responses:
+        200:
+          description: OK
+      tags:
+      - Escalation Policies
+    post:
+      summary: Create an escalation policy
+      description: Creates a new escalation policy. There must be at least one existing
+        escalation rule added to create a new escalation policy.
+      operationId: creates-a-new-escalation-policy-there-must-be-at-least-one-existing-escalation-rule-added-to-create-
+      parameters:
+      - in: body
+        name: escalation_policy
+        description: The escalation policy to be created.
+        schema:
+          $ref: '#/definitions/holder'
+      - in: query
+        name: No Name
+      responses:
+        200:
+          description: OK
+      tags:
+      - Escalation Policies
+    x-description:
+      summary: L
+      description: L
+      operationId: L
+      responses:
+        200:
+          description: OK
+      tags:
+      - Escalation Policies
+  /escalation_policies/{id}:
+    delete:
+      summary: Delete an escalation policy
+      description: Deletes an existing escalation policy and rules. The escalation
+        policy must not be in use by any services.
+      operationId: deletes-an-existing-escalation-policy-and-rules-the-escalation-policy-must-not-be-in-use-by-any-serv
+      parameters:
+      - in: query
+        name: No Name
+      responses:
+        200:
+          description: OK
+      tags:
+      - Escalation Policies
+    get:
+      summary: Get an escalation policy
+      description: Get information about an existing escalation policy and its rules.
+      operationId: get-information-about-an-existing-escalation-policy-and-its-rules
+      parameters:
+      - in: query
+        name: No Name
+      responses:
+        200:
+          description: OK
+      tags:
+      - Escalation Policies
+    put:
+      summary: Update an escalation policy
+      description: Updates an existing escalation policy and rules.
+      operationId: updates-an-existing-escalation-policy-and-rules
+      parameters:
+      - in: body
+        name: escalation_policy
+        description: The escalation policy to be updated.
+        schema:
+          $ref: '#/definitions/holder'
+      - in: query
+        name: No Name
+      responses:
+        200:
+          description: OK
+      tags:
+      - Escalation Policies
+    x-description:
+      summary: M
+      description: M
+      operationId: M
+      responses:
+        200:
+          description: OK
+      tags:
+      - Escalation Policies
+  /escalation_policies/{id}/escalation_rules:
+    x-description:
+      summary: L
+      description: L
+      operationId: L
+      responses:
+        200:
+          description: OK
+      tags:
+      - Escalation Policies
+  /escalation_policies/{id}/escalation_rules/{escalation_rule_id}:
+    x-description:
+      summary: M
+      description: M
+      operationId: M
+      responses:
+        200:
+          description: OK
+      tags:
+      - Escalation Policies
+definitions: []

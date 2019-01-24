@@ -1,0 +1,86 @@
+swagger: "2.0"
+info:
+  title: Dashboards API
+  description: The Dashboards API.
+  version: 1.0.0
+host: api.serverdensity.io.
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /users/dashboards/dashboardId:
+    "":
+      summary: Deleting a dashboard
+      description: ""
+      operationId: deleting-a-dashboard
+      parameters:
+      - in: path
+        name: dashboardId
+        description: ID of the dashboard to delete
+        type: string
+      - in: path
+        name: layout
+        description: 'Dictionary with the ids of the widgets from this dashboard as
+          keys. The values are objects with 3 values: col (column), row (row), size_x
+          (size in the x axis, from 1 to 6)'
+        type: string
+      - in: body
+        name: layout
+        description: 'Dictionary with the ids of the widgets from this dashboard as
+          keys. The values are objects with 3 values: col (column), row (row), size_x
+          (size in the x axis, from 1 to 6)'
+        schema:
+          $ref: '#/definitions/holder'
+      - in: path
+        name: name
+        description: Name of the dashboard.
+        type: string
+      - in: body
+        name: name
+        description: Name of the dashboard.
+        schema:
+          $ref: '#/definitions/holder'
+      - in: path
+        name: token
+        description: Your API token
+        type: string
+      - in: body
+        name: token
+        description: Your API token
+        schema:
+          $ref: '#/definitions/holder'
+      responses:
+        200:
+          description: OK
+      tags:
+      - Dashboards
+  /users/dashboards/duplicate/dasboardId:
+    "":
+      summary: Duplicating a dashboard
+      description: ""
+      operationId: duplicating-a-dashboard
+      parameters:
+      - in: body
+        name: dashboardId
+        description: ID of the dashboard to duplicate
+        schema:
+          $ref: '#/definitions/holder'
+      - in: body
+        name: new_name
+        description: Name of the new, duplicated dashboard
+        schema:
+          $ref: '#/definitions/holder'
+      - in: body
+        name: token
+        description: Your API token
+        schema:
+          $ref: '#/definitions/holder'
+      responses:
+        200:
+          description: OK
+      tags:
+      - Dashboards
+definitions: []

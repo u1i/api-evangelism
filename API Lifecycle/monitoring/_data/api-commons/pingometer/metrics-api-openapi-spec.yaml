@@ -1,0 +1,122 @@
+swagger: "2.0"
+info:
+  title: Metrics API
+  description: The Metrics API.
+  version: 1.0.0
+host: api.truesight.bmc.com
+basePath: /
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /metrics:
+    get:
+      summary: Get list of active metrics
+      description: '          Get the list of actively reporting metrics from a given
+        time until now. This endpoint is not available in the Python and Ruby libraries.        '
+      operationId: get-list-of-active-metrics
+      parameters:
+      - type: string
+      - in: query
+        name: '[[POSIX_timestamp, numeric_value], ...]'
+        description: 'n              n              Note that the timestamp should
+          be in seconds, must be current, and the numeric value is a 32bit float gauge-type
+          value.n            n          '
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /v1/metrics:
+    get:
+      summary: Get Metrics
+      description: Retrieves the list of metrics in a project.
+      operationId: get-metrics
+      responses:
+        200:
+          description: OK
+      tags:
+      - Metrics
+    post:
+      summary: Create metric
+      description: Creates a new metric
+      operationId: create-metric
+      parameters:
+      - in: formData
+        name: namenName of the metric, must be globally unique, recommended that you
+          add your own namespace
+        description: typenType of metric, could be a device metric, a plugin metric
+          or any arbitrary type
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Metrics
+  /v1/metrics/:metric:
+    delete:
+      summary: Remove metric
+      description: ' Removes a metric from the account. Note that a metric will not
+        deleted if it has been alarmed unless that <em>removeAlarms</em> flag is added.'
+      operationId: remove-metric
+      responses:
+        200:
+          description: OK
+      tags:
+      - Metrics
+  /v1/metrics/:metricName:
+    put:
+      summary: Update metric
+      description: Updates a metric
+      operationId: update-metric
+      parameters:
+      - in: formData
+        name: typenType of metric, could be a device metric, a plugin metric or any
+          arbitrary type
+        description: descriptionnDescription of the metric
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Metrics
+  /v1/metrics/dashactions/:dashboardSetId:
+    get:
+      summary: Get actions for a dashboard
+      description: ' Retrieves the needed configuration changes for a dashboard Returns
+        an an array of objects, each has the following properties:'
+      operationId: get-actions-for-a-dashboard
+      responses:
+        200:
+          description: OK
+      tags:
+      - Metrics
+    post:
+      summary: Perform dashboard actions
+      description: ' Performs necessary actions for a dashboard. Only enables or adds
+        metrics at this time.'
+      operationId: perform-dashboard-actions
+      responses:
+        200:
+          description: OK
+      tags:
+      - Metrics
+  /v1/mobile-devices/:userDeviceId:
+    delete:
+      summary: Delete Mobile Device
+      description: Deletes a device from a user
+      operationId: delete-mobile-device
+      parameters:
+      - in: query
+        name: userDeviceIdnThe user device ID to delete
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Metrics
+definitions: []

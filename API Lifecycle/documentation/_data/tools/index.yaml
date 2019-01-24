@@ -1,0 +1,504 @@
+- slug: dockeraglio
+  name: docker-aglio
+  description: >-
+    (API Blueprint) Dockerfile for running Aglio -
+    https://github.com/danielgtaylor/aglio
+  url: 'https://github.com/davidonlaptop/docker-aglio/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Docker,Containers,Documentation,API Blueprint'
+- slug: doca
+  name: doca
+  description: A CLI tool that scaffolds API documentation based on JSON HyperSchemas.
+  url: 'https://github.com/cloudflare/doca'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Documentation
+- slug: dropwizardswagger
+  name: dropwizard-swagger
+  description: >-
+    a Dropwizard bundle that serves Swagger UI static content and loads Swagger
+    endpoints.
+  url: 'https://github.com/federecio/dropwizard-swagger/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Swagger Github Search,Swagger,Documentation,DropWizard'
+- slug: drupal_swaggerui
+  name: Drupal_SwaggerUI
+  description: A Drupal 7 custom module that embeds Swagger UI
+  url: 'https://github.com/tpanagos/Drupal_SwaggerUI/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Swagger Github Search,Drupal,Documentation,Swagger'
+- slug: grailsswagger
+  name: grails-swagger
+  description: A Grails 2.3+ plugin to generate REST API documentation for your endpoints
+  url: 'https://github.com/alvarosanchez/grails-swagger/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Swagger Github Search,Documentation,Grails,Swagger'
+- slug: jekyllswaggerui
+  name: jekyll-swagger-ui
+  description: A Jekyll plugin to integrate Swagger UI into Jekyll site
+  url: 'https://github.com/aleung/jekyll-swagger-ui/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Documentation,Jekyll,Swagger'
+- slug: apitectogem
+  name: apitecto-gem
+  description: A Ruby library for generating REST Api documentation using API Blueprint
+  url: 'https://github.com/vovimayhem/apitecto-gem/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Ruby,API Blueprint,Documentation'
+- slug: raml-to-html
+  name: RAML to HTML
+  description: >-
+    A simple RAML to HTML documentation generator written for Node.js.&nbsp;RAML
+    to HTML gets a RAML file and outputs the API documentation on a single HTML
+    page.
+  url: 'https://github.com/kevinrenskers/raml2html'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/raml-logo.jpg
+  tags: Documentation
+- slug: feathersswagger
+  name: feathers-swagger
+  description: Add documentation to your Featherjs services and feed them to Swagger UI.
+  url: 'https://github.com/Glavin001/feathers-swagger/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Swagger Github Search,Documentation,Swagger,Feather.js'
+- slug: grapeswagger
+  name: grape-swagger
+  description: Add OAPI/swagger v2.0 compliant documentation to your grape API
+  url: 'https://github.com/ruby-grape/grape-swagger'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'OpenAPI Spec,Documentation'
+- slug: aglio
+  name: Aglio
+  description: >-
+    An&nbsp;API Blueprint&nbsp;renderer that supports multiple themes and
+    outputs static HTML that can be served by any web host. API Blueprint is a
+    Markdown-based document format that lets you write API descriptions and
+    documentation in a simple and straightforward way.
+  url: 'https://github.com/danielgtaylor/aglio'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/aglio-logo.png
+  tags: 'Documentation,Documentation,API Blueprint'
+- slug: api-changelog
+  name: API Changelog
+  description: >-
+    API Changelog monitors the docs of APIs you depend on and sends you
+    notifications when they change. API Changelog is brought to you by Runscope.
+    Solve API errors fast. Debug, test and share your API calls.&nbsp;
+  url: 'https://www.apichangelog.com/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/api-changelog-logo.png
+  tags: Documentation
+- slug: raml-api-console
+  name: RAML API Console
+  description: >-
+    API Console is a graphical user interface for a RAML-defined API that
+    visually exposes the API&rsquo;s structure and important patterns and serves
+    as interactive API documentation. It is provided under the open-source CPAL
+    license.
+  url: 'https://github.com/mulesoft/api-console'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/raml-logo.jpg
+  tags: Documentation
+- slug: devdocs
+  name: devdocs
+  description: API Documentation Browser
+  url: 'https://github.com/Thibaut/devdocs'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Documentation
+- slug: apidocswagger
+  name: apidoc-swagger
+  description: >-
+    apidoc and swagger are two nice projects which are focusing on documentation
+    of APIs. This project is a middle tier which tries to bring them together in
+    a sense that it uses apidoc to convert inline documentation to json schema
+    and later convert it to swagger json schmea.
+  url: 'https://github.com/fsbahman/apidoc-swagger/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Swagger Github Search,Documentation,Swagger,OAI 2'
+- slug: blueprintdocify
+  name: blueprint-docify
+  description: Autogenerate API blueprint documentation with CI for Github pages access
+  url: 'https://github.com/tipfortip/blueprint-docify/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Documentation,API Blueprint,Command Line'
+- slug: expressswaggerdoc
+  name: express-swagger-doc
+  description: Autogenerate express doc from coffeescript in Swagger format
+  url: 'https://github.com/falsecz/express-swagger-doc/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'CoffeeScript,Documentation,Node.js,Express,Swagger'
+- slug: carte
+  name: Carte
+  description: >-
+    Carte is a simple Jekyll based documentation website for APIs. It is
+    designed as a boilerplate to build your own documentation and is heavily
+    inspired from Swagger and I/O docs. Fork it, add specifications for your
+    APIs calls and customize the theme. Go ahead, see if we care.
+  url: 'https://github.com/devo-ps/carte'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Carte-Logo.png
+  tags: 'Documentation,Interactive Documentation,Swagger'
+- slug: blueprintconverter
+  name: blueprint-converter
+  description: Converter from RestDoc to API Blueprint
+  url: 'https://github.com/RestDoc/blueprint-converter/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'API Blueprint,Conversion,Documentation'
+- slug: docabootstraptheme
+  name: doca-bootstrap-theme
+  description: Doca theme using Twitter Bootstrap
+  url: 'https://github.com/cloudflare/doca-bootstrap-theme'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Documentation,Portal'
+- slug: docbox
+  name: docbox
+  description: >-
+    Docbox is an open source version of&nbsp;Mapbox's REST API documentation
+    system.&nbsp;It takes structured Markdown files and generates a friendly
+    two-column layout with navigation, permalinks, and examples. The
+    documentation source files that Docbox uses are friendly for documentation
+    authors and free of presentational code: it's Markdown.
+  url: 'https://github.com/mapbox/docbox'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Documentation
+- slug: agendorapidocs
+  name: agendor-api-docs
+  description: Documentation in API Blueprint format for Agendor-API
+  url: 'https://github.com/agendor/agendor-api-docs/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'API Blueprint,Documentation'
+- slug: hapiswaggeredui
+  name: hapi-swaggered-ui
+  description: Easy swagger-ui drop-in plugin for hapi to be used with hapi-swaggered.
+  url: 'https://github.com/z0mt3c/hapi-swaggered-ui/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Swagger Github Search,Swagger,HAPI,Documentation'
+- slug: flair
+  name: flair
+  description: Express module for generating swagger-format API docs
+  url: 'https://github.com/nomiddlename/flair/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Documentation,Express,Swagger'
+- slug: hiro
+  name: hiro
+  description: Generate HTML from API Blueprints using Snow Crash and Iglo.
+  url: 'https://github.com/peterhellberg/hiro/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Documentation,API Blueprint,Generator'
+- slug: docbuilder
+  name: doc-builder
+  description: >-
+    Generates Swagger documentation for a RESTful service by analyzing the HTTP
+    request and response
+  url: 'https://github.com/cloud-elements/doc-builder/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Documentation,Swagger'
+- slug: flaskrestplus
+  name: flask-restplus
+  description: 'Helpers, syntaxic sugar and Swagger documentation for Flask-Restful'
+  url: 'https://github.com/noirbizarre/flask-restplus/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Swagger Github Search,FlaskRestful,Swagger,Documentation,OAI'
+- slug: grapeswaggerui
+  name: grape-swagger-ui
+  description: Integrates swagger-ui with rails asset pipeline
+  url: 'https://github.com/kendrikat/grape-swagger-ui/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Swagger Github Search,Swagger,Documentation,Grape,OAI 2'
+- slug: lucyconsole
+  name: lucy-console
+  description: Interactive REST API Documentation
+  url: 'https://github.com/lucybot/lucy-console'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Documentation
+- slug: apidoctemplate
+  name: api-doc-template
+  description: >-
+    mustache templates, used to generate RESTful API Document with the help of
+    Swagger
+  url: 'https://github.com/kongchen/api-doc-template/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Swagger Github Search,Documentation,Swagger,OAI 2'
+- slug: apiblueprintgeneratorexpress
+  name: api-blueprint-generator-express
+  description: Never write documentation anymore! API blueprint generator for node.js.
+  url: 'https://github.com/jellea/api-blueprint-generator-express/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Node.js,API Blueprint,Express,Documentation'
+- slug: puppetswagger
+  name: puppet-swagger
+  description: Puppet module for Swagger UI
+  url: 'https://github.com/meltwater/puppet-swagger/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Swagger Github Search,Puppet,Swagger,Documentation'
+- slug: restapidocs
+  name: rest-api-docs
+  description: QuickBlox REST API Docs (Swagger)
+  url: 'https://github.com/QuickBlox/rest-api-docs/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Documentation,Swagger'
+- slug: enki
+  name: enki
+  description: Renders API Blueprint docs and uploads them to Confluence
+  url: 'https://github.com/vrinek/enki/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'API Blueprint,Documentation,Confluence'
+- slug: godoc2md
+  name: godoc2md
+  description: Simple translation from godoc to markdown.
+  url: 'https://github.com/goadesign/godoc2md'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Documentation
+- slug: djangorestswagger
+  name: django-rest-swagger
+  description: Swagger Documentation Generator for Django REST Framework
+  url: 'https://github.com/marcgibbons/django-rest-swagger/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Swagger Github Search,Django,Swagger,Documentation,OAI'
+- slug: jerseyswagger
+  name: JerseySwagger
+  description: Test using Jersey for REST api + documentation of the API using swagger-ui
+  url: 'https://github.com/salvitas/JerseySwagger/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Jersey,Documentation,Swagger'
+- slug: dnsimpledeveloper
+  name: dnsimple-developer
+  description: The DNSimple API Documentation.
+  url: 'https://github.com/dnsimple/dnsimple-developer'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Documentation
+- slug: redoc
+  name: ReDoc
+  description: OpenAPI/Swagger-generated API Reference Documentation
+  url: 'https://github.com/Rebilly/ReDoc'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Documentation,OpenAPI'
+- slug: jaxrs2.0swagger
+  name: jax-rs-2.0-swagger
+  description: Using Swagger for REST API documentation
+  url: 'https://github.com/reta/jax-rs-2.0-swagger/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Swagger Github Search,Documentation,JAX RS,Swagger,OAI 2'
+- slug: hapiswaggered
+  name: hapi-swaggered
+  description: >-
+    Yet another hapi plugin providing swagger compliant API specifications based
+    on routes and joi schemas to be used with swagger-ui.
+  url: 'https://github.com/z0mt3c/hapi-swaggered/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Swagger Github Search,Swagger,HAPI,Documentation'
+- slug: dexy
+  name: dexy
+  description: ''
+  url: 'https://github.com/dexy/dexy'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Documentation

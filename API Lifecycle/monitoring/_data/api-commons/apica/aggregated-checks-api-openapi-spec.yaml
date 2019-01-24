@@ -1,0 +1,45 @@
+swagger: "2.0"
+info:
+  title: Aggregated Checks API
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  '/checks/aggregated?fromUtc={fromUtc}&amp;toUtc={toUtc}&amp;detail_level={detail_level}&amp;scope={scope} ':
+    ' get ':
+      summary: Checks Aggregated?fromUtc={fromUtc}&amp;toUtc={toUtc}&amp;detail_level={detail_level}&amp;scope={scope}
+      description: ttttFor all user visible checks - gets aggregated data and SLA
+        between two dates.ttt
+      operationId: -checks-aggregatedfromutcfromutcamptoutctoutcampdetail-leveldetail-levelampscopescope-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Aggregated
+  '/checks/aggregated?mostrecent={mostrecent}&amp;detail_level={detail_level}&amp;scope={scope} ':
+    ' get ':
+      summary: Checks Aggregated?mostrecent={mostrecent}&amp;detail_level={detail_level}&amp;scope={scope}
+      description: ttttFor all user visible checks - gets aggregated data and SLA
+        for the most recent periods in a scope.ttt
+      operationId: -checks-aggregatedmostrecentmostrecentampdetail-leveldetail-levelampscopescope-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Aggregated
+  '/checks/{checkId}/aggregated?mostrecent={mostrecent}&amp;detail_level={detail_level}&amp;scope={scope} ':
+    ' get ':
+      summary: Checks {checkId} Aggregated?mostrecent={mostrecent}&amp;detail_level={detail_level}&amp;scope={scope}
+      description: ttttFor a specific check - gets aggregated data and SLA for the
+        most recent periods in a scope.ttt
+      operationId: -checks-checkid-aggregatedmostrecentmostrecentampdetail-leveldetail-levelampscopescope-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Aggregated
+definitions: []

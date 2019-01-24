@@ -1,0 +1,33 @@
+swagger: "2.0"
+info:
+  title: Threshold Profile API
+  description: The Threshold Profile API.
+  version: 1.0.0
+host: www.site24x7.com.
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /threshold_profiles/{profile_id}:
+    delete:
+      summary: Delete Threshold Profile
+      description: Delete an existing Threshold profile.
+      operationId: delete-threshold-profile
+      responses:
+        200:
+          description: OK
+      tags:
+      - Threshold Profiles
+    get:
+      summary: Retrieve Threshold Profile
+      description: Retrieve the configuration of a Threshold profile.
+      operationId: retrieve-threshold-profile
+      responses:
+        200:
+          description: OK
+      tags:
+      - Threshold Profiles
+definitions: []

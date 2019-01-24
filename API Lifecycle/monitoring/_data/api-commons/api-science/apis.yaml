@@ -1,0 +1,104 @@
+name: API Science
+description: Traditional monitoring services were designed long before APIs became
+  core to modern applications. API Science is designed specifically for monitoring
+  APIs. Sure, we understand REST, JSON, OAuth, XML. No problem.
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-science-logo.png
+tags:
+- Monitoring
+created: "2016-10-02"
+modified: "2016-10-02"
+url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/api-science/apis.yaml
+specificationVersion: "0.14"
+apis:
+- name: Check API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-science-logo.png
+  humanURL: ""
+  baseURL: http://api.apiscience.com
+  tags:
+  - Monitoring
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/api-science/check-api-openapi-spec.yaml
+- name: Contacts API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-science-logo.png
+  humanURL: ""
+  baseURL: http://api.apiscience.com
+  tags:
+  - Monitoring
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/api-science/contacts-api-openapi-spec.yaml
+- name: Monitor API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-science-logo.png
+  humanURL: ""
+  baseURL: http://api.apiscience.com
+  tags:
+  - Monitoring
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/api-science/monitor-api-openapi-spec.yaml
+- name: Performance
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-science-logo.png
+  humanURL: ""
+  baseURL: http://api.apiscience.com
+  tags:
+  - Monitoring
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/api-science/performance-openapi-spec.yaml
+- name: Tags API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-science-logo.png
+  humanURL: ""
+  baseURL: http://api.apiscience.com
+  tags:
+  - Monitoring
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/api-science/tags-api-openapi-spec.yaml
+- name: Template API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-science-logo.png
+  humanURL: ""
+  baseURL: http://api.apiscience.com
+  tags:
+  - Monitoring
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/api-science/template-api-openapi-spec.yaml
+- name: Uptime API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-science-logo.png
+  humanURL: ""
+  baseURL: http://api.apiscience.com
+  tags:
+  - Monitoring
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/api-science/uptime-api-openapi-spec.yaml
+x-common:
+- type: x-base-url-for-api
+  url: http://api.apiscience.com
+- type: x-blog
+  url: https://www.apiscience.com/blog/
+- type: x-blog-rss-feed
+  url: https://www.apiscience.com/blog/feed/
+- type: x-portal
+  url: https://www.apiscience.com/docs/api
+- type: x-dedicated-plans--pricing-page
+  url: https://www.apiscience.com/pricing
+- type: x-privacy-policy-page
+  url: https://www.apiscience.com/privacy
+- type: x-terms-of-service-page
+  url: https://www.apiscience.com/terms
+- type: x-twitter
+  url: https://twitter.com/APIScience
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

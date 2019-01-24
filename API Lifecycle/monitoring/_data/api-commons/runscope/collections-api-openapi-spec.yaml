@@ -1,0 +1,77 @@
+swagger: "2.0"
+info:
+  title: No Title
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /buckets/:bucket_key/collection/:collection_uuid:
+    get:
+      summary: Delete a Collection
+      description: Deleting a collection will permanently remove the collection from
+        Runscope.
+      operationId: ""
+      responses:
+        200:
+          description: OK
+      tags:
+      - Collections
+  /buckets/:bucket_key/collection/:collection_uuid/:message_uuid:
+    delete:
+      summary: Removing a Message From a Collection
+      description: This action does not delete the actual message data, it only removes
+        it from this collection instance. To delete a message entirely, see the Message
+        Resource.
+      operationId: ""
+      responses:
+        200:
+          description: OK
+      tags:
+      - Collections
+  /buckets/:bucket_key/collections:
+    get:
+      summary: Collection List
+      description: The collection list returns all collections for a given bucket.
+      operationId: ""
+      responses:
+        200:
+          description: OK
+      tags:
+      - Collections
+    post:
+      summary: Creating a Collection
+      description: Creating a Collection
+      operationId: ""
+      responses:
+        200:
+          description: OK
+      tags:
+      - Collections
+  /buckets/:bucket_key/collections/:collection_uuid:
+    get:
+      summary: Collection Detail
+      description: The collection detail resource will return a list of message data
+        for this collection. The messages are returned in ascending order of their
+        rank value.
+      operationId: ""
+      responses:
+        200:
+          description: OK
+      tags:
+      - Collections
+  /buckets/:bucket_key/collections/:collection_uuid/:message_uuid:
+    put:
+      summary: Adding Messages to Collections or Modifying Message Rank
+      description: This endpoint is used for adding a new message to a collection,
+        or modifying an existing messages rank within the collection.
+      operationId: ""
+      responses:
+        200:
+          description: OK
+      tags:
+      - Collections
+definitions: []

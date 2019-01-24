@@ -1,0 +1,1440 @@
+swagger: "2.0"
+info:
+  title: Event Center
+  description: See Luna Event Center configuration, reporting and alerts events.
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /events/v2/{accountId}/events/alerts:
+    get:
+      summary: List Alerts
+      description: ""
+      operationId: eventsv2accountideventsalerts
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/id{?startRange,endRange,sortField,sortOrder,startIndex,limit,customerEventId}:
+    get:
+      summary: List Range of Events
+      description: ""
+      operationId: eventsv2accountideventsidstartrangeendrangesortfieldsortorderstartindexlimitcustomereventid
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: String
+        name: customerEventId
+        description: Event identifier for your own use. See Customer Event ID.
+        type: string
+      - in: Number
+        name: endRange
+        description: End of event, specified as epoch time milliseconds.
+        type: string
+      - in: Number
+        name: limit
+        description: The maximum number of pagination records to include.
+        type: string
+      - in: String
+        name: sortField
+        description: The field that should be used to sort the result set.
+        type: string
+      - in: String
+        name: sortOrder
+        description: The direction of the sort, asc for ascending or desc for descending.
+        type: string
+      - in: Number
+        name: startIndex
+        description: The zero-origin index at which to start the batch of paginated
+          results.
+        type: string
+      - in: Number
+        name: startRange
+        description: Start of event, specified as epoch time milliseconds.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/live:
+    get:
+      summary: List Events in Progress
+      description: ""
+      operationId: eventsv2accountideventslive
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/live/{time}:
+    get:
+      summary: List Events Current for Specific Time
+      description: ""
+      operationId: eventsv2accountideventslivetime
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: time
+        description: The epoch time.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/recurring{?frequency,numberOfTimes}:
+    post:
+      summary: Create a Recurring Event
+      description: ""
+      operationId: eventsv2accountideventsrecurringfrequencynumberoftimes
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: String
+        name: frequency
+        description: Periodicity of the recurring event.
+        type: string
+      - in: Number
+        name: numberOfTimes
+        description: Number of times/periods to follow.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/upcoming:
+    get:
+      summary: List Upcoming Events
+      description: ""
+      operationId: eventsv2accountideventsupcoming
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/upcoming/{rangeInHours}:
+    get:
+      summary: List Impending Events
+      description: ""
+      operationId: eventsv2accountideventsupcomingrangeinhours
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: rangeInHours
+        description: The range of data in number of hours.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/{eventId}:
+    delete:
+      summary: Remove an Event
+      description: ""
+      operationId: eventsv2accountideventseventid
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    get:
+      summary: Get an Event
+      description: ""
+      operationId: eventsv2accountideventseventid
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    post:
+      summary: Modify an Event, with POST
+      description: ""
+      operationId: eventsv2accountideventseventid
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    put:
+      summary: Modify an Event, with PUT
+      description: ""
+      operationId: eventsv2accountideventseventid
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/{eventId}/alerts:
+    get:
+      summary: List Alerts per Event
+      description: ""
+      operationId: eventsv2accountideventseventidalerts
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/{eventId}/services:
+    get:
+      summary: List Services
+      description: ""
+      operationId: eventsv2accountideventseventidservices
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/{eventId}/trafficdata/cpcode/bandwidth:
+    get:
+      summary: Get Event&#8217;s I/O Bandwidth
+      description: ""
+      operationId: eventsv2accountideventseventidtrafficdatacpcodebandwidth
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/{eventId}/trafficdata/cpcode/bandwidth/{cpcode}:
+    get:
+      summary: Get Event&#8217;s I/O Bandwidth per CP Code
+      description: ""
+      operationId: eventsv2accountideventseventidtrafficdatacpcodebandwidthcpcode
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: cpcode
+        description: The CP code associated with the given event.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/{eventId}/trafficdata/cpcode/edge/bandwidth/{cpcode}:
+    get:
+      summary: Get Edge Bandwidth per CP Code
+      description: ""
+      operationId: eventsv2accountideventseventidtrafficdatacpcodeedgebandwidthcpcode
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: cpcode
+        description: The CP code associated with the given event.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/{eventId}/trafficdata/cpcode/edge/requests/{cpcode}:
+    get:
+      summary: Get Event&#8217;s Edge Requests, per CP Code
+      description: ""
+      operationId: eventsv2accountideventseventidtrafficdatacpcodeedgerequestscpcode
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: cpcode
+        description: The CP code associated with the given event.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/{eventId}/trafficdata/cpcode/edge/status:
+    get:
+      summary: Get Event&#8217;s Status Totals
+      description: ""
+      operationId: eventsv2accountideventseventidtrafficdatacpcodeedgestatus
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/{eventId}/trafficdata/cpcode/edge/status/{cpcode}:
+    get:
+      summary: Get Event&#8217;s Status Totals per CP Code
+      description: ""
+      operationId: eventsv2accountideventseventidtrafficdatacpcodeedgestatuscpcode
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: cpcode
+        description: The CP code associated with the given event.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/{eventId}/trafficdata/cpcode/origin/bandwidth:
+    get:
+      summary: Get Event&#8217;s Bandwidth Data
+      description: ""
+      operationId: eventsv2accountideventseventidtrafficdatacpcodeoriginbandwidth
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/{eventId}/trafficdata/cpcode/origin/bandwidth/{cpcode}:
+    get:
+      summary: Get Event&#8217;s Bandwidth Data per CP Code
+      description: ""
+      operationId: eventsv2accountideventseventidtrafficdatacpcodeoriginbandwidthcpcode
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: cpcode
+        description: The CP code associated with the given event.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/{eventId}/trafficdata/cpcode/origin/requests:
+    get:
+      summary: Get Event&#8217;s Origin Requests
+      description: ""
+      operationId: eventsv2accountideventseventidtrafficdatacpcodeoriginrequests
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/{eventId}/trafficdata/cpcode/origin/requests/{cpcode}:
+    get:
+      summary: Get Event&#8217;s Origin Requests per CP Code
+      description: ""
+      operationId: eventsv2accountideventseventidtrafficdatacpcodeoriginrequestscpcode
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: cpcode
+        description: The CP code associated with the given event.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/{eventId}/trafficdata/cpcode/origin/status:
+    get:
+      summary: Get Event&#8217;s Origin Statuses
+      description: ""
+      operationId: eventsv2accountideventseventidtrafficdatacpcodeoriginstatus
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/{eventId}/trafficdata/cpcode/origin/status/{cpcode}:
+    get:
+      summary: Get Event&#8217;s Origin Statuses per CP Code
+      description: ""
+      operationId: eventsv2accountideventseventidtrafficdatacpcodeoriginstatuscpcode
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: cpcode
+        description: The CP code associated with the given event.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/{eventId}/trafficdata/cpcode/requests:
+    get:
+      summary: Get Event&#8217;s Requests
+      description: ""
+      operationId: eventsv2accountideventseventidtrafficdatacpcoderequests
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/{eventId}/trafficdata/cpcode/requests/{cpcode}:
+    get:
+      summary: Get Event&#8217;s Requests per CP Code
+      description: ""
+      operationId: eventsv2accountideventseventidtrafficdatacpcoderequestscpcode
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: cpcode
+        description: The CP code associated with the given event.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/{eventId}/trafficdata/entrypoint/flashlive:
+    get:
+      summary: Get Entry Point Data for Flash Live Streams
+      description: ""
+      operationId: eventsv2accountideventseventidtrafficdataentrypointflashlive
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/{eventId}/trafficdata/entrypoint/flashlive/{streamId}:
+    get:
+      summary: Get Entry Point Data for a Flash Live Stream
+      description: ""
+      operationId: eventsv2accountideventseventidtrafficdataentrypointflashlivestreamid
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      - in: Number
+        name: streamId
+        description: Unique identifier for the stream.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/{eventId}/trafficdata/entrypoint/universallive:
+    get:
+      summary: Get Entry Point Data for Universal Live Streams
+      description: ""
+      operationId: eventsv2accountideventseventidtrafficdataentrypointuniversallive
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/{eventId}/trafficdata/entrypoint/universallive/{streamId}:
+    get:
+      summary: Get Entry Point Data for a Universal Live Stream
+      description: ""
+      operationId: eventsv2accountideventseventidtrafficdataentrypointuniversallivestreamid
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      - in: Number
+        name: streamId
+        description: Unique identifier for the stream.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/{eventId}/trafficdata/fl/egressbw:
+    get:
+      summary: Get Aggregate Data for Flash Live Streams
+      description: ""
+      operationId: eventsv2accountideventseventidtrafficdataflegressbw
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/{eventId}/trafficdata/fl/egressbw/{streamId}:
+    get:
+      summary: Get Aggregate Data for a Flash Live Stream
+      description: ""
+      operationId: eventsv2accountideventseventidtrafficdataflegressbwstreamid
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      - in: Number
+        name: streamId
+        description: Unique identifier for the stream.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/{eventId}/trafficdata/fl/egressrequests:
+    get:
+      summary: Get Request Data for Flash Live Streams
+      description: ""
+      operationId: eventsv2accountideventseventidtrafficdataflegressrequests
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/{eventId}/trafficdata/fl/egressrequests/{streamId}:
+    get:
+      summary: Get Request Data for a Flash Live Stream
+      description: ""
+      operationId: eventsv2accountideventseventidtrafficdataflegressrequestsstreamid
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      - in: Number
+        name: streamId
+        description: Unique identifier for the stream.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/{eventId}/trafficdata/fl/egressviewers:
+    get:
+      summary: Get Viewer Data for Flash Live Streams
+      description: ""
+      operationId: eventsv2accountideventseventidtrafficdataflegressviewers
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/{eventId}/trafficdata/fl/egressviewers/{streamId}:
+    get:
+      summary: Get Viewer Data for a Flash Live Stream
+      description: ""
+      operationId: eventsv2accountideventseventidtrafficdataflegressviewersstreamid
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      - in: Number
+        name: streamId
+        description: Unique identifier for the stream.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/{eventId}/trafficdata/hdsll/egressbw:
+    get:
+      summary: Get Aggregate Data for Silverlight Live Streams
+      description: ""
+      operationId: eventsv2accountideventseventidtrafficdatahdsllegressbw
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/{eventId}/trafficdata/hdsll/egressrequests:
+    get:
+      summary: Get Request Data for Silverlight Live Streams
+      description: ""
+      operationId: eventsv2accountideventseventidtrafficdatahdsllegressrequests
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/{eventId}/trafficdata/hdsll/egressrequests/{streamId}:
+    get:
+      summary: Get Request Data for a Silverlight Live Stream
+      description: ""
+      operationId: eventsv2accountideventseventidtrafficdatahdsllegressrequestsstreamid
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      - in: Number
+        name: streamId
+        description: Unique identifier for the stream.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/{eventId}/trafficdata/hdsll/egressstatus:
+    get:
+      summary: Get Status Data for Silverlight Live Streams
+      description: ""
+      operationId: eventsv2accountideventseventidtrafficdatahdsllegressstatus
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/{eventId}/trafficdata/hdsll/egressstatus/{streamId}:
+    get:
+      summary: Get Status Data for a Silverlight Live Stream
+      description: ""
+      operationId: eventsv2accountideventseventidtrafficdatahdsllegressstatusstreamid
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      - in: Number
+        name: streamId
+        description: Unique identifier for the stream.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/{eventId}/trafficdata/hdsll/egressviewers:
+    get:
+      summary: Get Viewer Data for Silverlight Live Streams
+      description: ""
+      operationId: eventsv2accountideventseventidtrafficdatahdsllegressviewers
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/{eventId}/trafficdata/hdsll/egressviewers/{streamId}:
+    get:
+      summary: Get Viewer Data for a Silverlight Live Stream
+      description: ""
+      operationId: eventsv2accountideventseventidtrafficdatahdsllegressviewersstreamid
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      - in: Number
+        name: streamId
+        description: Unique identifier for the stream.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/{eventId}/trafficdata/srip/connections:
+    get:
+      summary: Get SRIP Connections
+      description: ""
+      operationId: eventsv2accountideventseventidtrafficdatasripconnections
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/{eventId}/trafficdata/srip/connections/{slotId}:
+    get:
+      summary: Get SRIP Connections per Slot
+      description: ""
+      operationId: eventsv2accountideventseventidtrafficdatasripconnectionsslotid
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      - in: String
+        name: slotId
+        description: Unique identifier for the slot.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/{eventId}/trafficdata/srip/sourcebandwidth:
+    get:
+      summary: Get SRIP Bandwidth
+      description: ""
+      operationId: eventsv2accountideventseventidtrafficdatasripsourcebandwidth
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/{eventId}/trafficdata/srip/sourcebandwidth/{slotId}:
+    get:
+      summary: Get SRIP Bandwidth per Slot
+      description: ""
+      operationId: eventsv2accountideventseventidtrafficdatasripsourcebandwidthslotid
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      - in: String
+        name: slotId
+        description: Unique identifier for the slot.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events/{eventId}{?services}:
+    get:
+      summary: Get Event with its Services
+      description: ""
+      operationId: eventsv2accountideventseventidservices
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      - in: String
+        name: services
+        description: Value must be detail, otherwise only returns basic event details.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/events{?startRange,endRange,sortField,sortOrder,startIndex,limit,customerEventId}:
+    delete:
+      summary: Remove Events
+      description: ""
+      operationId: eventsv2accountideventsstartrangeendrangesortfieldsortorderstartindexlimitcustomereventid
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: String
+        name: customerEventId
+        description: Event identifier for your own use. See Customer Event ID.
+        type: string
+      - in: Number
+        name: endRange
+        description: End of event, specified as epoch time milliseconds.
+        type: string
+      - in: Number
+        name: limit
+        description: The maximum number of pagination records to include.
+        type: string
+      - in: String
+        name: sortField
+        description: The field that should be used to sort the result set.
+        type: string
+      - in: String
+        name: sortOrder
+        description: The direction of the sort, asc for ascending or desc for descending.
+        type: string
+      - in: Number
+        name: startIndex
+        description: The zero-origin index at which to start the batch of paginated
+          results.
+        type: string
+      - in: Number
+        name: startRange
+        description: Start of event, specified as epoch time milliseconds.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    get:
+      summary: List Events
+      description: ""
+      operationId: eventsv2accountideventsstartrangeendrangesortfieldsortorderstartindexlimitcustomereventid
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: String
+        name: customerEventId
+        description: Event identifier for your own use. See Customer Event ID.
+        type: string
+      - in: Number
+        name: endRange
+        description: End of event, specified as epoch time milliseconds.
+        type: string
+      - in: Number
+        name: limit
+        description: The maximum number of pagination records to include.
+        type: string
+      - in: String
+        name: sortField
+        description: The field that should be used to sort the result set.
+        type: string
+      - in: String
+        name: sortOrder
+        description: The direction of the sort, asc for ascending or desc for descending.
+        type: string
+      - in: Number
+        name: startIndex
+        description: The zero-origin index at which to start the batch of paginated
+          results.
+        type: string
+      - in: Number
+        name: startRange
+        description: Start of event, specified as epoch time milliseconds.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    post:
+      summary: POST a New Event
+      description: ""
+      operationId: eventsv2accountideventsstartrangeendrangesortfieldsortorderstartindexlimitcustomereventid
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: String
+        name: customerEventId
+        description: Event identifier for your own use. See Customer Event ID.
+        type: string
+      - in: Number
+        name: endRange
+        description: End of event, specified as epoch time milliseconds.
+        type: string
+      - in: Number
+        name: limit
+        description: The maximum number of pagination records to include.
+        type: string
+      - in: String
+        name: sortField
+        description: The field that should be used to sort the result set.
+        type: string
+      - in: String
+        name: sortOrder
+        description: The direction of the sort, asc for ascending or desc for descending.
+        type: string
+      - in: Number
+        name: startIndex
+        description: The zero-origin index at which to start the batch of paginated
+          results.
+        type: string
+      - in: Number
+        name: startRange
+        description: Start of event, specified as epoch time milliseconds.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    put:
+      summary: PUT a New Event
+      description: ""
+      operationId: eventsv2accountideventsstartrangeendrangesortfieldsortorderstartindexlimitcustomereventid
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: String
+        name: customerEventId
+        description: Event identifier for your own use. See Customer Event ID.
+        type: string
+      - in: Number
+        name: endRange
+        description: End of event, specified as epoch time milliseconds.
+        type: string
+      - in: Number
+        name: limit
+        description: The maximum number of pagination records to include.
+        type: string
+      - in: String
+        name: sortField
+        description: The field that should be used to sort the result set.
+        type: string
+      - in: String
+        name: sortOrder
+        description: The direction of the sort, asc for ascending or desc for descending.
+        type: string
+      - in: Number
+        name: startIndex
+        description: The zero-origin index at which to start the batch of paginated
+          results.
+        type: string
+      - in: Number
+        name: startRange
+        description: Start of event, specified as epoch time milliseconds.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/sites/cpcodes:
+    get:
+      summary: List CP Codes
+      description: ""
+      operationId: eventsv2accountidsitescpcodes
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/srip{?sortField,sortOrder,limit,startIndex}:
+    get:
+      summary: List IPA and SXL Configurations
+      description: ""
+      operationId: eventsv2accountidsripsortfieldsortorderlimitstartindex
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: limit
+        description: The maximum number of pagination records to include.
+        type: string
+      - in: String
+        name: sortField
+        description: The field to sort the result set, either description or hostname.
+        type: string
+      - in: String
+        name: sortOrder
+        description: The direction of the sort, asc for ascending or desc for descending.
+        type: string
+      - in: Number
+        name: startIndex
+        description: The zero-origin index at which to start the batch of paginated
+          results.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/streams/flashlive:
+    get:
+      summary: List Flash Live Streams
+      description: ""
+      operationId: eventsv2accountidstreamsflashlive
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/streams/silverlightlive:
+    get:
+      summary: List Silverlight Live Streams
+      description: ""
+      operationId: eventsv2accountidstreamssilverlightlive
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /events/v2/{accountId}/streams/universallive{?sortField,sortOrder,limit,startIndex}:
+    get:
+      summary: List Universal Live Streams
+      description: ""
+      operationId: eventsv2accountidstreamsuniversallivesortfieldsortorderlimitstartindex
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: limit
+        description: The maximum number of pagination records to include.
+        type: string
+      - in: String
+        name: sortField
+        description: The field to sort the result set, either description or hostname.
+        type: string
+      - in: String
+        name: sortOrder
+        description: The direction of the sort, asc for ascending or desc for descending.
+        type: string
+      - in: Number
+        name: startIndex
+        description: The zero-origin index at which to start the batch of paginated
+          results.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  clientside_qos1_live:
+    get:
+      summary: Get Report Packs
+      description: ""
+      operationId: clientside-qos1-live
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  data:
+    get:
+      summary: Get Event Traffic Data by CP Code
+      description: ""
+      operationId: data
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  deliveryFormat:
+    get:
+      summary: Get Edge Bandwidth for Universal Live Streams
+      description: ""
+      operationId: deliveryformat
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: String
+        name: deliveryFormat
+        description: The stream format, discussed above.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      - in: String
+        name: range
+        description: The range, in minutes, of data to retrieve. If omitted, all data
+          for the duration of the event is returned.
+        type: string
+      - in: Number
+        name: streamId
+        description: Unique identifier for the stream.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  streamId:
+    get:
+      summary: Get Silverlight Live Stream
+      description: ""
+      operationId: streamid
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      - in: Number
+        name: streamId
+        description: Unique identifier for the stream.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  timeAggInterval:
+    get:
+      summary: Get Audience Size
+      description: ""
+      operationId: timeagginterval
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for the account.
+        type: string
+      - in: String
+        name: endDate
+        description: The end date.
+        type: string
+      - in: Number
+        name: eventId
+        description: Unique identifier for the event.
+        type: string
+      - in: String
+        name: reportPackID
+        description: Unique numeric identifier for the report pack.
+        type: string
+      - in: String
+        name: startDate
+        description: The start date.
+        type: string
+      - in: Number
+        name: timeAggInterval
+        description: Defaults to 60 minutes.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

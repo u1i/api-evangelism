@@ -1,0 +1,23 @@
+name: Best Bitcoin Casino
+description: Best Bitcoin Casino gives you the power to quickly choose the perfect
+  Bitcoin casinos that offers your favorite games and bonuses based on your location.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26524-best-bitcoin-casino.jpg
+tags:
+- Marketplace
+- Food
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/best-bitcoin-casino/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: http://bitcoincafe.in
+- type: x-website
+  url: http://bestbitcoincasino.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

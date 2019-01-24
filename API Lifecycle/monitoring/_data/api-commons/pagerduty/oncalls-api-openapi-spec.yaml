@@ -1,0 +1,67 @@
+swagger: "2.0"
+info:
+  title: On-Calls API
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /oncalls:
+    get:
+      summary: List all of the on-calls
+      description: List the on-call entries during a given time range.
+      operationId: list-the-oncall-entries-during-a-given-time-range
+      parameters:
+      - in: query
+        name: earliest
+        description: This will filter on-calls such that only the earliest on-call
+          for each combination of escalation policy, escalation level, and user is
+          returned. This is useful for determining when the next on-calls are for
+          a given set of filters.
+      - in: query
+        name: escalation_policy_ids[]
+        description: Filters the results, showing only on-calls for the specified
+          escalation policy IDs.
+      - in: query
+        name: include[]
+        description: Array of additional details to include.
+      - in: query
+        name: No Name
+      - in: query
+        name: schedule_ids[]
+        description: Filters the results, showing only on-calls for the specified
+          schedule IDs. If `null` is provided in the array, it includes permanent
+          on-calls due to direct user escalation targets.
+      - in: query
+        name: since
+        description: The start of the time range over which you want to search. If
+          an on-call period overlaps with the range, it will be included in the result.
+          Defaults to current time. The search range cannot exceed 3 months.
+      - in: query
+        name: until
+        description: The end of the time range over which you want to search. If an
+          on-call period overlaps with the range, it will be included in the result.
+          Defaults to current time. The search range cannot exceed 3 months, and the
+          `until` time cannot be before the `since` time.
+      - in: query
+        name: user_ids[]
+        description: Filters the results, showing only on-calls for the specified
+          user IDs.
+      responses:
+        200:
+          description: OK
+      tags:
+      - Oncalls
+    x-description:
+      summary: L
+      description: L
+      operationId: L
+      responses:
+        200:
+          description: OK
+      tags:
+      - Oncalls
+definitions: []

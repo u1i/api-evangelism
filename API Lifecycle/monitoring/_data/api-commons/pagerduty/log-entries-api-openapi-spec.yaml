@@ -1,0 +1,57 @@
+swagger: "2.0"
+info:
+  title: Log Entries API
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /log_entries:
+    get:
+      summary: List log entries
+      description: List all of the incident log entries across the entire account.
+      operationId: list-all-of-the-incident-log-entries-across-the-entire-account
+      parameters:
+      - in: query
+        name: No Name
+      responses:
+        200:
+          description: OK
+      tags:
+      - Log Entries
+    x-description:
+      summary: L
+      description: L
+      operationId: L
+      responses:
+        200:
+          description: OK
+      tags:
+      - Log Entries
+  /log_entries/{id}:
+    get:
+      summary: Get a log entry
+      description: Get details for a specific incident log entry. This method provides
+        additional information you can use to get at raw event data.
+      operationId: get-details-for-a-specific-incident-log-entry-this-method-provides-additional-information-you-can-us
+      parameters:
+      - in: query
+        name: No Name
+      responses:
+        200:
+          description: OK
+      tags:
+      - Log Entries
+    x-description:
+      summary: G
+      description: G
+      operationId: G
+      responses:
+        200:
+          description: OK
+      tags:
+      - Log Entries
+definitions: []

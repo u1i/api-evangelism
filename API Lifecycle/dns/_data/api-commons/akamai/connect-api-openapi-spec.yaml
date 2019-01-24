@@ -1,0 +1,352 @@
+swagger: "2.0"
+info:
+  title: Akamai Connect API
+  description: Register, activate, and authenticate Galaxy caches with the Akamai
+    Luna portal and with Akamai backoffice systems.
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /galaxy/v1/build:
+    get:
+      summary: Get Build Information
+      description: ""
+      operationId: galaxyv1build
+      responses:
+        200:
+          description: OK
+      tags:
+      - Clients
+  /galaxy/v1/clients:
+    post:
+      summary: Add a Client
+      description: ""
+      operationId: galaxyv1clients
+      parameters:
+      - in: String
+        name: clientId
+        description: Client ID of the device, maximum 50 characters
+        type: string
+      - in: Boolean
+        name: debug
+        description: The flag to include debug members in the response JSON.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Clients
+  /galaxy/v1/clients/{clientId}:
+    delete:
+      summary: Remove a Client
+      description: ""
+      operationId: galaxyv1clientsclientid
+      parameters:
+      - in: String
+        name: clientId
+        description: Client ID of the device, maximum 50 characters
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Clients
+    put:
+      summary: Modify a Client
+      description: ""
+      operationId: galaxyv1clientsclientid
+      parameters:
+      - in: String
+        name: clientId
+        description: Client ID of the device, maximum 50 characters
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Clients
+  /galaxy/v1/clients{?includeDeleted,debug,self}:
+    get:
+      summary: List Clients
+      description: ""
+      operationId: galaxyv1clientsincludedeleteddebugself
+      parameters:
+      - in: Boolean
+        name: debug
+        description: The flag to include debug members in the response JSON.
+        type: string
+      - in: Boolean
+        name: includeDeleted
+        description: The flag to include deleted customers.
+        type: string
+      - in: Boolean
+        name: self
+        description: The flag to get its own client information.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Clients
+  /galaxy/v1/client_groups:
+    post:
+      summary: Associate Multiple Activation Files for a DPC
+      description: ""
+      operationId: galaxyv1client-groups
+      parameters:
+      - in: Boolean
+        name: debug
+        description: The flag to include debug members in the response JSON.
+        type: string
+      - in: Boolean
+        name: includeDeleted
+        description: The flag to include deleted customers.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Client Groups
+  /galaxy/v1/client_groups{?includeDeleted,debug,self}:
+    get:
+      summary: Get Client Groups
+      description: ""
+      operationId: galaxyv1client-groupsincludedeleteddebugself
+      parameters:
+      - in: Boolean
+        name: debug
+        description: The flag to include debug members in the response JSON.
+        type: string
+      - in: Boolean
+        name: includeDeleted
+        description: The flag to include deleted customers.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Client Groups
+  /galaxy/v1/customers:
+    post:
+      summary: Add a Customer
+      description: ""
+      operationId: galaxyv1customers
+      parameters:
+      - in: String
+        name: akamaiCustomerId
+        description: Akamai ID of the customer, maximum 50 characters
+        type: string
+      - in: Boolean
+        name: debug
+        description: The flag to include debug members in the response JSON.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Customers
+  /galaxy/v1/customers/{akamaiCustomerId}:
+    delete:
+      summary: Remove a Customer
+      description: ""
+      operationId: galaxyv1customersakamaicustomerid
+      parameters:
+      - in: String
+        name: akamaiCustomerId
+        description: Akamai ID of the customer, maximum 50 characters
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Customers
+    put:
+      summary: Modify a Customer
+      description: ""
+      operationId: galaxyv1customersakamaicustomerid
+      parameters:
+      - in: String
+        name: akamaiCustomerId
+        description: Akamai ID of the customer, maximum 50 characters
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Customers
+  /galaxy/v1/customers/{akamaiCustomerId}/op/deactivate:
+    post:
+      summary: Deactivate a Customer
+      description: ""
+      operationId: galaxyv1customersakamaicustomeridopdeactivate
+      parameters:
+      - in: String
+        name: akamaiCustomerId
+        description: Akamai ID of the customer, maximum 50 characters
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Customers
+  /galaxy/v1/customers/{akamaiCustomerId}/op/reactivate:
+    post:
+      summary: Reactivate a Customer
+      description: ""
+      operationId: galaxyv1customersakamaicustomeridopreactivate
+      parameters:
+      - in: String
+        name: akamaiCustomerId
+        description: Akamai ID of the customer, maximum 50 characters
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Customers
+  /galaxy/v1/customers/{clientId}/op/deactivate:
+    post:
+      summary: Deactivate a Client
+      description: ""
+      operationId: galaxyv1customersclientidopdeactivate
+      parameters:
+      - in: String
+        name: clientId
+        description: Client ID of the device, maximum 50 characters
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Customers
+  /galaxy/v1/customers/{clientId}/op/reactivate:
+    post:
+      summary: Reactivate a Client
+      description: ""
+      operationId: galaxyv1customersclientidopreactivate
+      parameters:
+      - in: String
+        name: clientId
+        description: Client ID of the device, maximum 50 characters
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Customers
+  /galaxy/v1/customers{?includeDeleted,debug}:
+    get:
+      summary: List Customers
+      description: ""
+      operationId: galaxyv1customersincludedeleteddebug
+      parameters:
+      - in: Boolean
+        name: debug
+        description: The flag to include debug members in the response JSON.
+        type: string
+      - in: Boolean
+        name: includeDeleted
+        description: The flag to include deleted customers.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Customers
+  /galaxy/v1/devices/{deviceId}:
+    delete:
+      summary: Remove a Device
+      description: ""
+      operationId: galaxyv1devicesdeviceid
+      parameters:
+      - in: String
+        name: deviceId
+        description: Identifies the device, maximum 50 characters
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Devices
+    post:
+      summary: Add a Device
+      description: ""
+      operationId: galaxyv1devicesdeviceid
+      parameters:
+      - in: String
+        name: deviceId
+        description: Identifies the device, maximum 50 characters
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Devices
+    put:
+      summary: Modify a Device
+      description: ""
+      operationId: galaxyv1devicesdeviceid
+      parameters:
+      - in: String
+        name: deviceId
+        description: Identifies the device, maximum 50 characters
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Devices
+  /galaxy/v1/devices/{deviceId}/op/deactivate:
+    post:
+      summary: Deactivate a Device
+      description: ""
+      operationId: galaxyv1devicesdeviceidopdeactivate
+      parameters:
+      - in: String
+        name: deviceId
+        description: Identifies the device, maximum 50 characters
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Devices
+  /galaxy/v1/devices/{deviceId}/op/reactivate:
+    post:
+      summary: Reactivate a Device
+      description: ""
+      operationId: galaxyv1devicesdeviceidopreactivate
+      parameters:
+      - in: String
+        name: deviceId
+        description: Identifies the device, maximum 50 characters
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Devices
+  /galaxy/v1/devices/{deviceId}{?debug}:
+    get:
+      summary: Get a Device
+      description: ""
+      operationId: galaxyv1devicesdeviceiddebug
+      parameters:
+      - in: Boolean
+        name: debug
+        description: The flag to include debug members in the response JSON.
+        type: string
+      - in: String
+        name: deviceId
+        description: Identifies the device, maximum 50 characters
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Devices
+definitions: []

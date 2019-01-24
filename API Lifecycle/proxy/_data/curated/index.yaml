@@ -1,0 +1,272 @@
+---
+- curated_id: b1ae861d2d88ca390f93ca03310dc864
+  item_date: "2012-04-21 12:49:06"
+  title: Why Startups Need an API
+  url: https://tune.com/blog/startups-need-api/
+  domain: tune.com
+  image: ""
+- curated_id: bcf456b40df12c626872ca04bfa25072
+  item_date: "2015-06-04 00:00:00"
+  title: Configuring HAProxy  Splunk With REST API  SDK Compatability
+  url: http://blogs.splunk.com/2015/06/04/configuring-haproxy-splunk-with-rest-api-sdk-compatability/
+  domain: blogs.splunk.com
+  image: ""
+- curated_id: 7d35335ecc509be7d0bf4edfd831f4d8
+  item_date: "2015-10-16 00:00:00"
+  title: How to Set up a Registry Proxy Cache with Docker Open Source Registry
+  url: https://blog.docker.com/2015/10/registry-proxy-cache-docker-open-source/
+  domain: blog.docker.com
+  image: ""
+- curated_id: 64dc81b4da22a8281cec812e0c3d92b4
+  item_date: "2015-12-23 00:00:00"
+  title: USB Proxy Rats Out Your Devices? Secrets
+  url: http://hackaday.com/2015/12/23/usb-proxy-rats-out-your-devices-secrets/
+  domain: hackaday.com
+  image: ""
+- curated_id: 58727b2bafa7f1c82a5a125c4e9d8b51
+  item_date: "2016-02-06 00:00:00"
+  title: Creating Proxy Objects Using djcproxy
+  url: https://dzone.com/articles/creating-proxy-objects-using-djcproxy
+  domain: dzone.com
+  image: ""
+- curated_id: 2b2d34c74601cb1e74c066c4ee7943ec
+  item_date: "2016-02-27 00:00:00"
+  title: A Stateless OAuth 20 Proxy for Single Page Applications (SPAs)
+  url: https://dzone.com/articles/a-stateless-oauth-20-proxy-for-single
+  domain: dzone.com
+  image: ""
+- curated_id: 401a9607235079b7b4bda8a016f7a02f
+  item_date: "2016-03-02 00:00:00"
+  title: Using Netflix Zuul to Proxy your Microservices
+  url: https://blog.heroku.com/using_netflix_zuul_to_proxy_your_microservices
+  domain: blog.heroku.com
+  image: ""
+- curated_id: a4295246eda72f8df5326c89d105efc8
+  item_date: "2016-03-04 00:00:00"
+  title: How people use proxies to interact with the federal government
+  url: https://18f.gsa.gov/2016/03/04/how-people-use-proxies-to-interact-with-the-government/
+  domain: 18f.gsa.gov
+  image: ""
+- curated_id: af5841128d45b073cd6214a7f11fbc08
+  item_date: "2016-03-24 00:00:00"
+  title: Creating an IP-based rate-limiter with Tyk and JavaScript middleware
+  url: https://tyk.io/2016/03/24/ip-rate-limiter-middleware/
+  domain: tyk.io
+  image: ""
+- curated_id: acfc882bbc6f5fb0120af05d362f1244
+  item_date: "2016-04-27 00:00:00"
+  title: 'DevOps gold nuggets: scaling down gracefully with AWS Lambda and HAProxy'
+  url: https://www.contentful.com/blog/2016/04/27/aws-lambda-haproxy-scaling-down/
+  domain: www.contentful.com
+  image: ""
+- curated_id: 8167f0cf8e4eb0281f3a127abb287bc2
+  item_date: "2016-06-20 00:00:00"
+  title: NGINX as a Reverse Proxy for Docker Swarm Clusters
+  url: https://dzone.com/articles/nginx-as-a-reverse-proxy-for-docker-swarm-clusters
+  domain: dzone.com
+  image: ""
+- curated_id: 4beb16d9503b2e01b8de274419f41383
+  item_date: "2016-06-23 00:00:00"
+  title: 'How Belly Scales Using API Proxies with their Microservices Architecture:
+    Interview with Darby Frey'
+  url: https://blog.heroku.com/how-belly-scales-using-api-proxies-with-their-microservices-architecture
+  domain: blog.heroku.com
+  image: ""
+- curated_id: 144afb4a267f1324e901a08794b8483b
+  item_date: "2016-06-28 00:00:00"
+  title: 'OpenShift Ecosystem: Implementing the NGINX Proxy Model on Red Hat OpenShift'
+  url: https://www.nginx.com/blog/openshift-ecosystem-implementing-the-nginx-proxy-model-on-red-hat-openshift/
+  domain: www.nginx.com
+  image: ""
+- curated_id: f28d92cc6727b2dd92166f4299bc0ae6
+  item_date: "2016-07-04 00:00:00"
+  title: 'The Proxy Bot: a powerful bot testing tool'
+  url: http://blog.gupshup.io/index.php/2016/07/05/the-proxy-bot-a-powerful-bot-testing-tool/
+  domain: blog.gupshup.io
+  image: ""
+- curated_id: b96ff9c90fe5b216143fd73b8b493538
+  item_date: "2016-07-05 00:00:00"
+  title: Proxying With API Manager
+  url: https://dzone.com/articles/proxying-with-api-manager
+  domain: dzone.com
+  image: ""
+- curated_id: 7ab3dad7c7cf0f08dacfa61fe9772251
+  item_date: "2016-07-18 00:00:00"
+  title: Mitigating the HTTPoxy Vulnerability with NGINX
+  url: https://www.nginx.com/blog/mitigating-the-httpoxy-vulnerability-with-nginx/
+  domain: www.nginx.com
+  image: ""
+- curated_id: 5873aa400c3f681206e958c37e6d907d
+  item_date: "2016-07-22 16:43:52"
+  title: Wireshark - Go Deep.
+  url: https://www.wireshark.org/
+  domain: www.wireshark.org
+  image: ""
+- curated_id: e8d22d927fda3d7908f73c862b52ecdf
+  item_date: "2016-07-22 16:44:02"
+  title: Fiddler free web debugging proxy
+  url: http://www.telerik.com/fiddler
+  domain: www.telerik.com
+  image: ""
+- curated_id: 74d4726c900692a0a848def64c742fe1
+  item_date: "2016-07-30 00:00:00"
+  title: GNOME Maps App Is Functional Again, Switches to Mapbox API Through a GNOME
+    Proxy
+  url: http://news.softpedia.com/news/gnome-maps-app-is-functional-again-switches-to-mapbox-api-through-a-gnome-proxy-506808.shtml
+  domain: news.softpedia.com
+  image: ""
+- curated_id: eb030148afd14bab791a2839ff16e518
+  item_date: "2016-09-06 12:09:15"
+  title: 'Tweet: RT @antoniotroina: Just tried @postmanclient extension ldquo;postman
+    interceptorrdquo;, quite useful: https://t.co/pQMik2kVz4'
+  url: https://twitter.com/antoniotroina/status/772804789793132544
+  domain: twitter.com
+  image: ""
+- curated_id: 0cc75ac28f2f54ddb4d0007b66795077
+  item_date: "2016-09-09 00:00:00"
+  title: Creating a simple proxy API
+  url: http://apisandstuff.com/2016/09/10/simple-proxy-api/
+  domain: apisandstuff.com
+  image: ""
+- curated_id: c936f076b8b30eee94981bcf67f081d0
+  item_date: "2016-09-12 00:00:00"
+  title: Using Charles Proxys Root SSL With Homebrew Curl
+  url: https://dzone.com/articles/using-charles-proxys-root-ssl-with-homebrew-curl
+  domain: dzone.com
+  image: ""
+- curated_id: 5378cbf3c26dd811b03049f30dfcd6e3
+  item_date: "2017-02-20 00:00:00"
+  title: 'SSL Proxy: Splunk  NGINX'
+  url: http://blogs.splunk.com/2017/02/20/ssl-proxy-splunk-nginx/
+  domain: blogs.splunk.com
+  image: ""
+- curated_id: 677568aa79c9be94ddd076b638747357
+  item_date: "2017-04-04 00:00:00"
+  title: Proxy Servers
+  url: http://avc.com/2017/04/proxy-servers/
+  domain: avc.com
+  image: ""
+- curated_id: 608e1559b30287b59a45f3036a50df98
+  item_date: "2017-04-13 00:00:00"
+  title: How to Configure HAProxy as a Proxy and Load Balancer
+  url: https://dzone.com/articles/how-to-configure-ha-proxy-as-a-proxy-and-loadbalan
+  domain: dzone.com
+  image: ""
+- curated_id: dd5d452f9237d6e6077d67cf3642b2b1
+  item_date: "2017-04-17 00:00:00"
+  title: 'Cloud Identity-Aware Proxy: Protect application access on the cloud'
+  url: https://cloudplatform.googleblog.com/2017/04/Cloud-Identity-Aware-Proxy-protect-application-access-on-the-cloud.html
+  domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: c92394ea4595a9d5d2895362a20a9f3d
+  item_date: "2017-04-20 00:00:00"
+  title: Getting started with Cloud Identity-Aware Proxy
+  url: http://cloudplatform.googleblog.com/2017/04/Getting-started-with-Cloud-Identity-Aware-Proxy.html
+  domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15c52c4deb4:40b110c:bb404dd5
+  item_date: "2017-05-28 22:41:16"
+  title: Twilio Enables People to Connect Anonymously With the Proxy API
+  url: https://medium.com/p/46f2cdeec518
+  domain: medium.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15ca8e67837:207ebf:4825a421
+  item_date: "2017-06-14 16:11:39"
+  title: 'Accessing the MailChimp API With a Proxy Server and a Static React App:
+    Part 1'
+  url: https://medium.com/p/dd07329f1155
+  domain: medium.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15caf521eb3:1880ce:32554199
+  item_date: "2017-06-15 16:18:07"
+  title: 'Accessing the MailChimp API With a Proxy Server and a Static React App:
+    Part 3'
+  url: https://medium.com/p/edbc205b2c60
+  domain: medium.com
+  image: ""
+- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_15d40bc70e0:3013ebe:32bbcd87
+  item_date: "2017-07-14 03:23:00"
+  title: WikiLeaks Reveals CIA Tool Acting as SMS Proxy on Android
+  url: https://www.infosecurity-magazine.com/news/wikileaks-highrise-cia-android/
+  domain: www.infosecurity-magazine.com
+  image: ""
+- curated_id: FlM2ORollv7buAbLPIk7bq38WKo7ntpuEC3DQ4J61i8=_15d42974529:2d52744:bb404dd5
+  item_date: "2017-07-14 05:10:23"
+  title: "3 Musketeers\u2014IoT, Middleware, APIs"
+  url: https://www.tibco.com/blog/?p=37700
+  domain: www.tibco.com
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_15dd3827764:edf:6c0c5382
+  item_date: "2017-08-11 15:55:27"
+  title: Putting Your Lambda In A VPC
+  url: https://medium.com/p/efb80695b32
+  domain: medium.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15df7eb0dee:17fbb74:bd5def64
+  item_date: "2017-08-18 11:33:00"
+  title: Programmable Proxies are the Duct Tape of the Internet
+  url: https://f5.com/about-us/blog/articles/programmable-proxies-are-the-duct-tape-of-the-internet-26963#.WZG2jjIr-Mk.twitter
+  domain: f5.com
+  image: ""
+- curated_id: AaqLN7WNk2JdzURhcODOt/DCaKX68I7bKK7Kbjoxmdo=_15eca248616:27cf6d2:feeb522d
+  item_date: "2017-09-28 12:55:21"
+  title: Client proxy settings in Postman
+  url: http://blog.getpostman.com/?p=3066
+  domain: blog.getpostman.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15f5a7e0baf:326063:8cbd7d4f
+  item_date: "2017-10-26 12:04:08"
+  title: Introducing the 0x Standard Relayer API
+  url: https://medium.com/p/8a37bd90a3e
+  domain: medium.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15fc096c996:4b0833:626ab4cd
+  item_date: "2017-11-15 01:36:16"
+  title: Expose Salesforce REST API through the WSO2 API Cloud
+  url: https://medium.com/p/33f996a6d25
+  domain: medium.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_160129fbeca:1766462:7157a206
+  item_date: "2017-12-01 07:01:47"
+  title: Charles Proxy in Android Emulator
+  url: https://dzone.com/articles/1851659
+  domain: dzone.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_1616c14e8d3:3319747:7157a206
+  item_date: "2018-02-06 09:01:03"
+  title: WireMock With Dynamic Proxies
+  url: https://dzone.com/articles/2019802
+  domain: dzone.com
+  image: ""
+- curated_id: lvAGyZqtR0/mYw7A1WiIHy09UFoEw3/rxwIZeeDcKuw=_16206e8c856:12b2cf0:76251cdd
+  item_date: "2018-03-08 08:02:06"
+  title: API proxy or gateway?
+  url: http://blog.akana.com/?p=1439
+  domain: blog.akana.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_1622e225aad:11932ae:9f3b30f2
+  item_date: "2018-03-16 02:02:26"
+  title: Microservices
+  url: https://dzone.com/articles/2117379
+  domain: dzone.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_163b5726c3a:2ea78c9:2835af05
+  item_date: "2018-05-31 02:02:01"
+  title: How to Record HTTP/HTTPS Traffic With mitmproxy
+  url: https://dzone.com/articles/2242544
+  domain: dzone.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_16494ae2f7a:442c88:e8d3bdb3
+  item_date: "2018-07-11 20:01:06"
+  title: Writing a Reverse Proxy in just one line with Go
+  url: https://medium.com/p/c1edfa78c84b
+  domain: medium.com
+  image: ""
+- curated_id: b4xX282kQ9FAxkxcTTl6litd4bsIad1WXC3AOIleGAM=_166e431a1b1:1048c94:d42b93be
+  item_date: "2018-11-05 06:00:43"
+  title: "Connecting Multiple OpenShift SDNs with a Network Tunnel \u2013 part 2:
+    Service Proxying and Discovery"
+  url: https://blog.openshift.com/?p=18728
+  domain: blog.openshift.com
+  image: ""
+...

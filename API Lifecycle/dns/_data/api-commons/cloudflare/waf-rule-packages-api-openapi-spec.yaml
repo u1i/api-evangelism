@@ -1,0 +1,86 @@
+swagger: "2.0"
+info:
+  title: WAF Rule Packages API
+  description: The API for managing CloudFlare WAF Rule Packages
+  termsOfService: https://www.cloudflare.com/terms/
+  version: 1.0.0
+host: api.cloudflare.com
+basePath: /client/v4
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /zones/:zone_identifier/firewall/waf/packages:
+    get:
+      summary: Retrieve firewall packages for a zone
+      description: Retrieve firewall packages for a zone
+      operationId: cloudflare-waf-rule-packages-api
+      parameters:
+      - in: query
+        name: direction
+        description: Direction to order packagesttttttttttttttdesc
+      - in: query
+        name: match
+        description: Whether to match all search requirements or at least one (any)ttttttttttttttall
+      - in: query
+        name: name
+        description: Name of the firewall packagettttttttttttttWordPress rules
+      - in: query
+        name: order
+        description: Field to order packages byttttttttttttttstatus
+      - in: query
+        name: page
+        description: Page number of paginated resultstttttttttttttt1
+      - in: query
+        name: per_page
+        description: Number of packages per pagetttttttttttttt50
+      - in: header
+        name: X-AUTH-EMAIL
+        description: Email address associated with your account
+      - in: header
+        name: X-AUTH-KEY
+        description: API key generated on the My Account page
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /zones/:zone_identifier/firewall/waf/packages/:identifier:
+    get:
+      summary: Get information about a single firewall package
+      description: Get information about a single firewall package
+      operationId: cloudflare-waf-rule-packages-api
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    patch:
+      summary: Change the sensitivity and action for an anomaly detection type WAF
+        rule package
+      description: Change the sensitivity and action for an anomaly detection type
+        WAF rule package
+      operationId: cloudflare-waf-rule-packages-api
+      parameters:
+      - in: query
+        name: action_mode
+        description: The default action that will be taken for rules under the firewall
+          package.ttttttttttttttchallenge
+      - in: query
+        name: sensitivity
+        description: The sensitivity of the firewall package.tttttttttttttthigh
+      - in: header
+        name: X-AUTH-EMAIL
+        description: Email address associated with your account
+      - in: header
+        name: X-AUTH-KEY
+        description: API key generated on the My Account page
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

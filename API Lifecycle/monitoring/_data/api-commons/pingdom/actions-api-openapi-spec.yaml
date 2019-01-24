@@ -1,0 +1,91 @@
+swagger: "2.0"
+info:
+  title: Actions API
+  description: The Actions API.
+  version: 1.0.0
+host: api.truesight.bmc.com
+basePath: /
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /v1/actions:
+    get:
+      summary: Get all available action types
+      description: Gets all known action types
+      operationId: get-all-available-action-types
+      responses:
+        200:
+          description: OK
+      tags:
+      - Actions
+  /v1/actions/:action:
+    get:
+      summary: Get action
+      description: Gets a single action type
+      operationId: get-action
+      parameters:
+      - in: query
+        name: actionnName of plugin
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Actions
+  /v1/actions/installed:
+    get:
+      summary: Get all installed actions
+      description: Gets all actions that are installed for the project
+      operationId: get-all-installed-actions
+      responses:
+        200:
+          description: OK
+      tags:
+      - Actions
+    put:
+      summary: Install action
+      description: Installs an action
+      operationId: install-action
+      responses:
+        200:
+          description: OK
+      tags:
+      - Actions
+  /v1/actions/installed/:actionId:
+    delete:
+      summary: Uninstall action
+      description: Uninstalls an action and remove it from the associated alarms(s).
+      operationId: uninstall-action
+      responses:
+        200:
+          description: OK
+      tags:
+      - Actions
+    get:
+      summary: Get details of an installed action
+      description: Gets a single action definition
+      operationId: get-details-of-an-installed-action
+      parameters:
+      - in: query
+        name: actionIdnName of plugin
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Actions
+  /v1/actions/installed/:actionId/alarms:
+    get:
+      summary: Get all alarms using an action
+      description: Get alarms that are using this action installed for the project
+      operationId: get-all-alarms-using-an-action
+      responses:
+        200:
+          description: OK
+      tags:
+      - Actions
+definitions: []

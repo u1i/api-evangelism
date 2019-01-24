@@ -1,0 +1,24 @@
+name: C-CEX.com
+description: CryptoCurrency EXchange http://t.co/FqQ63fNpIu 100+ coins, USD trading,
+  fastest deposits and withdrawals, strong security, excellent realtime support.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26449-c-cex-com.jpg
+tags:
+- Technology
+- SaaS
+- Enterprise
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/ccexcom/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: http://c-cex.com
+- type: x-website
+  url: http://bittrex.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

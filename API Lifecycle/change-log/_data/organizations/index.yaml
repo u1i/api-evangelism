@@ -1,0 +1,147 @@
+- slug: github
+  name: GitHub
+  description: >-
+    GitHub is a social network for programmers. Git is a distributed software
+    management program created by Linus Torvalds, originally for the Linux
+    Kernel Development. GitHub is a hosted Git repository. Github allows you to
+    take part in collaboration by forking projects, sending and pulling
+    requests, and monitoring development.
+  url: ''
+  short_url: ''
+  twitter: 'https://twitter.com/github'
+  blog: 'http://github.com/blog'
+  blog_rss: 'https://github.com/blog/subscribe'
+  github: 'https://github.com'
+  image: 'https://assets-cdn.github.com/images/modules/logos_page/Octocat.png'
+  tags: >-
+    Social,Coding,Programming,Social,Jobs,Hacker Storytelling,Code,Platform,My
+    API Stack,Management,Imports,Issues,Issue Management,Change Log,Change Log
+    Example
+- slug: spotify
+  name: Spotify
+  description: >-
+    Spotify has created a lightweight software application that allows instant
+    listening to specific tracks or albums with virtually no buffering delay. It
+    was launched in the fall of 2008 and had approximately 10 million users by
+    September 2010. Spotify offers streaming music from major and independent
+    record labels including Sony, EMI, Warner Music Group, and Universal. Users
+    download Spotify and then log onto their service enabling the on-demand
+    streaming of music. Music can be browsed by artist, album, record label,
+    genre or playlist as well as by direct searches.
+  url: 'http://www.spotify.com'
+  short_url: ''
+  twitter: 'https://twitter.com/spotify'
+  blog: 'http://www.spotify.com/blog/'
+  blog_rss: 'http://www.spotify.com/blog/feed'
+  github: 'https://github.com/spotify'
+  image: >-
+    http://spotifypresscom.files.wordpress.com/2013/01/spotify-logo-primary-vertical-light-background-rgb.jpg
+  tags: >-
+    Music,Streaming,Indie EdTech Data Jam,Issues,Issues Example,Change
+    Log,Change Log Example
+- slug: slack
+  name: Slack
+  description: >-
+    Slack is a team communication application providing services such as
+    real-time messaging, archiving, and to search for modern teams. It offers
+    one-on-one messaging, private groups, persistent chat rooms, and direct
+    messaging as well as group chats organized by topic. All content inside
+    Slack is searchable from one search box and it integrates with a number of
+    third-party services, including Google Docs, Dropbox, Heroku, Crashlytics,
+    GitHub, and Zendesk.
+  url: 'https://slack.com'
+  short_url: ''
+  twitter: 'https://twitter.com/slackapi'
+  blog: 'http://slackhq.com/'
+  blog_rss: 'http://slackhq.com/rss'
+  github: 'https://github.com/slackhq'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/slack-logo.png
+  tags: >-
+    Messaging,Collaboration,Chat,My API Stack,Indie EdTech Data Jam,Messaging
+    API,Imports,Getting Started,Communications,Road Map,Change Log,Change Log
+    Example
+- slug: instagram
+  name: Instagram
+  description: >-
+    Instagram is an online mobile photo-sharing, video-sharing and social
+    networking service that enables its users to take pictures and videos, and
+    share them on a variety of social networking platforms, such as Facebook,
+    Twitter, Tumblr and Flickr. A distinctive feature is that it confines photos
+    to a square shape, similar to Kodak Instamatic and Polaroid images, in
+    contrast to the 4:3 aspect ratio typically used by mobile device cameras.
+    Users can also apply digital filters to their images. The maximum duration
+    for Instagram videos is 15 seconds.
+  url: 'http://instagram.com'
+  short_url: ''
+  twitter: 'https://twitter.com/instagram'
+  blog: 'http://blog.instagram.com/'
+  blog_rss: 'http://blog.instagram.com/rss'
+  github: 'https://github.com/Instagram'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/glyph-logo_May2016_200.png
+  tags: >-
+    Images,Photo,Social,My API Stack,Indie EdTech Data Jam,Photo
+    API,Advertising,Imports,Change Log,Change Log Example
+- slug: authorize.net
+  name: Authorize.Net
+  description: >-
+    Authorize.Net provides a number of ways to process transactions through the
+    payment gateway, ranging from simple Buy Now and Donate buttons to fully
+    integrated, highly customizable Application Programming Interfaces (APIs).
+  url: 'http://developer.authorize.net/'
+  short_url: ''
+  twitter: 'https://twitter.com/AuthorizeNet'
+  blog: 'https://twitter.com/mercatusinc'
+  blog_rss: ''
+  github: ''
+  image: ''
+  tags: 'Finance,Payments,Shopping,Payment API,Payment,Change Log,Change Log Example'
+- slug: crunchbase
+  name: CrunchBase
+  description: >-
+    CrunchBase is the free directory of technology companies, people, and
+    investors that anyone can edit. Our mission is to make information about the
+    startup world available to everyone and maintainable by anyone.
+  url: 'http://crunchbase.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/crunchbase'
+  blog: 'http://blog.crunchbase.com'
+  blog_rss: 'http://crunchbaseblog.golaun.ch/feed/'
+  github: 'https://github.com/crunchbase'
+  image: ''
+  tags: >-
+    Business,Silicon Valley,Business,My API Stack,Getting Started,Change
+    Log,Change Log Example
+- slug: stripe
+  name: Stripe
+  description: >-
+    Stripe is a simple, developer-friendly way to accept payments online. They
+    believe that enabling transactions on the web is a problem rooted in code,
+    not finance, and they want to help put more websites in business.
+  url: 'https://stripe.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/stripe'
+  blog: 'https://stripe.com/blog'
+  blog_rss: 'https://stripe.com/blog/feed.rss'
+  github: 'https://github.com/stripe'
+  image: 'https://stripe.com/img/about/logos/logos/black.png'
+  tags: >-
+    Billing,Finance,Invoicing,Payments,Payment API,Payments,API LIfeycle,Stripe
+    Stack,Imports,Change Log,Change Log Example
+- slug: respoke
+  name: Respoke
+  description: >-
+    Respoke makes it incredibly easy to add real-time communications
+    capabilities to the things you build. Integrate text chat, audio calling,
+    video collaboration, screen sharing, and peer-to-peer data with just a few
+    lines of JavaScript.
+  url: 'https://www.respoke.io'
+  short_url: ''
+  twitter: 'https://twitter.com/respoke'
+  blog: 'http://blog.respoke.io/'
+  blog_rss: 'http://blog.respoke.io/rss'
+  github: 'https://github.com/respoke'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/respoke-web-communications-300x101.jpg
+  tags: 'API LIfeycle,Target,Change Log,Change Log Example,Voice'

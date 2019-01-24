@@ -1,0 +1,239 @@
+swagger: "2.0"
+info:
+  title: Image Manager
+  description: Maintain a catalog of source images, organize and transform the images,
+    make them available for delivery by the Akamai Intelligent Platform.
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /imaging/v0/imagecollections:
+    get:
+      summary: List Image Collections
+      description: ""
+      operationId: imagingv0imagecollections
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /imaging/v0/imagecollections/tags/{id}:
+    get:
+      summary: Get an Image Collection&#8217;s Tags
+      description: ""
+      operationId: imagingv0imagecollectionstagsid
+      parameters:
+      - in: String
+        name: id
+        description: Unique identifier for the image collection .
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    put:
+      summary: Modify an Image Collection&#8217;s Tags
+      description: ""
+      operationId: imagingv0imagecollectionstagsid
+      parameters:
+      - in: String
+        name: id
+        description: Unique identifier for the image collection .
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /imaging/v0/imagecollections/{id}:
+    get:
+      summary: Get an Image Collection
+      description: ""
+      operationId: imagingv0imagecollectionsid
+      parameters:
+      - in: String
+        name: id
+        description: Unique identifier for the image collection .
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    put:
+      summary: Add or Modify an Image Collection
+      description: ""
+      operationId: imagingv0imagecollectionsid
+      parameters:
+      - in: String
+        name: id
+        description: Unique identifier for the image collection .
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /imaging/v0/imagecollections{?tag}:
+    get:
+      summary: List Image Collections By Tag
+      description: ""
+      operationId: imagingv0imagecollectionstag
+      parameters:
+      - in: String
+        name: tag
+        description: Image tag you want to match in a collection.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /imaging/v0/images/{id}:
+    get:
+      summary: Get an Image
+      description: ""
+      operationId: imagingv0imagesid
+      parameters:
+      - in: String
+        name: id
+        description: Identifies the image for which to retrieve metadata.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /imaging/v0/images{?limit}:
+    get:
+      summary: List Images to a Limit
+      description: ""
+      operationId: imagingv0imageslimit
+      parameters:
+      - in: String
+        name: limit
+        description: Specifies maximum number images to retrieve.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /imaging/v0/images{?policyId}:
+    get:
+      summary: List a Policy&#8217;s Images
+      description: ""
+      operationId: imagingv0imagespolicyid
+      parameters:
+      - in: String
+        name: policyId
+        description: Identifies the policy for which to get associated images.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /imaging/v0/images{?url}:
+    get:
+      summary: List Images Matching a URL
+      description: ""
+      operationId: imagingv0imagesurl
+      parameters:
+      - in: String
+        name: url
+        description: URL to search for.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /imaging/v0/policies:
+    get:
+      summary: List Policies
+      description: ""
+      operationId: imagingv0policies
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /imaging/v0/policies/{id}:
+    delete:
+      summary: Remove a Policy
+      description: ""
+      operationId: imagingv0policiesid
+      parameters:
+      - in: String
+        name: id
+        description: Unique policy identifier.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    get:
+      summary: Get a Policy
+      description: ""
+      operationId: imagingv0policiesid
+      parameters:
+      - in: String
+        name: id
+        description: Unique policy identifier.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    put:
+      summary: Add or Modify a Policy
+      description: ""
+      operationId: imagingv0policiesid
+      parameters:
+      - in: String
+        name: id
+        description: Unique policy identifier.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  id:
+    delete:
+      summary: Remove an Image Collection
+      description: ""
+      operationId: id
+      parameters:
+      - in: String
+        name: id
+        description: Unique identifier for the image collection .
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    get:
+      summary: Get Policy History
+      description: ""
+      operationId: id
+      parameters:
+      - in: String
+        name: id
+        description: Unique policy identifier.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

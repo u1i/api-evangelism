@@ -1,0 +1,26 @@
+name: AlphaPoint
+description: AlphaPoint is a technology company that powers digital currency exchanges
+  and provides institutions aggregate access and order routing to digital currency
+  markets. Its secure, scalable, and customizable platform can process nearly 1 million
+  transaction...
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1766-alphapoint.jpg
+tags:
+- Technology
+- Social
+- SaaS
+- Enterprise
+- Currency
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/alphapoint/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: https://alphapoint.com/wiki
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

@@ -1,0 +1,137 @@
+- building_block_id: give-credit
+  type: Branding
+  category: Overview
+  name: Give Credit
+  description: >-
+    Explaining to API consumers that they should give credit where appropriate,
+    and use common sense when it comes to integrations and giving proper credit
+    to value generated via the API.
+  image: ''
+  tags: Branding
+- building_block_id: bring-value
+  type: Branding
+  category: Overview
+  name: Bring Value
+  description: >-
+    Explaining to API consumers that they should bring value to the platform,
+    and not extract more value than they create. Demonstrating that this balance
+    is needed, to make the API integration relationship work.
+  image: ''
+  tags: Branding
+- building_block_id: use-of-brand-name
+  type: Branding
+  category: Overview
+  name: Use of Brand Name
+  description: >-
+    How should API consumers understand when it comes to using brand names in
+    their tools, services, and any materials they produce to support their work.
+  image: ''
+  tags: Branding
+- building_block_id: use-of-brand-logo
+  type: Branding
+  category: Overview
+  name: Use of Brand Logo
+  description: >-
+    How should API consumers understand when it comes to using logos in their
+    tools, services, and any materials they produce to support their work.
+  image: ''
+  tags: Branding
+- building_block_id: use-of-product-titles
+  type: Branding
+  category: Overview
+  name: Use of Product Titles
+  description: >-
+    How should API consumers understand when it comes to using product titles in
+    their tools, services, and any materials they produce to support their work.
+  image: ''
+  tags: Branding
+- building_block_id: naming-your-application
+  type: Branding
+  category: Overview
+  name: Naming Your Application
+  description: >-
+    What are the considerations when an API consumers is naming their
+    application that is build on top of an API? Are there any reserved words, or
+    things consumers should be considering?
+  image: ''
+  tags: Branding
+- building_block_id: image-assets
+  type: Branding
+  category: Assets
+  name: Image Assets
+  description: >-
+    What image assets are available to support and encourage branding efforts by
+    API consumers? Could be logos, all the way to banners--anything image
+    related that supports branding.
+  image: ''
+  tags: Branding
+- building_block_id: icon-assets
+  type: Branding
+  category: Assets
+  name: Icon Assets
+  description: >-
+    What image icon assets are available to support and encourage branding
+    efforts by API consumers? Could be logos, all the way to banners--anything
+    image related that supports branding.
+  image: ''
+  tags: Branding
+- building_block_id: other-assets
+  type: Branding
+  category: Assets
+  name: Other Assets
+  description: >-
+    What other assets are available at your company that you use to help guide
+    internal branding strategies, that maybe you could repurpose, and share with
+    the developer community, helping them be more successful in representing
+    your brand.
+  image: ''
+  tags: Branding
+- building_block_id: content-display-requirements
+  type: Branding
+  category: Requirements
+  name: Content Display Requirements
+  description: >-
+    What are the considerations for how content can be displayed. Any
+    restrictions or considerations for displaying within web and mobile
+    applications.
+  image: ''
+  tags: Branding
+- building_block_id: data-display-requirements
+  type: Branding
+  category: Requirements
+  name: Data Display Requirements
+  description: >-
+    What are the considerations for how data can be displayed. Any restrictions
+    or considerations for displaying within web and mobile applications.
+  image: ''
+  tags: Branding
+- building_block_id: linking-requirements
+  type: Branding
+  category: Requirements
+  name: Linking Requirements
+  description: >-
+    What are your linking requirements? Along with images and other assets, what
+    URLs should be attributed to as part of the process. Make the instructions
+    clear and simple, with all URLs easily available, throughout all assets, and
+    branding related tooling.
+  image: ''
+  tags: Branding
+- building_block_id: branding-examples
+  type: Branding
+  category: Guides
+  name: Branding Examples
+  description: >-
+    What are some existing examples of how brand can be used. Are there samples,
+    or actual case studies of existing integrators that can show how branding is
+    done properly, or maybe done improperly.
+  image: ''
+  tags: Branding
+- building_block_id: full-style-guide
+  type: Branding
+  category: Guides
+  name: Full Style Guide
+  description: >-
+    Is a full style guide available, using in PDF or HTML format that API
+    consumers can use to understand all branding and style guidelines?
+  image: ''
+  tags: Branding

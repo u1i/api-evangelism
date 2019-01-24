@@ -1,0 +1,14 @@
+swagger: "2.0"
+info:
+  title: HD Network
+  description: Build a custom HD Network Management Interface with Akamai Media Services,
+    Domain, Stream, and Archive Management APIs. A pre-OPEN REST API.
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths: []
+definitions: []

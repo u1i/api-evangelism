@@ -1,0 +1,110 @@
+- building_block_id: apis.json
+  type: Discovery
+  category: API Definition Formats
+  name: APIs.json
+  description: >-
+    Use the APIs.json JSON specification for describing collections of APIs,
+    allowing them to be indexed for inclusion in public and private search
+    engines.
+  image: ''
+  tags: Discovery
+- building_block_id: api-directory
+  type: Discovery
+  category: How Are APIs Found?
+  name: API Directory
+  description: >-
+    API directories allow for the submissions and curation of APIs, then enable
+    users to search and browse by keywords and tags, in many areas.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-directory.png
+  tags: 'Discovery,Directory,Discovery'
+- building_block_id: api-hub
+  type: Discovery
+  category: How Are APIs Found?
+  name: API Hub
+  description: >-
+    API directories usually span many categories, where hubs often focus on
+    specific area like telco, or healthcare, providing a single hub for
+    discovering APIs.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-hub.png
+  tags: Discovery
+- building_block_id: ide-extension
+  type: Discovery
+  category: How Are APIs Found?
+  name: IDE Extension
+  description: >-
+    integrated development environment (IDE) extensions or add-ons that allow
+    developers to quickly discovery and understand API endpoints.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-ide.png
+  tags: Discovery
+- building_block_id: api-explorer
+  type: Discovery
+  category: How Are APIs Found?
+  name: API Explorer
+  description: >-
+    Sometimes also called consoles are designed to provide an interactive
+    interface for developers to discover, explore, make calls and see responses
+    in an interactive way.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-compass.png
+  tags: Discovery
+- building_block_id: api-questions
+  type: Discovery
+  category: How Are APIs Found?
+  name: API Questions
+  description: >-
+    Providing a list of questions about API operations, using the
+    api-questions-format, allowing common aspects to be indexed and discoverable
+    via API search.
+  image: ''
+  tags: Discovery
+- building_block_id: programmableweb
+  type: Discovery
+  category: API Directories
+  name: ProgrammableWeb
+  description: >-
+    The original API directory created by John Musser in 2005, to provide a
+    single, searchable directory of common public APIs.
+  image: ''
+  tags: Discovery
+- building_block_id: mashape
+  type: Discovery
+  category: API Directories
+  name: Mashape
+  description: >-
+    An API directory born out of the API management platform Mashape, providing
+    a directory of Mashape clients APIs.
+  image: ''
+  tags: Discovery
+- building_block_id: apis.io
+  type: Discovery
+  category: API Search Engines
+  name: APIs.io
+  description: >-
+    APIs.io is an open source search, driven using the APIs.json discovery
+    format, allowing API providers to manage the discovery index of their own
+    APIs, while allowing consumers to search, discover, and build collections of
+    APIs they use.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/apis-io-logo.png
+  tags: Discovery
+- building_block_id: crunchbase
+  type: Discovery
+  category: Business Directories
+  name: Crunchbase
+  description: >-
+    A directory of companies that is curated by Techcrunch, and allows an
+    approach to listing companies who have APIs.
+  image: ''
+  tags: Discovery
+- building_block_id: angellist
+  type: Discovery
+  category: Business Directories
+  name: AngelList
+  description: >-
+    Like Crunchbase, AngelList is a directory of companies, but also provides a
+    way to showcase companies who have APIs.
+  image: ''
+  tags: Discovery

@@ -1,0 +1,53 @@
+swagger: "2.0"
+info:
+  title: Site Shield
+  description: Provide a Site Shield interface for consumption by nonbrowser clients.
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /siteshield/v1/maps:
+    get:
+      summary: List Maps
+      description: ""
+      operationId: siteshieldv1maps
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /siteshield/v1/maps/{id}:
+    get:
+      summary: Get a Map
+      description: ""
+      operationId: siteshieldv1mapsid
+      parameters:
+      - in: Number
+        name: id
+        description: Numeric id of the Note to perform action with. Has example value.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /siteshield/v1/maps/{id}/acknowledge:
+    post:
+      summary: Acknowledge a Map
+      description: ""
+      operationId: siteshieldv1mapsidacknowledge
+      parameters:
+      - in: Number
+        name: id
+        description: Numeric id of the Note to perform action with. Has example value.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

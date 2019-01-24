@@ -1,0 +1,46 @@
+- slug: jasperclient
+  name: jasper-client
+  description: Client code for Jasper voice computing platform
+  url: 'https://github.com/jasperproject/jasper-client'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Voice
+- slug: betty
+  name: betty
+  description: 'Google Voice with Receptionist abilities, built on top of Twilio'
+  url: 'https://github.com/SamyPesse/betty'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Voice
+- slug: alexaskillskitjs
+  name: alexa-skills-kit-js
+  description: SDK and example code for building voice-enabled skills for the Amazon Echo.
+  url: 'https://github.com/amzn/alexa-skills-kit-js'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Voice
+- slug: alexaavsraspberrypi
+  name: alexa-avs-raspberry-pi
+  description: >-
+    This project demonstrates how to access and test the Alexa Voice Service
+    using a Java client (running on a Raspberry Pi), and a Node.js server.
+  url: 'https://github.com/alexa/alexa-avs-raspberry-pi'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Voice

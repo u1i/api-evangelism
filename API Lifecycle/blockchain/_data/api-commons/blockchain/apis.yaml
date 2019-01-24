@@ -1,0 +1,31 @@
+name: Blockchain
+description: With the largest bitcoin wallet platform in the world, Blockchain's software
+  has powered over 100M transactions and empowered users in 130 countries across the
+  globe to transact quickly and without costly intermediaries. We also offers tools
+  for develo...
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26409-blockchain.jpg
+tags:
+- Technology
+- SaaS
+- Marketplace
+- internet
+- International Trade
+- Financial Services
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/blockchain/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: http://bitpay.com
+- type: x-website
+  url: http://blockchain.info
+- type: x-website
+  url: https://bitcoin.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

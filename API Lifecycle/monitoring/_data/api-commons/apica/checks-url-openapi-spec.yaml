@@ -1,0 +1,74 @@
+swagger: "2.0"
+info:
+  title: Checks URL
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  '/checks/url ':
+    ' post ':
+      summary: Checks URL
+      description: ttttCreates a new URL check (legacy version 1).ttt
+      operationId: -checks-url-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checks URL
+  '/checks/url-v2 ':
+    ' post ':
+      summary: Checks URL V2
+      description: ttttCreates a new URL check (version 2).ttt
+      operationId: -checks-url-v2-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checks URL
+  '/checks/url-v2/locations ':
+    ' get ':
+      summary: Checks URL V2 Locations
+      description: ttttGets a list of all locations that are available for URL (version
+        2) checks.ttt
+      operationId: -checks-url-v2-locations-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checks URL
+  '/checks/url-v2/{checkId} ':
+    ' put ':
+      summary: Checks URL V2 {checkId}
+      description: ttttUpdates a URL check (version 2).ttt
+      operationId: -checks-url-v2-checkid-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checks URL
+  '/checks/url/locations ':
+    ' get ':
+      summary: Checks URL Locations
+      description: ttttGets a list of all locations that are available for URL (legacy
+        version 1) checks.ttt
+      operationId: -checks-url-locations-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checks URL
+  '/checks/url/{checkId} ':
+    ' put ':
+      summary: Checks URL {checkId}
+      description: ttttUpdates a URL check (legacy version 1).ttt
+      operationId: -checks-url-checkid-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checks URL
+definitions: []

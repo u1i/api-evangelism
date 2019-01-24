@@ -1,0 +1,30 @@
+swagger: "2.0"
+info:
+  title: Meters API
+  description: The Meters API.
+  version: 1.0.0
+host: api.truesight.bmc.com
+basePath: /
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /v1/meter/:meterName/registration:
+    post:
+      summary: Registration
+      description: Register a Meter with TrueSight Pulse
+      operationId: registration
+      parameters:
+      - in: formData
+        name: meterVersion
+        description: What version of the Meter is running, ex. &quot;3.0.0-1&quot;
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Meters
+definitions: []

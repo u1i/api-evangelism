@@ -1,0 +1,32 @@
+name: Netsil
+description: 'Netsil automatically discovers your application&rsquo;s topology and
+  builds a map of services and stakeholders so that you can visually locate hotspots
+  and failures faster. There&rsquo;s no more code instrumentation, no more hunting
+  through manual documentation to understand services and dependencies.Netsil works
+  the way you want to work: quickly, iteratively and collaboratively. Finally, a solution
+  designed for microservices, containers and modern distributed systems. Download
+  Netsil for the monitoring and performance analytics needs of your production applications.'
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/netsil-logo.png
+tags:
+- Monitoring
+created: "2016-10-02"
+modified: "2016-10-02"
+url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/netsil/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.netsil.com
+- type: x-blog-rss-feed
+  url: https://blog.netsil.com/feed
+- type: x-github
+  url: https://github.com/netsil
+- type: x-twitter
+  url: https://twitter.com/Netsil_HQ
+- type: x-portal
+  url: http://netsil.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

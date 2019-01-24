@@ -1,0 +1,13 @@
+swagger: "2.0"
+info:
+  title: Alerts
+  description: Create and manage notifications about changes to your traffic patterns.
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths: []
+definitions: []

@@ -1,0 +1,47 @@
+swagger: "2.0"
+info:
+  title: Organizations API
+  description: The API for managing CloudFlare Organizations
+  termsOfService: https://www.cloudflare.com/terms/
+  version: 1.0.0
+host: api.cloudflare.com
+basePath: /client/v4
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /organizations/:identifier:
+    get:
+      summary: Get information about a specific organization that you are a member
+        of
+      description: Get information about a specific organization that you are a member
+        of
+      operationId: cloudflare-organizations-api
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    patch:
+      summary: Update an existing Organization
+      description: Update an existing Organization
+      operationId: cloudflare-organizations-api
+      parameters:
+      - in: query
+        name: name
+        description: Organization NamettttttttttttttCloudFlare, Inc.
+      - in: header
+        name: X-AUTH-EMAIL
+        description: Email address associated with your account
+      - in: header
+        name: X-AUTH-KEY
+        description: API key generated on the My Account page
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

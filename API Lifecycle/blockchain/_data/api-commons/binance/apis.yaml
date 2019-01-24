@@ -1,0 +1,19 @@
+name: Binance
+description: 'Binance stands for u201cBinaryu201d or u201cBitu201d and u201cFinanceu201d,
+  it means what we are doing combines digital technology and Finance.     '
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26554-www-binance-com.jpg
+tags:
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/binance/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: https://www.binance.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

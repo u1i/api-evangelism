@@ -1,0 +1,141 @@
+- slug: dnssecmonitor
+  name: DNSSEC Monitoring
+  description: DNSSEC-monitoring tools used by .SE
+  url: 'https://github.com/dotse/dnssec-monitor'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/dotse/'
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'DNS,Monitoring'
+- slug: healthcheck
+  name: HealthCheck
+  description: A platform for measuring the health of the Internet.
+  url: 'https://github.com/dotse/healthcheck'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/dotse/'
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Monitoring, General'
+- slug: healthcheck
+  name: Healthcheck
+  description: >-
+    Healthcheck wraps a Flask app object and adds a way to write simple
+    healthcheck functions that can be used to monitor your application. It's
+    useful for asserting that your dependencies are up and running and your
+    application can respond to HTTP requests
+  url: 'https://github.com/Runscope/healthcheck'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/Runscope/'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/runscope-logo.png
+  tags: 'Monitoring, Flask'
+- slug: mailcheck
+  name: Mailcheck
+  description: >-
+    Mailcheck is a tool that allows users and administrators to check the status
+    of mail-accounts and se
+  url: 'https://github.com/dotse/Mailcheck'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/dotse/'
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Email,Monitoring'
+- slug: monitorsrv
+  name: Monitoring Server
+  description: >-
+    Monitoring server is a microservice which monitors all the applications
+    within the environment. It's a passive system used for observation and
+    actions are taken separately based on monitoring events.
+  url: 'https://github.com/micro/monitor-srv'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/micro/'
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Monitoring,Microservices'
+- slug: nagioscore
+  name: Nagios Core
+  description: >-
+    Nagios is a host/service/network monitoring program written in C and
+    released under the GNU General Public License, version 2. CGI programs are
+    included to allow you to view the current status, history, etc via a web
+    interface if you so desire.
+  url: 'https://github.com/NagiosEnterprises/nagioscore'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/NagiosEnterprises/'
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Logging,Monitoring'
+- slug: noderunscope
+  name: Node Runscope
+  description: A node client for interacting with the Runscope API.
+  url: 'https://github.com/dperezmavro/node-runscope'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/dperezmavro/'
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Monitoring, Node.js, Runscope'
+- slug: ceph-dash
+  name: Ceph Dash
+  description: >-
+    This is a small and clean approach of providing the Ceph overall cluster
+    health status via a restful json api as well as via a (hopefully) fancy web
+    gui. There are no dependencies to the existing ceph-rest-api. This wsgi
+    application talks to the cluster directly via librados.
+  url: 'https://github.com/Crapworks/ceph-dash'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/Crapworks/'
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Monitoring, Flask'
+- slug: orange
+  name: Orange
+  description: A Gateway based on OpenResty(Nginx+lua) for API Monitoring and Management.
+  url: 'https://github.com/sumory/orange'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/sumory/'
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Monitoring, General'
+- slug: beeping
+  name: BeePing
+  description: HTTP Monitoring via API - Measure the performance of you servers
+  url: 'https://github.com/yanc0/beeping'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/yanc0/'
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Monitoring, General, Performance,General'
+- slug: status-ok
+  name: StatusOK
+  description: >-
+    Monitor your Website and APIs from your computer.Get notified through Slack
+    or E-mail when your server is down or response time is more than expected.
+  url: 'https://github.com/sanathp/statusok'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/sanathp/'
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Monitoring, General'

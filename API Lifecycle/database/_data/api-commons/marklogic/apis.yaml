@@ -1,0 +1,25 @@
+name: MarkLogic
+description: MarkLogic Corporation is an American software business that develops
+  and provides an enterprise NoSQL database, MarkLogic. MarkLogic is considered a
+  multi-model NoSQL database for its ability to store, manage, and search JSON and
+  XML documents and graph data (RDF triples). Organizations rely on the flexibility
+  and agility of MarkLogic in order to integrate massive amounts of data and build
+  large scale web applications.
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/StorageReview-MarkLogic-Logo.jpg
+tags:
+- Database
+created: "2016-12-24"
+modified: "2016-12-24"
+url: https://raw.githubusercontent.com/api-evangelist/database/gh-pages/_data/api-commons/marklogic/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: http://www.marklogic.com/
+- type: x-portal
+  url: http://www.marklogic.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

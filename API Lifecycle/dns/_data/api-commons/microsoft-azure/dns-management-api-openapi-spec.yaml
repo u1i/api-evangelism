@@ -1,0 +1,512 @@
+swagger: "2.0"
+info:
+  title: DNS Management API
+  description: By hosting your domains in Azure, you can manage your DNS records using
+    the same credentials, APIs, tools, and billing as your other Azure services.
+  version: 1.0.0
+host: management.azure.com
+basePath: /
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /subscriptions/{subscriptionId}/providers/Microsoft.Network/dnszones:
+    get:
+      summary: List Zones
+      description: Lists the DNS zones within a resource group.
+      operationId: Zones_ListInSubscription
+      parameters:
+      - in: query
+        name: $top
+        description: Query parameters. If null is passed returns the default number
+          of zones.
+      - in: query
+        name: No Name
+      responses:
+        200:
+          description: OK
+      tags:
+      - Zones
+  /subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.Network/dnszones:
+    get:
+      summary: List Zones
+      description: Lists the DNS zones within a resource group.
+      operationId: Zones_ListInResourceGroup
+      parameters:
+      - in: query
+        name: $top
+        description: Query parameters. If null is passed returns the default number
+          of zones.
+      - in: query
+        name: No Name
+      - in: path
+        name: resourceGroupName
+        description: The name of the resource group.
+      responses:
+        200:
+          description: OK
+      tags:
+      - Zones
+  /subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.Network/dnszones/{zoneName}:
+    delete:
+      summary: Remove Group
+      description: Removes a DNS zone from a resource group.
+      operationId: Zones_Delete
+      parameters:
+      - in: header
+        name: If-Match
+        description: Defines the If-Match condition. The delete operation will be
+          performed only if the ETag of the zone on the server matches this value.
+      - in: header
+        name: If-None-Match
+        description: Defines the If-None-Match condition. The delete operation will
+          be performed only if the ETag of the zone on the server does not match this
+          value.
+      - in: query
+        name: No Name
+      - in: path
+        name: resourceGroupName
+        description: The name of the resource group.
+      - in: path
+        name: zoneName
+        description: The name of the zone without a terminating dot.
+      responses:
+        200:
+          description: OK
+      tags:
+      - Zones
+    get:
+      summary: Get Zone
+      description: Gets a DNS zone.
+      operationId: Zones_Get
+      parameters:
+      - in: query
+        name: No Name
+      - in: path
+        name: resourceGroupName
+        description: The name of the resource group.
+      - in: path
+        name: zoneName
+        description: The name of the zone without a terminating dot.
+      responses:
+        200:
+          description: OK
+      tags:
+      - Zones
+    put:
+      summary: Update Zone Group
+      description: Creates or Updates a DNS zone within a resource group.
+      operationId: Zones_CreateOrUpdate
+      parameters:
+      - in: header
+        name: If-Match
+        description: The etag of Zone.
+      - in: header
+        name: If-None-Match
+        description: Defines the If-None-Match condition. Set to * to force Create-If-Not-Exist.
+          Other values will be ignored.
+      - in: query
+        name: No Name
+      - in: body
+        name: parameters
+        description: Parameters supplied to the CreateOrUpdate operation.
+        schema:
+          $ref: '#/definitions/holder'
+      - in: path
+        name: resourceGroupName
+        description: The name of the resource group.
+      - in: path
+        name: zoneName
+        description: The name of the zone without a terminating dot.
+      responses:
+        200:
+          description: OK
+      tags:
+      - Zones
+  /subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.Network/dnszones/{zoneName}/recordsets:
+    get:
+      summary: Get Record
+      description: Lists all RecordSets in a DNS zone.
+      operationId: RecordSets_ListAllInResourceGroup
+      parameters:
+      - in: query
+        name: $top
+        description: Query parameters. If null is passed returns the default number
+          of zones.
+      - in: query
+        name: No Name
+      - in: path
+        name: resourceGroupName
+        description: The name of the resource group that contains the zone.
+      - in: path
+        name: zoneName
+        description: The name of the zone from which to enumerate RecordSets.
+      responses:
+        200:
+          description: OK
+      tags:
+      - Recordsets
+  /subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.Network/dnszones/{zoneName}/{recordType}:
+    get:
+      summary: Get Record in Zone
+      description: Lists the RecordSets of a specified type in a DNS zone.
+      operationId: RecordSets_ListByType
+      parameters:
+      - in: query
+        name: $top
+        description: Query parameters. If null is passed returns the default number
+          of zones.
+      - in: query
+        name: No Name
+      - in: path
+        name: recordType
+        description: The type of record sets to enumerate.
+      - in: path
+        name: resourceGroupName
+        description: The name of the resource group that contains the zone.
+      - in: path
+        name: zoneName
+        description: The name of the zone from which to enumerate RecordsSets.
+      responses:
+        200:
+          description: OK
+      tags:
+      - Recordsets
+  ? /subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.Network/dnszones/{zoneName}/{recordType}/{relativeRecordSetName}
+  : delete:
+      summary: Delete Record
+      description: Removes a RecordSet from a DNS zone.
+      operationId: RecordSets_Delete
+      parameters:
+      - in: header
+        name: If-Match
+        description: Defines the If-Match condition. The delete operation will be
+          performed only if the ETag of the zone on the server matches this value.
+      - in: header
+        name: If-None-Match
+        description: Defines the If-None-Match condition. The delete operation will
+          be performed only if the ETag of the zone on the server does not match this
+          value.
+      - in: query
+        name: No Name
+      - in: path
+        name: recordType
+        description: The type of DNS record.
+      - in: path
+        name: relativeRecordSetName
+        description: The name of the RecordSet, relative to the name of the zone.
+      - in: path
+        name: resourceGroupName
+        description: The name of the resource group.
+      - in: path
+        name: zoneName
+        description: The name of the zone without a terminating dot.
+      responses:
+        200:
+          description: OK
+      tags:
+      - Recordsets
+    get:
+      summary: Get Record
+      description: Gets a RecordSet.
+      operationId: RecordSets_Get
+      parameters:
+      - in: query
+        name: No Name
+      - in: path
+        name: recordType
+        description: The type of DNS record.
+      - in: path
+        name: relativeRecordSetName
+        description: The name of the RecordSet, relative to the name of the zone.
+      - in: path
+        name: resourceGroupName
+        description: The name of the resource group.
+      - in: path
+        name: zoneName
+        description: The name of the zone without a terminating dot.
+      responses:
+        200:
+          description: OK
+      tags:
+      - Recordsets
+    patch:
+      summary: Update Record
+      description: Updates a RecordSet within a DNS zone.
+      operationId: RecordSets_Update
+      parameters:
+      - in: header
+        name: If-Match
+        description: The etag of Zone.
+      - in: header
+        name: If-None-Match
+        description: Defines the If-None-Match condition. Set to * to force Create-If-Not-Exist.
+          Other values will be ignored.
+      - in: query
+        name: No Name
+      - in: body
+        name: parameters
+        description: Parameters supplied to the Update operation.
+        schema:
+          $ref: '#/definitions/holder'
+      - in: path
+        name: recordType
+        description: The type of DNS record.
+      - in: path
+        name: relativeRecordSetName
+        description: The name of the RecordSet, relative to the name of the zone.
+      - in: path
+        name: resourceGroupName
+        description: The name of the resource group.
+      - in: path
+        name: zoneName
+        description: The name of the zone without a terminating dot.
+      responses:
+        200:
+          description: OK
+      tags:
+      - Recordsets
+    put:
+      summary: Update Record
+      description: Creates or Updates a RecordSet within a DNS zone.
+      operationId: RecordSets_CreateOrUpdate
+      parameters:
+      - in: header
+        name: If-Match
+        description: The etag of Recordset.
+      - in: header
+        name: If-None-Match
+        description: Defines the If-None-Match condition. Set to * to force Create-If-Not-Exist.
+          Other values will be ignored.
+      - in: query
+        name: No Name
+      - in: body
+        name: parameters
+        description: Parameters supplied to the CreateOrUpdate operation.
+        schema:
+          $ref: '#/definitions/holder'
+      - in: path
+        name: recordType
+        description: The type of DNS record.
+      - in: path
+        name: relativeRecordSetName
+        description: The name of the RecordSet, relative to the name of the zone.
+      - in: path
+        name: resourceGroupName
+        description: The name of the resource group.
+      - in: path
+        name: zoneName
+        description: The name of the zone without a terminating dot.
+      responses:
+        200:
+          description: OK
+      tags:
+      - Recordsets
+definitions:
+  ARecord:
+    properties:
+      ipv4Address:
+        description: This is a default description.
+        type: get
+  AaaaRecord:
+    properties:
+      ipv6Address:
+        description: This is a default description.
+        type: get
+  MxRecord:
+    properties:
+      preference:
+        description: This is a default description.
+        type: get
+      exchange:
+        description: This is a default description.
+        type: get
+  NsRecord:
+    properties:
+      nsdname:
+        description: This is a default description.
+        type: get
+  PtrRecord:
+    properties:
+      ptrdname:
+        description: This is a default description.
+        type: get
+  SrvRecord:
+    properties:
+      priority:
+        description: This is a default description.
+        type: get
+      weight:
+        description: This is a default description.
+        type: get
+      port:
+        description: This is a default description.
+        type: get
+      target:
+        description: This is a default description.
+        type: get
+  TxtRecord:
+    properties:
+      value:
+        description: This is a default description.
+        type: get
+  CnameRecord:
+    properties:
+      cname:
+        description: This is a default description.
+        type: get
+  SoaRecord:
+    properties:
+      host:
+        description: This is a default description.
+        type: get
+      email:
+        description: This is a default description.
+        type: get
+      serialNumber:
+        description: This is a default description.
+        type: get
+      refreshTime:
+        description: This is a default description.
+        type: get
+      retryTime:
+        description: This is a default description.
+        type: get
+      expireTime:
+        description: This is a default description.
+        type: get
+      minimumTTL:
+        description: This is a default description.
+        type: get
+  RecordSetProperties:
+    properties:
+      metadata:
+        description: This is a default description.
+        type: get
+      TTL:
+        description: This is a default description.
+        type: get
+      ARecords:
+        description: This is a default description.
+        type: get
+      AAAARecords:
+        description: This is a default description.
+        type: get
+      MXRecords:
+        description: This is a default description.
+        type: get
+      NSRecords:
+        description: This is a default description.
+        type: get
+      PTRRecords:
+        description: This is a default description.
+        type: get
+      SRVRecords:
+        description: This is a default description.
+        type: get
+      TXTRecords:
+        description: This is a default description.
+        type: get
+  RecordSet:
+    properties:
+      id:
+        description: This is a default description.
+        type: get
+      name:
+        description: This is a default description.
+        type: get
+      type:
+        description: This is a default description.
+        type: get
+      etag:
+        description: This is a default description.
+        type: get
+  RecordSetUpdateParameters:
+    properties: []
+  RecordSetListResult:
+    properties:
+      value:
+        description: This is a default description.
+        type: get
+      nextLink:
+        description: This is a default description.
+        type: get
+  ZoneProperties:
+    properties:
+      maxNumberOfRecordSets:
+        description: This is a default description.
+        type: get
+      numberOfRecordSets:
+        description: This is a default description.
+        type: get
+      nameServers:
+        description: This is a default description.
+        type: get
+  Zone:
+    properties:
+      etag:
+        description: This is a default description.
+        type: get
+  ZoneDeleteResult:
+    properties:
+      azureAsyncOperation:
+        description: This is a default description.
+        type: get
+      status:
+        description: This is a default description.
+        type: get
+      statusCode:
+        description: This is a default description.
+        type: get
+      requestId:
+        description: This is a default description.
+        type: get
+  ZoneListResult:
+    properties:
+      value:
+        description: This is a default description.
+        type: get
+      nextLink:
+        description: This is a default description.
+        type: get
+  Resource:
+    properties:
+      id:
+        description: This is a default description.
+        type: get
+      name:
+        description: This is a default description.
+        type: get
+      type:
+        description: This is a default description.
+        type: get
+      location:
+        description: This is a default description.
+        type: get
+      tags:
+        description: This is a default description.
+        type: get
+  SubResource:
+    properties:
+      id:
+        description: This is a default description.
+        type: get
+  CloudError:
+    properties: []
+  CloudErrorBody:
+    properties:
+      code:
+        description: This is a default description.
+        type: get
+      message:
+        description: This is a default description.
+        type: get
+      target:
+        description: This is a default description.
+        type: get
+      details:
+        description: This is a default description.
+        type: get

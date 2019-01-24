@@ -1,0 +1,50 @@
+- building_block_id: documentation
+  type: Documentation
+  category: Elements
+  name: Documentation
+  description: >-
+    Simple, easy to understand, documentation of what an API does, that is kept
+    up to date with API roadmap.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-documentation.png
+  tags: 'Management,Documentation'
+- building_block_id: list-of-endpoints
+  type: Documentation
+  category: Elements
+  name: List of Endpoints
+  description: >-
+    A simple listing of all endpoints provides a quick introduction of what is
+    available with an API.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-list.png
+  tags: 'Management,Documentation'
+- building_block_id: interactive-documentation
+  type: Documentation
+  category: Elements
+  name: Interactive Documentation
+  description: >-
+    Interactive, hands-on documentation, provided by common approaches like
+    Swagger and API Blueprint.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-documentation-interactive.png
+  tags: 'Management,Documentation'
+- building_block_id: api-explorer
+  type: Documentation
+  category: Elements
+  name: API Explorer
+  description: >-
+    API explorers allow users to make calls and explore REST APIs using a web
+    interface.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-explorer.png
+  tags: 'Management,Documentation'
+- building_block_id: error-response-codes
+  type: Documentation
+  category: Elements
+  name: Error Response Codes
+  description: >-
+    Provide a robust, complete, clear and meaningful list of API error response
+    codes.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-error.png
+  tags: 'Management,Documentation'

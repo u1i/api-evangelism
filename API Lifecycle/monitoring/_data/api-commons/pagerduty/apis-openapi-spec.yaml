@@ -1,0 +1,31 @@
+swagger: "2.0"
+info:
+  title: APIS
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /api_reference:
+    get:
+      summary: REST API Reference
+      description: REST API Reference.
+      operationId: rest-api-reference
+      responses:
+        200:
+          description: OK
+      tags:
+      - APIs
+    x-description:
+      summary: I
+      description: I
+      operationId: I
+      responses:
+        200:
+          description: OK
+      tags:
+      - APIs
+definitions: []

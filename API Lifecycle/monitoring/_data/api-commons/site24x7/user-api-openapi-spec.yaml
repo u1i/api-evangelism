@@ -1,0 +1,33 @@
+swagger: "2.0"
+info:
+  title: User API
+  description: The User API.
+  version: 1.0.0
+host: www.site24x7.com.
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /users/{user_id}:
+    delete:
+      summary: Delete an user
+      description: Delete an existing User.
+      operationId: delete-an-user
+      responses:
+        200:
+          description: OK
+      tags:
+      - Users
+    get:
+      summary: Retrieve an user info
+      description: Retrieve information for an existing user.
+      operationId: retrieve-an-user-info
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

@@ -1,0 +1,20 @@
+name: ArangoDB
+description: An open-source database with a flexible data model for documents, graphs,
+  and key-values. Build high performance applications using a convenient sql-like
+  query language or JavaScript extensions.
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/arangodb_logo2.png
+tags:
+- Database
+created: "2016-12-24"
+modified: "2016-12-24"
+url: https://raw.githubusercontent.com/api-evangelist/database/gh-pages/_data/api-commons/arangodb/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: https://www.arangodb.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

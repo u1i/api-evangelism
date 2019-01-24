@@ -1,0 +1,191 @@
+swagger: "2.0"
+info:
+  title: Log Delivery Service
+  description: View, update and delete configurations for the Portal log delivery
+    service.
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /lds/v1/configurations/resume/{serviceId}:
+    post:
+      summary: Resume a Configuration
+      description: ""
+      operationId: ldsv1configurationsresumeserviceid
+      parameters:
+      - in: Number
+        name: serviceId
+        description: ID of the configuration.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /lds/v1/dictionaries/{dictionaryName}/validation/data:
+    get:
+      summary: Get Validation Context
+      description: ""
+      operationId: ldsv1dictionariesdictionarynamevalidationdata
+      parameters:
+      - in: Enumeration
+        name: dictionaryName
+        description: 'Dictionary name value. Possible values: ENCODINGS.'
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /lds/v1/redeliveries:
+    get:
+      summary: List Redeliveries
+      description: ""
+      operationId: ldsv1redeliveries
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    post:
+      summary: Create a Redelivery
+      description: ""
+      operationId: ldsv1redeliveries
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  acgObject:
+    get:
+      summary: List Configurations
+      description: ""
+      operationId: acgobject
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  key:
+    get:
+      summary: Get a Dictionary
+      description: ""
+      operationId: key
+      parameters:
+      - in: String
+        name: currentValueKey
+        description: Value of current key. This is always included in the returned
+          list for dictionaries where values are dynamically evaluated (i.e. LOG_FORMATS).
+        type: string
+      - in: Enumeration
+        name: dictionaryName
+        description: 'Dictionary name value. Possible values: DELIVERY_FREQUENCY,
+          ENCODINGS, LOG_FORMATS, MESSAGE_SIZES, PHONES, PRODUCTS, PRODUCT_GROUPS_FOR_ACGS.'
+        type: string
+      - in: Number
+        name: objectId
+        description: The acgObject identifier. Required when a dictionary value must
+          be evaluated for a specific object, such as LOG_FORMATS.
+        type: string
+      - in: String
+        name: objectType
+        description: The acgObject type. Required when a dictionary value must be
+          evaluated for a specific object, such as LOG_FORMATS.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  redeliveryId:
+    get:
+      summary: Get a Redelivery
+      description: ""
+      operationId: redeliveryid
+      parameters:
+      - in: Number
+        name: redeliveryId
+        description: ID of the redelivery.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  serviceId:
+    delete:
+      summary: Remove a Configuration
+      description: ""
+      operationId: serviceid
+      parameters:
+      - in: Number
+        name: serviceId
+        description: ID of the configuration.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    get:
+      summary: Get a Configuration
+      description: ""
+      operationId: serviceid
+      parameters:
+      - in: Number
+        name: serviceId
+        description: ID of the configuration.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    post:
+      summary: Create a Configuration
+      description: ""
+      operationId: serviceid
+      parameters:
+      - in: Number
+        name: serviceId
+        description: ID of the configuration.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    put:
+      summary: Modify a Configuration
+      description: ""
+      operationId: serviceid
+      parameters:
+      - in: Number
+        name: serviceId
+        description: ID of the configuration.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  sourceServiceId:
+    post:
+      summary: Copy a Configuration
+      description: ""
+      operationId: sourceserviceid
+      parameters:
+      - in: Number
+        name: sourceServiceId
+        description: ID of the source configuration for copy.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

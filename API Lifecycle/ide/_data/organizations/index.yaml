@@ -1,0 +1,88 @@
+---
+- slug: sublime-hq
+  name: Sublime HQ
+  description: Sublime Text is a sophisticated text editor for code, markup and prose.
+    You'll love the slick user interface, extraordinary features and amazing performance.
+  url: http://www.sublimetext.com/
+  shorturl: ""
+  twitter: https://twitter.com/sublimehq
+  blog: http://www.sublimetext.com/blog/
+  blogrss: http://www.sublimetext.com/blog/feed
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sublime-text.png
+  tags: Editor,Integrated Development Environment
+- slug: api-workbench
+  name: API Workbench
+  description: API Workbench, a rich, full-featured integrated development environment
+    (IDE) for designing, building, testing, documenting and sharing RESTful HTTP APIs.
+    It supports both RAML 0.8 and the recently launched RAML 1.0. RAML makes it easy
+    to manage the whole API lifecycle from design to sharing.
+  url: http://apiworkbench.com/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/API-Workbench.png
+  tags: Integrated Development Environment
+- slug: kite
+  name: Kite
+  description: Your programming copilot. Kite augments your coding environment with
+    all the internet&rsquo;s programming knowledge. Your editor and web browser don't
+    know anything about each other, which is why you end up continuously switching
+    between them. Kite bridges that gap, bringing an internet-connected programming
+    experience right alongside your editor.
+  url: https://kite.com
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/kite-programming.png
+  tags: Integrated Development Environment
+- slug: atom-editor
+  name: Atom Editor
+  description: At GitHub, we're building the text editor we've always wanted. A tool
+    you can customize to do anything, but also use productively on the first day without
+    ever touching a config file. Atom is modern, approachable, and&nbsp;hackable to
+    the core.&nbsp;
+  url: https://atom.io/
+  shorturl: ""
+  twitter: https://twitter.com/atomeditor
+  blog: http://blog.atom.io/
+  blogrss: http://blog.atom.io/feed.xml
+  github: https://github.com/atom
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/atom-editor-logo.png
+  tags: Integrated Development Environment,Editor,GitHub
+- slug: codenvy
+  name: Codenvy
+  description: Industrial cloud IDE, build, and test services for developers, enterprises,
+    and ISVs. Codenvy is the leader in cloud software development. Codenvy has the
+    largest selection of integrated partners including GitHub, BitBucket, RedHat OpenShift,
+    Google App Engine, Amazon Web Services BeanStalk, VMware CloudFoundry, Heroku,
+    AppFog, CloudBees, Tier3, and ZeroTurnaround.
+  url: https://codenvy.com/
+  shorturl: ""
+  twitter: https://twitter.com/CodenvyHQ
+  blog: http://blog.codenvy.com/
+  blogrss: http://blog.codenvy.com/feed/
+  github: https://github.com/codenvy
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/code-envy-logo.jpg
+  tags: Integrated Development Environment
+- slug: visual-studio
+  name: Visual Studio
+  description: Microsoft Visual Studio is an integrated development environment (IDE)
+    from Microsoft. It is used to develop computer programs for Microsoft Windows,
+    as well as web sites, web applications and web services. Visual Studio uses Microsoft
+    software development platforms such as Windows API, Windows Forms, Windows Presentation
+    Foundation, Windows Store and Microsoft Silverlight. It can produce both native
+    code and managed code.
+  url: https://www.visualstudio.com/
+  shorturl: ""
+  twitter: https://twitter.com/visualstudio
+  blog: http://blogs.msdn.com/b/visualstudio/
+  blogrss: http://blogs.msdn.com/b/visualstudio/rss.aspx
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/visual-studio-2013-logo.png
+  tags: Integrated Development Environment,Microsoft
+...

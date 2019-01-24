@@ -1,0 +1,25 @@
+name: Neo4J
+description: Neo4j is an open-source graph database, implemented in Java. The developers
+  describe Neo4j as embedded, disk-based, fully transactional Java persistence engine
+  that stores data structured in graphs rather than in tables. Neo4j is the most popular
+  graph database. Neo4j version 1.0 was released in February, 2010. The community
+  edition of the database is licensed under the free GNU General Public License (GPL)
+  v3. The additional modules, such as online backup and high availability, are licensed
+  under the free Affero General Public License (AGPL) v3. The database, with the additional
+  modules, is also available under a commercial license, in a dual license model.
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/neo4j-logo-2015.png
+tags:
+- Database
+created: "2016-12-24"
+modified: "2016-12-24"
+url: https://raw.githubusercontent.com/api-evangelist/database/gh-pages/_data/api-commons/neo4j/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: http://neo4j.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

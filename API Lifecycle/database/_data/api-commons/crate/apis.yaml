@@ -1,0 +1,25 @@
+name: Crate
+description: Crate is an open source, highly scalable, shared-nothing distributed
+  SQL database. Crate offers the scalability and performance of a modern No-SQL database
+  with the power of Standard SQL. Crate&rsquo;s distributed SQL query engine lets
+  you use the same syntax that already exists in your applications or integrations,
+  and have queries seamlessly executed across the crate cluster, including any aggregations,
+  if needed.
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/create-io-logo.png
+tags:
+- Database
+created: "2016-12-24"
+modified: "2016-12-24"
+url: https://raw.githubusercontent.com/api-evangelist/database/gh-pages/_data/api-commons/crate/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: https://crate.io/
+- type: x-portal
+  url: https://crate.io/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

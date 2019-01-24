@@ -1,0 +1,24 @@
+swagger: "2.0"
+info:
+  title: Check API
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /api/v1/check_run:
+    post:
+      summary: Post a Check Run
+      description: ""
+      operationId: post-a-check-run
+      parameters:
+      - type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checks
+definitions: []

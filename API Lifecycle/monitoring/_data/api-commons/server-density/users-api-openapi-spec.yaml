@@ -1,0 +1,378 @@
+swagger: "2.0"
+info:
+  title: Users API
+  description: The Users API.
+  version: 1.0.0
+host: api.serverdensity.io.
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  '/users ':
+    ' get ':
+      summary: Users
+      description: Returns all customers users.ttt
+      operationId: ""
+      responses:
+        200:
+          description: OK
+      tags:
+      - Users
+    ' post ':
+      summary: Users
+      description: Creates a new user.ttt
+      operationId: ""
+      responses:
+        200:
+          description: OK
+      tags:
+      - Users
+    ' put ':
+      summary: Users
+      description: Updates a user.ttt
+      operationId: ""
+      responses:
+        200:
+          description: OK
+      tags:
+      - Users
+  /users:
+    get:
+      summary: List users
+      description: List users of your PagerDuty account, optionally filtered by a
+        search query.
+      operationId: list-users-of-your-pagerduty-account-optionally-filtered-by-a-search-query
+      parameters:
+      - in: query
+        name: No Name
+      - in: query
+        name: query
+        description: Filters the result, showing only the users whose names or email
+          addresses match the query.
+      responses:
+        200:
+          description: OK
+      tags:
+      - Users
+    post:
+      summary: Create a user
+      description: Create a new user. Note that you must also supply a `password`
+        property to create a user--it will not be returned by any API.
+      operationId: create-a-new-user-note-that-you-must-also-supply-a-password-property-to-create-a-userit-will-not-be-
+      parameters:
+      - in: query
+        name: No Name
+      - in: body
+        name: user
+        description: The user to be created.
+        schema:
+          $ref: '#/definitions/holder'
+      responses:
+        200:
+          description: OK
+      tags:
+      - Users
+    x-description:
+      summary: L
+      description: L
+      operationId: L
+      responses:
+        200:
+          description: OK
+      tags:
+      - Users
+  /users/users/userId:
+    "":
+      summary: Deleting a user
+      description: ""
+      operationId: deleting-a-user
+      parameters:
+      - in: path
+        name: token
+        description: Your API token.
+        type: string
+      - in: body
+        name: token
+        description: Your API token.
+        schema:
+          $ref: '#/definitions/holder'
+      - in: path
+        name: userId
+        description: The ID of the user to delete
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Users
+  /users/{id}:
+    delete:
+      summary: Delete a user
+      description: Remove an existing user.
+      operationId: remove-an-existing-user
+      parameters:
+      - in: query
+        name: No Name
+      responses:
+        200:
+          description: OK
+      tags:
+      - Users
+    get:
+      summary: Get a user
+      description: Get details about an existing user.
+      operationId: get-details-about-an-existing-user
+      parameters:
+      - in: query
+        name: No Name
+      responses:
+        200:
+          description: OK
+      tags:
+      - Users
+    put:
+      summary: Update a user
+      description: Update an existing user. Note that you may also supply a `password`
+        property--it will not be returned by any API.
+      operationId: update-an-existing-user-note-that-you-may-also-supply-a-password-propertyit-will-not-be-returned-by-
+      parameters:
+      - in: query
+        name: No Name
+      - in: body
+        name: user
+        description: The user to be updated.
+        schema:
+          $ref: '#/definitions/holder'
+      responses:
+        200:
+          description: OK
+      tags:
+      - Users
+    x-description:
+      summary: M
+      description: M
+      operationId: M
+      responses:
+        200:
+          description: OK
+      tags:
+      - Users
+  /users/{id}/contact_methods:
+    get:
+      summary: List a user's contact methods
+      description: List contact methods of your PagerDuty user.
+      operationId: list-contact-methods-of-your-pagerduty-user
+      parameters:
+      - in: query
+        name: No Name
+      responses:
+        200:
+          description: OK
+      tags:
+      - User Contact Methods
+    post:
+      summary: Create a user contact method
+      description: Create a new contact method.
+      operationId: create-a-new-contact-method
+      parameters:
+      - in: body
+        name: contact_method
+        description: The contact method to be created.
+        schema:
+          $ref: '#/definitions/holder'
+      - in: query
+        name: No Name
+      responses:
+        200:
+          description: OK
+      tags:
+      - User Contact Methods
+    x-description:
+      summary: L
+      description: L
+      operationId: L
+      responses:
+        200:
+          description: OK
+      tags:
+      - User Contact Methods
+  /users/{id}/contact_methods/{contact_method_id}:
+    delete:
+      summary: Delete a user's contact method
+      description: Remove a users contact method.
+      operationId: remove-a-users-contact-method
+      parameters:
+      - in: query
+        name: No Name
+      responses:
+        200:
+          description: OK
+      tags:
+      - User Contact Methods
+    get:
+      summary: Get a user's contact method
+      description: Get details about a users contact method.
+      operationId: get-details-about-a-users-contact-method
+      parameters:
+      - in: query
+        name: No Name
+      responses:
+        200:
+          description: OK
+      tags:
+      - User Contact Methods
+    put:
+      summary: Update a user's contact method
+      description: Update a users contact method.
+      operationId: update-a-users-contact-method
+      parameters:
+      - in: query
+        name: No Name
+      - in: body
+        name: user
+        description: The users contact method to be updated.
+        schema:
+          $ref: '#/definitions/holder'
+      responses:
+        200:
+          description: OK
+      tags:
+      - User Contact Methods
+    x-description:
+      summary: M
+      description: M
+      operationId: M
+      responses:
+        200:
+          description: OK
+      tags:
+      - User Contact Methods
+  /users/{id}/notification_rules:
+    get:
+      summary: List a user's notification rules
+      description: List notification rules of your PagerDuty user.
+      operationId: list-notification-rules-of-your-pagerduty-user
+      parameters:
+      - in: query
+        name: include[]
+        description: Array of additional details to include.
+      - in: query
+        name: No Name
+      responses:
+        200:
+          description: OK
+      tags:
+      - User Notification Rules
+    post:
+      summary: Create a user notification rule
+      description: Create a new notification rule.
+      operationId: create-a-new-notification-rule
+      parameters:
+      - in: query
+        name: No Name
+      - in: body
+        name: notification_rule
+        description: The notification rule to be created.
+        schema:
+          $ref: '#/definitions/holder'
+      responses:
+        200:
+          description: OK
+      tags:
+      - User Notification Rules
+    x-description:
+      summary: L
+      description: L
+      operationId: L
+      responses:
+        200:
+          description: OK
+      tags:
+      - User Notification Rules
+  /users/{id}/notification_rules/{notification_rule_id}:
+    delete:
+      summary: Delete a user's notification rule
+      description: Remove a users notification rule.
+      operationId: remove-a-users-notification-rule
+      parameters:
+      - in: query
+        name: No Name
+      responses:
+        200:
+          description: OK
+      tags:
+      - User Notification Rules
+    get:
+      summary: Get a user's notification rule
+      description: Get details about a users notification rule.
+      operationId: get-details-about-a-users-notification-rule
+      parameters:
+      - in: query
+        name: include[]
+        description: Array of additional details to include.
+      - in: query
+        name: No Name
+      responses:
+        200:
+          description: OK
+      tags:
+      - User Notification Rules
+    put:
+      summary: Update a user's notification rule
+      description: Update a users notification rule.
+      operationId: update-a-users-notification-rule
+      parameters:
+      - in: query
+        name: No Name
+      - in: body
+        name: notification_rule
+        description: The users notification rule to be updated.
+        schema:
+          $ref: '#/definitions/holder'
+      responses:
+        200:
+          description: OK
+      tags:
+      - User Notification Rules
+    x-description:
+      summary: M
+      description: M
+      operationId: M
+      responses:
+        200:
+          description: OK
+      tags:
+      - User Notification Rules
+  /users/{id}/resend_invite:
+    x-description:
+      summary: R
+      description: R
+      operationId: R
+      responses:
+        200:
+          description: OK
+      tags:
+      - Users
+  '/users/{user_guid} ':
+    ' delete ':
+      summary: Users {user_guid}
+      description: Deletes a user.ttt
+      operationId: ""
+      responses:
+        200:
+          description: OK
+      tags:
+      - Users
+    ' get ':
+      summary: Users {user_guid}
+      description: Returns customers user by user GUID.ttt
+      operationId: ""
+      responses:
+        200:
+          description: OK
+      tags:
+      - Users
+definitions: []

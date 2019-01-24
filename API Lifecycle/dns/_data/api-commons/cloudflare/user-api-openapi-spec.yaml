@@ -1,0 +1,57 @@
+swagger: "2.0"
+info:
+  title: User API
+  description: The API for managing CloudFlare User
+  termsOfService: https://www.cloudflare.com/terms/
+  version: 1.0.0
+host: api.cloudflare.com
+basePath: /client/v4
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /user:
+    get:
+      summary: User details
+      description: ' User detailsn'
+      operationId: cloudflare-user-api
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    patch:
+      summary: Update part of your user details
+      description: Update part of your user details
+      operationId: cloudflare-user-api
+      parameters:
+      - in: query
+        name: country
+        description: The country in which the user lives.US
+      - in: query
+        name: first_name
+        description: Users first nameJohn
+      - in: query
+        name: last_name
+        description: Users last nameAppleseed
+      - in: query
+        name: telephone
+        description: Users telephone number+1 123-123-1234
+      - in: header
+        name: X-AUTH-EMAIL
+        description: Email address associated with your account
+      - in: header
+        name: X-AUTH-KEY
+        description: API key generated on the My Account page
+      - in: query
+        name: zipcode
+        description: The zipcode or postal code where the user lives.12345
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

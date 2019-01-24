@@ -1,0 +1,45 @@
+swagger: "2.0"
+info:
+  title: Reports API
+  description: The Reports API.
+  version: 1.0.0
+host: api.pingdom.com
+basePath: /
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  n    /api/{version}/reports.email:
+    n    get:
+      summary: Get Email Report Subscription List
+      description: '    Returns a list of email report subscriptions.'
+      operationId: get-email-report-subscription-list
+      responses:
+        200:
+          description: OK
+      tags:
+      - Reports
+  n    /api/{version}/reports.public:
+    n    get:
+      summary: Get Public Report List
+      description: '    Returns a list of public (web-based) reports.'
+      operationId: get-public-report-list
+      responses:
+        200:
+          description: OK
+      tags:
+      - Reports
+  n    /api/{version}/reports.shared:
+    n    get:
+      summary: Get Shared Reports (Banners) List
+      description: '    Returns a list of shared reports (banners).'
+      operationId: get-shared-reports-banners-list
+      responses:
+        200:
+          description: OK
+      tags:
+      - Reports
+definitions: []

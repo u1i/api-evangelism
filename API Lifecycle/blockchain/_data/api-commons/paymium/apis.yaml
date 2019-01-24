@@ -1,0 +1,21 @@
+name: PAYMIUM
+description: Buy and sell Bitcoins with ease on the European exchange. Achetez et
+  vendez des Bitcoins en toute simplicitu00e9 sur la place de marchu00e9 Europu00e9enne.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26560-www-paymium-com.jpg
+tags:
+- Technology
+- Marketplace
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/paymium/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: https://www.paymium.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

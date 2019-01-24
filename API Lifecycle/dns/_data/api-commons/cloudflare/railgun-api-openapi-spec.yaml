@@ -1,0 +1,109 @@
+swagger: "2.0"
+info:
+  title: Railgun API
+  description: The API for managing CloudFlare Railgun
+  termsOfService: https://www.cloudflare.com/terms/
+  version: 1.0.0
+host: api.cloudflare.com
+basePath: /client/v4
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /railguns:
+    get:
+      summary: List, search, sort and filter your Railguns
+      description: List, search, sort and filter your Railguns
+      operationId: cloudflare-railgun-api
+      parameters:
+      - in: query
+        name: direction
+        description: Direction to order Railgunsttttttttttttttdesc
+      - in: query
+        name: page
+        description: Page number of paginated resultstttttttttttttt1
+      - in: query
+        name: per_page
+        description: Number of items per pagetttttttttttttt20
+      - in: header
+        name: X-AUTH-EMAIL
+        description: Email address associated with your account
+      - in: header
+        name: X-AUTH-KEY
+        description: API key generated on the My Account page
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    post:
+      summary: Readable identifier of the railgun
+      description: Readable identifier of the railgun
+      operationId: cloudflare-railgun-api
+      parameters:
+      - in: query
+        name: name
+        description: Readable identifier of the railgunttttttttttttttMy Railgun
+      - in: header
+        name: X-AUTH-EMAIL
+        description: Email address associated with your account
+      - in: header
+        name: X-AUTH-KEY
+        description: API key generated on the My Account page
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /railguns/:identifier:
+    delete:
+      summary: Disable and delete a Railgun
+      description: Disable and delete a Railgun
+      operationId: cloudflare-railgun-api
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    get:
+      summary: Railgun details
+      description: ' Railgun detailsntt  '
+      operationId: cloudflare-railgun-api
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    patch:
+      summary: Enable or disable a Railgun for all zones connected to it
+      description: Enable or disable a Railgun for all zones connected to it
+      operationId: cloudflare-railgun-api
+      parameters:
+      - in: query
+        name: enabled
+        description: Flag to determine if the Railgun is accepting connectionstttttttttttttttrue
+      - in: header
+        name: X-AUTH-EMAIL
+        description: Email address associated with your account
+      - in: header
+        name: X-AUTH-KEY
+        description: API key generated on the My Account page
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /railguns/:identifier/zones:
+    get:
+      summary: The zones that are currently using this Railgun
+      description: The zones that are currently using this Railgun
+      operationId: cloudflare-railgun-api
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

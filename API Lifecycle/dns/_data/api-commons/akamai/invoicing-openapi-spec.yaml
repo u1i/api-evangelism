@@ -1,0 +1,223 @@
+swagger: "2.0"
+info:
+  title: Invoicing
+  description: Allows you to access your Akamai invoices.
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /invoicing-api/v2/accounts/{accountId}/invoices{?year,month}:
+    get:
+      summary: List Account&#8217;s Invoices
+      description: ""
+      operationId: invoicingapiv2accountsaccountidinvoicesyearmonth
+      parameters:
+      - in: String
+        name: accountId
+        description: Identifies the account under which data is aggregated.
+        type: string
+      - in: Integer
+        name: month
+        description: The month for which data is aggregated. Must be paired with a
+          year value.
+        type: string
+      - in: Integer
+        name: year
+        description: The year for which data is aggregated. Must be paired with a
+          month value.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /invoicing-api/v2/accounts/{accountId}/notifications:
+    get:
+      summary: List Notifications
+      description: ""
+      operationId: invoicingapiv2accountsaccountidnotifications
+      parameters:
+      - in: String
+        name: accountId
+        description: Identifies the account under which data is aggregated.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    post:
+      summary: Create a Notification
+      description: ""
+      operationId: invoicingapiv2accountsaccountidnotifications
+      parameters:
+      - in: String
+        name: accountId
+        description: Identifies the account under which data is aggregated.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /invoicing-api/v2/accounts/{accountId}/notifications/{notificationId}:
+    delete:
+      summary: Remove a Notification
+      description: ""
+      operationId: invoicingapiv2accountsaccountidnotificationsnotificationid
+      parameters:
+      - in: String
+        name: accountId
+        description: Identifies the account under which data is aggregated.
+        type: string
+      - in: Integer
+        name: notificationId
+        description: Identifies each notification.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    get:
+      summary: Get a Notification
+      description: ""
+      operationId: invoicingapiv2accountsaccountidnotificationsnotificationid
+      parameters:
+      - in: String
+        name: accountId
+        description: Identifies the account under which data is aggregated.
+        type: string
+      - in: Integer
+        name: notificationId
+        description: Identifies each notification.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    put:
+      summary: Modify a Notification
+      description: ""
+      operationId: invoicingapiv2accountsaccountidnotificationsnotificationid
+      parameters:
+      - in: String
+        name: accountId
+        description: Identifies the account under which data is aggregated.
+        type: string
+      - in: Integer
+        name: notificationId
+        description: Identifies each notification.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /invoicing-api/v2/contracts/{contractId}/invoices/{invoiceNumber}/files:
+    get:
+      summary: List Contract&#8217;s Invoice Files
+      description: ""
+      operationId: invoicingapiv2contractscontractidinvoicesinvoicenumberfiles
+      parameters:
+      - in: String
+        name: contractId
+        description: Identifies the contract under which data is aggregated.
+        type: string
+      - in: String
+        name: invoiceNumber
+        description: Identifies each unique invoice.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /invoicing-api/v2/contracts/{contractId}/invoices{?year,month}:
+    get:
+      summary: List Contract&#8217;s Invoices
+      description: ""
+      operationId: invoicingapiv2contractscontractidinvoicesyearmonth
+      parameters:
+      - in: String
+        name: contractId
+        description: Identifies the contract under which data is aggregated.
+        type: string
+      - in: Integer
+        name: month
+        description: The month for which data is aggregated. Must be paired with a
+          year value.
+        type: string
+      - in: Integer
+        name: year
+        description: The year for which data is aggregated. Must be paired with a
+          month value.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /invoicing-api/v2/contracts/{contractId}/products/{productId}/geo-billing-files{?year,month,day}:
+    get:
+      summary: Download Geobilling Files
+      description: ""
+      operationId: invoicingapiv2contractscontractidproductsproductidgeobillingfilesyearmonthday
+      parameters:
+      - in: String
+        name: contractId
+        description: Identifies the contract under which data is aggregated.
+        type: string
+      - in: Integer
+        name: day
+        description: The day for which data is aggregated. Must be specified along
+          with year and month values.
+        type: string
+      - in: Integer
+        name: month
+        description: The month for which data is aggregated. Must be specified along
+          with year and day values.
+        type: string
+      - in: String
+        name: productId
+        description: Identifies the product under which data is aggregated.
+        type: string
+      - in: Integer
+        name: year
+        description: The year for which data is aggregated. Must be specified along
+          with month and day values.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  Content-Type:
+    get:
+      summary: Download an Invoice File
+      description: ""
+      operationId: contenttype
+      parameters:
+      - in: String
+        name: contractId
+        description: Identifies the contract under which data is aggregated.
+        type: string
+      - in: String
+        name: filename
+        description: Identifies each invoice file.
+        type: string
+      - in: String
+        name: invoiceNumber
+        description: Identifies each unique invoice.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

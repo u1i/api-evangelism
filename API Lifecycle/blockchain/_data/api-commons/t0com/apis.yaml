@@ -1,0 +1,21 @@
+name: t0.com
+description: Our platform integrates cryptographically secure distributed ledgers
+  with existing market processes to reduce settlement time and costs, increase transparency,
+  efficiency and auditability.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26512-www-tzero-com.jpg
+tags:
+- SaaS
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/t0com/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: https://www.tzero.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

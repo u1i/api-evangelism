@@ -1,0 +1,66 @@
+swagger: "2.0"
+info:
+  title: Reverse IP API
+  description: Provides a list of IP network ranges with Whois records that match
+    a specific query
+  version: 1.0.0
+host: api.domaintools.com
+basePath: /v1
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /reverse-ip-whois/:
+    get:
+      summary: Reverse IP Whois
+      description: Provides a list of IP network ranges with Whois records that match
+        a specific query
+      operationId: reverseIPWhois
+      parameters:
+      - in: query
+        name: country
+        description: Limits results to IP addresses allocated to an entity with a
+          particular country. Valid options are ISO 3166-1 two character country codes.
+        type: string
+        format: string
+      - in: query
+        name: include_total_count
+        description: Returns the total number of results for a query. This should
+          typically be used only for the first page of a large result set. Valid options
+          are true and false
+        type: string
+        format: string
+      - in: query
+        name: ip
+        description: Returns the most recent cached IP Whois record for the allocated
+          range the IP is in.
+        type: string
+        format: string
+      - in: query
+        name: page
+        description: Providing the page number allows access to additional pages of
+          data. Results are returned 1000 ranges at a time. The maximum allowed value
+          is 5.
+        type: string
+        format: string
+      - in: query
+        name: query
+        description: A space separated list of free text query terms. Returns the
+          list of IP ranges that satisfy the query. The
+        type: string
+        format: string
+      - in: query
+        name: server
+        description: 'Limits results to ranges from a particular Whois server. Valid
+          options are '
+        type: string
+        format: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Reverse IP Whois
+definitions: []

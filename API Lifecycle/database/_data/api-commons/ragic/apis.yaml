@@ -1,0 +1,28 @@
+name: Ragic
+description: Ragic enables business people without programming skills to create cloud
+  databases just like how they create a spreadsheet form. Ragic focuses on helping
+  companies and teams who have outgrown their Excel files, to move on to a real database
+  solution that can scale in terms of users, data relation, and data size. Users of
+  Ragic are able to build their own database applications without a line of code through
+  a spreadsheet interface, or install from the supplied ready-made database application
+  templates across many business functions.
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ragic-logo.png
+tags:
+- Database
+created: "2016-12-24"
+modified: "2016-12-24"
+url: https://raw.githubusercontent.com/api-evangelist/database/gh-pages/_data/api-commons/ragic/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-blog
+  url: http://www.ragic.com/intl/en/blog
+- type: x-website
+  url: http://www.ragic.com/
+- type: x-portal
+  url: http://www.ragic.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

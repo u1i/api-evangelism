@@ -1,0 +1,92 @@
+- slug: analyticswebhookserver
+  name: analytics-webhook-server
+  description: An example webhook server for the Chef analytics pipeline
+  url: 'https://github.com/chef/analytics-webhook-server'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Webhooks,Orchestration'
+- slug: chefdnsimple
+  name: chef-dnsimple
+  description: Chef cookbook for DNSimple
+  url: 'https://github.com/dnsimple/chef-dnsimple'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: DNS Orchestration
+- slug: chef3scale
+  name: chef-3scale
+  description: Chef cookbook to install the 3scale API gateway
+  url: 'https://github.com/3scale/chef-3scale'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Orchestration
+- slug: janky
+  name: janky
+  description: Continuous integration server built on top of Jenkins and Hubot
+  url: 'https://github.com/github/janky'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Orchestration
+- slug: falconorchestrator
+  name: CrowdStrike Falcon Orchestrator
+  description: >-
+    CrowdStrike Falcon Orchestrator provides automated workflow and response
+    capabilities
+  url: 'https://github.com/CrowdStrike/falcon-orchestrator'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/CrowdStrike/'
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Orchestration,Security'
+- slug: henchman
+  name: henchman
+  description: Orchestration and Automation tool
+  url: 'https://github.com/apigee/henchman'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Orchestration
+- slug: kubernetes
+  name: kubernetes
+  description: Production-Grade Container Scheduling and Management
+  url: 'https://github.com/kubernetes/kubernetes'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Orchestration,Containers'
+- slug: analyticssplunkapp
+  name: analytics-splunk-app
+  description: >-
+    Splunk App to gather insights from your Chef infrastructure via Chef
+    Analytics.
+  url: 'https://github.com/chef/analytics-splunk-app'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Analysis,Orchestration'

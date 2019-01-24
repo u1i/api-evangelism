@@ -1,0 +1,21 @@
+name: BitcoinChain
+description: Get live and historical data on Bitcoin Block Explorer, Bitcoin Markets,
+  Bitcoin Mining Pools.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26437-bitcoinchain-com.jpg
+tags:
+- Technology
+- Marketplace
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/bitcoinchain/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: https://bitcoinchain.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

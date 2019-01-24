@@ -1,0 +1,58 @@
+swagger: "2.0"
+info:
+  title: CloudFlare Custom Pages for a Zone API
+  description: The API for managing CloudFlare Custom Pages for a Zone
+  termsOfService: https://www.cloudflare.com/terms/
+  version: 1.0.0
+host: api.cloudflare.com
+basePath: /client/v4
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /zones/:zone_identifier/custom_pages:
+    get:
+      summary: A list of available Custom Pages the zone can use
+      description: A list of available Custom Pages the zone can use
+      operationId: cloudflare-custom-pages-for-a-zone-api
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /zones/:zone_identifier/custom_pages/:identifier:
+    get:
+      summary: Details about a specific Custom page details
+      description: Details about a specific Custom page details
+      operationId: cloudflare-custom-pages-for-a-zone-api
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    put:
+      summary: Update Custom page URL
+      description: Update Custom page URL
+      operationId: cloudflare-custom-pages-for-a-zone-api
+      parameters:
+      - in: query
+        name: state
+        description: The Custom Page statettttttttttttttdefault
+      - in: query
+        name: url
+        description: A URL that is associated with the Custom Page.tttttttttttttthttp://www.example.com
+      - in: header
+        name: X-AUTH-EMAIL
+        description: Email address associated with your account
+      - in: header
+        name: X-AUTH-KEY
+        description: API key generated on the My Account page
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

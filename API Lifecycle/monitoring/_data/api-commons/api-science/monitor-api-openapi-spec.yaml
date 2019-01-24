@@ -1,0 +1,147 @@
+swagger: "2.0"
+info:
+  title: Monitor API
+  description: The Monitor API.
+  version: v1
+host: www.site24x7.com.
+basePath: /v1
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /monitor/poll_now/{monitor_id}:
+    get:
+      summary: Poll Monitor
+      description: Poll a monitor.
+      operationId: poll-monitor
+      parameters:
+      - in: path
+        name: monitor_id
+        description: MandatoryUnique ID of the monitor. You can find monitor_id using
+          the monitor list api.
+        type: <td>string</td>
+      responses:
+        200:
+          description: OK
+      tags:
+      - Monitors
+  /monitors:
+    get:
+      summary: Get All Monitors
+      description: Marks message as read.
+      operationId: getAllMonitors
+      parameters:
+      - in: header
+        name: Authorization
+        description: Your API key must be included in all API requests to the server
+          in an Authorization HTTP header.
+      - in: query
+        name: tags
+        description: Optionally filter monitors by tags. Can be chained multiple times
+          to do an inclusive tag search.
+      responses:
+        200:
+          description: OK
+      tags:
+      - Monitors
+    post:
+      summary: Create a Monitor
+      description: Create a Monitor
+      operationId: createMonitor
+      parameters:
+      - in: formData
+        name: active
+        description: This flag determines whether the monitor is either running or
+          paused. When creating a new monitor, if this flag is set to true, the monitor
+          will immediately begin monitoring. By default, this field is set to false
+      - in: formData
+        name: frequency
+        description: 'The frequency that you want this monitor to be run at. Options
+          are: 60, 300, 600, 900, 1800, 3600 (in seconds).'
+      - in: formData
+        name: name
+        description: The name of the monitor.
+      - in: formData
+        name: templates
+        description: An array of template objects to be created. These objects must
+          be put into an array. If there is any issue creating a template or any of
+          itu2019s nested items, the entire monitor creation will fail.
+      responses:
+        200:
+          description: OK
+      tags:
+      - Monitors
+    put:
+      summary: Apply Actions to Multiple Monitors
+      description: Apply Actions to Multiple Monitors
+      operationId: applyActionsToMultipleMonitors
+      parameters:
+      - in: path
+        name: tags
+        description: Optionally filter monitors by tags. Can be chained multiple times
+          to do an inclusive tag search.
+      responses:
+        200:
+          description: OK
+      tags:
+      - Monitors
+  /monitors/activate/{monitor_id}:
+    put:
+      summary: Activate Monitor
+      description: Activate a suspended monitor
+      operationId: activate-monitor
+      parameters:
+      - in: path
+        name: monitor_id
+        description: MandatoryUnique ID of the monitor. You can find monitor_id using
+          the monitor list api.
+        type: <td>string</td>
+      responses:
+        200:
+          description: OK
+      tags:
+      - Monitors
+  /monitors/{id}:
+    get:
+      summary: Get a Specific Monitor
+      description: Get a Specific Monitor
+      operationId: getMonitor
+      parameters:
+      - in: path
+        name: id
+        description: The ID of the monitor to retrieve
+      responses:
+        200:
+          description: OK
+      tags:
+      - Monitors
+  /monitors/{id}/test:
+    get:
+      summary: Testing your Monitor
+      description: Testing your Monitor
+      operationId: testMonitor
+      responses:
+        200:
+          description: OK
+      tags:
+      - Monitors
+  /monitors/{monitor_id}:
+    put:
+      summary: Update Monitor
+      description: Update an existing monitor
+      operationId: update-monitor
+      parameters:
+      - in: path
+        name: monitor_id
+        description: MandatoryUnique ID of the monitor. You can find monitor_id using
+          the monitor list api.
+        type: <td>string</td>
+      responses:
+        200:
+          description: OK
+      tags:
+      - Monitors
+definitions: []

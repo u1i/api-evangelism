@@ -1,0 +1,50 @@
+name: Zerigo
+description: Zerigo makes DNS worry-free. With a REST API, user-friendly interface,
+  and industry-leading advanced security and features, Zerigo DNS makes DNS easy and
+  efficient.
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/zerigo-logo.png
+tags:
+- DNS
+created: "2016-10-23"
+modified: "2016-10-23"
+url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/zerigo/apis.yaml
+specificationVersion: "0.14"
+apis:
+- name: Hosts API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/zerigo-logo.png
+  humanURL: https://www.zerigo.com
+  baseURL: https://www.zerigo.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/zerigo/hosts-api-openapi-spec.yaml
+- name: Zone Templates API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/zerigo-logo.png
+  humanURL: https://www.zerigo.com
+  baseURL: https://www.zerigo.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/zerigo/zone-templates-api-openapi-spec.yaml
+- name: Zones API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/zerigo-logo.png
+  humanURL: https://www.zerigo.com
+  baseURL: https://www.zerigo.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/zerigo/zones-api-openapi-spec.yaml
+x-common:
+- type: x-website
+  url: https://www.zerigo.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

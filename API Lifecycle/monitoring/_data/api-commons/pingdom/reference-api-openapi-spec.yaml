@@ -1,0 +1,26 @@
+swagger: "2.0"
+info:
+  title: Reference API
+  description: The Reference API.
+  version: 1.0.0
+host: api.pingdom.com
+basePath: /
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  n    /api/{version}/reference:
+    n    get:
+      summary: Get Reference
+      description: '    Get a reference of regions, timezones and date/time/number
+        formats and their identifiers.'
+      operationId: get-reference
+      responses:
+        200:
+          description: OK
+      tags:
+      - Reerence
+definitions: []

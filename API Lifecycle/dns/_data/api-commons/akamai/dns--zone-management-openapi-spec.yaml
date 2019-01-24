@@ -1,0 +1,42 @@
+swagger: "2.0"
+info:
+  title: DNS - Zone Management
+  description: ~
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  token:
+    get:
+      summary: Get a Zone
+      description: ""
+      operationId: token
+      parameters:
+      - in: String
+        name: zone
+        description: Domain zone, encapsulating any nested subdomains.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    post:
+      summary: Add or Modify a Zone
+      description: ""
+      operationId: token
+      parameters:
+      - in: String
+        name: zone
+        description: Domain zone, encapsulating any nested subdomains.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

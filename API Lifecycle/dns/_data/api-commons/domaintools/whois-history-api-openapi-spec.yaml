@@ -1,0 +1,31 @@
+swagger: "2.0"
+info:
+  title: Whois History API
+  description: Historical Whois records
+  version: 1.0.0
+host: api.domaintools.com
+basePath: /v1
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /{domain}/whois/history/:
+    get:
+      summary: Whois History
+      description: Historical Whois records
+      operationId: whoisHistory
+      parameters:
+      - in: path
+        name: domain
+        description: The domain being requested.
+        type: string
+        format: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Whois
+definitions: []

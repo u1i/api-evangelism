@@ -1,0 +1,33 @@
+swagger: "2.0"
+info:
+  title: Location Profile API
+  description: The Location Profile API.
+  version: 1.0.0
+host: www.site24x7.com.
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /location_profiles/{profile_id}:
+    delete:
+      summary: Delete Location Profile
+      description: Delete an existing location profile.
+      operationId: delete-location-profile
+      responses:
+        200:
+          description: OK
+      tags:
+      - Location Profiles
+    get:
+      summary: Retrieve Location Profile
+      description: Retrieve configuration of a location profile.
+      operationId: retrieve-location-profile
+      responses:
+        200:
+          description: OK
+      tags:
+      - Location Profiles
+definitions: []

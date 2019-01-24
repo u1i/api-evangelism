@@ -1,0 +1,48 @@
+name: Bitcoin Magazine
+description: Founded in 2011, Bitcoin Magazine is the oldest and most trusted source
+  of news, insight, reviews, guides, and price analysis on bitcoin, ethereum, blockchain
+  technology, cryptocurrencies, the darkweb, and other decentralized technologies.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11761-bitcoin-magazine.jpg
+tags:
+- Technology
+- SaaS
+- Publishing
+- Marketplace
+- internet
+- Financial Services
+- Blockchain
+- Blockchain
+- Bitchoin
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/bitcoin-magazine/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-developer-portal
+  url: https://docs.exchange.coinbase.com/
+- type: x-website
+  url: https://exchange.coinbase.com/
+- type: x-webinars
+  url: https://exchange.coinbase.com/
+- type: x-website
+  url: http://bitpay.com
+- type: x-website
+  url: http://blockchain.info
+- type: x-website
+  url: http://bitstamp.net
+- type: x-website
+  url: http://localbitcoins.com
+- type: x-website
+  url: http://btc-e.com
+- type: x-website
+  url: http://coindesk.com
+- type: x-website
+  url: http://bitcoinmagazine.com
+- type: x-portal
+  url: http://bitcoinmagazine.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

@@ -1,0 +1,177 @@
+---
+- curated_id: q2q2EWvhwTr2G72+2bmzQ5IFpAlRi9P7s4CyaWlqDGs=_15c137b684a:2149eae:9eb87abf
+  item_date: "2017-05-16 15:57:51"
+  title: A Comparison of Mapping Approaches for Distributed Cloud Applications
+  url: https://medium.com/p/52be1f61d293
+  domain: medium.com
+  image: ""
+- curated_id: g8yFv8q12UnL70ldUa6MmrcjpJr9X+r0IN92Ot48m8g=_15d19eb4fe0:14bb18a:bb404dd5
+  item_date: "2017-07-05 17:00:00"
+  title: Periscope Data
+  url: https://webflow-blog.periscopedata.com/blog/automated-identification-and-graphing-of-sql-dependencies
+  domain: webflow-blog.periscopedata.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15e0bbc0e67:320c3b6:bd5def64
+  item_date: "2017-08-22 13:39:08"
+  title: 'Auth0: Death by a Thousand APIs'
+  url: https://medium.com/p/7dbed0a9dec5
+  domain: medium.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_15e65bdb522:e0c31:81f6c248
+  item_date: "2017-09-09 01:01:36"
+  title: Winning at Dependency Twister
+  url: https://medium.com/p/d499c198aec5
+  domain: medium.com
+  image: ""
+- curated_id: 7TEBlXSMajGkv/YSW3g1Klkey5yNzPysA89gpF/QOCo=_15e80dd3270:41a97a:9dbe7464
+  item_date: "2017-09-14 02:30:20"
+  title: How to Increase Cost Transparency with Asset Discovery and Dependency Mapping
+  url: http://www.bmc.com/blogs/?p=11202
+  domain: www.bmc.com
+  image: ""
+- curated_id: 4b5tCw5GvlXtruVS/z16h27znplNFRBntlQNEyTCvpo=_15e9af14d03:2856dc2:6ea86031
+  item_date: "2017-09-19 09:00:34"
+  title: Manage test dependencies with Go
+  url: https://developers.redhat.com/blog/?p=438832
+  domain: developers.redhat.com
+  image: ""
+- curated_id: P6ZHWlrPQ5ILOZ54yDX4aZ046+AnYBvjvT3DdNFTXhQ=_15ee9282b0f:74edf1:6ea86031
+  item_date: "2017-10-04 13:47:16"
+  title: Deeply Nested Code, Bugs and Distributed Systems
+  url: https://thenewstack.io/?p=3107473
+  domain: thenewstack.io
+  image: ""
+- curated_id: 8WqmKMFd8K7u/NGOImR541mH0lptB+6TGihQtOQyTbs=_15f0799b0e4:2783be4:3522b906
+  item_date: "2017-10-10 09:33:00"
+  title: Reducing Microservice Overhead with Shared Libraries
+  url: https://circleci.com/blog/reducing-microservice-overhead-with-shared-libraries/
+  domain: circleci.com
+  image: ""
+- curated_id: 0VTnUfX894TcY5TA/oMFDbEY1bDrlajzsn67Jr80r8M=_15f0c985733:abb52:8cbd7d4f
+  item_date: "2017-10-11 10:59:51"
+  title: "Github launches new tools to say when your project\u2019s dependencies get
+    pwned"
+  url: https://thenextweb.com/?p=1083873
+  domain: thenextweb.com
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_15f0c99d953:add513:626ab4cd
+  item_date: "2017-10-11 11:01:59"
+  title: GitHub will soon warn developers of insecure dependencies
+  url: http://techcrunch.com/?p=1552810
+  domain: techcrunch.com
+  image: ""
+- curated_id: f8TCjDCz8xyCP8M4XPT94R2yG7vuhXbJXti8NcVgLrE=_15f544f02fa:97ce52f:3522b906
+  item_date: "2017-10-24 17:00:00"
+  title: Announcing Snyk
+  url: https://snyk.io//blog/announcing-snyk-in-sonar/
+  domain: snyk.io
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15f6be8ad54:d36e1b:7157a206
+  item_date: "2017-10-29 22:55:18"
+  title: Gradle 3.0 Dependency Configuration
+  url: https://medium.com/p/46c9e24ada2c
+  domain: medium.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_15f6eede3e6:fd4323:aa3e42e1
+  item_date: "2017-10-30 13:16:40"
+  title: 'PSA: Upgrading Out'
+  url: https://medium.com/p/a9e65e28a786
+  domain: medium.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_15f9a595a17:1fa3c7:8cbd7d4f
+  item_date: "2017-11-06 17:55:25"
+  title: How we keep dependencies fresh across 45+ microservices
+  url: https://medium.com/p/1d526e1efce2
+  domain: medium.com
+  image: ""
+- curated_id: q2q2EWvhwTr2G72+2bmzQ5IFpAlRi9P7s4CyaWlqDGs=_15f9cfebefc:24a2a98:aa3e42e1
+  item_date: "2017-11-08 10:57:39"
+  title: 'Kubernetes Monitoring: Service Dependencies with Maps and Traces'
+  url: https://medium.com/p/ec708bd14fbe
+  domain: medium.com
+  image: ""
+- curated_id: 0VTnUfX894TcY5TA/oMFDbEY1bDrlajzsn67Jr80r8M=_15fc8409751:52f5:1cefc59
+  item_date: "2017-11-16 20:32:50"
+  title: GitHub will now alert you of security flaws in your project dependencies
+  url: https://thenextweb.com/?p=1091737
+  domain: thenextweb.com
+  image: ""
+- curated_id: P6ZHWlrPQ5ILOZ54yDX4aZ046+AnYBvjvT3DdNFTXhQ=_15fc6b38712:75d396:3c0bb656
+  item_date: "2017-11-17 03:00:01"
+  title: GitHub Applies Machine Learning to Alert Your Project Dependencies
+  url: https://thenewstack.io/?p=3508076
+  domain: thenewstack.io
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_15fe5c43dd6:370537e:541f3c40
+  item_date: "2017-11-22 11:01:01"
+  title: Installing Java, Supervisord, and Other Service Dependencies With Ansible
+  url: https://dzone.com/articles/1841225
+  domain: dzone.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_160175befd8:250f5:c8ea36f9
+  item_date: "2017-12-01 06:49:27"
+  title: Reliance on 3rd
+  url: https://medium.com/p/33e04995b44f
+  domain: medium.com
+  image: ""
+- curated_id: rxLnjiJudc56FbZKrZ0crrg2UUWdKV8knoKwhWKNfS4=_16012dd1505:183342e:3c0bb656
+  item_date: "2017-12-01 08:15:02"
+  title: Integrating Snyk with Codeship
+  url: https://blog.codeship.com/?p=5848
+  domain: blog.codeship.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_160175befd8:250f7:c8ea36f9
+  item_date: "2017-12-01 09:06:28"
+  title: Dependencies of Doom
+  url: https://medium.com/p/94dc2a48bc69
+  domain: medium.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_160519241e4:42240e:fe3e7618
+  item_date: "2017-12-13 12:30:23"
+  title: Namespace Dependency Injection
+  url: https://medium.com/p/77cc3ee6b93d
+  domain: medium.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_160a154153b:34b9c57:7157a206
+  item_date: "2017-12-29 00:01:01"
+  title: About Dependency Injection
+  url: https://dzone.com/articles/1864378
+  domain: dzone.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_160a6178acc:3cc8011:541f3c40
+  item_date: "2017-12-29 22:01:03"
+  title: OWASP Dependency
+  url: https://dzone.com/articles/1933563
+  domain: dzone.com
+  image: ""
+- curated_id: E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_162b985698e:cdf9e5:7d6c1c1c
+  item_date: "2018-04-12 02:40:00"
+  title: Developers Failing to Use Secure Open Source Components
+  url: https://www.infosecurity-magazine.com:443/news/developers-fail-secure-open-source/
+  domain: www.infosecurity-magazine.com
+  image: ""
+- curated_id: P6ZHWlrPQ5ILOZ54yDX4aZ046+AnYBvjvT3DdNFTXhQ=_1639c8fe03f:b1cccb:7cfe07d6
+  item_date: "2018-05-26 06:00:59"
+  title: 'This Week in Numbers: Open Source Policies for Dependencies'
+  url: https://thenewstack.io/?p=4830274
+  domain: thenewstack.io
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_1643af21fd6:1c737a2:aa514a55
+  item_date: "2018-06-26 00:01:02"
+  title: Optional Dependency Injection Using Spring
+  url: https://dzone.com/articles/2289412
+  domain: dzone.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_165003a4671:15704bb:4db7ac35
+  item_date: "2018-08-03 07:08:00"
+  title: Thoughts on Importing npm Modules to the Web as JavaScript Modules
+  url: https://dzone.com/articles/2361068
+  domain: dzone.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_1671b93ee2b:35b1ada:9dda0303
+  item_date: "2018-11-15 22:01:03"
+  title: The Importance of Context, Particularly When Documenting Software Architecture
+  url: https://dzone.com/articles/2564034
+  domain: dzone.com
+  image: ""
+...

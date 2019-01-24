@@ -1,0 +1,498 @@
+swagger: "2.0"
+info:
+  title: User Admin
+  description: Create and manage Users, Groups, and Roles.
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /user-admin/v1/accounts/{accountId}/groups:
+    get:
+      summary: List Groups
+      description: ""
+      operationId: useradminv1accountsaccountidgroups
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for an account.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Groups
+  /user-admin/v1/accounts/{accountId}/groups/{groupId}:
+    delete:
+      summary: Remove a Group
+      description: ""
+      operationId: useradminv1accountsaccountidgroupsgroupid
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for an account.
+        type: string
+      - in: Integer
+        name: groupId
+        description: Unique numeric identifier for a group.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Groups
+    get:
+      summary: Get a Group
+      description: ""
+      operationId: useradminv1accountsaccountidgroupsgroupid
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for an account.
+        type: string
+      - in: Integer
+        name: groupId
+        description: Unique numeric identifier for a group.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Groups
+    post:
+      summary: Create a New Group
+      description: ""
+      operationId: useradminv1accountsaccountidgroupsgroupid
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for an account.
+        type: string
+      - in: Integer
+        name: groupId
+        description: Unique numeric identifier for a group.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Groups
+    put:
+      summary: Modify a Group
+      description: ""
+      operationId: useradminv1accountsaccountidgroupsgroupid
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for an account.
+        type: string
+      - in: Integer
+        name: groupId
+        description: Unique numeric identifier for a group.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Groups
+  /user-admin/v1/accounts/{accountId}/groups/{groupId}/groups:
+    get:
+      summary: List Nested Groups
+      description: ""
+      operationId: useradminv1accountsaccountidgroupsgroupidgroups
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for an account.
+        type: string
+      - in: Integer
+        name: groupId
+        description: Unique numeric identifier for a group.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Groups
+  /user-admin/v1/accounts/{accountId}/groups/{groupId}/properties:
+    get:
+      summary: List a Group&#8217;s Properties
+      description: ""
+      operationId: useradminv1accountsaccountidgroupsgroupidproperties
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for an account.
+        type: string
+      - in: Integer
+        name: groupId
+        description: Unique numeric identifier for a group.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Groups
+  /user-admin/v1/accounts/{accountId}/groups/{groupId}/properties/{assetId}:
+    get:
+      summary: Get a Property
+      description: ""
+      operationId: useradminv1accountsaccountidgroupsgroupidpropertiesassetid
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for an account.
+        type: string
+      - in: String
+        name: assetId
+        description: Within the User Admin API, the assetId is also known as the propertyId.
+        type: string
+      - in: Integer
+        name: groupId
+        description: Unique numeric identifier for a group.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Groups
+  /user-admin/v1/accounts/{accountId}/groups/{groupId}/properties/{assetId}/users:
+    get:
+      summary: List a Property&#8217;s Users
+      description: ""
+      operationId: useradminv1accountsaccountidgroupsgroupidpropertiesassetidusers
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for an account.
+        type: string
+      - in: String
+        name: assetId
+        description: Within the User Admin API, the assetId is also known as the propertyId.
+        type: string
+      - in: Integer
+        name: groupId
+        description: Unique numeric identifier for a group.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Groups
+  /user-admin/v1/accounts/{accountId}/groups/{groupId}/users/{contactId}/propertyExceptions:
+    get:
+      summary: List a User&#8217;s Property Exceptions
+      description: ""
+      operationId: useradminv1accountsaccountidgroupsgroupiduserscontactidpropertyexceptions
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for an account.
+        type: string
+      - in: String
+        name: contactId
+        description: Unique identifier for a user.
+        type: string
+      - in: Integer
+        name: groupId
+        description: Unique numeric identifier for a group.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Groups
+    put:
+      summary: Modify a User&#8217;s Set of Property Exceptions
+      description: ""
+      operationId: useradminv1accountsaccountidgroupsgroupiduserscontactidpropertyexceptions
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for an account.
+        type: string
+      - in: String
+        name: contactId
+        description: Unique identifier for a user.
+        type: string
+      - in: Integer
+        name: groupId
+        description: Unique numeric identifier for a group.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Groups
+  /user-admin/v1/accounts/{accountId}/groups/{groupId}/users/{contactId}/propertyExceptions/{propertyId}:
+    put:
+      summary: Modify a Property Exception
+      description: ""
+      operationId: useradminv1accountsaccountidgroupsgroupiduserscontactidpropertyexceptionspropertyid
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for an account.
+        type: string
+      - in: String
+        name: contactId
+        description: Unique identifier for a user.
+        type: string
+      - in: Integer
+        name: groupId
+        description: Unique numeric identifier for a group.
+        type: string
+      - in: String
+        name: propertyId
+        description: Within the User Admin API, the assetId is also known as the propertyId.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Groups
+  /user-admin/v1/accounts/{accountId}/move/group/{groupId}/groups/{destinationGroupId}/:
+    post:
+      summary: Move a Group within Another Group
+      description: ""
+      operationId: useradminv1accountsaccountidmovegroupgroupidgroupsdestinationgroupid
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for an account.
+        type: string
+      - in: String
+        name: destinationGroupId
+        description: Specifies the new parent group&#8217;s identifier.
+        type: string
+      - in: Integer
+        name: groupId
+        description: Unique numeric identifier for a group.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Groups
+  /user-admin/v1/accounts/{accountId}/properties/{propertyId}:
+    post:
+      summary: Move a Property to Another Group
+      description: ""
+      operationId: useradminv1accountsaccountidpropertiespropertyid
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for an account.
+        type: string
+      - in: String
+        name: propertyId
+        description: Within the User Admin API, the assetId is also known as the propertyId.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Groups
+  /user-admin/v1/accounts/{accountId}/roles:
+    get:
+      summary: List Roles
+      description: ""
+      operationId: useradminv1accountsaccountidroles
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for an account.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Roles
+    post:
+      summary: Create a New Role
+      description: ""
+      operationId: useradminv1accountsaccountidroles
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for an account.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Roles
+    put:
+      summary: Modify a Role
+      description: ""
+      operationId: useradminv1accountsaccountidroles
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for an account.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Roles
+  /user-admin/v1/accounts/{accountId}/roles/grantable:
+    get:
+      summary: List Grantable Roles
+      description: ""
+      operationId: useradminv1accountsaccountidrolesgrantable
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for an account.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Roles
+  /user-admin/v1/accounts/{accountId}/roles/{roleId}:
+    delete:
+      summary: Remove a Role
+      description: ""
+      operationId: useradminv1accountsaccountidrolesroleid
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for an account.
+        type: string
+      - in: String
+        name: roleId
+        description: Unique identifier for a role object.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Roles
+    get:
+      summary: Get a Role
+      description: ""
+      operationId: useradminv1accountsaccountidrolesroleid
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for an account.
+        type: string
+      - in: String
+        name: roleId
+        description: Unique identifier for a role object.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Roles
+  /user-admin/v1/accounts/{accountId}/users:
+    get:
+      summary: List Users
+      description: ""
+      operationId: useradminv1accountsaccountidusers
+      parameters:
+      - in: String
+        name: accountId
+        description: Unique identifier for an account.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Users
+  /user-admin/v1/users:
+    post:
+      summary: Create a New User
+      description: ""
+      operationId: useradminv1users
+      responses:
+        200:
+          description: OK
+      tags:
+      - Roles
+  /user-admin/v1/users/{contactId}:
+    delete:
+      summary: Remove a User
+      description: ""
+      operationId: useradminv1userscontactid
+      parameters:
+      - in: String
+        name: contactId
+        description: Unique identifier for a user.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Roles
+    put:
+      summary: Modify a User
+      description: ""
+      operationId: useradminv1userscontactid
+      parameters:
+      - in: String
+        name: contactId
+        description: Unique identifier for a user.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Roles
+  /user-admin/v1/users{?groupId,actions}:
+    get:
+      summary: List a Group&#8217;s Users
+      description: ""
+      operationId: useradminv1usersgroupidactions
+      parameters:
+      - in: Boolean
+        name: actions
+        description: When enabled, response yields additional details on users&#8217;
+          access rights.
+        type: string
+      - in: Integer
+        name: groupId
+        description: Unique numeric identifier for a group.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Roles
+  4324324321:
+    get:
+      summary: Get a User
+      description: ""
+      operationId: "4324324321"
+      parameters:
+      - in: String
+        name: contactId
+        description: Unique identifier for a user.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Roles
+  send_email:
+    put:
+      summary: Reset a User&#8217;s Password
+      description: ""
+      operationId: send-email
+      parameters:
+      - in: String
+        name: contactId
+        description: Unique identifier for a user.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Roles
+definitions: []

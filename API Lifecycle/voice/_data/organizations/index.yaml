@@ -1,0 +1,336 @@
+---
+- slug: 46elks
+  name: 46elks
+  description: 46elks is a cloud communications platform, which makes it very easy
+    to integrate Voice, SMS &amp; MMS into your applications. No more high barriers,
+    just a simple HTTP API.
+  url: http://46elks.com/
+  shorturl: ""
+  twitter: https://twitter.com/46elks
+  blog: http://46elks.com/blog/
+  blogrss: http://feeds.feedburner.com/46elksBlog
+  github: https://github.com/46elks
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/46elks-horizontal.png
+  tags: Aggregation,Voice,SMS,MMS,Aggregation,Telco,Number allocation,Messaging,Automated
+    phone calls
+- slug: aws-polly
+  name: AWS Polly
+  description: Amazon Polly is a service that turns text into lifelike speech. Polly
+    lets you create applications that talk, enabling you to build entirely new categories
+    of speech-enabled products. Polly is an Amazon AI service that uses advanced deep
+    learning technologies to synthesize speech that sounds like a human voice. Polly
+    includes 47 lifelike voices spread across 24 languages, so you can select the
+    ideal voice and build speech-enabled applications that work in many different
+    countries. Amazon Polly delivers the consistently fast response times required
+    to support real-time, interactive dialog. You can cache and save Polly&rsquo;s
+    speech audio to replay offline or redistribute. And Polly is easy to use. You
+    simply send the text you want converted into speech to the Polly API, and Polly
+    immediately returns the audio stream to your application so your application can
+    play it directly or store it in a standard audio file format, such as MP3. With
+    Polly, you only pay for the number of characters you convert to speech, and you
+    can save and replay Polly&rsquo;s generated speech. Polly&rsquo;s low cost per
+    character converted, and lack of restrictions on storage and reuse of voice output,
+    make it a cost-effective way to enable Text-to-Speech everywhere.
+  url: https://aws.amazon.com/polly/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-polly.jpg
+  tags: Amazon Web Services,Speech,Voice,Text
+- slug: respoke
+  name: Respoke
+  description: Respoke makes it incredibly easy to add real-time communications capabilities
+    to the things you build. Integrate text chat, audio calling, video collaboration,
+    screen sharing, and peer-to-peer data with just a few lines of JavaScript.
+  url: https://www.respoke.io
+  shorturl: ""
+  twitter: https://twitter.com/respoke
+  blog: http://blog.respoke.io/
+  blogrss: http://blog.respoke.io/rss
+  github: https://github.com/respoke
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/respoke-web-communications-300x101.jpg
+  tags: API LIfeycle,Target,Change Log,Change Log Example,Voice
+- slug: readspeaker
+  name: ReadSpeaker
+  description: ReadSpeaker speech-enables online content on the fly in 35+ languages
+    and 100+ voices. In 1999, ReadSpeaker pioneered the first-ever speech-enabling
+    application for websites. Today, the company provides a portfolio of web-based
+    text-to-speech solutions for websites, mobile sites, mobile apps, RSS feeds, online
+    documents and forms, as well as online campaigns. Its solutions are used by over
+    5000 corporate, media, government, and nonprofit customers around the world.
+  url: http://www.readspeaker.com/
+  shorturl: ""
+  twitter: https://twitter.com/ReadSpeaker
+  blog: http://www.readspeaker.com/blog
+  blogrss: http://www.readspeaker.com/category/blog/feed/
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/2078_logo.png
+  tags: Audio,Conversion,Netherlands,Voice
+- slug: speakertext
+  name: SpeakerText
+  description: SpeakerText is a video transcription company with a dead-simple web
+    interface and well-documented API. Video publishers of all sizes have flocked
+    to the service. Many use the video transcripts to boost SEO, others to create
+    closed captions for accessibility, and still others to simply improve the viewer
+    experience.
+  url: http://speakertext.com/
+  shorturl: ""
+  twitter: https://twitter.com/speakertext
+  blog: ""
+  blogrss: ""
+  github: https://github.com/speakertext
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/speakertext-logo-250x85.png
+  tags: Audio,Transcription,Videos,Voice,Indexing
+- slug: clarify
+  name: Clarify
+  description: Clarify makes what was said, searchable. As the world records more
+    and more of its interactions, in more and more ways, it needs a new generation
+    of tools to filter, manage, and process the raw data. Clarify's API, SDKs and
+    plugins enable developers and entrepreneurs to add audio and video search to any
+    application. Clarify is already being used by disruptors and innovators, as well
+    as some of the world&rsquo;s largest institutions.
+  url: http://clarify.io/
+  shorturl: ""
+  twitter: https://twitter.com/ClarifyAPI
+  blog: http://clarify.io/blog/
+  blogrss: ""
+  github: https://github.com/OP3Nvoice
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/clarify-logo.png
+  tags: Audio,Voice,Hypermedia,Videos,Target,Hypermedia API
+- slug: pop-up-archive
+  name: Pop Up Archive
+  description: Pop Up Archive makes sound searchable. Search is a big deal. So why
+    are we limited to only searching text? We get Google alerts every time someone
+    types our name on the web, but not every time someone says our name. Pop Up Archive
+    helps solve this problem by making spoken word searchable. Using speech-to-text
+    software built for specific industries, we enable media companies and institutions
+    like NPR, KQED, Princeton, Stanford to find, reuse, and monetize media. Rich media
+    search provides accessibility, search engine optimization, and advertising opportunities.
+  url: https://www.popuparchive.com/
+  shorturl: ""
+  twitter: https://twitter.com/PopUpArchive
+  blog: http://popuparchive.tumblr.com/
+  blogrss: http://popuparchive.tumblr.com/rss
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/popuparchive-logo.png
+  tags: Audio,Voice,Voice,My API Stack
+- slug: ubi
+  name: Ubi
+  description: Allows any device with a speaker, microphone and Internet connection
+    to become a voice interactive product. An end-to-end service for implementing
+    voice interaction on any hardware. Our mission is to make interaction with technology
+    and the world around us seamless, secure and natural through voice by enabling
+    everyday objects to come alive.
+  url: http://www.theubi.com/
+  shorturl: ""
+  twitter: https://twitter.com/theubi
+  blog: http://blog.theubi.com/blog/
+  blogrss: http://www.theubi.com/?feed=rss2
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ubi-logo.png
+  tags: Automation,Internet of Things,Voice
+- slug: att
+  name: AT&T
+  description: AT&amp;T Developer Program is the API platform for all AT&amp;T devices
+    and the AT&amp;T network. &nbsp;AT&amp;T provides device, call, location, messaging,
+    speech, notifications, payments as well as advertising and healthcare solutions
+    across multiple devices and mobile operating systems.
+  url: https://att.com
+  shorturl: ""
+  twitter: https://twitter.com/attdeveloper
+  blog: http://developerboards.att.lithium.com/t5/AT-T-Developer-Program-Blogs/bg-p/Blogs
+  blogrss: http://developerboards.att.lithium.com/cngddp/rss/boardmessages?board.id=Blogs
+  github: https://github.com/att
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/att-developer-program-logo.png
+  tags: Handset,Healthcare,Messaging,Media,Telco,SMS,Cloud,Storage,Notifications,Payments,Advertising,Messaging,Voice,Payments,MMS,API
+    LIfeycle
+- slug: voxeo
+  name: Voxeo
+  description: Voxeo provides hosting and premise platform solutions for companies
+    of all sizes. &nbsp;They aim to help enterprises improve service and lower costs
+    by automating and connecting their most common phone calls with with IVR and VoIP
+    technology.
+  url: http://www.voxeo.com
+  shorturl: ""
+  twitter: https://twitter.com/voxeo
+  blog: http://blogs.voxeo.com/
+  blogrss: http://feeds.voxeo.com/AllVoxeoBlogs
+  github: https://github.com/voxeo
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/voxeo-logo.jpg
+  tags: IVR,Telco,TTS,Voice,Telephony,Voice
+- slug: telapi
+  name: TelAPI
+  description: TelAPI providers developers with a cloud based telephony platform with
+    advanced telecom features and customizations not available in other cloud communications
+    APIs. TelAPI provides the ability to send SMS messages, and manage quote for each
+    account. The platform also provides a free trial for developers, with pay as you
+    go, unit based pricing to pay for services that go beyond trial access.
+  url: http://www.telapi.com
+  shorturl: ""
+  twitter: https://twitter.com/TelAPI
+  blog: http://www.TelAPI.com/blog/
+  blogrss: http://www.telapi.com/blog/feed/
+  github: https://github.com/TelAPI
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1176_logo.png
+  tags: Messaging,SMS,Telco,Voice,Messaging,Voice,SMS API,Target
+- slug: callfire
+  name: CallFire
+  description: CallFire is a cloud-based telephony company that provides voice and
+    text connectivity services. It offers the necessary tools for businesses to communicate
+    and market effectively. The company works to provide a diverse line of innovative
+    products that enable its users to get their messages delivered.
+  url: http://www.callfire.com
+  shorturl: ""
+  twitter: https://twitter.com/CallFire
+  blog: https://www.callfire.com/blog
+  blogrss: https://www.callfire.com/blog/feed
+  github: https://github.com/callfire
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/CallFire_Logo.png
+  tags: Messaging,SMS,Voice,Telco,Partners,Getting Started
+- slug: jeannie-voice-actions
+  name: Jeannie (Voice Actions)
+  description: Jeannie (Voice Actions) is a virtual assistant with over two Million
+    downloads, now also available via API. The objective of this service is to provide
+    you and your robot with the smartest answer to any natural language question,
+    just like Siri. This service provides an interface to the standard functions that
+    users demand of modern voice assistants. For example chatting, looking up information,
+    creating messages and much much more.
+  url: https://www.mashape.com/pannous/jeannie
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/Screenshot_5_26_13_10_02_AM.png
+  tags: Siri,Virtual,Voice
+- slug: tropo
+  name: Tropo
+  description: Tropo is an application platform that enables web developers to write
+    communication applications in the languages they already use, Groovy, Ruby, PHP,
+    Python and JavaScript, or use a WebAPI which will talk with an application running
+    on your own server through the use of HTTP and JSON, feeding requests and processing
+    responses back and forth as needed. Tropo is in the cloud, so it manages the headaches
+    of dealing with infrastructure and keeping applications up and running at enterprise-grade.&nbsp;
+  url: https://www.tropo.com/
+  shorturl: ""
+  twitter: https://twitter.com/tropo
+  blog: https://www.tropo.com/category/blog/
+  blogrss: ""
+  github: https://github.com/tropo
+  image: https://www.tropo.com/wp-content/themes/tropo-bootstrap/images/logo.png
+  tags: SMS,Speech,Telco,Instant Message,Voice,Messaging,Telephony,Voice,Plans
+- slug: plivo
+  name: Plivo
+  description: Plivo is an API Platform for building voice and SMS features into web
+    and mobile applications that are focused on running in the cloud. Plivo provides
+    web APIs that allow developers to integrate voice and SMS sending, receiving,
+    and account management features into any applications. Plivo provides a free tier
+    for playing around with the API, as well as unit based, pay as you go pricing,
+    which includes volume pricing for larger scale operations.
+  url: https://www.plivo.com
+  shorturl: ""
+  twitter: https://twitter.com/#!/plivo
+  blog: http://blog.plivo.com
+  blogrss: http://blog.plivo.com/rss
+  github: https://github.com/plivo
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plivo-logo.png
+  tags: Telco,Voice,Messaging,SMS API,Plans,Target,Imports
+- slug: skype
+  name: Skype
+  description: Skype is a software application that allows users to make voice and
+    video calls and chats over the Internet. Calls to other users within the Skype
+    service are free, while calls to both traditional landline telephones and mobile
+    phones can be made for a fee using a debit-based user account system. Skype was
+    founded by Niklas Zennstrom and Janus Friis who were also the founders of the
+    file sharing application Kazaa. Skype has also become popular for its additional
+    features which include instant messaging, file transfer, and video conferencing.
+    Skype has 663 million registered users as of 2010.
+  url: https://developer.skype.com/
+  shorturl: ""
+  twitter: https://twitter.com/skype
+  blog: http://blogs.skype.com
+  blogrss: http://feeds.feedburner.com/skypedevzone
+  github: https://github.com/skype
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/249_logo.jpg
+  tags: Video Conferencing,Chat,VOIP,Phone,Messaging,Telco,Videos,Voice
+- slug: maluuba
+  name: Maluuba
+  description: Maluuba&rsquo;s mission is to empower people with the ability to find
+    exactly what they want by speaking to their smart phone. Maluuba&rsquo;s proprietary,
+    patent-pending engine provides superior capabilities to traditional voice recognition
+    systems. Asking a question like, what movies are playing nearby? enables users
+    to buy tickets, find theater directions, and share search results on social platform&shy;s
+    such as Facebook and Twitter.
+  url: http://www.maluuba.com/
+  shorturl: ""
+  twitter: https://twitter.com/MaluubaInc
+  blog: http://www.maluuba.com/blog
+  blogrss: http://www.maluuba.com/blog/feed/feed.rss
+  github: https://github.com/Maluuba
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/maluuba-logo.png
+  tags: Voice
+- slug: twilio
+  name: Twilio
+  description: Twilio, the cloud communications company, providing a telephony infrastructure
+    web service in the cloud, allowing web developers to integrate phone calls, text
+    messages and IP voice communications into their web, mobile and traditional phone
+    applications.
+  url: http://www.twilio.com
+  shorturl: ""
+  twitter: https://twitter.com/twilio
+  blog: http://www.twilio.com/blog
+  blogrss: http://www.twilio.com/blog/feed
+  github: https://github.com/twilio
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/twilio-logo.png
+  tags: Voice,SMS,Telco,Messaging,Messaging,Voice,SMS API,MMS API,MMS,Partners,Plans,API
+    LIfeycle,Getting Started,Reliability,Service Level Agreement
+- slug: api.ai
+  name: api.ai
+  description: Api.ai provides developers and companies with the advanced tools they
+    need to build voice interfaces for apps and hardware devices. The Api.ai platform
+    lets developers seamlessly integrate intelligent voice command systems into their
+    products to create consumer-friendly voice-enabled user interfaces. Api.ai is
+    also the company behind Assistant, a first of its kind conversational assistant
+    app created in 2010 that now has more than 20 million users and is the highest
+    rated assistant app available. The Api.ai team and board of advisors brings decades
+    of experience in artificial intelligence, machine learning and human-computer
+    interaction services.
+  url: http://api.ai/index.html
+  shorturl: ""
+  twitter: https://twitter.com/api_ai
+  blog: ""
+  blogrss: ""
+  github: https://github.com/api-ai
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-ai-logo.png
+  tags: Voice,Target,Bots,Machine Learning,AI
+- slug: sightcall
+  name: SightCall
+  description: SightCall software development kits for browsers and mobile devices
+    help developers rapidly integrate Realtime Video, Audio and Text capabilities
+    directly into their Website or Mobile App. SightCall software products are aimed
+    at developers and make incorporating Realtime Communication as easy as using any
+    other client-side framework.
+  url: http://www.sightcall.com/
+  shorturl: ""
+  twitter: https://twitter.com/sightcall
+  blog: http://www.sightcall.com/blog/
+  blogrss: http://sightcall.com/feed/
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sightcall-logo.png
+  tags: Voice,Webrtc
+- slug: apidaze.io
+  name: apidaze.io
+  description: We Enable Your On-Demand Communication Services. Add Real Time Voice,
+    Video, Messaging into your VoIP, Web &amp; Mobile Apps. No CapEx. Pay as you grow.
+    100% Freedom.
+  url: http://apidaze.io
+  shorturl: ""
+  twitter: https://twitter.com/apidaze
+  blog: http://apidaze.io./blog
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apidaze-logo.jpg
+  tags: Webrtc,Telecom,Telephony,Voice,API LIfeycle
+...

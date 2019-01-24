@@ -1,0 +1,21 @@
+name: Webdis
+description: Webdis is a simple HTTP server which forwards commands to Redis and sends
+  the reply back using a format of your choice. Accessing /COMMAND/arg0/arg1/.../argN[.ext]
+  on Webdis executes the command on Redis and returns the response; the reply format
+  can be changed with the optional extension (.json, .txt&hellip;)
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Webdis__an_HTTP_interface_for_Redis_with_JSON_output.png
+tags:
+- Database
+created: "2016-12-24"
+modified: "2016-12-24"
+url: https://raw.githubusercontent.com/api-evangelist/database/gh-pages/_data/api-commons/webdis/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: http://webd.is/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

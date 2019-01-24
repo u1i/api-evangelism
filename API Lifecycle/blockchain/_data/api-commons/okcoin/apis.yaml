@@ -1,0 +1,23 @@
+name: OKCoin
+description: OKCoin is the leading global bitcoin exchange. Secured with bank-level
+  SSL encryption and cold storage. Distributed servers for high-speed bitcoin trading
+  based on real-time data. OKCoin provides top level digital currency trading services
+  for bitcoin,...
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26520-okcoin.jpg
+tags:
+- Technology
+- Financial Services
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/okcoin/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: http://okcoin.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

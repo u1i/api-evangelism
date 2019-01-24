@@ -1,0 +1,197 @@
+name: DomainTools
+description: DomainTools offers the most comprehensive searchable database of domain
+  name registration and hosting data. Combined with their other data sites such as
+  DailyChanges.com, Screenshots.com and ReverseMX.com, users of DomainTools.com can
+  review millions of historical domain name records from basic Whois and DNS information,
+  to homepage images and email settings. The Companys comprehensive snapshots of past
+  and present domain name registration, ownership and usage data, in addition to powerful
+  research and monitoring resources, help customers by unlocking everything there
+  is to know about a domain name.
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/DomainToolsLogo2013.png
+tags:
+- DNS
+created: "2016-10-22"
+modified: "2016-10-22"
+url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/domaintools/apis.yaml
+specificationVersion: "0.14"
+apis:
+- name: Brand Monitor API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/DomainToolsLogo2013.png
+  humanURL: http://www.domaintools.com
+  baseURL: http://www.domaintools.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/domaintools/brand-monitor-api-openapi-spec.yaml
+- name: Domain Profile API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/DomainToolsLogo2013.png
+  humanURL: http://www.domaintools.com
+  baseURL: http://www.domaintools.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/domaintools/domain-profile-api-openapi-spec.yaml
+- name: Domain Search API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/DomainToolsLogo2013.png
+  humanURL: http://www.domaintools.com
+  baseURL: http://www.domaintools.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/domaintools/domain-search-api-openapi-spec.yaml
+- name: Domain Suggestions API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/DomainToolsLogo2013.png
+  humanURL: http://www.domaintools.com
+  baseURL: http://www.domaintools.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/domaintools/domain-suggestions-api-openapi-spec.yaml
+- name: Hosting History API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/DomainToolsLogo2013.png
+  humanURL: http://www.domaintools.com
+  baseURL: http://www.domaintools.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/domaintools/hosting-history-api-openapi-spec.yaml
+- name: IP Monitor API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/DomainToolsLogo2013.png
+  humanURL: http://www.domaintools.com
+  baseURL: http://www.domaintools.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/domaintools/ip-monitor-api-openapi-spec.yaml
+- name: IP Registrant Monitor API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/DomainToolsLogo2013.png
+  humanURL: http://www.domaintools.com
+  baseURL: http://www.domaintools.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/domaintools/ip-registrant-monitor-api-openapi-spec.yaml
+- name: Name Server Monitor API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/DomainToolsLogo2013.png
+  humanURL: http://www.domaintools.com
+  baseURL: http://www.domaintools.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/domaintools/name-server-monitor-api-openapi-spec.yaml
+- name: Parsed Whois API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/DomainToolsLogo2013.png
+  humanURL: http://www.domaintools.com
+  baseURL: http://www.domaintools.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/domaintools/parsed-whois-api-openapi-spec.yaml
+- name: Registrant Monitor API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/DomainToolsLogo2013.png
+  humanURL: http://www.domaintools.com
+  baseURL: http://www.domaintools.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/domaintools/registrant-monitor-api-openapi-spec.yaml
+- name: Reverse IP API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/DomainToolsLogo2013.png
+  humanURL: http://www.domaintools.com
+  baseURL: http://www.domaintools.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/domaintools/reverse-ip-api-openapi-spec.yaml
+- name: Reverse IP Whois API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/DomainToolsLogo2013.png
+  humanURL: http://www.domaintools.com
+  baseURL: http://www.domaintools.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/domaintools/reverse-ip-whois-api-openapi-spec.yaml
+- name: Reverse Name Server API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/DomainToolsLogo2013.png
+  humanURL: http://www.domaintools.com
+  baseURL: http://www.domaintools.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/domaintools/reverse-name-server-api-openapi-spec.yaml
+- name: Reverse Whois API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/DomainToolsLogo2013.png
+  humanURL: http://www.domaintools.com
+  baseURL: http://www.domaintools.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/domaintools/reverse-whois-api-openapi-spec.yaml
+- name: Whois History API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/DomainToolsLogo2013.png
+  humanURL: http://www.domaintools.com
+  baseURL: http://www.domaintools.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/domaintools/whois-history-api-openapi-spec.yaml
+- name: Whois Lookup API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/DomainToolsLogo2013.png
+  humanURL: http://www.domaintools.com
+  baseURL: http://www.domaintools.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/domaintools/whois-lookup-api-openapi-spec.yaml
+x-common:
+- type: x-blog-rss-feed
+  url: http://blog.domaintools.com/feed/
+- type: x-base-url-for-portal
+  url: http://www.domaintools.com/api/docs/
+- type: x-email
+  url: sales@domaintools.com
+- type: x-github
+  url: https://github.com/DomainTools
+- type: x-twitter
+  url: https://twitter.com/DomainTools
+- type: x-website
+  url: http://www.domaintools.com
+- type: x-portal
+  url: http://www.domaintools.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

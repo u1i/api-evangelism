@@ -1,0 +1,16 @@
+swagger: "2.0"
+info:
+  title: Amazon RDS Tags API
+  description: The API for managing Amazon RDS Tagss
+  termsOfService: https://aws.amazon.com/terms/
+  version: 1.0.0
+host: rds.us-east-1.amazonaws.com
+basePath: /
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths: []
+definitions: []

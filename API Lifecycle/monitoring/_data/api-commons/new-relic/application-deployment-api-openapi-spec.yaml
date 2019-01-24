@@ -1,0 +1,111 @@
+swagger: "2.0"
+info:
+  title: Application Deployment API
+  description: The Application Deployment API.
+  version: 1.0.0
+host: api.newrelic.com
+basePath: /
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /v2/applications/{application_id}/deployments.{format}:
+    get:
+      summary: List
+      description: <p>This API endpoint returns a paginated list of the deployments
+        associated with a given application.</p><p>See our documentation for a discussion
+        on <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/pagination-api-output>output
+        pagination</a>.</p>
+      operationId: list
+      parameters:
+      - in: path
+        name: application_id
+        description: Application ID
+        type: integer
+      - in: query
+        name: page
+        description: Pagination index
+        type: integer
+      responses:
+        200:
+          description: OK
+      tags:
+      - Application Deploymen
+    post:
+      summary: Create
+      description: <p>This API endpoint creates a deployment record for a given application.Deployment
+        records are created with the following attributes:</p><p>Required:<br />u00a0u00a0-
+        Application ID<br />u00a0u00a0- Revision, such as a git SHA<br /></p><p>Optional:<br
+        />u00a0u00a0- Changelog <br />u00a0u00a0- Description <br />u00a0u00a0- User
+        posting the deployment<br /></p><p>Note that the time of your deployment will
+        be recorded as the current time in UTC.</p>
+      operationId: create
+      parameters:
+      - in: path
+        name: application_id
+        description: Application ID
+        type: integer
+      - in: body
+        name: deployment
+        description: Deployment schema
+        schema:
+          $ref: '#/definitions/holder'
+      responses:
+        200:
+          description: OK
+      tags:
+      - Application Deploymen
+  /v2/applications/{application_id}/deployments/{id}.{format}:
+    delete:
+      summary: Delete
+      description: '<p>This API endpoint deletes the specified deployment record.</p><p>Note:
+        <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/rest-api-key>Admin
+        Useru2019s API Key</a> is required.</p>'
+      operationId: delete
+      parameters:
+      - in: path
+        name: application_id
+        description: Application ID
+        type: integer
+      - in: path
+        name: id
+        description: Deployment ID
+        type: integer
+      responses:
+        200:
+          description: OK
+      tags:
+      - Application Deploymen
+definitions:
+  "":
+    properties:
+      deployment:
+        description: This is a default description.
+        type: DELETE
+      id:
+        description: This is a default description.
+        type: DELETE
+      revision:
+        description: This is a default description.
+        type: DELETE
+      changelog:
+        description: This is a default description.
+        type: DELETE
+      description:
+        description: This is a default description.
+        type: DELETE
+      user:
+        description: This is a default description.
+        type: DELETE
+      timestamp:
+        description: This is a default description.
+        type: DELETE
+      links:
+        description: This is a default description.
+        type: DELETE
+      application:
+        description: This is a default description.
+        type: DELETE

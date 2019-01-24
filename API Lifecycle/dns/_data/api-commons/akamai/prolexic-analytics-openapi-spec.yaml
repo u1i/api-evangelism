@@ -1,0 +1,105 @@
+swagger: "2.0"
+info:
+  title: Prolexic Analytics
+  description: Retrieve data from Prolexic DDoS protection and monitoring services.
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /prolexic-analytics/v1/attack-report/contract/{contract}/attack-id/{attackId}:
+    get:
+      summary: Get an Attack Report
+      description: ""
+      operationId: prolexicanalyticsv1attackreportcontractcontractattackidattackid
+      parameters:
+      - in: Number
+        name: attackId
+        description: Integer matching the attackId of the attack desired.
+        type: string
+      - in: String
+        name: contract
+        description: Name of contract attack report belong to.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /prolexic-analytics/v1/attack-reports/contract/{contract}/start/{start}/end/{end}:
+    get:
+      summary: List Attack Reports
+      description: ""
+      operationId: prolexicanalyticsv1attackreportscontractcontractstartstartendend
+      parameters:
+      - in: String
+        name: contract
+        description: Name of contract attack reports belong to.
+        type: string
+      - in: Number
+        name: end
+        description: Unix timestamp for end of attack report search.
+        type: string
+      - in: Number
+        name: start
+        description: Unix timestamp for beginning of attack report search.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /prolexic-analytics/v1/critical-events/contract/{contract}:
+    get:
+      summary: List Critical Events
+      description: ""
+      operationId: prolexicanalyticsv1criticaleventscontractcontract
+      parameters:
+      - in: String
+        name: contract
+        description: Name of contract events should be attached to.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /prolexic-analytics/v1/events/contract/{contract}:
+    get:
+      summary: List Events
+      description: ""
+      operationId: prolexicanalyticsv1eventscontractcontract
+      parameters:
+      - in: String
+        name: contract
+        description: Name of contract events should be attached to.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /prolexic-analytics/v1/metric-types:
+    get:
+      summary: List Metric Types
+      description: ""
+      operationId: prolexicanalyticsv1metrictypes
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  type:
+    post:
+      summary: Get Metrics Data
+      description: ""
+      operationId: type
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

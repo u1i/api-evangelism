@@ -1,0 +1,140 @@
+swagger: "2.0"
+info:
+  title: Diagnostic Tools
+  description: Explore problems in DNS host-name mapping (dig) and network routing
+    (mtr) from around the world.
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /diagnostic-tools/v1/akamaitranslator{?hostname}:
+    get:
+      summary: Translate Hostname
+      description: ""
+      operationId: diagnostictoolsv1akamaitranslatorhostname
+      parameters:
+      - in: String
+        name: hostname
+        description: Hostname for which to retrieve ARL information.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /diagnostic-tools/v1/dig{?hostname,queryType,location,sourceIp}:
+    get:
+      summary: Run dig
+      description: ""
+      operationId: diagnostictoolsv1dighostnamequerytypelocationsourceip
+      parameters:
+      - in: String
+        name: hostname
+        description: the domain name you want to get information about.
+        type: string
+      - in: String
+        name: location
+        description: Location of Akamai server from which you want to run dig. You
+          can find servers using GET /diagnostic-tools/v1/locations.
+        type: string
+      - in: Enumeration
+        name: queryType
+        description: 'query type for the dig; valid types are:. Possible values: AAAA,
+          A, CNAME, MX, PTR, SOA.'
+        type: string
+      - in: String
+        name: sourceIp
+        description: CDN server IP to run DIG from.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /diagnostic-tools/v1/errortranslator{?errorCode}:
+    get:
+      summary: Translate Error Code
+      description: ""
+      operationId: diagnostictoolsv1errortranslatorerrorcode
+      parameters:
+      - in: String
+        name: errorCode
+        description: Error code or reference number you want to translate, which typically
+          appears on an error page.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /diagnostic-tools/v1/ipgeolocator{?ip}:
+    get:
+      summary: Get IP Geolocation Data
+      description: ""
+      operationId: diagnostictoolsv1ipgeolocatorip
+      parameters:
+      - in: String
+        name: ip
+        description: IP Address
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /diagnostic-tools/v1/locations:
+    get:
+      summary: List Locations
+      description: ""
+      operationId: diagnostictoolsv1locations
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /diagnostic-tools/v1/mtr{?destinationDomain,location,sourceIp}:
+    get:
+      summary: Run mtr
+      description: ""
+      operationId: diagnostictoolsv1mtrdestinationdomainlocationsourceip
+      parameters:
+      - in: String
+        name: destinationDomain
+        description: The domain name you want to get information about.
+        type: string
+      - in: String
+        name: location
+        description: Location of Akamai Server you want to run dig from. You can find
+          servers using GET /diagnostic-tools/v1/locations. Either this parameter
+          or sourceIp is required.
+        type: string
+      - in: String
+        name: sourceIp
+        description: CDN server IP to run MTR from. Either this parameter or location
+          is required.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /diagnostic-tools/v1/verifycdnip{?ip}:
+    get:
+      summary: Is This a CDN IP
+      description: ""
+      operationId: diagnostictoolsv1verifycdnipip
+      parameters:
+      - in: String
+        name: ip
+        description: IP Address you want to determine is included in the Akamai network.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

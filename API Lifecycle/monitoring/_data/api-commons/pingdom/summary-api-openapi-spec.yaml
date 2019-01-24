@@ -1,0 +1,168 @@
+swagger: "2.0"
+info:
+  title: Summary API
+  description: The Summary API.
+  version: 1.0.0
+host: api.pingdom.com
+basePath: /
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  n    /api/{version}/summary.average/{checkid}:
+    n    get:
+      summary: Get A Response Time / Uptime Average
+      description: '    Get the average time / uptime value for a specified check
+        and time period.'
+      operationId: get-a-response-time--uptime-average
+      parameters:
+      - in: query
+        name: bycountry
+        description: Split response times into country groups
+        type: <td>boolean</td>
+      - in: query
+        name: byprobe
+        description: Split response times into probe groups
+        type: <td>boolean</td>
+      - in: query
+        name: from
+        description: Start time of period. Format is UNIX timestamp
+        type: <td>integer</td>
+      - in: query
+        name: includeuptime
+        description: Include uptime information
+        type: <td>boolean</td>
+      - in: query
+        name: probes
+        description: Filter to only use results from a list of probes. Format is a
+          comma separated list of probe identifiers
+        type: <td>string</td>
+      - in: query
+        name: to
+        description: End time of period. Format is UNIX timestamp
+        type: <td>integer</td>
+      responses:
+        200:
+          description: OK
+      tags:
+      - Summary
+  n    /api/{version}/summary.hoursofday/{checkid}:
+    n    get:
+      summary: Get Response Time Averages For Each Hour Of The Day
+      description: '    Returns the average response time for each hour of the day
+        (0-23) for a specific check over a selected time period. I.e. it shows you
+        what an average day looks like during that time period.'
+      operationId: get-response-time-averages-for-each-hour-of-the-day
+      parameters:
+      - in: query
+        name: from
+        description: Start time of period. Format is UNIX timestamp
+        type: <td>integer</td>
+      - in: query
+        name: probes
+        description: Filter to only use results from a list of probes. Format is a
+          comma separated list of probe identifiers
+        type: <td>string</td>
+      - in: query
+        name: to
+        description: End time of period. Format is UNIX timestamp
+        type: <td>integer</td>
+      - in: query
+        name: uselocaltime
+        description: If true, use the users local time zone for results (from and
+          to parameters should still be specified in UTC). If false, use UTC for results.
+        type: <td>boolean</td>
+      responses:
+        200:
+          description: OK
+      tags:
+      - Summary
+  n    /api/{version}/summary.outage/{checkid}:
+    n    get:
+      summary: Get List of Outages
+      description: '    Get a list of status changes for a specified check and time
+        period. If order is speficied to descending, the list is ordered by newest
+        first. (Default is ordered by oldest first.)'
+      operationId: get-list-of-outages
+      parameters:
+      - in: query
+        name: from
+        description: Start time of period. Format is UNIX timestamp
+        type: <td>integer</td>
+      - in: query
+        name: order
+        description: Sorting order of outages. Ascending or descending.
+        type: <td>string (asc,desc)</td>
+      - in: query
+        name: to
+        description: End time of period. Format is UNIX timestamp
+        type: <td>integer</td>
+      responses:
+        200:
+          description: OK
+      tags:
+      - Summary
+  n    /api/{version}/summary.performance/{checkid}:
+    n    get:
+      summary: Get Intervals of Average Response Time and Uptime During a Given Interval
+      description: '    For a given interval in time, return a list of sub intervals
+        with the given resolution. Useful for generating graphs. A sub interval may
+        be a week,     a day or an hour depending on the choosen resolution.'
+      operationId: get-intervals-of-average-response-time-and-uptime-during-a-given-interval
+      parameters:
+      - in: query
+        name: from
+        description: Start time of period. Format is UNIX timestamp
+        type: <td>integer</td>
+      - in: query
+        name: includeuptime
+        description: Include uptime information.
+        type: <td>boolean</td>
+      - in: query
+        name: order
+        description: Sorting order of sub intervals. Ascending or descending.
+        type: <td>string (asc,desc)</td>
+      - in: query
+        name: probes
+        description: Filter to only use results from a list of probes. Format is a
+          comma separated list of probe identifiers. Can not be used if includeuptime
+          is set to true. Also note that this can cause intervals to be omitted, since
+          there may be no results from the desired probes in them.
+        type: <td>string</td>
+      - in: query
+        name: resolution
+        description: Interval size
+        type: <td>string (hour, day, week)</td>
+      - in: query
+        name: to
+        description: End time of period. Format is UNIX timestamp
+        type: <td>integer</td>
+      responses:
+        200:
+          description: OK
+      tags:
+      - Summary
+  n    /api/{version}/summary.probes/{checkid}:
+    n    get:
+      summary: Get Active Probes For A Period
+      description: '    Get a list of probes that performed tests for a specified
+        check during a specified period.'
+      operationId: get-active-probes-for-a-period
+      parameters:
+      - in: query
+        name: from
+        description: Start time of period. Format is UNIX timestamp
+        type: <td>integer</td>
+      - in: query
+        name: to
+        description: End time of period. Format is UNIX timestamp
+        type: <td>integer</td>
+      responses:
+        200:
+          description: OK
+      tags:
+      - Summary
+definitions: []

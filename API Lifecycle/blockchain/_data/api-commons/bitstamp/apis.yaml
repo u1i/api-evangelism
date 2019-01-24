@@ -1,0 +1,27 @@
+name: Bitstamp
+description: Bitstamp is an European Union based bitcoin marketplace. It allows people
+  from all around the world to safely buy and sell bitcoins.
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1249_logo.png
+tags:
+- Virtual Currency
+- Marketplace
+- Finance
+- Currency
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/bitstamp/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: https://www.bitstamp.net/api/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/bitstamp
+- type: x-twitter
+  url: https://twitter.com/Bitstamp
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

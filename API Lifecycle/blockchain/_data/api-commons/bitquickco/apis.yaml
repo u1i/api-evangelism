@@ -1,0 +1,23 @@
+name: BitQuick.co
+description: Looking To Buy Bitcoin Instantly and Sell Bitcoin Through A Trusted and
+  Authentic Source? Faster than Coinbase, Safer than LocalBitcoins!
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26450-bitquick-co.jpg
+tags:
+- Technology
+- Marketplace
+- internet
+- Financial Services
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/bitquickco/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: http://bitquick.co
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

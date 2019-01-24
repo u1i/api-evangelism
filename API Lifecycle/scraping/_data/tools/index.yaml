@@ -1,0 +1,947 @@
+---
+- slug: pythonscrapinghub
+  name: python-scrapinghub
+  description: A client interface for Scrapinghubs API
+  url: https://github.com/scrapinghub/python-scrapinghub
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,SDK,Python
+- slug: diffbotbashclient
+  name: diffbot-bash-client
+  description: A Diffbot API client for Bash
+  url: https://github.com/diffbot/diffbot-bash-client
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,Bash,SDK
+- slug: diffbotcclient
+  name: diffbot-c-client
+  description: A Diffbot API client for C
+  url: https://github.com/diffbot/diffbot-c-client
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,SDK,C
+- slug: diffbotcsharpclient
+  name: diffbot-csharp-client
+  description: A Diffbot API client for C#
+  url: https://github.com/diffbot/diffbot-csharp-client
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,SDK,CSharp
+- slug: diffbotcppclient
+  name: diffbot-cpp-client
+  description: A Diffbot API client for C++
+  url: https://github.com/diffbot/diffbot-cpp-client
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,SDK,C++
+- slug: diffbotdelphiclient
+  name: diffbot-delphi-client
+  description: A Diffbot API client for Delphi
+  url: https://github.com/diffbot/diffbot-delphi-client
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,SDK,Delphi
+- slug: diffboterlangclient
+  name: diffbot-erlang-client
+  description: A Diffbot API client for Erlang
+  url: https://github.com/diffbot/diffbot-erlang-client
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,SDK,Erlang
+- slug: diffbotgoclient
+  name: diffbot-go-client
+  description: A Diffbot API client for Go
+  url: https://github.com/diffbot/diffbot-go-client
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,SDK,Go
+- slug: diffbotgroovyclient
+  name: diffbot-groovy-client
+  description: A Diffbot API client for Groovy
+  url: https://github.com/diffbot/diffbot-groovy-client
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,SDK,Groovy
+- slug: diffbotjsclient
+  name: diffbot-js-client
+  description: A Diffbot API client for Javascript
+  url: https://github.com/diffbot/diffbot-js-client
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,SDK,JavaScript
+- slug: diffbotluaclient
+  name: diffbot-lua-client
+  description: A Diffbot APi client for Lua
+  url: https://github.com/diffbot/diffbot-lua-client
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,SDK,Lua
+- slug: diffbotmatlabclient
+  name: diffbot-matlab-client
+  description: A Diffbot API client for MATLAB
+  url: https://github.com/diffbot/diffbot-matlab-client
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,SDK,Matlab
+- slug: diffbotobjcclient
+  name: diffbot-objc-client
+  description: A Diffbot API client for Objective C
+  url: https://github.com/diffbot/diffbot-objc-client
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,SDK,Objective C
+- slug: diffbotoctaveclient
+  name: diffbot-octave-client
+  description: A Diffbot API client for Octave
+  url: https://github.com/diffbot/diffbot-octave-client
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,SDK,Octave
+- slug: diffbotpowershellclient
+  name: diffbot-powershell-client
+  description: A Diffbot API client for Powershell
+  url: https://github.com/diffbot/diffbot-powershell-client
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,SDK,PowerShell,Command Line Interface
+- slug: diffbotprologclient
+  name: diffbot-prolog-client
+  description: A Diffbot API client for Prolog
+  url: https://github.com/diffbot/diffbot-prolog-client
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,SDK,Prolog
+- slug: diffbotscalaclient
+  name: diffbot-scala-client
+  description: A Diffbot API client for Scala
+  url: https://github.com/diffbot/diffbot-scala-client
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,SDK,Scala
+- slug: diffbotgoogleappsclient
+  name: diffbot-google-apps-client
+  description: A Diffbot API Demo from a Google Apps Spreadsheet
+  url: https://github.com/diffbot/diffbot-google-apps-client
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,SDK,Spreadsheets
+- slug: diffbot_rapidminer
+  name: diffbot_rapidminer
+  description: A Diffbot client for RapidMiner 6.1 or above to analyze web pages.
+  url: https://github.com/diffbot/diffbot_rapidminer
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,RapidMiner
+- slug: diffbotrclient
+  name: diffbot-r-client
+  description: A Diffbot client library for the R language.
+  url: https://github.com/diffbot/diffbot-r-client
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,SDK
+- slug: clientjsmini
+  name: client-js-mini
+  description: A mini version of the import.io JavaScript client library
+  url: https://github.com/import-io/client-js-mini
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: SDK,JavaScript,Scraping
+- slug: pagemunchnode
+  name: pagemunch-node
+  description: A node.js module for the PageMunch web crawler API
+  url: https://github.com/PageMunch/pagemunch-node
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: SDK,Scraping,Web Crawler,Node.js
+- slug: pagemunchphp
+  name: pagemunch-php
+  description: A PHP library for the PageMunch web crawler API
+  url: https://github.com/PageMunch/pagemunch-php
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: SDK,Scraping,Web Crawler,PHP
+- slug: mdr
+  name: mdr
+  description: A python library detect and extract listing data from HTML page.
+  url: https://github.com/scrapinghub/mdr
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,Python
+- slug: pagemunchruby
+  name: pagemunch-ruby
+  description: A Ruby gem for the PageMunch web crawler API
+  url: https://github.com/PageMunch/pagemunch-ruby
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: SDK,Scraping,Web Crawler,Ruby
+- slug: diffbotrustclient
+  name: diffbot-rust-client
+  description: A rust client library for the DiffbotAPI
+  url: https://github.com/diffbot/diffbot-rust-client
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,SDK,Rust
+- slug: frontera
+  name: frontera
+  description: A scalable frontier for web crawlers
+  url: https://github.com/scrapinghub/frontera
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,Crawler
+- slug: pagemunchobjc
+  name: pagemunch-objc
+  description: An ObjectiveC SDK for the PageMunch web crawler API
+  url: https://github.com/PageMunch/pagemunch-objc
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: SDK,Scraping,Web Crawler,Objective C
+- slug: headline_analysis
+  name: headline_analysis
+  description: Analyzing news headlines for fun and profit
+  url: https://github.com/AYLIEN/headline_analysis
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,News
+- slug: havenondemandangular
+  name: havenondemand-angular
+  description: Angular.js IDOL OnDemand client
+  url: https://github.com/HPE-Haven-OnDemand/havenondemand-angular
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,SDK,Single Page Applications,Angular
+- slug: instarecon
+  name: Instarecon
+  description: Automated digital reconnaissance
+  url: https://github.com/vergl4s/instarecon
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: https://github.com/vergl4s/
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: DNS,Scraping,Security
+- slug: aile
+  name: aile
+  description: Automatic Item List Extraction
+  url: https://github.com/scrapinghub/aile
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,Lists
+- slug: aylien_newsapi_csharp
+  name: aylien_newsapi_csharp
+  description: AYLIENs officially supported .Net (C#) client library for accessing
+    News API
+  url: https://github.com/AYLIEN/aylien_newsapi_csharp
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: SDK,Scraping,CSharp
+- slug: aylien_textapi_csharp
+  name: aylien_textapi_csharp
+  description: AYLIENs officially supported .Net (C#) client library for accessing
+    Text API
+  url: https://github.com/AYLIEN/aylien_textapi_csharp
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,CSharp,SDK
+- slug: aylien_newsapi_go
+  name: aylien_newsapi_go
+  description: AYLIENs officially supported Go client library for accessing News API
+  url: https://github.com/AYLIEN/aylien_newsapi_go
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: SDK,Scraping,Go
+- slug: aylien_textapi_go
+  name: aylien_textapi_go
+  description: AYLIENs officially supported Go client library for accessing Text API
+  url: https://github.com/AYLIEN/aylien_textapi_go
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: SDK,Scraping,Go
+- slug: aylien_newsapi_java
+  name: aylien_newsapi_java
+  description: AYLIENs officially supported Java client library for accessing News
+    API
+  url: https://github.com/AYLIEN/aylien_newsapi_java
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,SDK,Java
+- slug: aylien_textapi_java
+  name: aylien_textapi_java
+  description: AYLIENs officially supported Java client library for accessing Text
+    API
+  url: https://github.com/AYLIEN/aylien_textapi_java
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,SDK,Java
+- slug: aylien_newsapi_nodejs
+  name: aylien_newsapi_nodejs
+  description: AYLIENs officially supported Node.js client library for accessing News
+    API
+  url: https://github.com/AYLIEN/aylien_newsapi_nodejs
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,SDK,Node.js
+- slug: aylien_textapi_nodejs
+  name: aylien_textapi_nodejs
+  description: AYLIENs officially supported node.js client library for accessing Text
+    API
+  url: https://github.com/AYLIEN/aylien_textapi_nodejs
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: SDK,Scraping,Node.js
+- slug: aylien_newsapi_php
+  name: aylien_newsapi_php
+  description: AYLIENs officially supported PHP client library for accessing News
+    API
+  url: https://github.com/AYLIEN/aylien_newsapi_php
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: SDK,Scraping,PHP
+- slug: aylien_textapi_php
+  name: aylien_textapi_php
+  description: AYLIENs officially supported PHP client library for accessing Text
+    API
+  url: https://github.com/AYLIEN/aylien_textapi_php
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,PHP,SDK
+- slug: aylien_newsapi_python
+  name: aylien_newsapi_python
+  description: AYLIENs officially supported Python client library for accessing News
+    API
+  url: https://github.com/AYLIEN/aylien_newsapi_python
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: SDK,Scraping,Python
+- slug: aylien_textapi_python
+  name: aylien_textapi_python
+  description: AYLIENs officially supported Python client library for accessing Text
+    API
+  url: https://github.com/AYLIEN/aylien_textapi_python
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,SDK,Python
+- slug: aylien_newsapi_ruby
+  name: aylien_newsapi_ruby
+  description: AYLIENs officially supported Ruby client library for accessing News
+    API
+  url: https://github.com/AYLIEN/aylien_newsapi_ruby
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: SDK,Ruby,Scraping
+- slug: aylien_textapi_ruby
+  name: aylien_textapi_ruby
+  description: AYLIENs officially supported Ruby client library for accessing Text
+    API
+  url: https://github.com/AYLIEN/aylien_textapi_ruby
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: SDK,Scraping,Ruby
+- slug: blacksheepwall
+  name: blacksheepwall
+  description: blacksheepwall is a hostname reconnaissance tool written in Go.
+  url: https://github.com/tomsteele/blacksheepwall
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: https://github.com/tomsteele/
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,DNS,Security
+- slug: havenondemandgo
+  name: havenondemand-go
+  description: Client library for Go to call Haven OnDemand APIs
+  url: https://github.com/HPE-Haven-OnDemand/havenondemand-go
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,SDK,Go
+- slug: havenondemandr
+  name: havenondemand-r
+  description: Client library for R to call Haven OnDemand APIs
+  url: https://github.com/HPE-Haven-OnDemand/havenondemand-r
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,SDK,R
+- slug: havenondemandsalesforce
+  name: havenondemand-salesforce
+  description: Client library for Sales Force to call Haven OnDemand APIs
+  url: https://github.com/HPE-Haven-OnDemand/havenondemand-salesforce
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,SDK,SalesForce
+- slug: diffbotclojureclient
+  name: diffbot-clojure-client
+  description: Clojure interface to the Diffbot API http://www.diffbot.com/
+  url: https://github.com/diffbot/diffbot-clojure-client
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,SDK,Closure
+- slug: diffbotdartclient
+  name: diffbot-dart-client
+  description: Diffbot API client for Dart
+  url: https://github.com/diffbot/diffbot-dart-client
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,SDK,Dart
+- slug: diffbotplsqlclient
+  name: diffbot-plsql-client
+  description: Diffbot API client for PL/SQL
+  url: https://github.com/diffbot/diffbot-plsql-client
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,SDK,PL/SQL
+- slug: diffbotcoffeescriptclient
+  name: diffbot-coffeescript-client
+  description: Diffbot API for node.js (CoffeeScript)
+  url: https://github.com/diffbot/diffbot-coffeescript-client
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,SDK,CoffeeScript
+- slug: extruct
+  name: extruct
+  description: Extract embedded metadata from HTML markup
+  url: https://github.com/scrapinghub/extruct
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,HTML
+- slug: loginform
+  name: loginform
+  description: Fill HTML login forms automatically
+  url: https://github.com/scrapy/loginform
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,Forms
+- slug: page_finder
+  name: page_finder
+  description: Find which links on a web page are pagination links
+  url: https://github.com/scrapinghub/page_finder
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,Links
+- slug: aduana
+  name: aduana
+  description: Frontera backend to guide a crawl using PageRank, HITS or other ranking
+    algorithms based on the link
+  url: https://github.com/scrapinghub/aduana
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,Frontera
+- slug: havenondemandasp.net
+  name: havenondemand-asp.net
+  description: Haven OnDemand client library for ASP.NET
+  url: https://github.com/HPE-Haven-OnDemand/havenondemand-asp.net
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,SDK,ASP.Net
+- slug: havenondemandjava
+  name: havenondemand-java
+  description: Haven OnDemand client library for Java
+  url: https://github.com/HPE-Haven-OnDemand/havenondemand-java
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,SDK,Java
+- slug: havenondemandiosswift
+  name: havenondemand-ios-swift
+  description: Haven OnDemand library for iOS - Swift. Release V1.0
+  url: https://github.com/HPE-Haven-OnDemand/havenondemand-ios-swift
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,SDK,Swift
+- slug: havenondemandphp
+  name: havenondemand-php
+  description: Haven Ondemand library for PHP
+  url: https://github.com/HPE-Haven-OnDemand/havenondemand-php
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,SDK,PHP
+- slug: clientjs
+  name: client-js
+  description: Import.io JavaScript client library
+  url: https://github.com/import-io/client-js
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: SDK,Scraping,DNS
+- slug: knock
+  name: Knockout.js
+  description: Knock Subdomain Scan
+  url: https://github.com/guelfoweb/knock
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: https://github.com/guelfoweb/
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: DNS,Scraping,Security
+- slug: reppy
+  name: reppy
+  description: Modern robots.txt Parser for Python
+  url: https://github.com/seomoz/reppy
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,Python
+- slug: havenondemandnode
+  name: havenondemand-node
+  description: Node.js Client library to call Haven OnDemand APIs
+  url: https://github.com/HPE-Haven-OnDemand/havenondemand-node
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,SDK,Node.js
+- slug: diffbotrubyclient
+  name: diffbot-ruby-client
+  description: Official Diffbot Ruby API Client
+  url: https://github.com/diffbot/diffbot-ruby-client
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,SDK,Ruby
+- slug: dumptruck
+  name: dumptruck
+  description: Painlessly move data in and out of a SQLite database.
+  url: https://github.com/scraperwiki/dumptruck
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Database,Scraping
+- slug: phantomjs
+  name: PhantomJS
+  description: 'PhantomJS is a headless WebKit scriptable with a JavaScript API. It
+    has fast and native support for various web standards: DOM handling, CSS selector,
+    JSON, Canvas, and SVG.'
+  url: http://phantomjs.org/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/phantomjs-logo.png
+  tags: Scraping,VR,Seniors
+- slug: diffbotphpclient
+  name: diffbot-php-client
+  description: PHP interface for the Diffbot API
+  url: https://github.com/diffbot/diffbot-php-client
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: SDK,Scraping,PHP
+- slug: portia
+  name: Portia
+  description: Portia is a tool for visually scraping web sites without any programming
+    knowledge. Just annotate web pages with a point and click editor to indicate what
+    data you want to extract, and portia will learn how to scrape similar pages from
+    the site. Portia has a web based UI served by a Twisted server, so you can install
+    it on almost any modern platform.
+  url: https://github.com/scrapinghub/portia
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/bw-github.jpg
+  tags: Scraping,Visual
+- slug: powershellaylien
+  name: PowerShellAylien
+  description: PowerShell Module to interact with AYLIEN Text Analysis API - a package
+    consisting of eight differen
+  url: https://github.com/AYLIEN/PowerShellAylien
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,Command Line Interface
+- slug: havenondemandpython
+  name: havenondemand-python
+  description: Python client library for Haven OnDemand
+  url: https://github.com/HPE-Haven-OnDemand/havenondemand-python
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,SDK,Python
+- slug: diffbotpythonclient
+  name: diffbot-python-client
+  description: Python Diffbot API Client
+  url: https://github.com/diffbot/diffbot-python-client
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,SDK,Python
+- slug: dateparser
+  name: dateparser
+  description: python parser for human readable dates
+  url: https://github.com/scrapinghub/dateparser
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,Python
+- slug: pdfminer
+  name: pdfminer
+  description: Python PDF Parser
+  url: https://github.com/scraperwiki/pdfminer
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,Parsing
+- slug: irobot
+  name: irobot
+  description: robots.txt file inspection
+  url: https://github.com/seomoz/irobot
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,Web Crawler
+- slug: havenondemandruby
+  name: havenondemand-ruby
+  description: Ruby Gem to help call Haven OnDemand APIs.
+  url: https://github.com/HPE-Haven-OnDemand/havenondemand-ruby
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,SDK,Ruby
+- slug: magicsummarytool
+  name: magic-summary-tool
+  description: ScraperWiki tool to summarise stuff about any table of data
+  url: https://github.com/scraperwiki/magic-summary-tool
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,Summarize
+- slug: phantomjs
+  name: phantomjs
+  description: Scriptable Headless WebKit
+  url: https://github.com/ariya/phantomjs
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,Webkit
+- slug: diffbothaskellclient
+  name: diffbot-haskell-client
+  description: Simple client for the Diffbot API
+  url: https://github.com/diffbot/diffbot-haskell-client
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: SDK,Haskell,Scraping
+- slug: apache-tika
+  name: Apache Tika
+  description: The Apache Tika&trade; toolkit detects and extracts metadata and structured
+    text content from various documents using existing parser libraries.
+  url: http://tika.apache.org/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/apache-tika-logo.png
+  tags: Scraping,Apache
+- slug: diffbotexcelclient
+  name: diffbot-excel-client
+  description: Using Diffbot from Microsoft Excel
+  url: https://github.com/diffbot/diffbot-excel-client
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,SDK,Spreadsheets
+- slug: portia
+  name: portia
+  description: Visual scraping for Scrapy
+  url: https://github.com/scrapinghub/portia
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,Visual
+...

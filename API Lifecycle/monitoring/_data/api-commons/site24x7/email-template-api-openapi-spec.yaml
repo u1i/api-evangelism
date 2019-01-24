@@ -1,0 +1,33 @@
+swagger: "2.0"
+info:
+  title: Email Template API
+  description: The Email Template API.
+  version: 1.0.0
+host: www.site24x7.com.
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /email_templates/{template_id}:
+    delete:
+      summary: Delete Email Template
+      description: Delete an existing Email Template.
+      operationId: delete-email-template
+      responses:
+        200:
+          description: OK
+      tags:
+      - Email Templates
+    get:
+      summary: Retrieve Email Template
+      description: Retrieve configuration of a Email Template.
+      operationId: retrieve-email-template
+      responses:
+        200:
+          description: OK
+      tags:
+      - Email Templates
+definitions: []

@@ -1,0 +1,944 @@
+---
+- slug: adigami
+  name: Adigami
+  description: Adigami is a data integration and visualization company specializing
+    in digital media analytics. Their platform helps companies collect analytics data
+    from all digital media channels (search, display, mobile, web, email, etc.) and
+    bring it into a single data store. Many different data sources such as Google
+    Analytics, AdWords, Bing, Yahoo! APT!, and DoubleClick are supported. Clients
+    can also integrate their own specific data into the mix, enabling them to compare
+    internal metrics against standard digital media ones.
+  url: http://www.adigami.com
+  shorturl: ""
+  twitter: https://twitter.com/adigami
+  blog: http://www.adigami.com/blog/
+  blogrss: http://www.adigami.com/feed/
+  github: https://github.com/adigami
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/adigami-logo.png
+  tags: Aggregation,Analysis,API LIfeycle
+- slug: ai-applied
+  name: Ai Applied
+  description: Leverage the power of thinking technology. Ai Applied provides technologies
+    and services which help you obtain valuable insights from your texts, social media,
+    web and other data. Find out how this is useful, what it was used for, or meet
+    our team. By using Ai Applied's APIs, you can improve your service by making your
+    data richer and more relevant, by enabling new insights and enriching old ones.
+    At any scale. In real-time. All the time.
+  url: http://ai-applied.nl
+  shorturl: ""
+  twitter: https://twitter.com/aiapplied
+  blog: http://www.adzuna.co.uk/blog
+  blogrss: http://www.adzuna.co.uk/blog/feed/rss/
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ai-applied-logo.png
+  tags: Analysis,Sentiment,AI
+- slug: alchemyapi
+  name: AlchemyAPI
+  description: The product of over 50 person years of engineering effort, AlchemyAPI
+    is a text mining platform providing the most comprehensive set of semantic analysis
+    capabilities in the natural language processing field. Used over 3 billion times
+    every month, AlchemyAPI enables customers to perform large-scale social media
+    monitoring, target advertisements more effectively, track influencers and sentiment
+    within the media, automate content aggregation and recommendation, make more accurate
+    stock trading decisions, enhance business and government intelligence systems,
+    and create smarter applications and services.
+  url: http://www.alchemyapi.com/
+  shorturl: ""
+  twitter: https://twitter.com/alchemyapi
+  blog: http://blog.alchemyapi.com/
+  blogrss: http://blog.alchemyapi.com/rss.xml
+  github: https://github.com/AlchemyAPI
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/alchemy-api-logo.png
+  tags: Content Analysis,Scraping,Semantic Analysis,My API Stack,Content,Language,Machine
+    Learning Scraping,Getting Started
+- slug: altmetric
+  name: Altmetric
+  description: Altmetric tracks mentions of scholarly works on social media sites,
+    scholarly bookmarking services and in science news outlets. It handles all of
+    the heavy lifting involved in extracting, disambiguating and collating this information
+    so that you can focus on your core product. &nbsp;The Altmetric API gives you
+    programmatic access the data about articles &amp; datasets collected by Altmetric.
+  url: http://api.altmetric.com/
+  shorturl: ""
+  twitter: https://twitter.com/altmetric
+  blog: http://www.altmetric.com/blog
+  blogrss: http://altmetric.com/blog/feed/
+  github: https://github.com/altmetric
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/api_header_logo.png
+  tags: Articles,Education,Academic,Research,API United Kingdom,Analysis,Science,Research
+- slug: api-evangelist
+  name: API Evangelist
+  description: This is my professional presence as the API Evangelist, where I work
+    to better understand the world of APIs. I'm always working towards a better understanding
+    of how they are being used, both the good and the bad, across the technology,
+    business, and politics of APIs as I see it.&nbsp;
+  url: http://apievangelist.com
+  shorturl: ""
+  twitter: https://twitter.com/apievangelist
+  blog: /blog
+  blogrss: blog.xml
+  github: https://github.com/api-evangelist
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/t-shirts/KL_InApiWeTrust-1000.png
+  tags: API Evangelist,Analysis,Platform,News,API LIfeycle
+- slug: apimetrics
+  name: APImetrics
+  description: APImetrics builds on 3 years experience gained working on the challenge
+    of API abstraction and management that is critical to every App and Web Service
+    in use today. &nbsp;By combining elements gained from API management tools and
+    authentication technologies, APImetrics have been able to build the first, complete,
+    end-to-end API performance test solution. &nbsp;This allows developers, enterprises
+    and API providers to model complex API scenarios and provide them with real time
+    monitoring and alerts when things go wrong.
+  url: http://apimetrics.io
+  shorturl: ""
+  twitter: https://twitter.com/apimetricstats
+  blog: http://apimetrics.io/blog/
+  blogrss: http://apimetrics.io/feed/
+  github: https://github.com/APImetrics
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-metrics-logo.png
+  tags: Analysis,Monitoring,My API Stack,API LIfeycle
+- slug: appsee
+  name: Appsee
+  description: Appsee enables mobile app publishers and developers to track, understand
+    and improve the user experience in their apps, and act on insights delivered by
+    our SaaS platform.
+  url: http://www.appsee.com/
+  shorturl: ""
+  twitter: https://twitter.com/Appseecom
+  blog: http://www.appsee.com/blog
+  blogrss: http://www.appsee.com/blog/feed
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/2002_logo.png
+  tags: Analysis,Application,Behavior,Analysis
+- slug: authoritylabs
+  name: AuthorityLabs
+  description: AuthorityLabs is a simple search engine rank monitoring service for
+    small/medium sized businesses, web development shops, internet marketing consultants
+    and agencies. For a nominal monthly subscription fee the service can track as
+    many domains and keywords as needed with ranking information gathered daily and
+    displayed in user-friendly reports.&nbsp;
+  url: http://authoritylabs.com
+  shorturl: ""
+  twitter: https://twitter.com/authoritylabs
+  blog: http://blog.authoritylabs.com
+  blogrss: http://feeds.feedburner.com/authoritylabsblog
+  github: https://github.com/authoritylabs
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/694_logo.jpg
+  tags: SEO Rank checking service,SEO,Analysis,Analysis,Plans
+- slug: aws-cloudtrail
+  name: AWS CloudTrail
+  description: AWS CloudTrail is a web service that records AWS API calls for your
+    account and delivers log files to you. The recorded information includes the identity
+    of the API caller, the time of the API call, the source IP address of the API
+    caller, the request parameters, and the response elements returned by the AWS
+    service. With CloudTrail, you can get a history of AWS API calls for your account,
+    including API calls made via the AWS Management Console, AWS SDKs, command line
+    tools, and higher-level AWS services (such as AWS CloudFormation). The AWS API
+    call history produced by CloudTrail enables security analysis, resource change
+    tracking, and compliance auditing.
+  url: https://aws.amazon.com/cloudtrail/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AWSCloudTrail.png
+  tags: Amazon Web Services,Logging,Analysis,Management
+- slug: aws-cloudwatch
+  name: AWS CloudWatch
+  description: Amazon CloudWatch is a monitoring service for AWS cloud resources and
+    the applications you run on AWS. You can use Amazon CloudWatch to collect and
+    track metrics, collect and monitor log files, set alarms, and automatically react
+    to changes in your AWS resources. Amazon CloudWatch can monitor AWS resources
+    such as Amazon EC2 instances, Amazon DynamoDB tables, and Amazon RDS DB instances,
+    as well as custom metrics generated by your applications and services, and any
+    log files your applications generate. You can use Amazon CloudWatch to gain system-wide
+    visibility into resource utilization, application performance, and operational
+    health. You can use these insights to react and keep your application running
+    smoothly.
+  url: https://aws.amazon.com/cloudwatch/
+  shorturl: ""
+  twitter: ""
+  blog: https://aws.amazon.com/cloudwatch/developer-resources/#BlogPosts
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AmazonCloudWatch.png
+  tags: Monitoring,Amazon Web Services,Analysis,Logging,Management
+- slug: aws-kinesis-analytics
+  name: AWS Kinesis Analytics
+  description: Amazon Kinesis Analytics is the easiest way to process streaming data
+    in real time with standard SQL without having to learn new programming languages
+    or processing frameworks. Amazon Kinesis Analytics enables you to create and run
+    SQL queries on streaming data so that you can gain actionable insights and respond
+    to your business and customer needs promptly. Amazon Kinesis Analytics takes care
+    of everything required to run your queries continuously and scales automatically
+    to match the volume and throughput rate of your incoming data. With Amazon Kinesis
+    Analytics, you only pay for the resources your queries consume. There is no minimum
+    fee or setup cost.
+  url: https://aws.amazon.com/kinesis/analytics/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonKinesis_AmazonKinesisAnalytics.png
+  tags: Amazon Web Services,Analysis,Database,Logging
+- slug: azure-analysis-services
+  name: Azure Analysis Services
+  description: Use Azure Resource Manager to create and deploy an Azure Analysis Services
+    instance within seconds, and use backup restore to quickly move your existing
+    models to Azure Analysis Services and take advantage of the scale, flexibility
+    and management benefits of the cloud. Scale up, scale down, or pause the service
+    and pay only for what you use.
+  url: https://azure.microsoft.com/en-us/services/analysis-services/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/transform-complex-data.png
+  tags: Analysis,Microsoft
+- slug: azure-data-lake-analytics
+  name: Azure Data Lake Analytics
+  description: The Data Lake analytics service is a new distributed analytics service
+    built on Apache YARN that dynamically scales so you can focus on your business
+    goals, not on distributed infrastructure. Instead of deploying, configuring and
+    tuning hardware, you write queries to transform your data and extract valuable
+    insights. The analytics service can handle jobs of any scale instantly by simply
+    setting the dial for how much power you need. You only pay for your job when it
+    is running making it cost-effective. The analytics service supports Azure Active
+    Directory letting you simply manage access and roles, integrated with your on-premises
+    identity system. It also includes U-SQL, a language that unifies the benefits
+    of SQL with the expressive power of user code. U-SQL&rsquo;s scalable distributed
+    runtime enables you to efficiently analyze data in the store and across SQL Servers
+    in Azure, Azure SQL Database and Azure SQL Data Warehouse.
+  url: https://azure.microsoft.com/en-us/services/data-lake-analytics/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/data-lake-analytics-05.png
+  tags: Analysis,Microsoft,Data
+- slug: azure-hdinsight
+  name: Azure HDInsight
+  description: Azure HDInsight is a Hadoop-based service that brings an Apache Hadoop
+    solution to the cloud. Gain the full value of big data with a cloud-based data
+    platform that manages data of any type and size.
+  url: https://azure.microsoft.com/en-us/services/hdinsight/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-hdinsights-open-source-analytics.png
+  tags: Data,Analysis,Microsoft
+- slug: azure-traffic-manager
+  name: Azure Traffic Manager
+  description: 'Azure Traffic Manager gives you three methods for traffic routing:
+    failover, performance, or weighted round-robin. Choose the one that&rsquo;s right
+    for your application or scenario.'
+  url: https://azure.microsoft.com/en-us/services/traffic-manager/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-traffic-improved-application-performance.png
+  tags: Traffic,Analysis,Microsoft
+- slug: botlytics
+  name: Botlytics
+  description: Analytics for your bot. Track the messages your bot sends and the conversations
+    your bot has.
+  url: http://www.botlytics.co/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Botlytics.png
+  tags: Bots,Analysis
+- slug: bouquet
+  name: Bouquet
+  description: Bouquet is an open source toolbox to explore, share and connect your
+    data to applications and visualizations.
+  url: http://openbouquet.io/
+  shorturl: ""
+  twitter: https://twitter.com/openbouquet
+  blog: https://medium.com/@OpenBouquet
+  blogrss: https://medium.com/feed/@OpenBouquet
+  github: https://github.com/openbouquet
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/bouquet-logo.73ec.png
+  tags: Analysis,Open Source,Visualization,Evangelism Target
+- slug: churnbee
+  name: ChurnBee
+  description: What? Churn Bee is a SaaS metrics dashboard. Once integrated via an
+    API, you will immediately start getting a visual representation of how is your
+    startup making progress from day to day. We&rsquo;ll do all the math and number
+    crunching - you will understand acquisition, activation, retention, growth and
+    other relevant metrics for your startup. Why? Many startups end up building tools
+    and dashboards internally. In fact all the successful startups do. Built by entrepreneurs,
+    for entrepreneurs, Churn Bee will give you the actionable data you need so that
+    you can focus on making the best decisions.
+  url: https://churnbee.com
+  shorturl: ""
+  twitter: https://twitter.com/ChurnBee
+  blog: http://blog.churnbee.com/
+  blogrss: http://blog.churnbee.com/feed
+  github: https://github.com/churnbee
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/churnbee-logo.png
+  tags: Analysis,Metrics,Visualization,Platform
+- slug: civis-analytics
+  name: Civis Analytics
+  description: Born out of the Obama 2012 re-election campaign, we&rsquo;re continuing
+    to push the boundaries of what data can do. We&rsquo;ve transformed our analytics
+    services into a comprehensive data science platform so you can turn your data
+    into action.
+  url: http://civisanalytics.com/
+  shorturl: ""
+  twitter: https://twitter.com/CivisAnalytics
+  blog: https://civisanalytics.com/blog/
+  blogrss: ""
+  github: https://github.com/civisanalytics
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/civis-analytics.png
+  tags: Chicago,Analysis
+- slug: compete
+  name: Compete
+  description: Compete helps the world&rsquo;s top brands improve their marketing
+    based on the online behavior of millions of consumers. Advertisers, agencies and
+    publishers use Compete&rsquo;s products and services to create engaging online
+    experiences and profitable advertising campaigns. Compete is located in Boston,
+    MA, with offices across the U.S., U.K. and France. For more information, please
+    visit http://www.compete.com/.
+  url: http://developer.compete.com/
+  shorturl: ""
+  twitter: https://twitter.com/compete
+  blog: http://blog.compete.com/
+  blogrss: https://blog.compete.com/feed/
+  github: https://github.com/compete
+  image: ""
+  tags: Statistics,Analysis,Analysis,Target
+- slug: convey-api
+  name: Convey API
+  description: "Convey Computer Corporation: The Leader in Hybrid-Core Computing  Hybrid-core
+    computing, Convey\xE2\u20AC\u2122s revolutionary server architecture, combines
+    the familiar world of x86 computing with hardware-based, application-specific
+    instructions to accelerate HPC applications. The result is a tightly integrated
+    system that gives you many times the performance of a commodity server on key
+    applications in oil &amp; gas, financial analytics, bioinformatics, and other
+    markets  The company was incorporated in 2006 and is based in Richardson, Texas."
+  url: https://developer.conveyapi.com/
+  shorturl: ""
+  twitter: https://twitter.com/ConveyAPI
+  blog: ""
+  blogrss: ""
+  github: https://github.com/ConveyAPI
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1256_logo.jpg
+  tags: Emotion,NLP,Sentiment,Text,Social Analytics,Text Analysis
+- slug: countly
+  name: Countly
+  description: Countly is world's leading open source, enterprise mobile and web analytics
+    &amp; marketing platform. Countly software is provided in two editions; self-hosted
+    or private cloud Enterprise Edition with support and SLA coverage, and Community
+    Edition with a free-to-use non-commercial license.
+  url: https://count.ly/
+  shorturl: ""
+  twitter: https://twitter.com/gocountly
+  blog: http://blog.count.ly/
+  blogrss: http://blog.count.ly/rss
+  github: https://github.com/countly
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/countly-logo.png
+  tags: Analysis,Open Source,Analysis,Road Map
+- slug: datameer
+  name: Datameer
+  description: Datameer&rsquo;s end-to-end Big Data analytics solution enables business
+    users to discover insights in any data via wizard-based data integration, iterative
+    point-and-click analytics, and drag-and-drop visualizations, regardless of the
+    data type, size, or source. Datameer uses Hadoop for both storage and compute,
+    and is a fully extensible solution that can integrate with existing data warehouse
+    or business intelligence solutions. Datameer users can also gain instant insights
+    via the Datameer App Market, which offers dozens of pre-built analytic applications
+    across a variety of use cases and data types.
+  url: http://www.datameer.com/
+  shorturl: ""
+  twitter: https://twitter.com/datameer
+  blog: http://www.datameer.com/blog/
+  blogrss: ""
+  github: https://github.com/datameer
+  image: ""
+  tags: Analysis,Data,Enterprise,Analysis
+- slug: dataseed
+  name: dataseed
+  description: Dataseed is a simple, flexible platform for interactive data visualisation,
+    analysis and reporting. Whether you need to be up and running in minutes or require
+    a custom solution tailored to your business requirements - we've got you covered.
+  url: http://getdataseed.com
+  shorturl: ""
+  twitter: https://twitter.com/dataseedapp
+  blog: http://blog.getdataseed.com/
+  blogrss: http://feeds.feedburner.com/DataseedBlog
+  github: https://github.com/dataseed
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/dataseed-logo.png
+  tags: Analysis,Visualization
+- slug: deskmetrics
+  name: DeskMetrics
+  description: DeskMetrics is an analytics platform that helps software developers
+    understand their users, improve their products and increase user base &amp; sales.
+    Measure your application usage with DeskMetrics Analytics.
+  url: https://deskmetrics.com
+  shorturl: ""
+  twitter: https://twitter.com/deskmetrics
+  blog: http://blog.deskmetrics.com
+  blogrss: http://blog.deskmetrics.com/rss
+  github: https://github.com/deskmetrics
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1004_logo.png
+  tags: Twitter,Analysis,Software,Utility,Website Analytics,Applications
+- slug: distimo
+  name: Distimo
+  description: 'Distimo has a very clear objective: to make the app market transparent.
+    &nbsp;The company was born out of the frustration of a lack of insights into the
+    performance of apps and the manual work needed to track important metrics. Our
+    goal is to provide the best and most actionable app intelligence for anyone who
+    wants to compete in the app market. Our data-driven team seeks to help developers,
+    brands and financial services companies gain actionable, timely and factual knowledge
+    of what&rsquo;s happening daily in the global app market.'
+  url: http://www.distimo.com
+  shorturl: ""
+  twitter: https://twitter.com/distimo
+  blog: http://www.distimo.com/blog/
+  blogrss: http://www.distimo.com/feed/
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1645_logo.png
+  tags: Analysis,Netherlands
+- slug: fisheye-analytics
+  name: Fisheye Analytics
+  description: Fisheye Analytics is a Singaporean company that provides premium media
+    monitoring and analytics services, which help businesses and governments in PR,
+    marketing and customer care. It has offices in Singapore and India and counts
+    the World Economic Forum, International Olympic Committee and government departments
+    (communication ministries or law enforcement) of the European Union, Singapore,
+    U.A.E, Cyprus etc., as some of its clients.
+  url: http://www.fisheyeanalytics.com/api.html
+  shorturl: ""
+  twitter: https://twitter.com/fisheyeanalytic
+  blog: http://blog.fisheyeanalytics.com/
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1325_logo.jpg
+  tags: Analysis,Media,Monitoring,Social
+- slug: gavagai-api
+  name: Gavagai API
+  description: We know how it is. The ever-growing pile of papers next to you on your
+    desk is always tempting to ignore for just a while longer, as is the constant
+    influx of new and ever-changing data in your company. For you to read through
+    every line of every text in your project demands more hours of reading and analyzing
+    than you necessarily have. To help you with the processing, Gavagai is at your
+    service.
+  url: https://developer.gavagai.se/docs
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://www.gavagai.se/wp-content/uploads/2014/10/product-api.png
+  tags: Text Analytics,Text Analysis,Sentiment analysis,Tonality,Stories,Text Summarization,APIs.io
+    Import
+- slug: gnocchi
+  name: Gnocchi
+  description: Gnocchi is a multi-tenant timeseries, metrics and resources database.
+    It provides an HTTP REST interface to create and manipulate the data. It is designed
+    to store metrics at a very large scale while providing access to metrics and resources
+    information to operators and users. Gnocchi is part of the OpenStack project.
+    While Gnocchi has support for OpenStack, it is fully able to work stand-alone.
+  url: http://gnocchi.xyz/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/gnocchi-logo.jpg
+  tags: Analysis
+- slug: gooddata
+  name: GoodData
+  description: oodData provides groundbreaking BI for data monetization to enterprises,
+    independent software vendors, and system integrators who seek to quickly create
+    and distribute valuable information to large networks of customers and partners.
+    Our real-time analytics distribution platform is highly scalable and secure -
+    allowing companies like Target, Discovery International and Zendesk to deploy
+    engaging data products that are guided by GoodData&rsquo;s expertise in delivering
+    widely-adopted analytics solutions.
+  url: http://gooddata.com
+  shorturl: ""
+  twitter: https://twitter.com/gooddata
+  blog: https://developer.gooddata.com/blog
+  blogrss: https://developer.gooddata.com/rss
+  github: https://github.com/gooddata
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/GoodData_logo.jpg
+  tags: Analysis,Data,Business Intelligence
+- slug: google-analytics
+  name: Google Analytics
+  description: Google Analytics gives you the digital analytics tools you need to
+    analyze data from all touchpoints in one place, for a deeper understanding of
+    the customer experience. You can then share the insights that matter with your
+    whole organization.
+  url: https://www.google.com/analytics/#?modal_active=none
+  shorturl: ""
+  twitter: https://twitter.com/googleanalytics
+  blog: https://analytics.googleblog.com/
+  blogrss: https://analytics.googleblog.com/feeds/posts/default?alt=rss
+  github: https://github.com/googleanalytics/
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
+  tags: Analysis,Google APIs
+- slug: google-data-studio
+  name: Google Data Studio
+  description: Google Data Studio (beta) turns your data into informative dashboards
+    and reports that are easy to read, easy to share, and fully customizable. Dashboarding
+    allows you to tell great data stories to support better business decisions.
+  url: https://www.google.com/analytics/data-studio/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+    Shot 2017-03-04 at 10.27.46 PM.png
+  tags: Visualizations,Analysis
+- slug: graphite
+  name: Graphite
+  description: Graphite is used to monitor metrics common aspects of API operations
+    and performance like CPU, Memory, IO usage, network throughput and latency. It
+    can also be used for tracking API endpoint usage, and applied as part of API rate
+    limiting.
+  url: http://graphite.wikidot.com/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/graphite_cli_800.png
+  tags: Analysis
+- slug: keen-io
+  name: Keen IO
+  description: Keen.io helps app developers build custom analytics &amp; data science
+    features directly into their mobile apps and web dashboards, by providing the
+    infrastructure and APIs to collect data and build analytics into your business.
+  url: https://keen.io/
+  shorturl: ""
+  twitter: https://twitter.com/keen_io
+  blog: https://keen.io/blog
+  blogrss: http://keenio.tumblr.com/rss
+  github: https://github.com/keenlabs
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/keen-io-logo.png
+  tags: Analysis,Visualization,Analysis
+- slug: kudos-knowledge
+  name: Kudos Knowledge
+  description: Kudos is a corporate social network with an employee recognition engine
+    at its core. Designed to connect employees to the organization and to one another,
+    Kudos works to produce an engaged and communicative workforce. &nbsp;This simple
+    SaaS peer-to-peer platform allows team members to give meaningful recognition
+    and feedback to one another in real time. Kudos is simple and easy to use, and
+    is designed to fit comfortably and effectively into your organization&rsquo;s
+    culture.
+  url: http://www.kudosknowledge.com/flockworks/documentation/what-is-flockworks.html
+  shorturl: ""
+  twitter: https://twitter.com/#!/kudosknowledge
+  blog: http://kudosnow.com/index.php/en/blog/blog
+  blogrss: http://www.kudosknowledge.com/feed/
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1083_logo.png
+  tags: Enterprise,Semantic,Text,AI,Semantic Analysis,Social Intelligence
+- slug: leftronic
+  name: Leftronic
+  description: Leftronic is a Y Combinator-funded company that develops a web-based
+    real-time dashboard application for monitoring a company&rsquo;s most important
+    data. Leftronic business dashboards retrieve a company&rsquo;s metrics from popular
+    services such as Google Analytics, Twitter, Zendesk and others, as well as receive
+    custom metrics through a super-simple API. The dashboards update in real-time
+    and are designed for large screens. This makes it easy for teams to monitor their
+    company&rsquo;s critical metrics.&lt;/p&gt;
+  url: https://leftronic.com
+  shorturl: ""
+  twitter: https://twitter.com/leftronicco
+  blog: http://blog.leftronic.com/
+  blogrss: https://www.leftronic.com/feed/
+  github: https://github.com/leftronic
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/835_logo.png
+  tags: Analysis,Dashboard,Data,Tracking,Visualization,Visualization,Visualization,Analysis
+- slug: localytics
+  name: Localytics
+  description: Localytics provides the most powerful analytics and marketing platform
+    for mobile and web apps. It is used in more than 20,000 apps on more than 1.4
+    billion devices, helping companies such as ESPN, eBay, Fox, and the New York Times
+    drive user engagement, loyalty, and customer lifetime value.&nbsp;The platform
+    allows organizations to gain deep, actionable insights into app user behaviors,
+    and to create automated marketing programs that drive efficient user acquisition,
+    targeted push and in-app messaging, and a personalized in-app experience.
+  url: http://www.localytics.com/
+  shorturl: ""
+  twitter: https://twitter.com/localytics
+  blog: http://www.localytics.com/blog/
+  blogrss: http://www.localytics.com/feed/rss/
+  github: https://github.com/localytics
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/localytics.png
+  tags: Analysis,Mobile,Analysis
+- slug: locowise-slackbot
+  name: Locowise (Slackbot)
+  description: Social dashboards, campaign reporting and competitor insights. All
+    brought together in one place and presented beautifully. Locowise gives brands
+    and agencies actionable insights to improve their social marketing efforts.
+  url: http://locowise.com/blog/locowise-goes-slack-get-all-your-social-media-reports-in-a-slack-channel
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/LocowiseSlackbotLocowiseSlackbot.png
+  tags: Analysis,Bots,Slack
+- slug: mathworks
+  name: MathWorks
+  description: The MathWorks, Inc. (branded as simply MathWorks) is an American privately
+    held corporation that specializes in mathematical computing software. Its major
+    products include MATLAB and Simulink. As of April 2014, it employed over 3,000
+    people worldwide with 70% located at the company's headquarters in Natick, Massachusetts,
+    United States.
+  url: http://www.mathworks.com/
+  shorturl: ""
+  twitter: https://twitter.com/MATLAB
+  blog: http://blogs.mathworks.com/graphics/
+  blogrss: http://blogs.mathworks.com/graphics/feed/
+  github: https://github.com/mathworks
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mathworks.jpg
+  tags: Analysis,Machine Learning,Algorithms,Visualization
+- slug: mixpanel
+  name: Mixpanel
+  description: Mixpanel is an advanced analytics service that helps improve web and
+    mobile applications by tracking how users interact &amp; engage with them. Mixpanel&rsquo;s
+    mission is to help the world learn from their data, by offering a sophisticated
+    analytics platform that companies can use to understand how users behave. Mixpanel
+    performs all of their data analysis in real-time.
+  url: https://mixpanel.com/
+  shorturl: ""
+  twitter: https://twitter.com/mixpanel
+  blog: https://mixpanel.com/blog/
+  blogrss: ""
+  github: https://github.com/mixpanel
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/mixpanel-logo.jpeg
+  tags: Analysis,Metrics,Analysis,Business Intelligence,Analysis
+- slug: mobagel-inc
+  name: MoBagel Inc
+  description: MoBagel is a real-time cloud analytics platform that helps IoT companies
+    monitor and analyze hardware usage, speed up research and development, forecast
+    sales and marketing strategies, and proactively engage with customers to prevent
+    product returns. As a result, companies can also save up to millions in cost reductions.
+  url: https://mobagel.com/
+  shorturl: ""
+  twitter: https://twitter.com/mobagel
+  blog: ""
+  blogrss: ""
+  github: https://github.com/MOBAGEL
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mobagel-logo.png
+  tags: Internet of Things,Analysis
+- slug: mopapp
+  name: Mopapp
+  description: Easy sales analytics for all mobile apps. Mopapp helps developers and
+    publishers to track and analyze their apps revenues from all major online stores
+    (Apple App Store, Google Android Market, GetJar, RIM App World, Appia, MobiHand)
+    and major mobile Ad networks (AdMob) through automatic data aggregation and easy-to-understand
+    reports. It exposes an API to track sales also from 3rd party stores or custom
+    ecommerce scripts.
+  url: http://www.mopapp.com
+  shorturl: ""
+  twitter: https://twitter.com/mopappteam
+  blog: ""
+  blogrss: ""
+  github: https://github.com/mopapp
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/858_logo.png
+  tags: Analysis,Mobile,Sales,Tracking,API United Kingdom,Retail,Retail
+- slug: netsil
+  name: Netsil
+  description: 'Netsil automatically discovers your application&rsquo;s topology and
+    builds a map of services and stakeholders so that you can visually locate hotspots
+    and failures faster. There&rsquo;s no more code instrumentation, no more hunting
+    through manual documentation to understand services and dependencies.Netsil works
+    the way you want to work: quickly, iteratively and collaboratively. Finally, a
+    solution designed for microservices, containers and modern distributed systems.
+    Download Netsil for the monitoring and performance analytics needs of your production
+    applications.'
+  url: http://netsil.com/
+  shorturl: ""
+  twitter: https://twitter.com/Netsil_HQ
+  blog: https://blog.netsil.com
+  blogrss: https://blog.netsil.com/feed
+  github: https://github.com/netsil
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/netsil-logo.png
+  tags: Microservices,Analysis,Monitoring
+- slug: ondore
+  name: Ondore
+  description: Ondore combines cutting-edge algorithms, natural language processing
+    and Big Data expertise in order to generate insight into previously undiscovered
+    relationships within large sets of data. Your business can take advantage of these
+    newly discovered connections to make better strategic and tactical decisions.
+  url: http://web.ondore.com/products/ondore-api/
+  shorturl: ""
+  twitter: https://twitter.com/Ondore
+  blog: http://web.ondore.com/es/blog/
+  blogrss: http://web.ondore.com/es/feed/
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1779_logo.jpg
+  tags: Analysis,Social,Analysis
+- slug: palantir
+  name: Palantir
+  description: "Ten years ago, we set out to create products that would transform
+    the way organizations use their data. Today, our products are deployed at the
+    most critical government, commercial, and non-profit institutions in the world
+    to solve problems we hadn\u2019t even dreamed of back then."
+  url: https://www.palantir.com/
+  shorturl: ""
+  twitter: https://twitter.com/palantirtech
+  blog: ""
+  blogrss: chrome-extension://nlbjncdgjeocebhnmkbbbdekmmmcbfjd/subscribe.html?https%3A%2F%2Fwww.palantir.com%2Ffeed%2Findex.xml
+  github: https://github.com/Palantir
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/palantir-logo.png
+  tags: Data,Cybersecurity,Analysis
+- slug: predictiveintent
+  name: PredictiveIntent
+  description: PredictiveIntent is a leading expert in the development of behavioural
+    analysis and targeting software for digital businesses.  PersonalMerchant is a
+    fully-featured E-Commerce recommendations suite, enabling online retailers to
+    present the right products or blog articles to the right people, at the right
+    time. PersonalMerchant can be connected through deeply integrated extensions for
+    Magento, Visualsoft, Interspire and OXID eShop or through a simple API to connect
+    with any e-commerce platform. Through the patent-pending Suggestion Choreography
+    Technology, and smart algorithms coupled with Layered Logic suggestion sets (which
+    can be easily adapted on our online Dashboard), retailers can increases in revenue
+    by around 20%, increases in loyalty and return purchases and increases Average
+    Order Values. Behaviourally personalised emails are also supported, as is social
+    media support with Twitter and Facebook (coming soon) support.   PersonalMerchant
+    services are available both directly from PredictiveIntent and via solution partners
+    such as Pod1, Grand River and Session Digital.  The IntentPredictionServer is
+    available as a SaaS or SaaP framework enabling the recommendation technology to
+    be integrated with any content serving platform, from mobile portals to advertising
+    servers. Personalising digital experiences has been shown to increase customer
+    loyalty, consumption, relevance and revenue. The detailed online reporting enables
+    businesses to observe and understand customer behaviour with more clarity, detail
+    and accuracy than ever before possible.
+  url: http://www.predictiveintent.com
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/639_logo.png
+  tags: Semantic,Semantic Analysis,Machine Learning
+- slug: saplo
+  name: Saplo
+  description: Saplo uses innovative semantic technologies to analyze text in a way
+    that mimic how humans read and evaluate text. Saplo help organisations extract
+    and refine valuable information hidden in large text collections. Saplo have five
+    different services; Entity Tagging, Topic Tags, Related &amp; Similar Articles,
+    Contextual recognition and Sentiment Analysis.
+  url: http://saplo.com
+  shorturl: ""
+  twitter: https://twitter.com/saplo
+  blog: http://saplo.com/blog/
+  blogrss: http://feeds.feedburner.com/saplo/
+  github: https://github.com/saplo
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/469_logo.png
+  tags: Text Analysis,Content,Scraping,Machine Learning Scraping
+- slug: segment
+  name: Segment
+  description: Segment.io lets you send your analytics data to any service you want,
+    without you having to integrate with each one individually.
+  url: https://segment.io/
+  shorturl: ""
+  twitter: https://twitter.com/segment
+  blog: https://segment.com/blog/
+  blogrss: https://segment.com/blog/atom.xml
+  github: https://github.com/segmentio
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/marketo-banner-segment-logo.png
+  tags: Aggregation,Analysis
+- slug: seomoz
+  name: SEOmoz
+  description: Sendible is a social media marketing platform that allows individuals,
+    agencies and small businesses to engage with their customers across multiple channels
+    at any time. Sendible allows users to track results and measure their efforts
+    with powerful social media analytics and monitoring tools.
+  url: http://www.seomoz.org
+  shorturl: ""
+  twitter: https://twitter.com/seomoz
+  blog: http://moz.com/blog
+  blogrss: http://feeds.feedburner.com/mozblog
+  github: https://github.com/seomoz
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/seomoz-logo.jpg
+  tags: Analysis,Search,SEO,API United Kingdom,Marketing
+- slug: sift-science
+  name: Sift Science
+  description: Sift Science fights fraud with machine learning. Machine learning teaches
+    a computer to mine data for statistical patterns, and continuously learn and adapt
+    as new data streams in. With simple APIs that take minutes to integrate, an online
+    business can leverage the latest in large-scale machine learning to protect themselves
+    from fraud. Chargebacks, spammers, account takeovers, etc. Online businesses send
+    Sift Science user events, which are mined for identity, behavioral, and network
+    patterns that correspond to past fraud. Sift Science also pools fraud patterns
+    across its network of customers. The network strengthens as more data streams
+    in. Customers can also &ldquo;train their own model&rdquo; and tailor their results
+    via a simple interface.
+  url: https://siftscience.com/
+  shorturl: ""
+  twitter: https://twitter.com/siftscience
+  blog: https://blog.siftscience.com
+  blogrss: ""
+  github: https://github.com/siftscience
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1475_logo.png
+  tags: Security,Utility,Analysis,Security,Commerce,Target,Commerce
+- slug: stackify
+  name: Stackify
+  description: Stackify helps developers manage and troubleshoot application problems
+    with integrated monitoring, metrics, errors &amp; logs.
+  url: http://stackify.com/
+  shorturl: ""
+  twitter: https://twitter.com/Stackify
+  blog: http://stackify.com/blog/
+  blogrss: http://stackify.com/feed/
+  github: https://github.com/stackify
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/484661-stackify-logo.jpg
+  tags: Analysis
+- slug: stytch
+  name: Stytch
+  description: Stytch is unique. It provides the fastest way to prepare, explore and
+    share your data to get the most business insights. It is the only end-to-end data
+    analytics platform connected to the world&rsquo;s largest business database from
+    Dun &amp; Bradstreet, so you can accurately match, cleanse and blend your data
+    along the way.
+  url: http://www.stytch.com
+  shorturl: ""
+  twitter: https://twitter.com/stytchhq
+  blog: http://www.stytch.com/blog/
+  blogrss: http://www.stytch.com/home-page/feed/
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/stytchlogo-new.png
+  tags: Analysis,Data
+- slug: sysomos
+  name: Sysomos
+  description: Sysomos offers social media monitoring and analytics products that
+    give corporations, marketers, public relations agencies and advertisers the intelligence
+    and insight needed to make smarter business and strategic decisions. The Sysomos
+    platform brings business intelligence to social media, giving you instant and
+    unlimited access to all social media conversations so you can quickly see what&rsquo;s
+    happening, why it&rsquo;s happening, and who&rsquo;s driving the conversations.
+    &nbsp;Through the use of contextual text analytics and data mining technology
+    Sysomos collects billions of social media conversations from blogs, Twitter, social
+    networks, messages, boards, wikis and a growing number of major new sources.&nbsp;
+  url: http://www.sysomos.com/solutions/api-data-partners/
+  shorturl: ""
+  twitter: https://twitter.com/sysomos
+  blog: http://blog.sysomos.com
+  blogrss: http://feeds2.feedburner.com/SysomosBlog
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1482_logo.jpg
+  tags: Webinar,Analysis,Semantic,Social,Text
+- slug: terapeak
+  name: Terapeak
+  description: Terapeak provides effective eBay market research solutions, assisting
+    eBay sellers create to more successful listings. eBay sellers have proven to be,
+    on average, 65% more successful through the user of Terapeak&rsquo;s analytical,
+    query-based data, helping to decide which items to sell on eBay, how to price
+    each item to maximize profits, and which listing tactics to use to increase revenue.
+    Terapeak market research enhances buying and selling activity on eBay by providing
+    this information to help gauge activity within the existing market, while also
+    spotting seasonal trends, and helping to project optimal sales goals.
+  url: https://developer.terapeak.com/
+  shorturl: ""
+  twitter: https://twitter.com/Terapeak
+  blog: http://blog.terapeak.com
+  blogrss: http://feeds.feedburner.com/ebay_research?format=xml
+  github: https://github.com/terapeak
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1276_logo.png
+  tags: Analysis,Data,Ebay,Commerce,Enterprise,Commerce
+- slug: textwise
+  name: TextWise
+  description: TextWise semantic technology powers solutions to leverage valuable
+    information for your users. Engage with our semantic technology instantly through
+    our API. The TextWise API gives you access to some of the most powerful semantic
+    tools we have developed using Semantic Gist. To get started with your own account,
+    please contact us for a test token and licensing information. With full access
+    to the API, you can build any tools you want around our leading natural language
+    processing and machine-learning services.
+  url: http://www.textwise.com/
+  shorturl: ""
+  twitter: https://twitter.com/textwise
+  blog: http://blog.textwise.com/
+  blogrss: http://blog.textwise.com/feed/
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/textwise-logo.png
+  tags: Search,Semantic,Semantic Analysis
+- slug: trustyou
+  name: TrustYou
+  description: "TrustYou is the standard for reputation in the hospitality industry.
+    \ TrustYou takes the guess work out of social media and online reviews so businesses
+    can drive sales, marketing and customer service based on valuable, actionable
+    customer intelligence data.   Specifically designed for the hospitality industry,
+    TrustYou\u2019s platform is powered by breakthrough semantic technology and enables
+    hoteliers to:  \u2022 Get feedback with free satisfaction surveys   \u2022 Access
+    insights to reviews, tweets, and posts 24/7  \u2022 See where they stand against
+    competitors and peers   \u2022 Identify strengths and weaknesses   \u2022 Easily
+    integrate review data on their hotel Website or Facebook page  \u2022 Find out
+    global sentiment for their hotel with the TrustScore, a single rating they can
+    trust   \u2022 Get up and running with just Internet access and a browser.  Accor,
+    Marriot, Starwood, Hard Rock Cafes, InterContinental Hotels, Best Western Hotels,
+    Maritime Hotels, Omni Hotels &amp; Resorts, Worldhotels, Micros-Fidelio, HolidayCheck
+    are among TrustYou\u2019s 10,000 customers worldwide."
+  url: http://www.trustyou.com/
+  shorturl: ""
+  twitter: https://twitter.com/trustyou
+  blog: ""
+  blogrss: http://www.trustyou.com/category/blog/
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/957_logo.png
+  tags: Matching,Semantic,Social,Semantic Analysis,Sentiment analysis
+- slug: yet-analytics
+  name: Yet Analytics
+  description: Collect, connect, and analyze your learning and training data, from
+    any source, in real-time, in the cloud. The Yet Core is our Experience-API (xAPI)
+    data analytics platform, comprised of an immutable and massively scalable xAPI
+    LRS and our proprietary xAPI data analytics engine. Through the use of xAPI and
+    our own data analytics tools, the Yet Core enables organizations to collect, standardize,
+    and analyze experiential learning and training data from any source.
+  url: http://www.yetanalytics.com/
+  shorturl: ""
+  twitter: https://twitter.com/YetAnalytics
+  blog: http://www.yetanalytics.com/blog/
+  blogrss: http://feeds.feedburner.com/Blog-YetAnalytics
+  github: https://github.com/yetanalytics
+  image: ""
+  tags: Analysis,Data
+- slug: youtube
+  name: YouTube
+  description: YouTube allows billions of people to discover, watch and share originally-created
+    videos. YouTube provides a forum for people to connect, inform, and inspire others
+    across the globe and acts as a distribution platform for original content creators
+    and advertisers large and small.
+  url: https://www.youtube.com/
+  shorturl: ""
+  twitter: https://twitter.com/YouTubeDev
+  blog: https://youtube-eng.googleblog.com/
+  blogrss: https://youtube-eng.googleblog.com/feeds/posts/default?alt=rss
+  github: https://github.com/youtube
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/youtube-logo.png
+  tags: Videos,Google APIs,Analysis
+- slug: zemanta
+  name: Zemanta
+  description: Zemanta is a platform for assisted on-line content production for any
+    web user. A blog, an article or a web page is fed it into its system which then
+    recognizes the content and returns suggested images, smart links, keywords and
+    relevant related stories from the Internet. It can be referenced from a user&rsquo;s
+    preferred content publishing platform through a plug-in.
+  url: http://developer.zemanta.com/
+  shorturl: ""
+  twitter: https://twitter.com/zemanta
+  blog: http://www.zemanta.com/blog/
+  blogrss: http://www.zemanta.com/fruitblog/feed/
+  github: https://github.com/Zemanta
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/539_logo.png
+  tags: Blog,Recommendations,Semantic,Tagging,Text Analysis,API United Kingdom
+...

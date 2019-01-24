@@ -1,0 +1,22 @@
+name: BitShares
+description: The developers of BitShares formed Cryptonomex to monetize the technology,
+  experience, reputation and good will they accumulated during their first two years
+  of development and operations
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26455-docs-bitshares-org.jpg
+tags:
+- Technology
+- internet
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/bitshares/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: http://docs.bitshares.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

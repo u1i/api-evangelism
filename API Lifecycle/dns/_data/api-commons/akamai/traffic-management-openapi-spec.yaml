@@ -1,0 +1,486 @@
+swagger: "2.0"
+info:
+  title: Traffic Management
+  description: Manage Traffic Management load balancing configurations.
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /config-gtm/v1/domains/:
+    get:
+      summary: List Domains
+      description: ""
+      operationId: configgtmv1domains
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-gtm/v1/domains/{domain}:
+    get:
+      summary: Get a Domain
+      description: ""
+      operationId: configgtmv1domainsdomain
+      parameters:
+      - in: String
+        name: domain
+        description: Name of Traffic Management domain.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    put:
+      summary: Create or Update a Domain
+      description: ""
+      operationId: configgtmv1domainsdomain
+      parameters:
+      - in: String
+        name: domain
+        description: Name of Traffic Management domain.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-gtm/v1/domains/{domain}/as-maps/{mapName}:
+    delete:
+      summary: Remove an AS Map
+      description: ""
+      operationId: configgtmv1domainsdomainasmapsmapname
+      parameters:
+      - in: String
+        name: domain
+        description: Name of Traffic Management domain.
+        type: string
+      - in: String
+        name: mapName
+        description: Name of AS Map to create, update or delete.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    get:
+      summary: Get an AS Map
+      description: ""
+      operationId: configgtmv1domainsdomainasmapsmapname
+      parameters:
+      - in: String
+        name: domain
+        description: Name of Traffic Management domain.
+        type: string
+      - in: String
+        name: mapName
+        description: Name of AS Map to create, update or delete.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    put:
+      summary: Create or Update an AS Map
+      description: ""
+      operationId: configgtmv1domainsdomainasmapsmapname
+      parameters:
+      - in: String
+        name: domain
+        description: Name of Traffic Management domain.
+        type: string
+      - in: String
+        name: mapName
+        description: Name of AS Map to create, update or delete.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-gtm/v1/domains/{domain}/cidr-maps:
+    get:
+      summary: List CIDR Maps
+      description: ""
+      operationId: configgtmv1domainsdomaincidrmaps
+      parameters:
+      - in: String
+        name: domain
+        description: Name of Traffic Management domain.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-gtm/v1/domains/{domain}/cidr-maps/{mapName}:
+    delete:
+      summary: Remove a CIDR Map
+      description: ""
+      operationId: configgtmv1domainsdomaincidrmapsmapname
+      parameters:
+      - in: String
+        name: domain
+        description: Name of Traffic Management domain.
+        type: string
+      - in: String
+        name: mapName
+        description: Name of CIDR Map to create or update.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    get:
+      summary: Get a CIDR Map
+      description: ""
+      operationId: configgtmv1domainsdomaincidrmapsmapname
+      parameters:
+      - in: String
+        name: domain
+        description: Name of Traffic Management domain.
+        type: string
+      - in: String
+        name: mapName
+        description: Name of CIDR Map to create or update.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    put:
+      summary: Create or Update a CIDR Map
+      description: ""
+      operationId: configgtmv1domainsdomaincidrmapsmapname
+      parameters:
+      - in: String
+        name: domain
+        description: Name of Traffic Management domain.
+        type: string
+      - in: String
+        name: mapName
+        description: Name of CIDR Map to create or update.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-gtm/v1/domains/{domain}/datacenters:
+    get:
+      summary: List Data Centers
+      description: ""
+      operationId: configgtmv1domainsdomaindatacenters
+      parameters:
+      - in: String
+        name: domain
+        description: Name of Traffic Management domain.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    post:
+      summary: Create a Data Center
+      description: ""
+      operationId: configgtmv1domainsdomaindatacenters
+      parameters:
+      - in: String
+        name: domain
+        description: Name of Traffic Management domain.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-gtm/v1/domains/{domain}/datacenters/{datacenterId}:
+    delete:
+      summary: Remove a Data Center
+      description: ""
+      operationId: configgtmv1domainsdomaindatacentersdatacenterid
+      parameters:
+      - in: Number
+        name: datacenterId
+        description: Numeric id of the data center.
+        type: string
+      - in: String
+        name: domain
+        description: Name of Traffic Management domain.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    get:
+      summary: Get a Data Center
+      description: ""
+      operationId: configgtmv1domainsdomaindatacentersdatacenterid
+      parameters:
+      - in: Number
+        name: datacenterId
+        description: Numeric id of the data center.
+        type: string
+      - in: String
+        name: domain
+        description: Name of Traffic Management domain.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    put:
+      summary: Update a Data Center
+      description: ""
+      operationId: configgtmv1domainsdomaindatacentersdatacenterid
+      parameters:
+      - in: Number
+        name: datacenterId
+        description: Numeric id of the data center.
+        type: string
+      - in: String
+        name: domain
+        description: Name of Traffic Management domain.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-gtm/v1/domains/{domain}/geographic-maps:
+    get:
+      summary: List Geographic Maps
+      description: ""
+      operationId: configgtmv1domainsdomaingeographicmaps
+      parameters:
+      - in: String
+        name: domain
+        description: Name of Traffic Management domain.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-gtm/v1/domains/{domain}/geographic-maps/{mapName}:
+    delete:
+      summary: Remove a Geographic Map
+      description: ""
+      operationId: configgtmv1domainsdomaingeographicmapsmapname
+      parameters:
+      - in: String
+        name: domain
+        description: Name of Traffic Management domain.
+        type: string
+      - in: String
+        name: mapName
+        description: Name of Geographic Map to create or update.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    get:
+      summary: Get a Geographic Map
+      description: ""
+      operationId: configgtmv1domainsdomaingeographicmapsmapname
+      parameters:
+      - in: String
+        name: domain
+        description: Name of Traffic Management domain.
+        type: string
+      - in: String
+        name: mapName
+        description: Name of Geographic Map to create or update.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    put:
+      summary: Create or Update a Geographic Map
+      description: ""
+      operationId: configgtmv1domainsdomaingeographicmapsmapname
+      parameters:
+      - in: String
+        name: domain
+        description: Name of Traffic Management domain.
+        type: string
+      - in: String
+        name: mapName
+        description: Name of Geographic Map to create or update.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-gtm/v1/domains/{domain}/properties:
+    get:
+      summary: List Properties
+      description: ""
+      operationId: configgtmv1domainsdomainproperties
+      parameters:
+      - in: String
+        name: domain
+        description: Name of Traffic Management domain.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-gtm/v1/domains/{domain}/properties/{propertyName}:
+    delete:
+      summary: Remove a Property
+      description: ""
+      operationId: configgtmv1domainsdomainpropertiespropertyname
+      parameters:
+      - in: String
+        name: domain
+        description: Name of Traffic Management domain.
+        type: string
+      - in: String
+        name: propertyName
+        description: Name of property to create or update.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    get:
+      summary: Get a Property
+      description: ""
+      operationId: configgtmv1domainsdomainpropertiespropertyname
+      parameters:
+      - in: String
+        name: domain
+        description: Name of Traffic Management domain.
+        type: string
+      - in: String
+        name: propertyName
+        description: Name of property to create or update.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    put:
+      summary: Create or Update a Property
+      description: ""
+      operationId: configgtmv1domainsdomainpropertiespropertyname
+      parameters:
+      - in: String
+        name: domain
+        description: Name of Traffic Management domain.
+        type: string
+      - in: String
+        name: propertyName
+        description: Name of property to create or update.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-gtm/v1/domains/{domain}/resources:
+    get:
+      summary: List Resources
+      description: ""
+      operationId: configgtmv1domainsdomainresources
+      parameters:
+      - in: String
+        name: domain
+        description: Name of Traffic Management domain.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-gtm/v1/domains/{domain}/resources/{resourceName}:
+    delete:
+      summary: Remove a Resource
+      description: ""
+      operationId: configgtmv1domainsdomainresourcesresourcename
+      parameters:
+      - in: String
+        name: domain
+        description: Name of Traffic Management domain.
+        type: string
+      - in: String
+        name: resourceName
+        description: Name of Resource to create or update.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    get:
+      summary: Get a Resource
+      description: ""
+      operationId: configgtmv1domainsdomainresourcesresourcename
+      parameters:
+      - in: String
+        name: domain
+        description: Name of Traffic Management domain.
+        type: string
+      - in: String
+        name: resourceName
+        description: Name of Resource to create or update.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    put:
+      summary: Create or Update a Resource
+      description: ""
+      operationId: configgtmv1domainsdomainresourcesresourcename
+      parameters:
+      - in: String
+        name: domain
+        description: Name of Traffic Management domain.
+        type: string
+      - in: String
+        name: resourceName
+        description: Name of Resource to create or update.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-gtm/v1/domains/{domain}/status/current:
+    get:
+      summary: Get Current Status
+      description: ""
+      operationId: configgtmv1domainsdomainstatuscurrent
+      parameters:
+      - in: String
+        name: domain
+        description: Name of Traffic Management domain.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

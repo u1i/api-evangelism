@@ -1,0 +1,1187 @@
+---
+- curated_id: b1ae861d2d88ca390f93ca03310dc864
+  item_date: "2012-04-21 12:49:06"
+  title: Why Startups Need an API
+  url: https://tune.com/blog/startups-need-api/
+  domain: tune.com
+  image: ""
+- curated_id: effc806d94c14c2faedb386bd6043446
+  item_date: "2015-01-22 00:00:00"
+  title: New Changes to Our Scrapy Cloud Platform
+  url: https://blog.scrapinghub.com/2015/01/22/new-changes-to-our-scrapy-cloud-platform/
+  domain: blog.scrapinghub.com
+  image: ""
+- curated_id: 2d3210db22b0b537d061c191b704e08a
+  item_date: "2015-01-22 00:00:00"
+  title: 'Introducing ScrapyRT: An API for Scrapy spiders'
+  url: https://blog.scrapinghub.com/2015/01/22/introducing-scrapyrt-an-api-for-scrapy-spiders/
+  domain: blog.scrapinghub.com
+  image: ""
+- curated_id: 17bec70ff7c937c7a161793532dd4ab5
+  item_date: "2015-02-24 00:00:00"
+  title: What?s News Where? An Analysis of what made the front page of news sources
+    across the globe with MonkeyLearn Entity Extraction
+  url: http://kimonolabs.wpengine.com/whats-news-where-an-analysis-of-what-made-the-front-page-of-news-sources-across-the-globe-with-monkeylearn-entity-extraction/
+  domain: kimonolabs.wpengine.com
+  image: ""
+- curated_id: 7f9a2b385e1b8cc7c68eb5a956acbdae
+  item_date: "2015-02-24 00:00:00"
+  title: Scrapinghub crawls the Deep Web
+  url: https://blog.scrapinghub.com/2015/02/24/memex/
+  domain: blog.scrapinghub.com
+  image: ""
+- curated_id: a8d205a1c48f1c2b004a02f94e0823cf
+  item_date: "2015-03-02 00:00:00"
+  title: 'rvest: R package to scrape web data'
+  url: http://flowingdata.com/2015/03/02/rvest-an-r-package-to-scrape-web-data/
+  domain: flowingdata.com
+  image: ""
+- curated_id: c6b273277a0753891de450e7919d4f7b
+  item_date: "2015-03-02 00:00:00"
+  title: Handling JavaScript in Scrapy with Splash
+  url: https://blog.scrapinghub.com/2015/03/02/handling-javascript-in-scrapy-with-splash/
+  domain: blog.scrapinghub.com
+  image: ""
+- curated_id: 4366acbf1fb4f0db2201eb792317e510
+  item_date: "2015-03-03 00:00:00"
+  title: How Google Pulls Structured Snippets from Websites Tables
+  url: https://moz.com/blog/google-structured-snippets
+  domain: moz.com
+  image: ""
+- curated_id: 95372a6809978f3fa77fc491c3b05ad7
+  item_date: "2015-03-04 00:00:00"
+  title: Skinfer ? a tool for inferring JSON Schemas
+  url: https://blog.scrapinghub.com/2015/03/04/skinfer-a-tool-for-inferring-json-schemas/
+  domain: blog.scrapinghub.com
+  image: ""
+- curated_id: e4aa507cb160fdd38826fce8c693d0f0
+  item_date: "2015-03-08 00:00:00"
+  title: WPAS - Protect Your Data And Prevent web Scraping (Utilities)
+  url: https://codecanyon.net/item/wpas-protect-your-data-and-prevent-web-scraping/10665963
+  domain: codecanyon.net
+  image: ""
+- curated_id: af529bbc7fc8a59ca29c9a5e206a2c44
+  item_date: "2015-03-09 00:00:00"
+  title: Tomato or Tomahto? How Next Caller uses kimono to add pronunciation to caller
+    ID
+  url: http://blog.kimonolabs.com/2015/03/09/tomato-or-tomahto-how-next-caller-uses-kimono-to-add-pronunciation-to-caller-id/
+  domain: blog.kimonolabs.com
+  image: ""
+- curated_id: 9dce25904bf08ef2232e6e4f4cfd0430
+  item_date: "2015-03-13 00:00:00"
+  title: 'Scraping, Enriching, and Visualizing Data: A CrowdFlower Meet Up'
+  url: https://www.crowdflower.com/crowdflower-meet-up-scraping-enriching-and-visualizing-data/
+  domain: www.crowdflower.com
+  image: ""
+- curated_id: cbc7c01076ab8b586129ed63850cbd2a
+  item_date: "2015-03-16 00:00:00"
+  title: The History of Scrapinghub
+  url: https://blog.scrapinghub.com/2015/03/16/history-of-scrapinghub/
+  domain: blog.scrapinghub.com
+  image: ""
+- curated_id: 5bd1b69f15fa0992e65640a2c45ad4fa
+  item_date: "2015-03-18 00:00:00"
+  title: Open March Madness API
+  url: http://blog.kimonolabs.com/2015/03/19/march-madness-api/
+  domain: blog.kimonolabs.com
+  image: ""
+- curated_id: f2be434f803fe04c8857d8379d70d896
+  item_date: "2015-03-24 00:00:00"
+  title: Could Kimonolabs#039; March Madness API Have Saved Your Bracket?
+  url: http://www.programmableweb.com/news/could-kimonolabs-march-madness-api-have-saved-your-bracket/brief/2015/03/24
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 2237829a54d813614fd73fe88c9b46c2
+  item_date: "2015-04-07 00:00:00"
+  title: Scrape Data Visually with Portia and Scrapy Cloud
+  url: https://blog.scrapinghub.com/2015/04/07/scrape-data-visually-with-portia-and-scrapy-cloud/
+  domain: blog.scrapinghub.com
+  image: ""
+- curated_id: c1c3a0c85de612bd4bdf55dfe1d73603
+  item_date: "2015-04-07 00:00:00"
+  title: 6 PHP Libraries For HTTP And Scraping Websites
+  url: http://www.developersfeed.com/6-php-libraries-for-http-and-scraping-websites/
+  domain: www.developersfeed.com
+  image: ""
+- curated_id: e030dcdd423a8e75e65ef8e8211740d2
+  item_date: "2015-04-15 00:00:00"
+  title: Scraping Web Pages With R
+  url: http://blog.ouseful.info/2015/04/15/scraping-web-pages-with-r/
+  domain: blog.ouseful.info
+  image: ""
+- curated_id: 834f72263c5125d971518a901c65709f
+  item_date: "2015-04-17 00:00:00"
+  title: Are you getting the whole story? Investigating biases in mainstream news
+  url: http://blog.kimonolabs.com/2015/04/17/monkeylearn-news-analysis/
+  domain: blog.kimonolabs.com
+  image: ""
+- curated_id: 43aa527b03bfafffef52aee211207e3d
+  item_date: "2015-04-21 00:00:00"
+  title: Introducing crawl history  error reports
+  url: http://blog.kimonolabs.com/2015/04/22/crawl-history-error-reports/
+  domain: blog.kimonolabs.com
+  image: ""
+- curated_id: edb86262384d51f82c994c0801adc11e
+  item_date: "2015-04-22 00:00:00"
+  title: 'Frontera: The Brain Behind the Crawls'
+  url: http://blog.scrapinghub.com/2015/04/22/frontera-the-brain-behind-the-crawls/
+  domain: blog.scrapinghub.com
+  image: ""
+- curated_id: 1a4ac8b318d0cd89aecb6415573ccfad
+  item_date: "2015-05-02 12:39:05"
+  title: The SEC API by Kimono
+  url: http://kimonolabs.com/sec/explorer
+  domain: kimonolabs.com
+  image: ""
+- curated_id: 7d5fe33ac47a745baf84bce67b186d6b
+  item_date: "2015-05-03 00:00:00"
+  title: Generate high quality potential candidate leads
+  url: http://blog.kimonolabs.com/2015/05/04/generate-leads-developer-communities/
+  domain: blog.kimonolabs.com
+  image: ""
+- curated_id: 3b7289c5571735d4fb4781ff2f9f8efa
+  item_date: "2015-05-18 00:00:00"
+  title: Announcing PDFTables.com
+  url: https://blog.scraperwiki.com/2015/05/announcing-pdftables-com/
+  domain: blog.scraperwiki.com
+  image: ""
+- curated_id: a560f1712fb444fd7d8918c4e85f6926
+  item_date: "2015-05-21 00:00:00"
+  title: Why Developers Should Avoid Screen Scraping
+  url: http://openlegacy.com/why-developers-should-avoid-screen-scraping/
+  domain: openlegacy.com
+  image: ""
+- curated_id: 2619b6383cd796a0f379131357038326
+  item_date: "2015-06-01 00:00:00"
+  title: 'The screen-scraping vs. direct API integration debate: whats the best strategy
+    for your mobile commerce site?'
+  url: http://www.information-age.com/technology/mobile-and-networking/123459574/screen-scraping-vs-direct-api-integration-debate-whats-best-strategy-your-mobile-commerce-site
+  domain: www.information-age.com
+  image: ""
+- curated_id: a41c4227c6eaeb3edb1bdc9acc6ddb42
+  item_date: "2015-06-02 00:00:00"
+  title: How Contactive builds complete user profiles with kimono
+  url: http://blog.kimonolabs.com/2015/06/02/building-complete-user-profiles-with-kimono/
+  domain: blog.kimonolabs.com
+  image: ""
+- curated_id: 25d8918c7e36cce6d7b81b6796b6bbfe
+  item_date: "2015-06-08 00:00:00"
+  title: Building knowledge graphs for new technologies with kimono
+  url: http://blog.kimonolabs.com/2015/06/08/building-knowledge-graphs-for-new-technologies-with-kimono/
+  domain: blog.kimonolabs.com
+  image: ""
+- curated_id: bca109b0f4b524c1717b2ef089ec5cdb
+  item_date: "2015-06-10 00:00:00"
+  title: End User Programming at the Office for National Statistics
+  url: https://blog.scraperwiki.com/2015/06/end-user-programming-at-the-office-for-national-statistics/
+  domain: blog.scraperwiki.com
+  image: ""
+- curated_id: 375bf52562c86dccdf893b66b0705afa
+  item_date: "2015-06-25 09:39:55"
+  title: Learn to scrape and build a Reddit API in Flask
+  url: https://www.airpair.com/python/posts/buildredditapi
+  domain: www.airpair.com
+  image: ""
+- curated_id: 6678fd55a91e348c3615e3523b901d8c
+  item_date: "2015-06-30 00:00:00"
+  title: 'PDFTables: All the tables in one page, CSV'
+  url: https://blog.scraperwiki.com/2015/06/pdftables-all-the-tables-in-one-page-csv/
+  domain: blog.scraperwiki.com
+  image: ""
+- curated_id: 26da099d3219ce66eb487172749a220c
+  item_date: "2015-08-11 00:00:00"
+  title: Fragments ? Scraping Tabular Data from PDFs
+  url: http://blog.ouseful.info/2015/08/11/fragments-scraping-tabula-data-from-pdfs/
+  domain: blog.ouseful.info
+  image: ""
+- curated_id: bc98fc4299b7c454c14770e3f6424ca9
+  item_date: "2015-08-11 00:00:00"
+  title: The four kinds of data PDF
+  url: https://blog.scraperwiki.com/2015/08/the-four-kinds-of-data-pdf/
+  domain: blog.scraperwiki.com
+  image: ""
+- curated_id: 548ae6ad2d74bafd602c36483628313f
+  item_date: "2015-08-28 00:00:00"
+  title: Number of prescriptions by location
+  url: https://blog.scraperwiki.com/2015/08/number-of-prescriptions-by-location/
+  domain: blog.scraperwiki.com
+  image: ""
+- curated_id: e9bbfc292af413ee628ea781bf6b1ff3
+  item_date: "2015-08-30 00:00:00"
+  title: How Indiana?s Legislative Site Foiled Attempts to Scrape It
+  url: http://www.programmableweb.com/news/how-indiana%E2%80%99s-legislative-site-foiled-attempts-to-scrape-it/elsewhere-web/2015/08/30
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: ce1b57cab83d278ce7b16ea5f200bfda
+  item_date: "2015-12-08 00:00:00"
+  title: 'Acquiring at Digital Scale: Harvesting the StoryCorps.me Collection'
+  url: http://blogs.loc.gov/digitalpreservation/2015/12/acquiring-at-digital-scale-harvesting-the-storycorps-me-collection/
+  domain: blogs.loc.gov
+  image: ""
+- curated_id: 58dd1d0a75856d623dad8cf2ce4942d6
+  item_date: "2015-12-13 00:00:00"
+  title: 'Create Your Own Web Scraper Using node.js and Get Data in JSON Format '
+  url: http://www.codeproject.com/Tips/1062106/Create-Your-Own-Web-Scraper-Using-node-js-and-Get
+  domain: www.codeproject.com
+  image: ""
+- curated_id: 35c8edcf8fbdc554f783532512bd6d73
+  item_date: "2015-12-13 00:00:00"
+  title: Finding Common Phrases or Sentences Across Different Documents
+  url: http://blog.ouseful.info/2015/12/13/finding-common-phrases-or-sentences-across-different-documents/
+  domain: blog.ouseful.info
+  image: ""
+- curated_id: 24331f7ab7e85ada69e5d19855f4b94d
+  item_date: "2016-01-05 11:32:50"
+  title: 'Kimono : Turn websites into structured APIs from your browser in seconds'
+  url: https://www.kimonolabs.com/
+  domain: www.kimonolabs.com
+  image: ""
+- curated_id: 39f5f2e2b2373f962638d96a3e7a4c49
+  item_date: "2016-01-19 00:00:00"
+  title: 'Scrapy Tips from the Pros: Part 1'
+  url: https://blog.scrapinghub.com/2016/01/19/scrapy-tips-from-the-pros-part-1/
+  domain: blog.scrapinghub.com
+  image: ""
+- curated_id: 0358163260d7fc5ec1a724df15d0837d
+  item_date: "2016-01-25 00:00:00"
+  title: Simple Way to Convert HTML Table Data into PHP Array
+  url: http://www.codeproject.com/Tips/1074174/Simple-Way-to-Convert-HTML-Table-Data-into-PHP-Arr
+  domain: www.codeproject.com
+  image: ""
+- curated_id: b9fb0eabe9dd6c7093f4d31684a0fa21
+  item_date: "2016-02-04 00:00:00"
+  title: Python 3 is Coming to Scrapy
+  url: https://blog.scrapinghub.com/2016/02/04/python-3-support-with-scrapy-1-1rc1/
+  domain: blog.scrapinghub.com
+  image: ""
+- curated_id: aa5f84949d7c8691166911ee022bc343
+  item_date: "2016-02-17 00:00:00"
+  title: 'Portia: The Open Source Alternative to Kimono Labs'
+  url: https://blog.scrapinghub.com/2016/02/17/portia-alternative-to-kimono/
+  domain: blog.scrapinghub.com
+  image: ""
+- curated_id: c96f151b27497c93b24b0f1e38972650
+  item_date: "2016-02-20 00:00:00"
+  title: Kimono Alternative for Web Scraping - ParseHub
+  url: https://blog.parsehub.com/kimono-alternative-for-web-scraping-parsehub/
+  domain: blog.parsehub.com
+  image: ""
+- curated_id: 30b36b5de192fb0b28822391c955d22e
+  item_date: "2016-02-25 00:00:00"
+  title: Migrate your Kimono Projects to Portia
+  url: https://blog.scrapinghub.com/2016/02/25/migrate-your-kimono-projects-to-portia/
+  domain: blog.scrapinghub.com
+  image: ""
+- curated_id: dfc87d13eb7c4f68b6432aea5ef7189a
+  item_date: "2016-02-29 00:00:00"
+  title: Splash 2.0 Is Here with Qt 5 and Python 3
+  url: https://blog.scrapinghub.com/2016/02/29/splash-2-0-here-with-qt-5-and-python-3/
+  domain: blog.scrapinghub.com
+  image: ""
+- curated_id: 42bf7c65ca92a05f692ff1cbf2ce357a
+  item_date: "2016-03-02 00:00:00"
+  title: Screen-scraper 7.0 Released
+  url: http://blog.screen-scraper.com/2016/03/02/screen-scraper-7-0-released/
+  domain: blog.screen-scraper.com
+  image: ""
+- curated_id: 8751859647306c32b377a46d20ba1be1
+  item_date: "2016-03-09 00:00:00"
+  title: How Web Scraping is Revealing Lobbying and Corruption in Peru
+  url: https://blog.scrapinghub.com/2016/03/09/how-web-scraping-is-revealing-lobbying-and-corruption-in-peru/
+  domain: blog.scrapinghub.com
+  image: ""
+- curated_id: e9949ec01aa20631f3116d3507f5549e
+  item_date: "2016-03-14 00:00:00"
+  title: Data mining the Votes of Members of the Polish Parliament
+  url: https://dzone.com/articles/data-mining-of-the-votes-of-members-of-parliament
+  domain: dzone.com
+  image: ""
+- curated_id: 8af102ea84f1a04ed8ca593e561b1560
+  item_date: "2016-03-16 00:00:00"
+  title: Power Your Sports Stats with Web Scraping
+  url: https://blog.parsehub.com/power-your-sports-stats-with-web-scraping/
+  domain: blog.parsehub.com
+  image: ""
+- curated_id: 8dac77419964408c437d8c7ebcee635e
+  item_date: "2016-03-16 00:00:00"
+  title: This Month in Open Source at Scrapinghub March 2016
+  url: https://blog.scrapinghub.com/2016/03/16/this-month-in-open-source-at-scrapinghub-march-2016/
+  domain: blog.scrapinghub.com
+  image: ""
+- curated_id: 69b746a7349cfb4d37006a832c86e9f8
+  item_date: "2016-03-16 00:00:00"
+  title: Website Scraping Using Selenium, Docker, and Chrome With Extensions
+  url: https://dzone.com/articles/website-scraping-using-selenium-docker-and-chrome
+  domain: dzone.com
+  image: ""
+- curated_id: 8505ad51b538966591221c93f4f52c3a
+  item_date: "2016-03-23 00:00:00"
+  title: 'Scrapy Tips from the Pros: March 2016 Edition'
+  url: https://blog.scrapinghub.com/2016/03/23/scrapy-tips-from-the-pros-march-2016-edition/
+  domain: blog.scrapinghub.com
+  image: ""
+- curated_id: 0b9907142f1164b1455a8f51b689295d
+  item_date: "2016-03-23 00:00:00"
+  title: Scraping Images and Files Using Casper.JS
+  url: https://dzone.com/articles/scraping-images-and-files-using-casperjs
+  domain: dzone.com
+  image: ""
+- curated_id: 8f081ea5d95c376d16d0e7f6b40a2a62
+  item_date: "2016-03-30 00:00:00"
+  title: Web Scraping to Create Open Data
+  url: https://blog.scrapinghub.com/2016/03/30/web-scraping-to-create-open-data/
+  domain: blog.scrapinghub.com
+  image: ""
+- curated_id: 709e8a3f0cf96640384cbbfccb8eaae3
+  item_date: "2016-04-04 00:00:00"
+  title: Trawling the Companies House API to Generate Co-Director Networks
+  url: https://blog.ouseful.info/2016/04/04/trawling-the-companies-house-api-to-generate-co-director-networks/
+  domain: blog.ouseful.info
+  image: ""
+- curated_id: 333489dd54f259d811c058d4168f820d
+  item_date: "2016-04-04 00:00:00"
+  title: PHP Web Scraper - Easily Grab HTML From Websites
+  url: http://codecanyon.net/item/php-web-scraper-easily-grab-html-from-websites/15540531
+  domain: codecanyon.net
+  image: ""
+- curated_id: 31dd1f5fa91742c27de5da66e6528743
+  item_date: "2016-04-05 00:00:00"
+  title: WrapAPI ? APIs for the whole web
+  url: https://wrapapi.com/
+  domain: wrapapi.com
+  image: ""
+- curated_id: d5385ab762af89ae1ef11db76771bc93
+  item_date: "2016-04-06 00:00:00"
+  title: Instapaper launches Instaparser API
+  url: http://blog.instapaper.com/post/142296652536
+  domain: blog.instapaper.com
+  image: ""
+- curated_id: c5c9e950fed5c38c1726ef33cd338214
+  item_date: "2016-04-06 00:00:00"
+  title: Mapping Corruption in the Panama Papers with Open Data
+  url: https://blog.scrapinghub.com/2016/04/06/how-to-become-a-whistleblower-from-panama-papers-to-open-data/
+  domain: blog.scrapinghub.com
+  image: ""
+- curated_id: ddd98c8694b34852e015b1b33aa00755
+  item_date: "2016-04-07 00:00:00"
+  title: Webscraping with C# - point and scrape!
+  url: http://www.codeproject.com/Articles/1090903/Webscraping-with-Csharp-point-and-scrape
+  domain: www.codeproject.com
+  image: ""
+- curated_id: 83154afb25682a85783e961aeafbd4ab
+  item_date: "2016-04-12 00:00:00"
+  title: Crawling a website with the SearchBlox API
+  url: http://www.searchblox.com/crawling-website-searchblox-api
+  domain: www.searchblox.com
+  image: ""
+- curated_id: fa1530dba02f8deed99a39ca30c84a8d
+  item_date: "2016-04-13 00:00:00"
+  title: 'Data Journalism Tools Part 1: Extracting and Scraping Data'
+  url: http://blog.silk.co/post/142737643047/data-journalism-tools-part-1-extracting-and#_=_
+  domain: blog.silk.co
+  image: ""
+- curated_id: c04de8e5a7ce36ec5f9db66a1a8d3224
+  item_date: "2016-04-14 00:00:00"
+  title: Grok Your Data with the New MonkeyLearn Addon
+  url: https://blog.scrapinghub.com/2016/04/14/grok-your-data-with-the-new-monkeylearn-addon/
+  domain: blog.scrapinghub.com
+  image: ""
+- curated_id: c8df213bb1c97ccd7e087456eae69886
+  item_date: "2016-04-20 00:00:00"
+  title: 'Scrapy Tips from the Pros: April 2016 Edition'
+  url: https://blog.scrapinghub.com/2016/04/20/scrapy-tips-from-the-pros-april-2016-edition/
+  domain: blog.scrapinghub.com
+  image: ""
+- curated_id: bd985850f2328576f68a06d2b9734e52
+  item_date: "2016-04-28 00:00:00"
+  title: List of most active web crawlers and spiders
+  url: https://deviceatlas.com/blog/list-of-web-crawlers-and-spiders
+  domain: deviceatlas.com
+  image: ""
+- curated_id: 148f5d4ead35cd9a79db8862b2e7ba8a
+  item_date: "2016-04-29 00:00:00"
+  title: How To Export Website Content To Excel
+  url: https://www.magnolia-cms.com/blogs/teresa-miyar/detail~@import@how-to-export-website-content-to-excel.html~.html
+  domain: www.magnolia-cms.com
+  image: ""
+- curated_id: b81995cd10e01cf7af694d0411d4a792
+  item_date: "2016-05-02 00:00:00"
+  title: Harvesting Searched for Tweets Using Python
+  url: https://blog.ouseful.info/2016/05/02/harvesting-searched-for-tweets-using-python/
+  domain: blog.ouseful.info
+  image: ""
+- curated_id: bc818241c7e1d81ba28d92792abf5f77
+  item_date: "2016-05-04 00:00:00"
+  title: Introducing Scrapy Cloud 2.0
+  url: https://blog.scrapinghub.com/2016/05/04/introducing-scrapy-cloud-2-0/
+  domain: blog.scrapinghub.com
+  image: ""
+- curated_id: e1ea31c3ba4616cc8bb7c54c9ef92035
+  item_date: "2016-05-11 00:00:00"
+  title: 'Scrapy + MonkeyLearn: Textual Analysis of Web Data'
+  url: https://blog.scrapinghub.com/2016/05/11/monkeylearn-addon-retail-classifier-tutorial/
+  domain: blog.scrapinghub.com
+  image: ""
+- curated_id: fa1f8aebb3609128cb16e2087903bd47
+  item_date: "2016-05-12 00:00:00"
+  title: Google just open sourced something called Parsey McParseface, and it could
+    change AI forever
+  url: http://thenextweb.com/dd/2016/05/12/google-just-open-sourced-something-called-parsey-mcparseface-change-ai-forever/
+  domain: thenextweb.com
+  image: ""
+- curated_id: bd3140e61c2aceda38f4b7fc77cf0de4
+  item_date: "2016-05-13 00:00:00"
+  title: 'Parsey McParseface ? The world?s most accurate open source parser '
+  url: https://github.com/tensorflow/models/tree/master/syntaxnet
+  domain: github.com
+  image: ""
+- curated_id: b344272cf1002bbf7b1e733c3112482e
+  item_date: "2016-06-06 00:00:00"
+  title: Wells Fargos Bid to Vanquish Screen Scraping
+  url: http://www.americanbanker.com/news/bank-technology/wells-fargos-bid-to-vanquish-screen-scraping-1081367-1.html
+  domain: www.americanbanker.com
+  image: ""
+- curated_id: 52f0ff354224aecfb90ceec3321adb96
+  item_date: "2016-06-09 00:00:00"
+  title: Introducing the Datasets Catalog
+  url: https://blog.scrapinghub.com/2016/06/09/introducing-the-datasets-catalog/
+  domain: blog.scrapinghub.com
+  image: ""
+- curated_id: 999e1c4aec492afda76fb35a740308bb
+  item_date: "2016-06-09 00:00:00"
+  title: Jam API ? Parse web pages using CSS query selectors
+  url: https://github.com/gavindinubilo/jam-api
+  domain: github.com
+  image: ""
+- curated_id: 7d7d69edaafebd658171a9e68aa7215a
+  item_date: "2016-06-13 00:00:00"
+  title: Web Grabber - WordPress HTML Scraping Plugin
+  url: https://codecanyon.net/item/web-grabber-wordpress-html-scraping-plugin/16606336
+  domain: codecanyon.net
+  image: ""
+- curated_id: 2c8bf82c0c2434372532a671406296bb
+  item_date: "2016-06-29 00:00:00"
+  title: 'Introducing Portia2Code: Portia Projects into Scrapy Spiders'
+  url: https://blog.scrapinghub.com/2016/06/29/introducing-portia2code-portia-projects-into-scrapy-spiders/
+  domain: blog.scrapinghub.com
+  image: ""
+- curated_id: d319f9c17c915c1fcb650918113d21dc
+  item_date: "2016-07-02 00:00:00"
+  title: Business Data Spider
+  url: https://codecanyon.net/item/business-data-spider/16852865
+  domain: codecanyon.net
+  image: ""
+- curated_id: 3bbf020cd40c2a089f1d0eeb44d701fe
+  item_date: "2016-07-07 00:00:00"
+  title: 'Scrapely: The Brains Behind Portia Spiders'
+  url: https://blog.scrapinghub.com/2016/07/07/scrapely-the-brains-behind-portia-spiders/
+  domain: blog.scrapinghub.com
+  image: ""
+- curated_id: 20a3fa04cb7d89f0842b0cbc1bb19fe3
+  item_date: "2016-07-12 00:00:00"
+  title: ParseHub vs. Import.io ? which alternative is better for web scraping?
+  url: https://blog.parsehub.com/parsehub-vs-import-io-which-alternative-is-better-for-web-scraping/
+  domain: blog.parsehub.com
+  image: ""
+- curated_id: 46c61573409fdd1b8e6f481ac2f2c99a
+  item_date: "2016-07-14 00:00:00"
+  title: QuickCode is the new name for ScraperWiki (the product)
+  url: https://blog.scraperwiki.com/2016/07/quickcode-is-the-new-name-for-scraperwiki-the-product/
+  domain: blog.scraperwiki.com
+  image: ""
+- curated_id: 4f67071c6ef13f3124558efc13fa58c2
+  item_date: "2016-07-14 13:49:22"
+  title: Scraping the Web for Water Levels using PowerShell
+  url: https://learn-powershell.net/2016/07/14/scraping-the-web-for-water-levels-using-powershell/
+  domain: learn-powershell.net
+  image: ""
+- curated_id: b1b8829cb34ada500f3fcdee21b6a3bc
+  item_date: "2016-07-15 00:00:00"
+  title: Capybara and Selenium for Testing and Scraping
+  url: https://dzone.com/articles/capybara-and-selenium-for-testing-and-scraping
+  domain: dzone.com
+  image: ""
+- curated_id: 10fdb73c11c293fbe19b9df40574334f
+  item_date: "2016-07-15 00:00:00"
+  title: ParseHub vs. Scrapy Comparison ? which alternative is better for web scraping?
+  url: https://blog.parsehub.com/parsehub-vs-scrapy-comparison-which-alternative-is-better-for-web-scraping/
+  domain: blog.parsehub.com
+  image: ""
+- curated_id: 6d0a01b8d70b7738cb48667bdc5ce695
+  item_date: "2016-07-20 00:00:00"
+  title: 'Scrapy Tips from the Pros: July 2016'
+  url: https://blog.scrapinghub.com/2016/07/20/scrapy-tips-from-the-pros-july-2016/
+  domain: blog.scrapinghub.com
+  image: ""
+- curated_id: 471bdd1b2fec8ba6b96c2e1d565e9f25
+  item_date: "2016-07-26 00:00:00"
+  title: Local Google Results Scraper
+  url: https://codecanyon.net/item/local-google-results-scraper-php-class/17195769
+  domain: codecanyon.net
+  image: ""
+- curated_id: 797b3968d6f8325c2a01892ca1f2db46
+  item_date: "2016-08-04 00:00:00"
+  title: This Month in Open Source at Scrapinghub August 2016
+  url: https://blog.scrapinghub.com/2016/08/04/this-month-in-open-source-at-scrapinghub-august-2016/
+  domain: blog.scrapinghub.com
+  image: ""
+- curated_id: c6fd14964dfb2b1f4c9e1bcf79782053
+  item_date: "2016-08-04 00:00:00"
+  title: Practical tips for scraping data
+  url: http://flowingdata.com/2016/08/04/practical-tips-for-scraping-data/
+  domain: flowingdata.com
+  image: ""
+- curated_id: 50690ac8b534ae7e6a23872db05671c7
+  item_date: "2016-08-09 00:00:00"
+  title: July 2016 Crawl Archive Now Available
+  url: http://commoncrawl.org/2016/08/july-2016-crawl-archive-now-available/
+  domain: commoncrawl.org
+  image: ""
+- curated_id: 6cbfb3a557253ee1ce66c5bdb8d0d354
+  item_date: "2016-08-15 00:00:00"
+  title: LinkedIn sues anonymous data scrapers
+  url: https://techcrunch.com/2016/08/15/linkedin-sues-scrapers/
+  domain: techcrunch.com
+  image: ""
+- curated_id: a0ee9a143afb49d9491304d87743b1ea
+  item_date: "2016-08-16 00:00:00"
+  title: LinkedIn Goes After Anonymous Data Scrapers
+  url: http://www.pcmag.com/news/347041/linkedin-goes-after-anonymous-data-scrapers
+  domain: www.pcmag.com
+  image: ""
+- curated_id: e479ca47fef5c074328497ce93bc48a4
+  item_date: "2016-08-17 00:00:00"
+  title: Introducing Scrapy Cloud with Python 3 Support
+  url: https://blog.scrapinghub.com/2016/08/17/introducing-scrapy-cloud-with-python-3-support/
+  domain: blog.scrapinghub.com
+  image: ""
+- curated_id: fdf92087ef782c52e806157c39eab7b2
+  item_date: "2016-08-22 00:00:00"
+  title: Facebook Twitter Scraper For Business (Search)
+  url: https://codecanyon.net/item/facebook-twitter-scraper-for-business/17526127
+  domain: codecanyon.net
+  image: ""
+- curated_id: 4254abbfea31533762401ec1a4fb9f9f
+  item_date: "2016-08-24 00:00:00"
+  title: I Dont Need No Stinking API - Web Scraping in 2016 and Beyond
+  url: https://franciskim.co/2016/08/24/dont-need-no-stinking-api-web-scraping-2016-beyond/
+  domain: franciskim.co
+  image: ""
+- curated_id: 06405e9bed86b0dcaa81792c12f1738a
+  item_date: "2016-08-25 00:00:00"
+  title: How to Crawl the Web Politely with Scrapy
+  url: https://blog.scrapinghub.com/2016/08/25/how-to-crawl-the-web-politely-with-scrapy/
+  domain: blog.scrapinghub.com
+  image: ""
+- curated_id: c5e99d8c755b2da4f8f7c1c19c4af09d
+  item_date: "2016-09-01 11:10:50"
+  title: 'Improved Frontera: Web Crawling at Scale with Python 3 Support'
+  url: https://blog.scrapinghub.com/2016/09/01/improved-frontera-web-crawling-at-scale-with-python-3-support/
+  domain: blog.scrapinghub.com
+  image: ""
+- curated_id: 88779fe7eb95ae9be6e54906282b63ce
+  item_date: "2016-09-08 00:00:00"
+  title: Extracting text from an image with OCR (Optical Character Recognition) using
+    Node.js
+  url: https://community.havenondemand.com/t5/Blog/Extracting-text-from-an-image-with-OCR-Optical-Character/ba-p/3246
+  domain: community.havenondemand.com
+  image: ""
+- curated_id: 5636f3950ddbd7657b3efa6b1782e940
+  item_date: "2016-09-13 09:57:02"
+  title: 'Tweet: Learn how to handle #Javascript in #Scrapy with Splash: https://t.co/jM2GwEpOiF
+    #opensource #data #python https://t.co/D690EKjm7y'
+  url: https://twitter.com/ScrapyProject/statuses/775740080505909249
+  domain: twitter.com
+  image: ""
+- curated_id: 06a9e01890007632859f43a42846745e
+  item_date: "2016-09-15 00:00:00"
+  title: Screen Scraper Mitigation and Dogfooding Included in Riot Games#039; Textbook
+    API Justifications
+  url: http://www.programmableweb.com/news/screen-scraper-mitigation-and-dogfooding-included-riot-games-textbook-api-justifications/elsewhere-web/2016/09/15
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: e819cc4cfc522fa85ca3b1deea65856b
+  item_date: "2016-09-15 14:44:08"
+  title: 'Tweet: Nice shout out in the @guardian for @importio https://t.co/HfdlZIzeEh'
+  url: https://twitter.com/importio/statuses/776537108315942912
+  domain: twitter.com
+  image: ""
+- curated_id: a1077e84dd0916456dd63c1a28b4bc9d
+  item_date: "2016-09-16 00:00:00"
+  title: Data Sets Containing Robots.txt Files and Non-200 Responses
+  url: http://commoncrawl.org/2016/09/robotstxt-and-404-redirect-data-sets/
+  domain: commoncrawl.org
+  image: ""
+- curated_id: b9de9d937149dcd7e7d8b9265b6dba32
+  item_date: "2016-09-16 00:00:00"
+  title: August 2016 Crawl Archive Now Available
+  url: http://commoncrawl.org/2016/09/august-2016-crawl-archive-now-available/
+  domain: commoncrawl.org
+  image: ""
+- curated_id: 171a8b17cd4eed7e41454cea1849744e
+  item_date: "2016-09-21 00:00:00"
+  title: Extract Structured Data From Web Sites Using Analyze URL
+  url: http://blog.algorithmia.com/extract-structured-data-analyze-url/
+  domain: blog.algorithmia.com
+  image: ""
+- curated_id: f4c9c78d3e7395803f1df82fc24f5dc9
+  item_date: "2016-09-21 00:00:00"
+  title: How to Fix Crawl Errors in Google Search Console
+  url: https://moz.com/blog/how-to-fix-crawl-errors-in-google-search-console
+  domain: moz.com
+  image: ""
+- curated_id: bcf3163b8e63b8da2e54488a8db5919d
+  item_date: "2016-09-26 00:00:00"
+  title: Extraction and analysis of signatures from the Gene Expression Omnibus by
+    the crowd
+  url: http://www.nature.com/ncomms/2016/160926/ncomms12846/full/ncomms12846.html
+  domain: www.nature.com
+  image: ""
+- curated_id: d72a8f4413b8d0c320572f9231a69bd6
+  item_date: "2016-09-28 00:00:00"
+  title: How to Run Python Scripts in Scrapy Cloud
+  url: https://blog.scrapinghub.com/2016/09/28/how-to-run-python-scripts-in-scrapy-cloud/
+  domain: blog.scrapinghub.com
+  image: ""
+- curated_id: 66bff9763107fbe5fb61494fc0d1d034
+  item_date: "2016-09-30 00:00:00"
+  title: Domain whois, web scraping and more with Node.js  MongoDB
+  url: https://www.freelancer.com/projects/Software-Architecture/Domain-whois-web-scraping-more/
+  domain: www.freelancer.com
+  image: ""
+- curated_id: 0926ba2d3c8e5515cc4fc6d1f26dcd17
+  item_date: "2016-10-03 10:03:25"
+  title: |-
+    Tweet: Scrapy 1.2 is out, with new features, bug fixes and better docs!
+    Check the release notes and upgrade: https://t.co/Ph9IKLJN66
+  url: https://twitter.com/ScrapyProject/statuses/782989444332781568
+  domain: twitter.com
+  image: ""
+- curated_id: 6554d5c286d3d1f213ebb915c064ee9b
+  item_date: "2016-10-04 07:03:06"
+  title: |-
+    Tweet: The architecture diagram was greatly improved in Scrapy 1.2: https://t.co/978svMNg3p
+    Many thanks to @lorenaelise and long live #opensource!
+  url: https://twitter.com/ScrapyProject/statuses/783306455600472065
+  domain: twitter.com
+  image: ""
+- curated_id: 3c493512358222a47c8d0e7ed7b7c301
+  item_date: "2016-10-07 00:00:00"
+  title: September 2016 Crawl Archive Now Available
+  url: http://commoncrawl.org/2016/10/september-2016-crawl-archive-now-available/
+  domain: commoncrawl.org
+  image: ""
+- curated_id: d4e6c1813cf4f45d5e6af410d4d67e08
+  item_date: "2016-10-19 00:00:00"
+  title: Why Promoting Open Data Increases Economic Opportunities
+  url: https://blog.scrapinghub.com/2016/10/19/why-promoting-open-data-increases-economic-opportunities/
+  domain: blog.scrapinghub.com
+  image: ""
+- curated_id: fde7f28a62fd8722793dce2e3956e02d
+  item_date: "2016-10-21 18:23:47"
+  title: Introducing Our Data Collection Endpoint
+  url: https://blog.scaleapi.com/introducing-our-data-collection-endpoint-729ced2c681a#.rdmif6b1f
+  domain: blog.scaleapi.com
+  image: ""
+- curated_id: 8b75fa43ab5e587f256f29bb0f8ccf92
+  item_date: "2016-11-03 00:00:00"
+  title: A Fast Way to Scrape Image URLs from Webpages
+  url: http://blog.algorithmia.com/fast-way-scrape-image-urls-webpages/
+  domain: blog.algorithmia.com
+  image: ""
+- curated_id: 887ebc00eea2f599b97daa27a7821a26
+  item_date: "2016-11-07 00:00:00"
+  title: October 2016 Crawl Archive Now Available
+  url: http://commoncrawl.org/2016/11/october-2016-crawl-archive-now-available/
+  domain: commoncrawl.org
+  image: ""
+- curated_id: cce37e3c76351faadbf74de8ecb5568f
+  item_date: "2016-12-30 00:00:00"
+  title: Building a Sentiment Analysis Pipeline for Web Scraping
+  url: http://blog.algorithmia.com/sentiment-analysis-pipeline-for-web-scraping/
+  domain: blog.algorithmia.com
+  image: ""
+- curated_id: e53d1f9570ad5883fac0faf1370c132e
+  item_date: "2017-01-05 22:28:35"
+  title: 'Netflix/sketchy: A task based API for taking screenshots and scraping text
+    from websites.'
+  url: https://github.com/Netflix/sketchy
+  domain: github.com
+  image: ""
+- curated_id: 8f377e62ee40e63fcec0e8f3723df106
+  item_date: "2017-01-31 00:00:00"
+  title: Facebook User Data Scraping From Posts (Social Networking)
+  url: https://codecanyon.net/item/facebook-user-data-scraping-from-posts/19377338
+  domain: codecanyon.net
+  image: ""
+- curated_id: bb1aa276dc0650c6b8fbe9694843353c
+  item_date: "2017-02-11 00:00:00"
+  title: Block Web Crawlers With Rails
+  url: https://dzone.com/articles/block-web-crawlers-with-rails
+  domain: dzone.com
+  image: ""
+- curated_id: d03190de08717cb71ffa48f4c09f32f3
+  item_date: "2017-03-03 00:00:00"
+  title: 'FutureTDM: The Future of Text and Data Mining'
+  url: https://blog.okfn.org/2017/03/03/futuretdm-the-future-of-text-and-data-mining/
+  domain: blog.okfn.org
+  image: ""
+- curated_id: 95b9cd8ac3a42954513f9650fb808f5e
+  item_date: "2017-03-08 00:00:00"
+  title: 'Banks, consumer groups agree: Screen scraping needs better regs'
+  url: https://www.americanbanker.com/news/banks-consumer-groups-agree-screen-scraping-needs-better-regs
+  domain: www.americanbanker.com
+  image: ""
+- curated_id: 862366043a85e1335f6c3009213e29d6
+  item_date: "2017-04-04 00:00:00"
+  title: 'OG-Miner : Data Crawling on Steroids.'
+  url: https://umbrella.cisco.com/blog/2017/04/04/og-miner-data-crawling-steroids/
+  domain: umbrella.cisco.com
+  image: ""
+- curated_id: 77e33a6041db3bcb117a368b713fa179
+  item_date: "2017-04-28 00:00:00"
+  title: Someone scraped 40,000 Tinder selfies to make a facial dataset for AI experiments
+  url: https://techcrunch.com/2017/04/28/someone-scraped-40000-tinder-selfies-to-make-a-facial-dataset-for-ai-experiments/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 79593d9b6d0b54af62387d3ae1e855cc
+  item_date: "2017-04-30 00:00:00"
+  title: Massive Tinder Photo Grab Is Latest Scary Warning To Be Careful What You
+    Post
+  url: http://www.huffingtonpost.com/entry/40000-photo-tinder-sweep_us_59052818e4b0bb2d086f0335
+  domain: www.huffingtonpost.com
+  image: ""
+- curated_id: f5bfe910462acd82c132e6f70e8e1a45
+  item_date: "2017-05-02 00:00:00"
+  title: 40,000 Tinder Pics Scraped Into Big Data Service
+  url: http://www.itsecurityguru.org/2017/05/02/40000-tinder-pics-scraped-big-data-service/
+  domain: www.itsecurityguru.org
+  image: ""
+- curated_id: 2c50c1e1271d1017c7645c8d2b0808dc
+  item_date: "2017-05-08 00:00:00"
+  title: Fintechs fight plan to bar screen scraping and protect European banks
+  url: http://www.cnbc.com/2017/05/08/fintechs-fight-plan-to-bar-screen-scraping-and-protect-european-banks.html
+  domain: www.cnbc.com
+  image: ""
+- curated_id: 5JqX9UICapOm9YXTnzKIgAA8+Hz1EIPzp0wutAgYmps=_15c0c08301f:1daff00:9fdbee1e
+  item_date: "2017-05-15 05:09:01"
+  title: Sample Data is Great! But it is only Half the Story
+  url: https://www.promptcloud.com/?p=33299
+  domain: www.promptcloud.com
+  image: ""
+- curated_id: 5JqX9UICapOm9YXTnzKIgAA8+Hz1EIPzp0wutAgYmps=_15c30502060:178eeb0:1980c846
+  item_date: "2017-05-22 06:16:04"
+  title: 'Outsourcing your Web Scraping Project: Things to Know'
+  url: https://www.promptcloud.com/?p=33359
+  domain: www.promptcloud.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15c5830b7dc:1826f92:ac928dde
+  item_date: "2017-05-29 23:33:52"
+  title: Web Scraping
+  url: https://medium.com/p/eda8008ed4dc
+  domain: medium.com
+  image: ""
+- curated_id: 0qiQVwSkjUCs7NuWbZA7M53GH7jzaiJFe5B8OP0PN+U=_15c795f63c3:7eded9e:cfb784e9
+  item_date: "2017-06-05 09:36:11"
+  title: May 2017 Crawl Archive Now Available
+  url: http://commoncrawl.org/?p=15113
+  domain: commoncrawl.org
+  image: ""
+- curated_id: 5JqX9UICapOm9YXTnzKIgAA8+Hz1EIPzp0wutAgYmps=_15c82ae2f66:47ad4d:28ce9b86
+  item_date: "2017-06-07 06:06:55"
+  title: How We Optimized Our Web Crawling Pipeline for Faster and Efficient Data
+    Extraction
+  url: https://www.promptcloud.com/?p=33710
+  domain: www.promptcloud.com
+  image: ""
+- curated_id: 5JqX9UICapOm9YXTnzKIgAA8+Hz1EIPzp0wutAgYmps=_15c8d0f6015:1281d5f:d0168500
+  item_date: "2017-06-09 06:32:25"
+  title: 'Scraping Dynamic Websites: How We Tackle the Problem'
+  url: https://www.promptcloud.com/?p=33842
+  domain: www.promptcloud.com
+  image: ""
+- curated_id: 5JqX9UICapOm9YXTnzKIgAA8+Hz1EIPzp0wutAgYmps=_15c9c77bb20:23451d3:d0168500
+  item_date: "2017-06-12 06:20:38"
+  title: Why Customization is the Key Aspect of a Web Scraping Solution
+  url: https://www.promptcloud.com/?p=33861
+  domain: www.promptcloud.com
+  image: ""
+- curated_id: UjG+CeLaqj27hMBI/WjhTGNNUNvP04IJdUFt2zsPBtQ=_15cce9fddcd:102729e:fe3a8465
+  item_date: "2017-06-22 00:00:00"
+  title: Why Do FinTechs Want To Save Screen Scraping?
+  url: http://nordicapis.com/?p=6700
+  domain: nordicapis.com
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_15cd11fbba4:765b28:80bfd069
+  item_date: "2017-06-22 11:45:13"
+  title: "ABBYY\u2019s new version of TextGrabber is a super useful OCR and translation
+    app"
+  url: http://techcrunch.com/?p=1506900
+  domain: techcrunch.com
+  image: ""
+- curated_id: 5JqX9UICapOm9YXTnzKIgAA8+Hz1EIPzp0wutAgYmps=_15cd4d5fb04:18ffc70:fe3a8465
+  item_date: "2017-06-23 05:03:23"
+  title: Why Enterprises Outsource Web Scraping to PromptCloud
+  url: https://www.promptcloud.com/?p=33926
+  domain: www.promptcloud.com
+  image: ""
+- curated_id: 2UxD8OC0eKosQ2ChvGTC/P2kya8wUvnW/Xrk1wWg4fA=_15d3c82c501:298267f:32bbcd87
+  item_date: "2017-07-07 09:54:04"
+  title: Scraping the Steam Game Store with Scrapy
+  url: https://blog.scrapinghub.com/?p=5838
+  domain: blog.scrapinghub.com
+  image: ""
+- curated_id: 5JqX9UICapOm9YXTnzKIgAA8+Hz1EIPzp0wutAgYmps=_15d50b85ce4:4400fb9:4825a421
+  item_date: "2017-07-17 05:54:45"
+  title: Do You have the Right Web Scraping Team?
+  url: https://www.promptcloud.com/?p=34086
+  domain: www.promptcloud.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15d5a40c8c9:18939c:53d642ee
+  item_date: "2017-07-19 01:01:00"
+  title: 'Screen scraping 101: Who, What, Where, When?'
+  url: https://medium.com/p/a09f40aedd04
+  domain: medium.com
+  image: ""
+- curated_id: 5JqX9UICapOm9YXTnzKIgAA8+Hz1EIPzp0wutAgYmps=_15d5b405de1:22ac:3bc2bd04
+  item_date: "2017-07-19 06:22:32"
+  title: Google Sheets vs Web Scraping Services
+  url: https://www.promptcloud.com/?p=34103
+  domain: www.promptcloud.com
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_15d6ec836e1:1a309b8:8fa6dd97
+  item_date: "2017-07-23 02:08:35"
+  title: Make a Web Scraper with AWS Lambda and the Serverless Framework
+  url: https://medium.com/p/807d0f536d5f
+  domain: medium.com
+  image: ""
+- curated_id: 5JqX9UICapOm9YXTnzKIgAA8+Hz1EIPzp0wutAgYmps=_15d7f339bad:311f80e:8fa6dd97
+  item_date: "2017-07-26 06:52:45"
+  title: 5 Reasons Why You Should Scrape Competitor Prices
+  url: https://www.promptcloud.com/?p=34134
+  domain: www.promptcloud.com
+  image: ""
+- curated_id: 5JqX9UICapOm9YXTnzKIgAA8+Hz1EIPzp0wutAgYmps=_15dc735c653:145e185:196efac0
+  item_date: "2017-08-09 06:14:46"
+  title: Best Programming Languages for Web Scraping
+  url: https://www.promptcloud.com/?p=34370
+  domain: www.promptcloud.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15dd32d3b6d:18ec9bf:a2bf0478
+  item_date: "2017-08-11 01:50:55"
+  title: "API disobedience \u2014 provide API to your data or someone else will"
+  url: https://medium.com/p/9f052da9295c
+  domain: medium.com
+  image: ""
+- curated_id: 5JqX9UICapOm9YXTnzKIgAA8+Hz1EIPzp0wutAgYmps=_15de0d1dd83:eaef0d:9cc60c90
+  item_date: "2017-08-14 05:55:02"
+  title: Should Data Scientists Learn Web Scraping?
+  url: https://www.promptcloud.com/?p=34439
+  domain: www.promptcloud.com
+  image: ""
+- curated_id: 0VTnUfX894TcY5TA/oMFDbEY1bDrlajzsn67Jr80r8M=_15de2fb46b7:14d4bda:41b98b00
+  item_date: "2017-08-14 16:00:02"
+  title: LinkedIn loses legal right to protect user data from AI scraping
+  url: https://thenextweb.com/?p=1069563
+  domain: thenextweb.com
+  image: ""
+- curated_id: PSNTZO8gXFUe+cpCZyApw0vEKWPT4b14D6teBEocIAE=_15de54e212b:2f6bfb:218de7ce
+  item_date: "2017-08-15 02:44:08"
+  title: Microsoft ordered to let third parties scrape LinkedIn data
+  url: https://www.theverge.com/2017/8/15/16148250/microsoft-linkedin-third-party-data-access-judge-ruling
+  domain: www.theverge.com
+  image: ""
+- curated_id: 4i+1vhCwmRRLfmB7ypTnMh+ZKSvsz6Rgf0lfR0WWb0w=_15de64d4ccb:491f62:bd5def64
+  item_date: "2017-08-15 07:21:00"
+  title: "LinkedIn can\u2019t block scrapers from monitoring user activity"
+  url: https://www.engadget.com/2017/08/15/linkedin-hiq-labs-lawsuit-profile-data/
+  domain: www.engadget.com
+  image: ""
+- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15de6ceb8e8:55c675:bd5def64
+  item_date: "2017-08-15 09:51:33"
+  title: Judge orders LinkedIn to stop blocking data
+  url: http://hosted.ap.org/dynamic/stories/A/APFN_US_LINKEDIN_SCRAPING_LAWSUIT_CAOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
+  domain: hosted.ap.org
+  image: ""
+- curated_id: SQ35XhmY8oLOaXgbtn7jkag9iOP4I/UrmFAONGETito=_15de6e394bc:57ea43:bd5def64
+  item_date: "2017-08-15 10:14:20"
+  title: "Is LinkedIn trying to protect your data\_\u2014\_or hoard it?"
+  url: https://www.washingtonpost.com/news/the-switch/wp/2017/08/15/is-linkedin-trying-to-protect-your-data-or-hoard-it/
+  domain: www.washingtonpost.com
+  image: ""
+- curated_id: 5JqX9UICapOm9YXTnzKIgAA8+Hz1EIPzp0wutAgYmps=_15deb7ba17e:513672:bd5def64
+  item_date: "2017-08-16 07:26:39"
+  title: How to Extract Data from a Website using CrawlBoard
+  url: https://www.promptcloud.com/?p=34473
+  domain: www.promptcloud.com
+  image: ""
+- curated_id: 5JqX9UICapOm9YXTnzKIgAA8+Hz1EIPzp0wutAgYmps=_15df561a053:1423ec5:bd5def64
+  item_date: "2017-08-18 05:32:43"
+  title: 'Web Scraping: Challenges and Roadblocks'
+  url: https://www.promptcloud.com/?p=34521
+  domain: www.promptcloud.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15e037939f6:253ef35:218de7ce
+  item_date: "2017-08-19 23:32:37"
+  title: Scraping with paging
+  url: https://medium.com/p/98faa77f606d
+  domain: medium.com
+  image: ""
+- curated_id: 5JqX9UICapOm9YXTnzKIgAA8+Hz1EIPzp0wutAgYmps=_15e0471f76d:26b08b2:218de7ce
+  item_date: "2017-08-21 03:42:52"
+  title: Legality of Extracting Publicly Available User
+  url: https://www.promptcloud.com/?p=34554
+  domain: www.promptcloud.com
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_15e0d660684:205f6dc:41b98b00
+  item_date: "2017-08-22 21:42:21"
+  title: "How to build a Scalable Crawler on the cloud, that can mine thousands of
+    data points, costing less\u2026"
+  url: https://medium.com/p/a9825331eef5
+  domain: medium.com
+  image: ""
+- curated_id: 5JqX9UICapOm9YXTnzKIgAA8+Hz1EIPzp0wutAgYmps=_15e0ec5debf:366a338:bd5def64
+  item_date: "2017-08-23 04:02:23"
+  title: Web Scraping by Leveraging Ruby
+  url: https://www.promptcloud.com/?p=34602
+  domain: www.promptcloud.com
+  image: ""
+- curated_id: 20tAExShAQEEUCMDXqXKkXAKdXMeA9Rvcav680eAk4I=_15e117916a2:b83724:feeb522d
+  item_date: "2017-08-23 16:34:48"
+  title: Rapidly Extract Information from Public Websites
+  url: https://blog.algorithmia.com/?p=9042
+  domain: blog.algorithmia.com
+  image: ""
+- curated_id: 0VTnUfX894TcY5TA/oMFDbEY1bDrlajzsn67Jr80r8M=_15e15f2eb12:d034b:ddacb472
+  item_date: "2017-08-24 13:32:32"
+  title: The future of your data could rest in the outcome of LinkedIn vs HiQ case
+  url: https://thenextweb.com/?p=1072131
+  domain: thenextweb.com
+  image: ""
+- curated_id: aYdLShI8IM6FbqAIXqvMF6zTdT8MscOoYw0EWDIWJIo=_15e3a518510:1368632:ed57ae85
+  item_date: "2017-08-30 03:20:46"
+  title: European Commission is Right To Reject a Screen
+  url: https://www.datainnovation.org/?p=7776
+  domain: www.datainnovation.org
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15e63a08655:4fc4582:56b346f
+  item_date: "2017-09-08 14:58:02"
+  title: FIDO Alliance FIDO Alliance Addresses PSD2 Screen Scraping Debate in Letter
+    to European Commission and European Parliament
+  url: https://fidoalliance.org/fido-alliance-addresses-psd2-screen-scraping/
+  domain: fidoalliance.org
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_15e77bd4e55:63e7c5:8239aabd
+  item_date: "2017-09-12 13:17:25"
+  title: 'Mastering Python Web Scraping: Get Your Data Back'
+  url: https://medium.com/p/e9a5cc653d88
+  domain: medium.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15e88ccd691:ad06:803daed2
+  item_date: "2017-09-15 07:17:06"
+  title: How to gather information about companies from the news
+  url: https://medium.com/p/35e46cdaf082
+  domain: medium.com
+  image: ""
+- curated_id: 5JqX9UICapOm9YXTnzKIgAA8+Hz1EIPzp0wutAgYmps=_15edbc19360:1582851:feeb522d
+  item_date: "2017-10-01 23:08:34"
+  title: Why Has Ecommerce Companies Opting For Web Scraping Increased?
+  url: https://www.promptcloud.com/?p=35475
+  domain: www.promptcloud.com
+  image: ""
+- curated_id: 5JqX9UICapOm9YXTnzKIgAA8+Hz1EIPzp0wutAgYmps=_15f2fcc0889:4b4e20c:9ac85644
+  item_date: "2017-10-18 06:40:41"
+  title: Leveraging Web Scraping for Cryptocurrency Trading
+  url: https://www.promptcloud.com/?p=35645
+  domain: www.promptcloud.com
+  image: ""
+- curated_id: 5JqX9UICapOm9YXTnzKIgAA8+Hz1EIPzp0wutAgYmps=_15f5cc9dd3a:8c92680:9ac85644
+  item_date: "2017-10-27 00:24:43"
+  title: PromptCloud launches a Web Scraping Forum
+  url: https://www.promptcloud.com/?p=35723
+  domain: www.promptcloud.com
+  image: ""
+- curated_id: 2UxD8OC0eKosQ2ChvGTC/P2kya8wUvnW/Xrk1wWg4fA=_15f8c68381e:469210:c916d446
+  item_date: "2017-11-05 04:10:34"
+  title: A Faster, Updated Scrapinghub
+  url: https://blog.scrapinghub.com/?p=5936
+  domain: blog.scrapinghub.com
+  image: ""
+- curated_id: HccqK//XM1D+uYXUiozM31wUL8mbTk+yXN7iD8qYPhY=_1627bacfca3:7f5339c:34f43e70
+  item_date: "2017-11-06 10:31:10"
+  title: 'New Features Release: Scraping Web Data Up To 500% Faster Just Got Easier'
+  url: https://www.mozenda.com/?p=3192
+  domain: www.mozenda.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15fb9873e1e:31b1077:7157a206
+  item_date: "2017-11-13 15:02:04"
+  title: How to Scrape Instagram Profiles
+  url: https://dev.to/asciimoo/how-to-scrape-instagram-profiles-4gm
+  domain: dev.to
+  image: ""
+- curated_id: 5JqX9UICapOm9YXTnzKIgAA8+Hz1EIPzp0wutAgYmps=_15fd994945c:213c534:3c0bb656
+  item_date: "2017-11-20 05:04:05"
+  title: Tips to Cut Costs Associated with Web Data Extraction
+  url: https://www.promptcloud.com/?p=36081
+  domain: www.promptcloud.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15fe4c365f6:3437f14:3c0bb656
+  item_date: "2017-11-22 09:14:32"
+  title: "Open Banking & Screen Scraping \u2013 Dave Tonge \u2013 Medium"
+  url: https://medium.com/@davidgtonge/open-banking-screen-scraping-98ef5bf9f463
+  domain: medium.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15ffb3f005d:5222451:7157a206
+  item_date: "2017-11-26 17:48:14"
+  title: Scraping Hacker News
+  url: https://medium.com/p/590fe119ef99
+  domain: medium.com
+  image: ""
+- curated_id: 3sOkcm6yz7RzahZqjgGz802Mh9gdTaNECiKVxsvA9Ss=_15ffe26d274:571852e:3c0bb656
+  item_date: "2017-11-27 04:02:20"
+  title: '''Screen scraping'' fintechs hit back at CBA'
+  url: http://www.afr.com/business/banking-and-finance/financial-services/screen-scraping-fintechs-hit-back-at-cba-20171127-gzte5t
+  domain: www.afr.com
+  image: ""
+- curated_id: 5JqX9UICapOm9YXTnzKIgAA8+Hz1EIPzp0wutAgYmps=_160086de003:615f5c:3c0bb656
+  item_date: "2017-11-29 07:23:52"
+  title: Applications of web scraping in financial services industry
+  url: https://www.promptcloud.com/?p=36212
+  domain: www.promptcloud.com
+  image: ""
+- curated_id: 3sOkcm6yz7RzahZqjgGz802Mh9gdTaNECiKVxsvA9Ss=_1600ca0e285:d17fd4:3c0bb656
+  item_date: "2017-11-30 01:14:29"
+  title: Screen Scraping is Dead, Long Live Screen Scraping
+  url: https://www.finextra.com/blogposting/14793/screen-scraping-is-dead-long-live-screen-scraping
+  domain: www.finextra.com
+  image: ""
+- curated_id: HKwklz9a1LBDBgbulnG916dFzLOZO3KlGWN+5YbUEE4=_160328dcb19:776a82:541f3c40
+  item_date: "2017-12-07 07:28:38"
+  title: CFPB principles for data aggregation services could have broad implications
+  url: http://www.internationallawoffice.com/Newsletters/Banking/USA/Sidley-Austin-LLP/CFPB-principles-for-data-aggregation-services-could-have-broad-implications
+  domain: www.internationallawoffice.com
+  image: ""
+- curated_id: 5JqX9UICapOm9YXTnzKIgAA8+Hz1EIPzp0wutAgYmps=_1606a3755bb:126e553:3c0bb656
+  item_date: "2017-12-18 07:03:53"
+  title: "Web Scraping reveals top tech trends and company\u2019s media mentions in
+    2017"
+  url: https://www.promptcloud.com/?p=37254
+  domain: www.promptcloud.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_160ccc8d705:9a994:98c4d03d
+  item_date: "2018-01-06 00:48:50"
+  title: "I\u2019m harvesting credit card numbers and passwords from your site. Here\u2019s
+    how."
+  url: https://medium.com/p/9a8cb347c5b5
+  domain: medium.com
+  image: ""
+- curated_id: HccqK//XM1D+uYXUiozM31wUL8mbTk+yXN7iD8qYPhY=_1627bacfca3:7f5339f:34f43e70
+  item_date: "2018-02-02 11:06:03"
+  title: "Is Web Scraping Driving Nectar\u2019s 20% MoM Ecomm Growth?"
+  url: http://www.mozenda.com/?p=4350
+  domain: www.mozenda.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_16178fa6969:491c024:3c0bb656
+  item_date: "2018-02-08 21:11:08"
+  title: Extract Facebook and Twitter data from any page
+  url: https://medium.com/p/71198fa65349
+  domain: medium.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_161be0cdf25:ae91efe:541f3c40
+  item_date: "2018-02-22 07:01:54"
+  title: Getting Data From the Web
+  url: https://dzone.com/articles/2069023
+  domain: dzone.com
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_161bea546f6:474e9:c8ea36f9
+  item_date: "2018-02-22 09:52:35"
+  title: Serverless Architecture and Web Scraping?
+  url: https://medium.com/p/d2f743f1c4ba
+  domain: medium.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_161cd2a6857:6bb531:e66afc8b
+  item_date: "2018-02-25 05:32:42"
+  title: 'Raschietto: a simple library for web scraping'
+  url: https://medium.com/p/46957c6aa5b7
+  domain: medium.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_162c6248182:490754:bdf8aaf1
+  item_date: "2018-04-13 15:35:46"
+  title: How To Parse Google Local Pack Results
+  url: https://medium.com/p/ed18c1dd7374
+  domain: medium.com
+  image: ""
+- curated_id: 2UxD8OC0eKosQ2ChvGTC/P2kya8wUvnW/Xrk1wWg4fA=_163b3bc70eb:2c24216:2835af05
+  item_date: "2018-05-30 15:37:18"
+  title: How Data Compliance Companies Are Turning To Web Crawlers To Take Advantage
+    of the GDPR Business Opportunity
+  url: https://blog.scrapinghub.com/?p=6031
+  domain: blog.scrapinghub.com
+  image: ""
+- curated_id: 5JqX9UICapOm9YXTnzKIgAA8+Hz1EIPzp0wutAgYmps=_16492f89846:9f06d44:4e0f6129
+  item_date: "2018-07-12 07:35:42"
+  title: "Web Data Acquisition Framework \u2013 Go"
+  url: https://www.promptcloud.com/?p=40355
+  domain: www.promptcloud.com
+  image: ""
+- curated_id: 5JqX9UICapOm9YXTnzKIgAA8+Hz1EIPzp0wutAgYmps=_164acb4d856:c2e47f6:386c987f
+  item_date: "2018-07-17 07:42:43"
+  title: What is Web Scraping?
+  url: https://www.promptcloud.com/?p=40371
+  domain: www.promptcloud.com
+  image: ""
+- curated_id: 5JqX9UICapOm9YXTnzKIgAA8+Hz1EIPzp0wutAgYmps=_165106374cb:2909d6e:4c71e4fe
+  item_date: "2018-08-06 07:17:56"
+  title: 9 Best Applications of Text Data Mining and Analysis
+  url: https://www.promptcloud.com/?p=40546
+  domain: www.promptcloud.com
+  image: ""
+- curated_id: 5JqX9UICapOm9YXTnzKIgAA8+Hz1EIPzp0wutAgYmps=_165631af2bd:96d85e3:4c71e4fe
+  item_date: "2018-08-22 07:13:50"
+  title: 6 Emerging Applications of Web Scraping Technology
+  url: https://www.promptcloud.com/?p=40639
+  domain: www.promptcloud.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_16572362b70:3b3d74:4c71e4fe
+  item_date: "2018-08-25 10:44:21"
+  title: 'Scrapy and Scrapyrt: how to create your own API from (almost) any website'
+  url: https://medium.com/p/ecfb0058ad64
+  domain: medium.com
+  image: ""
+- curated_id: 5JqX9UICapOm9YXTnzKIgAA8+Hz1EIPzp0wutAgYmps=_1657cf8bf11:56ed98:4db7ac35
+  item_date: "2018-08-27 06:38:25"
+  title: How to Scrape Amazon Product Reviews using Python
+  url: https://www.promptcloud.com/?p=40651
+  domain: www.promptcloud.com
+  image: ""
+- curated_id: 5JqX9UICapOm9YXTnzKIgAA8+Hz1EIPzp0wutAgYmps=_165b49a6d3a:4b5c25:4c71e4fe
+  item_date: "2018-09-07 07:59:17"
+  title: Using Web Scraping to Enforce Minimum Advertised Price (MAP)
+  url: https://www.promptcloud.com/?p=40700
+  domain: www.promptcloud.com
+  image: ""
+- curated_id: 5JqX9UICapOm9YXTnzKIgAA8+Hz1EIPzp0wutAgYmps=_165dc1ae7cf:900101:3097813d
+  item_date: "2018-09-14 06:52:55"
+  title: How to Scrape Real Estate Listings from Trulia using Python
+  url: https://www.promptcloud.com/?p=40736
+  domain: www.promptcloud.com
+  image: ""
+- curated_id: 5JqX9UICapOm9YXTnzKIgAA8+Hz1EIPzp0wutAgYmps=_166b586c2c9:18f4cb2:df8f4700
+  item_date: "2018-10-26 06:35:06"
+  title: How to Scrape Data from Instagram using Python
+  url: https://www.promptcloud.com/?p=40896
+  domain: www.promptcloud.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_166c07180c6:d1058f:3df421eb
+  item_date: "2018-10-28 14:08:45"
+  title: Scraping Google Suggestions with PHP at the terminal
+  url: https://medium.com/p/9ddbd02213fb
+  domain: medium.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_166e0d0af5e:8e016d:f62093d7
+  item_date: "2018-11-04 14:21:01"
+  title: How to Simplify Your Approach to Web Scraping
+  url: https://medium.com/p/dd137f6bd478
+  domain: medium.com
+  image: ""
+...

@@ -1,0 +1,294 @@
+swagger: "2.0"
+info:
+  title: Network Lists
+  description: Manage lists to be used by multiple Akamai products and features.
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /network-list/v1/network_lists/search{?expression,listType,extended,includeDeprecated}:
+    get:
+      summary: Search Network Lists
+      description: ""
+      operationId: networklistv1network-listssearchexpressionlisttypeextendedincludedeprecated
+      parameters:
+      - in: String
+        name: expression
+        description: Matches items included in network lists.
+        type: string
+      - in: Boolean
+        name: extended
+        description: If enabled, returns more verbose data such as creation date and
+          activation status.
+        type: string
+      - in: Boolean
+        name: includeDeprecated
+        description: When enabled, includes network lists that have been deleted.
+        type: string
+      - in: String
+        name: listType
+        description: Filters by the network list type, either GEO or IP.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /network-list/v1/network_lists/{networkListId}/activate{?env}:
+    post:
+      summary: Activate a Network List
+      description: ""
+      operationId: networklistv1network-listsnetworklistidactivateenv
+      parameters:
+      - in: String
+        name: env
+        description: Specifies the target network environment, either production or
+          staging.
+        type: string
+      - in: String
+        name: networkListId
+        description: Unique identifier for the network list, corresponding to the
+          unique-id within the data.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /network-list/v1/network_lists/{networkListId}/element:
+    put:
+      summary: Add an Element
+      description: ""
+      operationId: networklistv1network-listsnetworklistidelement
+      parameters:
+      - in: String
+        name: networkListId
+        description: Unique identifier for the network list, corresponding to the
+          unique-id within the data.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /network-list/v1/network_lists/{networkListId}/element{?element}:
+    delete:
+      summary: Remove an Element
+      description: ""
+      operationId: networklistv1network-listsnetworklistidelementelement
+      parameters:
+      - in: String
+        name: element
+        description: Identifies the IP or GEO item to delete.
+        type: string
+      - in: String
+        name: networkListId
+        description: Unique identifier for the network list, corresponding to the
+          unique-id within the data.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /network-list/v1/network_lists/{networkListId}/history{?sync%2dpoint,extended}:
+    get:
+      summary: Get Activation Snapshot
+      description: ""
+      operationId: networklistv1network-listsnetworklistidhistorysync2dpointextended
+      parameters:
+      - in: Boolean
+        name: extended
+        description: If enabled, returns more verbose data such as creation date and
+          activation status.
+        type: string
+      - in: String
+        name: networkListId
+        description: Unique identifier for the network list, corresponding to the
+          unique-id within the data.
+        type: string
+      - in: Number
+        name: sync%2dpoint
+        description: Indicates how many times the network list has been modified.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /network-list/v1/network_lists/{networkListId}/share:
+    post:
+      summary: Share a Network List
+      description: ""
+      operationId: networklistv1network-listsnetworklistidshare
+      parameters:
+      - in: String
+        name: networkListId
+        description: Unique identifier for the network list, corresponding to the
+          unique-id within the data.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /network-list/v1/network_lists/{networkListId}/status{?env}:
+    get:
+      summary: Get Activation Status
+      description: ""
+      operationId: networklistv1network-listsnetworklistidstatusenv
+      parameters:
+      - in: String
+        name: env
+        description: Specifies the target network environment, either production or
+          staging.
+        type: string
+      - in: String
+        name: networkListId
+        description: Unique identifier for the network list, corresponding to the
+          unique-id within the data.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /network-list/v1/network_lists/{networkListId}{?extended}:
+    get:
+      summary: Get a Network List
+      description: ""
+      operationId: networklistv1network-listsnetworklistidextended
+      parameters:
+      - in: Boolean
+        name: extended
+        description: If enabled, returns more verbose data such as creation date and
+          activation status.
+        type: string
+      - in: String
+        name: networkListId
+        description: Unique identifier for the network list, corresponding to the
+          unique-id within the data.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    post:
+      summary: Add to a Network List
+      description: ""
+      operationId: networklistv1network-listsnetworklistidextended
+      parameters:
+      - in: Boolean
+        name: extended
+        description: If enabled, returns more verbose data such as creation date and
+          activation status.
+        type: string
+      - in: String
+        name: networkListId
+        description: Unique identifier for the network list, corresponding to the
+          unique-id within the data.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    put:
+      summary: Modify a Network List
+      description: ""
+      operationId: networklistv1network-listsnetworklistidextended
+      parameters:
+      - in: Boolean
+        name: extended
+        description: If enabled, returns more verbose data such as creation date and
+          activation status.
+        type: string
+      - in: String
+        name: networkListId
+        description: Unique identifier for the network list, corresponding to the
+          unique-id within the data.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /network-list/v1/network_lists{?listType,extended,includeDeprecated,includeElements}:
+    get:
+      summary: List Network Lists
+      description: ""
+      operationId: networklistv1network-listslisttypeextendedincludedeprecatedincludeelements
+      parameters:
+      - in: Boolean
+        name: extended
+        description: If enabled, returns more verbose data such as creation date and
+          activation status.
+        type: string
+      - in: Boolean
+        name: includeDeprecated
+        description: When enabled, includes network lists that have been deleted.
+        type: string
+      - in: Boolean
+        name: includeElements
+        description: When enabled, includes the full list of IP or GEO elements, otherwise
+          when disabled only provides high-level data about the network list.
+        type: string
+      - in: String
+        name: listType
+        description: Filters by the network list type, either GEO or IP.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    post:
+      summary: Create a Network List
+      description: ""
+      operationId: networklistv1network-listslisttypeextendedincludedeprecatedincludeelements
+      parameters:
+      - in: Boolean
+        name: extended
+        description: If enabled, returns more verbose data such as creation date and
+          activation status.
+        type: string
+      - in: Boolean
+        name: includeDeprecated
+        description: When enabled, includes network lists that have been deleted.
+        type: string
+      - in: Boolean
+        name: includeElements
+        description: When enabled, includes the full list of IP or GEO elements, otherwise
+          when disabled only provides high-level data about the network list.
+        type: string
+      - in: String
+        name: listType
+        description: Filters by the network list type, either GEO or IP.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  ALL:
+    get:
+      summary: List Sharing Status
+      description: ""
+      operationId: all
+      parameters:
+      - in: String
+        name: networkListId
+        description: Unique identifier for the network list, corresponding to the
+          unique-id within the data.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

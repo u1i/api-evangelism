@@ -1,0 +1,31 @@
+name: Slock.it
+description: Rent, sell or share anything. Powered by IoT + Blockchain
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19989-slock.it.jpg
+tags:
+- Technology
+- Sharing Economy
+- Mobile
+- Marketplace
+- internet
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/slockit/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-blog
+  url: https://blog.slock.it/
+- type: x-blog-rss-feed
+  url: https://blog.slock.it/feed
+- type: x-github
+  url: https://github.com/slockit
+- type: x-twitter
+  url: https://twitter.com/slockitproject
+- type: x-website
+  url: https://slock.it
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

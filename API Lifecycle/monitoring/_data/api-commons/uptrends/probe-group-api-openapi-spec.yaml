@@ -1,0 +1,122 @@
+swagger: "2.0"
+info:
+  title: Probe Group API
+  description: The Probe Group API.
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /probegroups:
+    get:
+      summary: List&lt;ProbeGroup&gt;
+      description: List allu00a0monitor groups
+      operationId: listltprobegroupgt
+      responses:
+        200:
+          description: OK
+      tags:
+      - Probe Groups
+    post:
+      summary: ProbeGroup
+      description: Createu00a0monitor group
+      operationId: probegroup
+      responses:
+        200:
+          description: OK
+      tags:
+      - Probe Groups
+  /probegroups/{ProbeGroupGuid}:
+    delete:
+      summary: ProbeGroup
+      description: Deleteu00a0monitor group
+      operationId: empty
+      responses:
+        200:
+          description: OK
+      tags:
+      - Probe Groups
+    get:
+      summary: ProbeGroup
+      description: Getu00a0monitor group
+      operationId: probegroup
+      responses:
+        200:
+          description: OK
+      tags:
+      - Probe Groups
+    put:
+      summary: (empty)
+      description: Updateu00a0monitor group
+      operationId: empty
+      responses:
+        200:
+          description: OK
+      tags:
+      - Probe Groups
+  ? '/probegroups/{ProbeGroupGuid}/alerts? Start=&lt;startdate&gt;&amp;End=&lt;enddate&gt;rntttttttttttStart:
+    start date for the requested time period, formatted as yyyy/mm/dd End: end date
+    for the requested time period, formatted as yyyy/mm/dd. The end d'
+  : get:
+      summary: List&lt;Alert&gt;
+      description: List alert history for allu00a0monitors in group
+      operationId: listltalertgt
+      responses:
+        200:
+          description: OK
+      tags:
+      - Probe Groups
+  /probegroups/{ProbeGroupGuid}/members:
+    delete:
+      summary: (empty)
+      description: Removeu00a0monitor from a group
+      operationId: empty
+      responses:
+        200:
+          description: OK
+      tags:
+      - Probe Groups
+    get:
+      summary: List&lt;Probe&gt;
+      description: List all monitors in a group
+      operationId: listltprobegt
+      responses:
+        200:
+          description: OK
+      tags:
+      - Probe Groups
+    post:
+      summary: '{Guid, ProbeGuid}'
+      description: Addu00a0monitor to a group
+      operationId: guid-probeguid
+      responses:
+        200:
+          description: OK
+      tags:
+      - Probe Groups
+  ? '/probegroups/{ProbeGroupGuid}/statistics? Start=&lt;startdate&gt;&amp;End=&lt;enddate&gt;&amp;Dimension=&lt;dimension&gt;rntttttttttttStart:
+    start date for the requested time period, formatted as yyyy/mm/dd End: end date
+    for the requested time period'
+  : get:
+      summary: List&lt;Statistics&gt;
+      description: List statistical data for a group
+      operationId: listltstatisticsgt
+      responses:
+        200:
+          description: OK
+      tags:
+      - Probe Groups
+  /probegroups/{ProbeGroupGuid}/status:
+    get:
+      summary: List&lt;Status&gt;
+      description: List status of allu00a0monitors in group
+      operationId: listltstatusgt
+      responses:
+        200:
+          description: OK
+      tags:
+      - Probe Groups
+definitions: []

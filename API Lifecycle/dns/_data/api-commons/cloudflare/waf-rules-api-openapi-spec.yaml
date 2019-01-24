@@ -1,0 +1,97 @@
+swagger: "2.0"
+info:
+  title: WAF Rules API
+  description: The API for managing CloudFlare WAF Rules
+  termsOfService: https://www.cloudflare.com/terms/
+  version: 1.0.0
+host: api.cloudflare.com
+basePath: /client/v4
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /zones/:zone_id/firewall/waf/packages/:package_id/rules:
+    get:
+      summary: Search, sort, and filter rules within a package
+      description: Search, sort, and filter rules within a package
+      operationId: cloudflare-waf-rules-api
+      parameters:
+      - in: query
+        name: description
+        description: Public description of the rulettttttttttttttSQL injection prevention
+          for SELECT statements
+      - in: query
+        name: direction
+        description: Direction to order rulesttttttttttttttdesc
+      - in: query
+        name: group_id
+        description: WAF group identifier tagttttttttttttttde677e5818985db1285d0e80225f06e5
+      - in: query
+        name: match
+        description: Whether to match all search requirements or at least one (any)ttttttttttttttall
+      - in: query
+        name: mode
+        description: The rule modetttttttttttttttttttttOne of the following:ttttttttttttttttttttttWhether
+          or not the anomaly-based rule will be used when evaluating the request.tttttttShow
+          definition &raquo;tttttttThe mode that the traditional firewall rule uses
+          when triggered.tttttttShow definition &raquo;tttttttDefines whether or not
+          the white-list rule should be allowed when matching the request.tttttttShow
+          definition &raquo;
+      - in: query
+        name: order
+        description: Field to order rules byttttttttttttttstatus
+      - in: query
+        name: page
+        description: Page number of paginated resultstttttttttttttt1
+      - in: query
+        name: per_page
+        description: Number of rules per pagetttttttttttttt50
+      - in: query
+        name: priority
+        description: The order in which the individual rule is executed within the
+          related grouptttttttttttttt5
+      - in: header
+        name: X-AUTH-EMAIL
+        description: Email address associated with your account
+      - in: header
+        name: X-AUTH-KEY
+        description: API key generated on the My Account page
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /zones/:zone_id/firewall/waf/packages/:package_id/rules/:identifier:
+    get:
+      summary: Individual information about a rule
+      description: Individual information about a rule
+      operationId: cloudflare-waf-rules-api
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    patch:
+      summary: Update the action the rule will perform if triggered on the zone
+      description: Update the action the rule will perform if triggered on the zone
+      operationId: cloudflare-waf-rules-api
+      parameters:
+      - in: query
+        name: mode
+        description: The mode to use when the rule is triggered. Value is restricted
+          based on the allowed_modes of the ruletttttttttttttton
+      - in: header
+        name: X-AUTH-EMAIL
+        description: Email address associated with your account
+      - in: header
+        name: X-AUTH-KEY
+        description: API key generated on the My Account page
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

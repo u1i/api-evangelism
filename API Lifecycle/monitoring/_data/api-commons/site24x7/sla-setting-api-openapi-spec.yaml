@@ -1,0 +1,33 @@
+swagger: "2.0"
+info:
+  title: SLA Setting API
+  description: The SLA Setting API.
+  version: 1.0.0
+host: www.site24x7.com.
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /sla_settings/{sla_id}:
+    delete:
+      summary: Delete SLA Report
+      description: Delete the existing SLA Report.
+      operationId: delete-sla-report
+      responses:
+        200:
+          description: OK
+      tags:
+      - SLA Settings
+    get:
+      summary: Get SLA Report
+      description: Retrieve the configuration of a SLA Report.
+      operationId: get-sla-report
+      responses:
+        200:
+          description: OK
+      tags:
+      - SLA Settings
+definitions: []

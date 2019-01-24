@@ -1,0 +1,350 @@
+swagger: "2.0"
+info:
+  title: Applications API
+  description: The Applications API.
+  version: 1.0.0
+host: api.newrelic.com
+basePath: /
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /v2/applications.{format}:
+    get:
+      summary: List
+      description: <p>This API endpoint returns a <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/pagination-api-output
+        target=_blank>paginated</a>list of the Applications associated with your New
+        Relic account. The time range for summary data is the last 10 minutes.</p><p>Applications
+        can be filtered by their name, hosts, the list of application IDs or the application
+        language asreported by the agents.</p><p>See our documentation for a discussion
+        and examples ofusing <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/application-examples-v2/list-application-specific-server-host-instance-ids
+        target=_blank> filters </a>and <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/application-examples-v2/summary-data-examples-v2
+        target=_blank>summary data output</a>.</p>
+      operationId: list
+      parameters:
+      - in: query
+        name: filter[host]
+        description: Filter by application host
+        type: string
+      - in: query
+        name: filter[ids]
+        description: Filter by application ids
+        type: list
+      - in: query
+        name: filter[language]
+        description: Filter by application language
+        type: string
+      - in: query
+        name: filter[name]
+        description: Filter by application name
+        type: string
+      - in: query
+        name: page
+        description: Pagination index
+        type: integer
+      responses:
+        200:
+          description: OK
+      tags:
+      - Applications
+  /v2/applications/{application_id}/metrics.{format}:
+    get:
+      summary: Metric Names
+      description: <p>Return a list of known metrics and their value names for the
+        given resource.</p><p>See our documentation for a discussionon <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/pagination-api-output
+        target=_blank> output pagination</a>and for examples of <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/new-relic-rest-api-v2-getting-started#examples
+        target=_blank>requesting and using metric values</a>.</p>
+      operationId: metric_names
+      parameters:
+      - in: path
+        name: application_id
+        description: Application ID
+        type: integer
+      - in: query
+        name: cursor
+        description: Cursor for next page (replacing page param)
+        type: string
+      - in: query
+        name: name
+        description: Filter metrics by name
+        type: string
+      - in: query
+        name: page
+        description: Pagination index (will be deprecated)
+        type: integer
+      responses:
+        200:
+          description: OK
+      tags:
+      - Applications
+  /v2/applications/{application_id}/metrics/data.{format}:
+    get:
+      summary: Metric Data
+      description: <p>This API endpoint returns a list of values for each of the requested
+        metrics. The list of available metricscan be returned using the Metric Name
+        API endpoint.</p><p>Metric data can be filtered by a number of parameters,
+        including multiple names and values, and by time range.Metric names and values
+        will be matched intelligently in the background.</p><p>You can also retrieve
+        a summarized data point across the entire time range selected by using the
+        summarizeparameter.</p><p>See our documentation for a discussion on <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/pagination-api-output
+        target=_blank>output pagination</a>, <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/extracting-metric-data
+        target=_blank> time range</a> related considerations, and for examples of
+        <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/new-relic-rest-api-v2-getting-started#examples
+        target=_blank>requesting and using metric values</a>.</p>
+      operationId: metric_data
+      parameters:
+      - in: path
+        name: application_id
+        description: Application ID
+        type: integer
+      - in: query
+        name: from
+        description: Retrieve metrics after this time
+        type: time
+      - in: query
+        name: names
+        description: Retrieve specific metrics by name
+        type: array
+      - in: query
+        name: period
+        description: Period of timeslices in seconds
+        type: integer
+      - in: query
+        name: raw
+        description: Return unformatted raw values
+        type: boolean
+      - in: query
+        name: summarize
+        description: Summarize the data
+        type: boolean
+      - in: query
+        name: to
+        description: Retrieve metrics before this time
+        type: time
+      - in: query
+        name: values
+        description: Retrieve specific metric values
+        type: array
+      responses:
+        200:
+          description: OK
+      tags:
+      - Applications
+  /v2/applications/{id}.{format}:
+    delete:
+      summary: Delete
+      description: '<p>This API endpoint deletes an application and all of its reported
+        data.</p><p><strong>WARNING</strong>: Only applications that have stopped
+        reporting can be deleted. This is an irreversible processwhich will delete
+        all reported data for this application.</p>'
+      operationId: delete
+      parameters:
+      - in: path
+        name: id
+        description: Application ID
+        type: integer
+      responses:
+        200:
+          description: OK
+      tags:
+      - Applications
+    get:
+      summary: Show
+      description: <p>This API endpoint returns a single Application, identified by
+        ID. The time range for summary data is the last 10 minutes.</p><p>See our
+        documentation for a discussion of the<a href=https://docs.newrelic.com/docs/apis/rest-api-v2/application-examples-v2/summary-data-examples-v2
+        target=_blank> summary data output</a>.</p>
+      operationId: show
+      parameters:
+      - in: path
+        name: id
+        description: Application ID
+        type: integer
+      responses:
+        200:
+          description: OK
+      tags:
+      - Applications
+    put:
+      summary: Update
+      description: <p>This API endpoint allows you to update certain parameters of
+        your application.</p><p>The input is expected to be in <strong>JSON or XML</strong>
+        format in the body parameter of the PUT request. The exactschema is defined
+        below. Any extra parameters passed in the body <strong>will be ignored</strong>.</p><p>See
+        our documentation for a discussion and simple example of<a href=https://docs.newrelic.com/docs/apis/rest-api-v2/application-examples-v2/changing-alias-your-application-v2
+        target=_blank> updating</a>an application.</p>
+      operationId: update
+      parameters:
+      - in: body
+        name: application
+        description: Application schema
+        schema:
+          $ref: '#/definitions/holder'
+      - in: path
+        name: id
+        description: Application ID
+        type: integer
+      responses:
+        200:
+          description: OK
+      tags:
+      - Applications
+definitions:
+  "":
+    properties:
+      application:
+        description: This is a default description.
+        type: GET
+      id:
+        description: This is a default description.
+        type: GET
+      name:
+        description: This is a default description.
+        type: GET
+      language:
+        description: This is a default description.
+        type: GET
+      health_status:
+        description: This is a default description.
+        type: GET
+      reporting:
+        description: This is a default description.
+        type: GET
+      last_reported_at:
+        description: This is a default description.
+        type: GET
+      application_summary:
+        description: This is a default description.
+        type: GET
+      end_user_summary:
+        description: This is a default description.
+        type: GET
+      settings:
+        description: This is a default description.
+        type: GET
+      links:
+        description: This is a default description.
+        type: GET
+      response_time:
+        description: This is a default description.
+        type: GET
+      throughput:
+        description: This is a default description.
+        type: GET
+      error_rate:
+        description: This is a default description.
+        type: GET
+      apdex_target:
+        description: This is a default description.
+        type: GET
+      apdex_score:
+        description: This is a default description.
+        type: GET
+      host_count:
+        description: This is a default description.
+        type: GET
+      instance_count:
+        description: This is a default description.
+        type: GET
+      concurrent_instance_count:
+        description: This is a default description.
+        type: GET
+      app_apdex_threshold:
+        description: This is a default description.
+        type: GET
+      end_user_apdex_threshold:
+        description: This is a default description.
+        type: GET
+      enable_real_user_monitoring:
+        description: This is a default description.
+        type: GET
+      use_server_side_config:
+        description: This is a default description.
+        type: GET
+      servers:
+        description: This is a default description.
+        type: GET
+      application_hosts:
+        description: This is a default description.
+        type: GET
+      application_instances:
+        description: This is a default description.
+        type: GET
+      alert_policy:
+        description: This is a default description.
+        type: GET
+      metric:
+        description: This is a default description.
+        type: GET
+      values:
+        description: This is a default description.
+        type: GET
+      metric_data:
+        description: This is a default description.
+        type: GET
+      from:
+        description: This is a default description.
+        type: GET
+      to:
+        description: This is a default description.
+        type: GET
+      metrics_not_found:
+        description: This is a default description.
+        type: GET
+      metrics_found:
+        description: This is a default description.
+        type: GET
+      metrics:
+        description: This is a default description.
+        type: GET
+      timeslices:
+        description: This is a default description.
+        type: GET
+      event:
+        description: This is a default description.
+        type: GET
+      type:
+        description: This is a default description.
+        type: GET
+      level:
+        description: This is a default description.
+        type: GET
+      message:
+        description: This is a default description.
+        type: GET
+      created_at:
+        description: This is a default description.
+        type: GET
+      closed_at:
+        description: This is a default description.
+        type: GET
+      payload:
+        description: This is a default description.
+        type: GET
+      incidents:
+        description: This is a default description.
+        type: GET
+      downtime:
+        description: This is a default description.
+        type: GET
+      opened_at:
+        description: This is a default description.
+        type: GET
+      last_failure:
+        description: This is a default description.
+        type: GET
+      duration:
+        description: This is a default description.
+        type: GET
+      number_of_failures:
+        description: This is a default description.
+        type: GET
+      url:
+        description: This is a default description.
+        type: GET
+      ip_address:
+        description: This is a default description.
+        type: GET

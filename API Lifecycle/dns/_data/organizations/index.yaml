@@ -1,0 +1,364 @@
+- slug: amazon-web-services
+  name: Amazon Web Services
+  description: >-
+    Amazon Web Services(AWS) is a collection of remote computing services (also
+    called web services) that together make up a cloud computing platform,
+    offered over the Internet by Amazon.com. The most central and well-known of
+    these services are Amazon EC2 and Amazon S3. The service is advertised as
+    providing a large computing capacity (potentially many servers) much faster
+    and cheaper than building a physical server farm.
+  url: 'http://aws.amazon.com'
+  short_url: ''
+  twitter: 'https://twitter.com/awscloud'
+  blog: 'http://aws.amazon.com/blogs/aws/'
+  blog_rss: 'http://feeds.feedburner.com/AmazonWebServicesBlog'
+  github: 'https://github.com/amazonwebservices'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/amazon-aws-logo.jpg
+  tags: >-
+    Storage,DNS,BaaS,Payments,Hypermedia,Cloud,Compute,My API
+    Stack,Management,Voice,Partners,Plans,API LIfeycle,Real
+    Time,Serverless,Advertising,Commerce,Database,Command Line Interface,DNS
+    Cloud,Getting Started,Orchestration
+- slug: microsoft-azure
+  name: Microsoft Azure
+  description: >-
+    Microsoft Azure is a cloud computing platform and infrastructure created by
+    Microsoft for building, deploying, and managing applications and services
+    through a global network of Microsoft-managed datacenters. It provides both
+    PaaS and IaaS services and supports many different programming languages,
+    tools and frameworks, including both Microsoft-specific and third-party
+    software and systems
+  url: 'https://azure.microsoft.com/en-us/'
+  short_url: ''
+  twitter: 'https://twitter.com/azure'
+  blog: 'http://azure.microsoft.com/blog/'
+  blog_rss: 'http://azure.microsoft.com/blog/feed/'
+  github: 'https://github.com/Azure'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-azure-logo.png
+  tags: >-
+    Management,API Management
+    Other,Deployment,Compute,Database,Serverless,Portal,Command Line
+    Interface,DNS,DNS Cloud,Reliability,Service Level Agreement,Cloud,Bigcos
+- slug: google-url-shortener
+  name: Google URL Shortener
+  description: >-
+    The Google URL Shortener at goo.gl is a service that takes long URLs and
+    squeezes them into fewer characters to make a link that is easier to share,
+    tweet, or email to friends. Users can create these short links through the
+    web interface at goo.gl, or they can programatically create them through the
+    URL Shortener API. With the URL Shortener API you can write applications
+    that use simple HTTP methods to create, inspect, and manage goo.gl short
+    links from desktop, mobile, or web.
+  url: 'https://goo.gl/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-shortener.png
+  tags: 'Links,URL Shortener,DNS,Google APIs'
+- slug: google-site-verification
+  name: Google Site Verification
+  description: >-
+    The Google Site Verification API lets you develop applications or services
+    that automate the process of verifying that the authenticated user owns a
+    domain or website. This is important, since some Google services can only be
+    used by site owners.
+  url: 'https://developers.google.com/site-verification/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-site-verification-500x362.png
+  tags: 'Google APIs,Links,DNS,Security'
+- slug: dnsimple
+  name: DNSimple
+  description: >-
+    DNSimple provides DNS hosting and domain registration that is simple and
+    friendly. We provide a full API and an easy-to-use web interface so you can
+    get your domain registered and set up with a minimal amount of effort.
+  url: 'http://dnsimple.com'
+  short_url: ''
+  twitter: 'https://twitter.com/dnsimple'
+  blog: 'http://blog.dnsimple.com/'
+  blog_rss: ''
+  github: 'https://github.com/dnsimple'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/575_logo.jpg
+  tags: 'Domain,DNS,DNS General'
+- slug: domaintools
+  name: DomainTools
+  description: >-
+    DomainTools offers the most comprehensive searchable database of domain name
+    registration and hosting data. Combined with their other data sites such as
+    DailyChanges.com, Screenshots.com and ReverseMX.com, users of
+    DomainTools.com can review millions of historical domain name records from
+    basic Whois and DNS information, to homepage images and email settings. The
+    Company's comprehensive snapshots of past and present domain name
+    registration, ownership and usage data, in addition to powerful research and
+    monitoring resources, help customers by unlocking everything there is to
+    know about a domain name.&nbsp;
+  url: 'http://www.domaintools.com'
+  short_url: ''
+  twitter: 'https://twitter.com/DomainTools'
+  blog: ''
+  blog_rss: 'http://blog.domaintools.com/feed/'
+  github: 'https://github.com/DomainTools'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/DomainToolsLogo2013.png
+  tags: 'Domain Names,DNS,DNS Internet'
+- slug: opendns
+  name: OpenDNS
+  description: >-
+    OpenDNS is a company and service which extends the Domain Name System (DNS)
+    by adding features such as phishing protection and optional content
+    filtering to traditional recursive DNS services. The company hosts a cloud
+    computing security product suite, Umbrella, designed to protect enterprise
+    customers from malware, botnets, phishing, and targeted online
+    attacks.&nbsp;
+  url: 'https://www.opendns.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/OpenDNS'
+  blog: 'https://blog.opendns.com/'
+  blog_rss: 'https://blog.opendns.com/feed/'
+  github: 'https://github.com/opendns'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/opendns-logo.png
+  tags: 'DNS,Security,DNS New'
+- slug: arin
+  name: ARIN
+  description: >-
+    ARIN offers public access to ARIN registration data via a number of
+    services. Traditionally, these services are known in the industry as Whois
+    in reference to the public data service of the ARPANET, precursor of today's
+    modern Internet. Whois services are offered by all the Regional Internet
+    Registries (RIRs), most Internet Routing Registries (IRRs) and most domain
+    name registries and registrars.
+  url: 'https://www.arin.net'
+  short_url: ''
+  twitter: 'https://twitter.com/TeamARIN'
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/arineng'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/arin-logo.png
+  tags: 'DNS,Registry,Infrastructure,DNS Internet'
+- slug: cloudflare
+  name: CloudFlare
+  description: >-
+    CloudFlare, Inc. is a U.S. company that provides a content delivery network
+    and distributed domain name server services, sitting between the visitor and
+    the CloudFlare user's hosting provider, acting as a reverse proxy for
+    websites. Its network protects, speeds up, and improves availability for a
+    website or mobile application with a change in DNS.&nbsp;
+  url: 'https://www.cloudflare.com'
+  short_url: ''
+  twitter: 'https://twitter.com/CloudFlare'
+  blog: 'https://blog.cloudflare.com/'
+  blog_rss: 'http://blog.cloudflare.com/rss/'
+  github: 'https://github.com/cloudflare'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
+  tags: 'DNS,Partners,My API Stack,Encryption,Security,CDN,DNS New'
+- slug: azure-dns
+  name: Azure DNS
+  description: >-
+    Azure DNS lets you host your DNS domains alongside your Azure apps and
+    manage DNS records by using your existing Azure subscription.
+    Microsoft&rsquo;s global network of name servers has the reach, scale, and
+    redundancy to ensure ultra-fast DNS responses and ultra-high availability
+    for your domains. With Azure DNS, you can be sure your DNS will always be
+    fast and available.
+  url: 'https://azure.microsoft.com/en-us/services/dns/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-dns-01-host.png
+  tags: 'DNS,Microsoft'
+- slug: dyn
+  name: Dyn
+  description: >-
+    Dyn helps companies monitor, control, and optimize online infrastructure to
+    improve end-user experience. Their Internet performance product suite
+    includes Dyn Internet Intelligence, IP Transit Intelligence, Traffic
+    Director, and DNS APIs. Dyn provides enterprise level sales and pricing for
+    their DNS, and email services.
+  url: 'http://dyn.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/Dyn'
+  blog: 'http://dyn.com/blog/'
+  blog_rss: 'http://feeds.feedburner.com/dyn-blog'
+  github: 'https://github.com/dyninc'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/dyn-logo.png
+  tags: 'DNS,Messaging,Email,Email API,DNS,Partners,DNS General,Getting Started'
+- slug: gslb.me
+  name: GSLB.me
+  description: >-
+    GSLB.me comes with a fully-fledged REST-based API to manage your DNS
+    services. Using the API you can add, modify, delete, enable and disable
+    domains (GSLB.me refers to DNS domains as &ldquo;zones&ldquo;) and records.
+    You can also manage your geohosts and more features are scheduled for next
+    releases.
+  url: 'http://www.gslb.me/'
+  short_url: ''
+  twitter: 'https://twitter.com/GSLBme'
+  blog: ''
+  blog_rss: 'http://www.gslb.me/feed'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/gslb-me-logo.png
+  tags: 'DNS,Hosting,DNS Internet'
+- slug: google-cloud-dns
+  name: Google Cloud DNS
+  description: >-
+    Google Cloud DNS is a scalable, reliable and managed authoritative Domain
+    Name System (DNS) service running on the same infrastructure as Google. It
+    has low latency, high availability and is a cost-effective way to make your
+    applications and services available to your users. Cloud DNS translates
+    requests for domain names like www.google.com into IP addresses like
+    74.125.29.101. Cloud DNS is programmable. You can easily publish and manage
+    millions of DNS zones and records using our simple user interface,
+    command-line interface or API.
+  url: 'https://cloud.google.com/dns/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/global-dns-network.png
+  tags: 'DNS,Google APIs'
+- slug: dns-made-easy
+  name: DNS Made Easy
+  description: >-
+    DNS Made Easy&rsquo;s API is available to perform core functions of the DNS
+    Made Easy web interface programmatically. DNS Made Easy&rsquo;s API is a
+    powerful resource and a great alternative to DNS management through our
+    conventional web interface. Use of the REST based API is available free to
+    all Business and Corporate Memberships.
+  url: 'http://www.dnsmadeeasy.com'
+  short_url: ''
+  twitter: 'https://twitter.com/dnsmadeeasy'
+  blog: 'http://social.dnsmadeeasy.com/'
+  blog_rss: ''
+  github: ''
+  image: ''
+  tags: 'DNS,Domain,DNS General,Reliability,Service Level Agreement'
+- slug: dns-check
+  name: DNS Check
+  description: 'DNS Check enables you to easily monitor, share and troubleshoot DNS records.'
+  url: 'https://www.dnscheck.co/'
+  short_url: ''
+  twitter: 'https://twitter.com/dns_check'
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://cdn.dnscheck.co/images/dns-check-icon.png'
+  tags: >-
+    dns check,dns monitor,DNS,mx record check,spf record check,DNS
+    General,Monitoring
+- slug: rackspace
+  name: Rackspace
+  description: >-
+    Rackspace is a recognized leader in the IT hosting market. We deliver
+    enterprise-level managed services to businesses of all sizes and kinds
+    around the world. Serving more than 14,000 customers in eight data centers
+    worldwide, Rackspace integrates the industry&rsquo;s best technologies and
+    practices for each customer&rsquo;s specific need and delivers it as a
+    service via the company&rsquo;s promise of Fanatical Support&Acirc;&reg;. We
+    serve as an extension of our customers&rsquo; IT departments, enabling them
+    to focus on their core business. We got started in 1998 and since then
+    Rackspace has grown more than 50 percent a year. There are currently 2,000
+    Rackers around the world serving our customers.
+  url: 'http://www.rackspace.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/rackspace'
+  blog: 'http://www.rackspace.com/blog/'
+  blog_rss: 'http://www.rackspace.com/blog/feed/rss/'
+  github: 'https://github.com/rackspace'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/rackspace-logo.jpg
+  tags: >-
+    Cloud,Storage,Compute,Cloud,Storage,DNS,API LIfeycle,Compute,DNS
+    Cloud,Federal Government,Federal Government,Federal Government,Federal
+    Government
+- slug: akamai
+  name: Akamai
+  description: >-
+    Akamai Technologies, Inc. is a content delivery network or CDN and cloud
+    services provider headquartered in Cambridge, Massachusetts, in the United
+    States. Akamai's content delivery network is one of the world's largest
+    distributed computing platforms, responsible for serving between 15 and 30
+    percent of all web traffic. The company operates a network of servers around
+    the world and rents capacity on these servers to customers who want their
+    websites to work faster by distributing content from locations close to the
+    user
+  url: 'https://akamai.com'
+  short_url: ''
+  twitter: 'https://twitter.com/Akamai'
+  blog: 'https://blogs.akamai.com'
+  blog_rss: 'http://blogs.akamai.com/feeds.html'
+  github: 'https://github.com/akamai'
+  image: 'https://s3.amazonaws.com/kinlane-productions/akamai/akamai-logo.png'
+  tags: 'Applications,Cloud,DNS,API LIfeycle,Bots,Performance,Security,DNS Cloud'
+- slug: aws-lightsale
+  name: AWS Lightsale
+  description: >-
+    Amazon Lightsail is the easiest way to get started with AWS for developers
+    who just need virtual private servers. Lightsail includes everything you
+    need to launch your project quickly - a virtual machine, SSD-based storage,
+    data transfer, DNS management, and a static IP - for a low, predictable
+    price. You manage those Lightsail servers through the Lightsail console or
+    by using the API or command-line interface (CLI).
+  url: 'https://amazonlightsail.com/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-lightsail.png
+  tags: 'Amazon Web Services,DNS'
+- slug: aws-route-53
+  name: AWS Route 53
+  description: >-
+    Amazon Route 53 is a highly available and scalable cloud Domain Name System
+    (DNS) web service. It is designed to give developers and businesses an
+    extremely reliable and cost effective way to route end users to Internet
+    applications by translating names like www.example.com into the numeric IP
+    addresses like 192.0.2.1 that computers use to connect to each other. Amazon
+    Route 53 is fully compliant with IPv6 as well. Amazon Route 53 effectively
+    connects user requests to infrastructure running in AWS &ndash; such as
+    Amazon EC2 instances, Elastic Load Balancing load balancers, or Amazon S3
+    buckets &ndash; and can also be used to route users to infrastructure
+    outside of AWS. You can use Amazon Route 53 to configure DNS health checks
+    to route traffic to healthy endpoints or to independently monitor the health
+    of your application and its endpoints. Amazon Route 53 Traffic Flow makes it
+    easy for you to manage traffic globally through a variety of routing types,
+    including Latency Based Routing, Geo DNS, and Weighted Round Robin&mdash;all
+    of which can be combined with DNS Failover in order to enable a variety of
+    low-latency, fault-tolerant architectures. Using Amazon Route 53 Traffic
+    Flow&rsquo;s simple visual editor, you can easily manage how your end-users
+    are routed to your application&rsquo;s endpoints&mdash;whether in a single
+    AWS region or distributed around the globe. Amazon Route 53 also offers
+    Domain Name Registration &ndash; you can purchase and manage domain names
+    such as example.com and Amazon Route 53 will automatically configure DNS
+    settings for your domains.
+  url: 'https://aws.amazon.com/route53/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AmazonRoute53.png
+  tags: 'Amazon Web Services,DNS'

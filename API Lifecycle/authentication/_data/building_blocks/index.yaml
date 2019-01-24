@@ -1,0 +1,114 @@
+- building_block_id: inline-token-generator
+  type: Authentication
+  category: Overview
+  name: Inline Token Generator
+  description: Allowing developers to request token inline with documentation.
+  image: ''
+  tags: Authentication
+- building_block_id: authentication-overview
+  type: Authentication
+  category: Overview
+  name: Authentication Overview
+  description: >-
+    An overview of how authentication is handled for a platform, and which
+    formats are supported, setting expectations for consumers.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-authentication.png
+  tags: Authentication
+- building_block_id: authentication-tester
+  type: Authentication
+  category: Overview
+  name: Authentication Tester
+  description: >-
+    Providing a testing tool for authentication, that allows developers to test
+    key and Basic Auth to oAuth, to help them understand how authentication
+    works and if they are using proper credentials.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-authentication-test.png
+  tags: Authentication
+- building_block_id: oauth-scopes
+  type: Authentication
+  category: Overview
+  name: OAuth Scopes
+  description: >-
+    Providing a dedicated page or section to listing out the different OAuth
+    scopes used by a platform. Providing a transparent window into all the
+    scopes available, and some of the logic into why they exist.
+  image: ''
+  tags: Authentication
+- building_block_id: test-token-generator
+  type: Authentication
+  category: Overview
+  name: Test Token Generator
+  description: >-
+    Providing the ability to generate test tokens for use in authenticating with
+    the API.
+  image: ''
+  tags: Authentication
+- building_block_id: basic-auth
+  type: Authentication
+  category: Approaches
+  name: Basic Auth
+  description: >-
+    Usage of the basic authentication format that is part of the standard HTTP
+    operations, employing a username and password as credentials for accessing
+    API resources.
+  image: ''
+  tags: Authentication
+- building_block_id: key-access
+  type: Authentication
+  category: Approaches
+  name: Key Access
+  description: >-
+    Providing simple tokens, often called API key as a common way to access to
+    APIs, issuing one to each developer and per application they register.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-key.png
+  tags: Authentication
+- building_block_id: json-web-token
+  type: Authentication
+  category: Approaches
+  name: JSON Web Token
+  description: >-
+    JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact
+    and self-contained way for securely transmitting information between parties
+    as a JSON object.
+  image: ''
+  tags: Authentication
+- building_block_id: oauth
+  type: Authentication
+  category: Approaches
+  name: oAuth
+  description: >-
+    Providing an oAuth layer to API operations, securing high value APIs, while
+    also opening up a conversation between an API platform, developers, and
+    end-users regarding the access of their content and data.
+  image: ''
+  tags: Authentication
+- building_block_id: application-only
+  type: Authentication
+  category: Additional
+  name: Application Only
+  description: Provides authenticated requests on behalf of the application only.
+  image: ''
+  tags: Authentication
+- building_block_id: pin-based-authorization
+  type: Authentication
+  category: Additional
+  name: PIN Based Authorization
+  description: >-
+    For applications which cannot access or embed a web browser, such as
+    command-line applications, embedded systems, game consoles, and certain
+    types of mobile apps.
+  image: ''
+  tags: Authentication
+- building_block_id: two-factor-authentication
+  type: Authentication
+  category: Additional
+  name: Two Factor Authentication
+  description: >-
+    Allowing API consumers to turn on and employ two factor authentication,
+    requiring an additional component to making changes to account security,
+    either by  SMS or authenticator app.
+  image: ''
+  tags: Authentication

@@ -1,0 +1,217 @@
+name: Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: http://blockchain.apievangelist.com/apis.yaml
+specificationVersion: "0.14"
+apis: []
+tags:
+- Blockchain
+include:
+- name: Abra
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/abra/apis.yaml
+- name: ALFAcoins
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/alfacoins/apis.yaml
+- name: AlphaPoint
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/alphapoint/apis.yaml
+- name: Aula Bitcoin Brasil
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/aula-bitcoin-brasil/apis.yaml
+- name: Best Bitcoin Casino
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/best-bitcoin-casino/apis.yaml
+- name: Binance
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/binance/apis.yaml
+- name: Bitcoin Forum [NO2X]
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/bitcoin-forum-no2x/apis.yaml
+- name: Bitcoin Foundation
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/bitcoin-foundation/apis.yaml
+- name: Bitcoin Magazine
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/bitcoin-magazine/apis.yaml
+- name: Bitcoin Taxes
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/bitcoin-taxes/apis.yaml
+- name: BitcoinAverage
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/bitcoinaverage/apis.yaml
+- name: BitcoinChain
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/bitcoinchain/apis.yaml
+- name: BitcoinNews
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/bitcoinnews/apis.yaml
+- name: BitcoinWisdom
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/bitcoinwisdom/apis.yaml
+- name: Bitfinex
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/bitfinex/apis.yaml
+- name: Bitmymoney
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/bitmymoney/apis.yaml
+- name: BitPay
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/bitpay/apis.yaml
+- name: BitQuick.co
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/bitquickco/apis.yaml
+- name: BitShares
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/bitshares/apis.yaml
+- name: Bitstamp
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/bitstamp/apis.yaml
+- name: Bleutrade Cryptocurrency Exchange
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/bleutrade-cryptocurrency-exchange/apis.yaml
+- name: Blockchain
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/blockchain/apis.yaml
+- name: BlockCypher
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/blockcypher/apis.yaml
+- name: blockonomics
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/blockonomics/apis.yaml
+- name: blockstrap
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/blockstrap/apis.yaml
+- name: Blocktrail
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/blocktrail/apis.yaml
+- name: Brave New Coin
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/brave-new-coin/apis.yaml
+- name: BTC Markets
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/btc-markets/apis.yaml
+- name: BTC-e
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/btce/apis.yaml
+- name: BTC.com
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/btccom/apis.yaml
+- name: BTCC
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/btcc/apis.yaml
+- name: bter.com
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/btercom/apis.yaml
+- name: Butterfly Labs
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/butterfly-labs/apis.yaml
+- name: C-CEX.com
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/ccexcom/apis.yaml
+- name: CapchainX
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/capchainx/apis.yaml
+- name: CBIX Bitcoin Index
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/cbix-bitcoin-index/apis.yaml
+- name: CEX.IO
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/cexio/apis.yaml
+- name: Coin ATM Radar
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/coin-atm-radar/apis.yaml
+- name: Coin.Market
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/coinmarket/apis.yaml
+- name: Coincheck
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/coincheck/apis.yaml
+- name: CoinDirect
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/coindirect/apis.yaml
+- name: CoinGate
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/coingate/apis.yaml
+- name: Coinify
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/coinify/apis.yaml
+- name: Coinkite
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/coinkite/apis.yaml
+- name: CoinMate.io
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/coinmateio/apis.yaml
+- name: Coins-e
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/coinse/apis.yaml
+- name: CoinSalad
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/coinsalad/apis.yaml
+- name: Coinspeaker
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/coinspeaker/apis.yaml
+- name: CoinWarz
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/coinwarz/apis.yaml
+- name: Crypto Compare
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/crypto-compare/apis.yaml
+- name: Crypto-Change.com
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/cryptochangecom/apis.yaml
+- name: Cryptonator
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/cryptonator/apis.yaml
+- name: Cryptopay
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/cryptopay/apis.yaml
+- name: CryptoPing
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/cryptoping/apis.yaml
+- name: Cryptostocks
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/cryptostocks/apis.yaml
+- name: Currenxie
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/currenxie/apis.yaml
+- name: Digital Defence
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/digital-defence/apis.yaml
+- name: DMarket.io
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/dmarketio/apis.yaml
+- name: Eligius Mining Pool
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/eligius-mining-pool/apis.yaml
+- name: Exmo Finance
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/exmo-finance/apis.yaml
+- name: Gatecoin
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/gatecoin/apis.yaml
+- name: GDAX
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/gdax/apis.yaml
+- name: Gemini
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/gemini/apis.yaml
+- name: Genesis Mining
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/genesis-mining/apis.yaml
+- name: GoCoin
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/gocoin/apis.yaml
+- name: HitBTC
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/hitbtc/apis.yaml
+- name: HolyTransaction
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/holytransaction/apis.yaml
+- name: itBit
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/itbit/apis.yaml
+- name: Kraken
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/kraken/apis.yaml
+- name: LiteTree
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/litetree/apis.yaml
+- name: livecoin
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/livecoin/apis.yaml
+- name: Luno
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/luno/apis.yaml
+- name: Lykke
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/lykke/apis.yaml
+- name: Magnr
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/magnr/apis.yaml
+- name: Mastercard
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/mastercard/apis.yaml
+- name: MultiChain
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/multichain/apis.yaml
+- name: NexChange
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/nexchange/apis.yaml
+- name: OKCoin
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/okcoin/apis.yaml
+- name: Openchain
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/openchain/apis.yaml
+- name: Paxful
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/paxful/apis.yaml
+- name: PAYMIUM
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/paymium/apis.yaml
+- name: Poloniex Exchange
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/poloniex-exchange/apis.yaml
+- name: Project Skyhook
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/project-skyhook/apis.yaml
+- name: Quadriga CX
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/quadriga-cx/apis.yaml
+- name: Quandl
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/quandl/apis.yaml
+- name: Revolut
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/revolut/apis.yaml
+- name: Ripple
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/ripple/apis.yaml
+- name: Slock.it
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/slockit/apis.yaml
+- name: SpectroCoin
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/spectrocoin/apis.yaml
+- name: Sphereon
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/sphereon/apis.yaml
+- name: Stampery
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/stampery/apis.yaml
+- name: Storj
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/storj/apis.yaml
+- name: StrongCoin
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/strongcoin/apis.yaml
+- name: t0.com
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/t0com/apis.yaml
+- name: Thomson Reuters
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/thomson-reuters/apis.yaml
+- name: TofuPay
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/tofupay/apis.yaml
+- name: Tux Exchange
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/tux-exchange/apis.yaml
+- name: Vaultoro.com
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/vaultorocom/apis.yaml
+- name: Wall of Coins
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/wall-of-coins/apis.yaml
+- name: Waves Platform
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/waves-platform/apis.yaml
+- name: Wavesplatform
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/wavesplatform/apis.yaml
+- name: We Use Coins
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/we-use-coins/apis.yaml
+- name: WeUseCoins
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/weusecoins/apis.yaml
+- name: WoraPay
+  url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/worapay/apis.yaml

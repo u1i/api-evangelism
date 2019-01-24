@@ -1,0 +1,289 @@
+swagger: "2.0"
+info:
+  title: No Title
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /buckets/{bucket_key}/tests/{test_id}/schedules:
+    get:
+      summary: Test Schedule List
+      description: Get the list of schedules for a test.
+      operationId: ""
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    post:
+      summary: Create Schedule
+      description: Create a new test schedule.
+      operationId: ""
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /buckets/{bucket_key}/tests/{test_id}/schedules/{schedule_id}:
+    delete:
+      summary: Delete (Stop) Schedule
+      description: Delete a schedule.
+      operationId: ""
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    get:
+      summary: Schedule Details
+      description: Schedule Details
+      operationId: ""
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    put:
+      summary: Modify Schedule
+      description: Update the details of a single schedule by making a PUT request
+        with a JSON body to the schedule details resource. Updating a schedule will
+        cause the test to execute starting at the time of the request on the given
+        interval.
+      operationId: ""
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /schedules:
+    get:
+      summary: List schedules
+      description: List the on-call schedules.
+      operationId: list-the-oncall-schedules
+      parameters:
+      - in: query
+        name: query
+        description: Filters the result, showing only the schedules whose name matches
+          the query.
+      responses:
+        200:
+          description: OK
+      tags:
+      - Schedules
+    post:
+      summary: Create a schedule
+      description: Create a new on-call schedule.
+      operationId: create-a-new-oncall-schedule
+      parameters:
+      - in: query
+        name: No Name
+      - in: body
+        name: schedule
+        description: The schedule to be created.
+        schema:
+          $ref: '#/definitions/holder'
+      responses:
+        200:
+          description: OK
+      tags:
+      - Schedules
+    x-description:
+      summary: L
+      description: L
+      operationId: L
+      responses:
+        200:
+          description: OK
+      tags:
+      - Schedules
+  /schedules/preview:
+    post:
+      summary: Preview a schedule
+      description: Preview what an on-call schedule would look like without saving
+        it.
+      operationId: preview-what-an-oncall-schedule-would-look-like-without-saving-it
+      parameters:
+      - in: query
+        name: No Name
+      - in: body
+        name: schedule
+        description: The schedule to be previewed.
+        schema:
+          $ref: '#/definitions/holder'
+      responses:
+        200:
+          description: OK
+      tags:
+      - Schedules
+    x-description:
+      summary: P
+      description: P
+      operationId: P
+      responses:
+        200:
+          description: OK
+      tags:
+      - Schedules
+  /schedules/{id}:
+    delete:
+      summary: Delete a schedule
+      description: Delete an on-call schedule.
+      operationId: delete-an-oncall-schedule
+      parameters:
+      - in: query
+        name: No Name
+      responses:
+        200:
+          description: OK
+      tags:
+      - Schedules
+    get:
+      summary: Get a schedule
+      description: Show detailed information about a schedule, including entries for
+        each layer and sub-schedule.
+      operationId: show-detailed-information-about-a-schedule-including-entries-for-each-layer-and-subschedule
+      parameters:
+      - in: query
+        name: No Name
+      responses:
+        200:
+          description: OK
+      tags:
+      - Schedules
+    put:
+      summary: Update a schedule
+      description: Update an existing on-call schedule.
+      operationId: update-an-existing-oncall-schedule
+      parameters:
+      - in: query
+        name: No Name
+      - in: body
+        name: schedule
+        description: The schedule to be updated.
+        schema:
+          $ref: '#/definitions/holder'
+      responses:
+        200:
+          description: OK
+      tags:
+      - Schedules
+    x-description:
+      summary: M
+      description: M
+      operationId: M
+      responses:
+        200:
+          description: OK
+      tags:
+      - Schedules
+  /schedules/{id}/overrides:
+    get:
+      summary: List overrides
+      description: List overrides for a given time range.
+      operationId: list-overrides-for-a-given-time-range
+      parameters:
+      - in: query
+        name: editable
+        description: When this parameter is present, only editable overrides will
+          be returned. The result will only include the id of the override if this
+          parameter is present. Only future overrides are editable.
+      - in: query
+        name: No Name
+      - in: query
+        name: overflow
+        description: Any on-call schedule entries that pass the date range bounds
+          will be truncated at the bounds, unless the parameter overflow=true is passed.
+          This parameter defaults to false.
+      - in: query
+        name: since
+        description: The start of the date range over which you want to search.
+      - in: query
+        name: until
+        description: The end of the date range over which you want to search.
+      responses:
+        200:
+          description: OK
+      tags:
+      - Schedule Overrides
+    post:
+      summary: Create an override
+      description: Create an override for a specific user covering the specified time
+        range. If you create an override on top of an existing one, the last created
+        override will have priority.
+      operationId: create-an-override-for-a-specific-user-covering-the-specified-time-range-if-you-create-an-override-o
+      parameters:
+      - in: query
+        name: No Name
+      - in: body
+        name: override
+        description: The override to be created
+        schema:
+          $ref: '#/definitions/holder'
+      responses:
+        200:
+          description: OK
+      tags:
+      - Schedule Overrides
+    x-description:
+      summary: L
+      description: L
+      operationId: L
+      responses:
+        200:
+          description: OK
+      tags:
+      - Schedule Overrides
+  /schedules/{id}/overrides/{override_id}:
+    delete:
+      summary: Delete an override
+      description: Remove an override. You cannot remove a past override. If the override
+        start time is before the current time, but the end time is after the current
+        time, the override will be truncated to the current time. If the override
+        is truncated, the status code will be 200 OK, as opposed to a 204 No Content
+        for a successful delete.
+      operationId: remove-an-override-you-cannot-remove-a-past-override-if-the-override-start-time-is-before-the-curren
+      parameters:
+      - in: query
+        name: No Name
+      responses:
+        200:
+          description: OK
+      tags:
+      - Schedule Overrides
+    x-description:
+      summary: D
+      description: D
+      operationId: D
+      responses:
+        200:
+          description: OK
+      tags:
+      - Schedule Overrides
+  /schedules/{id}/users:
+    get:
+      summary: List users on call
+      description: List all of the users on call in a given schedule for a given time
+        range.
+      operationId: list-all-of-the-users-on-call-in-a-given-schedule-for-a-given-time-range
+      parameters:
+      - in: query
+        name: No Name
+      responses:
+        200:
+          description: OK
+      tags:
+      - Schedule Users
+    x-description:
+      summary: L
+      description: L
+      operationId: L
+      responses:
+        200:
+          description: OK
+      tags:
+      - Schedule Users
+definitions: []

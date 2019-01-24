@@ -1,0 +1,22 @@
+name: Wavesplatform
+description: Blockchain platform with emphasis on custom token creation, transfer
+  and decentralized trading, with deep fiat integration and focus on community-backed
+  projects
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26563-tidex-com.jpg
+tags:
+- Technology
+- Marketplace
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/wavesplatform/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: https://tidex.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

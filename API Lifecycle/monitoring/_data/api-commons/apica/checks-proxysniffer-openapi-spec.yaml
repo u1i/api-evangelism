@@ -1,0 +1,73 @@
+swagger: "2.0"
+info:
+  title: Checks Proxysniffer
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  '/checks/proxysniffer ':
+    ' post ':
+      summary: Checks Proxysniffer
+      description: ttttCreates a new ProxySniffer check.ttt
+      operationId: -checks-proxysniffer-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checks Proxysniffer
+  '/checks/proxysniffer/locations ':
+    ' get ':
+      summary: Checks Proxysniffer Locations
+      description: ttttGets a list of all locations that are available for ProxySniffer
+        checks.ttt
+      operationId: -checks-proxysniffer-locations-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checks Proxysniffer
+  '/checks/proxysniffer/{checkId} ':
+    ' put ':
+      summary: Checks Proxysniffer {checkId}
+      description: ttttUpdates a proxy sniffer check.ttt
+      operationId: -checks-proxysniffer-checkid-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checks Proxysniffer
+  '/checks/proxysniffer/{checkId}/results/urldata ':
+    ' post ':
+      summary: Checks Proxysniffer {checkId} Results URLdata
+      description: ttttGets ProxySniffer check results in json format by result ids.ttt
+      operationId: -checks-proxysniffer-checkid-results-urldata-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checks Proxysniffer
+  '/checks/proxysniffer/{checkId}/results/{resultId}/errorlog ':
+    ' get ':
+      summary: Checks Proxysniffer {checkId} Results {resultId} Errorlog
+      description: ttttGets an error log of the given ProxySniffer check result.ttt
+      operationId: -checks-proxysniffer-checkid-results-resultid-errorlog-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checks Proxysniffer
+  '/checks/proxysniffer/{checkId}/results/{resultId}/urldata?format={format} ':
+    ' get ':
+      summary: Checks Proxysniffer {checkId} Results {resultId} URLdata?format={format}
+      description: ttttGets a file that contains ProxySniffer check result data.ttt
+      operationId: -checks-proxysniffer-checkid-results-resultid-urldataformatformat-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checks Proxysniffer
+definitions: []

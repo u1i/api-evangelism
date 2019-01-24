@@ -1,0 +1,348 @@
+- building_block_id: service-availability
+  type: Monitoring
+  category: Core Details
+  name: Service Availability
+  description: Making sure a service is available.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-heart-monitor.png
+  tags: Monitoring
+- building_block_id: latency-measurement
+  type: Monitoring
+  category: Core Details
+  name: Latency Measurement
+  description: Measuring the latency associated with a specific request.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-speedometer.png
+  tags: Monitoring
+- building_block_id: response-header-validation
+  type: Monitoring
+  category: Core Details
+  name: Response Header Validation
+  description: Being able to validate for a specific header for a request.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-validation.jpg
+  tags: Monitoring
+- building_block_id: response-body-validation
+  type: Monitoring
+  category: Core Details
+  name: Response Body Validation
+  description: Being able to validate the content of the body for a request.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-validation.jpg
+  tags: Monitoring
+- building_block_id: request-editor
+  type: Monitoring
+  category: Core Details
+  name: Request Editor
+  description: Being able to edit the request being made as part of API monitoring process.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-editor.png
+  tags: Monitoring
+- building_block_id: request-retry
+  type: Monitoring
+  category: Core Details
+  name: Request Retry
+  description: >-
+    Being able to retry a specific request that has been made at previous
+    timeframe.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-retry.png
+  tags: Monitoring
+- building_block_id: request-sharing
+  type: Monitoring
+  category: Core Details
+  name: Request Sharing
+  description: Allow the sharing of a specific request designated for monitoring.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-sharing.jpeg
+  tags: Monitoring
+- building_block_id: request-playback
+  type: Monitoring
+  category: Core Details
+  name: Request Playback
+  description: >-
+    Enable the playback of a specific request that has been made at previous
+    timeframe.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-play.jpg
+  tags: Monitoring
+- building_block_id: request-scheduling
+  type: Monitoring
+  category: Core Details
+  name: Request Scheduling
+  description: Allow the scheduling of when to run specific task at specific time(s).
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-scheduling.jpeg
+  tags: Monitoring
+- building_block_id: request-compare
+  type: Monitoring
+  category: Core Details
+  name: Request Compare
+  description: Being able to compare to requests against each other.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-compare.png
+  tags: Monitoring
+- building_block_id: request-scripting
+  type: Monitoring
+  category: Core Details
+  name: Request Scripting
+  description: The ability to script against a specific request.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-html-code.png
+  tags: Monitoring
+- building_block_id: request-automation
+  type: Monitoring
+  category: Core Details
+  name: Request Automation
+  description: The ability to automate the running of multiple requests.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-clock-gear.png
+  tags: Monitoring
+- building_block_id: request-commenting
+  type: Monitoring
+  category: Core Details
+  name: Request Commenting
+  description: Allowing the ability to comment on a specific request.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-chat.png
+  tags: Monitoring
+- building_block_id: documentation-monitoring
+  type: Monitoring
+  category: Management Monitoring
+  name: Documentation Monitoring
+  description: Keeping track of changes to an APIs documentation
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-documentation.png
+  tags: Monitoring
+- building_block_id: pricing-monitoring
+  type: Monitoring
+  category: Management Monitoring
+  name: Pricing Monitoring
+  description: Notifications when an API platform's pricing changes
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-dollar-sign.jpg
+  tags: Monitoring
+- building_block_id: terms-of-service-monitoring
+  type: Monitoring
+  category: Management Monitoring
+  name: Terms of Service Monitoring
+  description: Updates when a company changes the terms of service&nbsp;
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-terms-conditions.png
+  tags: Monitoring
+- building_block_id: provider-based-monitoring
+  type: Monitoring
+  category: Targeted Monitoring
+  name: Provider Based Monitoring
+  description: Being able to monitor an LAPI from a particular provider.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-api-provider.png
+  tags: Monitoring
+- building_block_id: region-based-monitoring
+  type: Monitoring
+  category: Targeted Monitoring
+  name: Region Based Monitoring
+  description: Begin able to monitor from a specific geographical region.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-region.png
+  tags: Monitoring
+- building_block_id: public-monitoring
+  type: Monitoring
+  category: Targeted Monitoring
+  name: Public Monitoring
+  description: 'Monitoring of public APIs, and providing the information for others to use.'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-people.png
+  tags: Monitoring
+- building_block_id: basic-auth
+  type: Monitoring
+  category: Authentication
+  name: Basic Auth
+  description: 'Using Basic Auth, a username and password for authentication.'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-basic-auth.jpg
+  tags: Monitoring
+- building_block_id: oauth
+  type: Monitoring
+  category: Authentication
+  name: OAuth
+  description: Using OAuth for platform authentication.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/oauth-logo.png
+  tags: Monitoring
+- building_block_id: api-keys
+  type: Monitoring
+  category: Authentication
+  name: API Keys
+  description: Using API keys for authentication.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-key.png
+  tags: Monitoring
+- building_block_id: collections
+  type: Monitoring
+  category: Utility
+  name: Collections
+  description: Being able to organize requests into collections.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-collection.png
+  tags: Monitoring
+- building_block_id: virtualize
+  type: Monitoring
+  category: Utility
+  name: Virtualize
+  description: The ability to virtualize any single or group of requests.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-virtualization.png
+  tags: Monitoring
+- building_block_id: localhost
+  type: Monitoring
+  category: Utility
+  name: Localhost
+  description: Allow for executing monitoring requests using localhost.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-localhost.png
+  tags: Monitoring
+- building_block_id: teams
+  type: Monitoring
+  category: Utility
+  name: Teams
+  description: Enable the ability for teams to work together and share monitoring.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-team-male-female.png
+  tags: Monitoring
+- building_block_id: api
+  type: Monitoring
+  category: Utility
+  name: API
+  description: Providing an API for API monitoring tools.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/api-commons-icon.png
+  tags: Monitoring
+- building_block_id: sms
+  type: Monitoring
+  category: Notification
+  name: SMS
+  description: Allow notifications to be received by SMS.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-sms-2.png
+  tags: Monitoring
+- building_block_id: email
+  type: Monitoring
+  category: Notification
+  name: Email
+  description: Allow notifications to be received by email.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-email.png
+  tags: Monitoring
+- building_block_id: phone
+  type: Monitoring
+  category: Notification
+  name: Phone
+  description: Allow notifications to be received by Phone.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-iphone.png
+  tags: Monitoring
+- building_block_id: webhook
+  type: Monitoring
+  category: Notification
+  name: Webhook
+  description: Allow notifications to be received by webhook.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/webhooks.png
+  tags: Monitoring
+- building_block_id: postman
+  type: Monitoring
+  category: Import
+  name: Postman
+  description: Allow for importing using Postman Collections.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-postman.png
+  tags: Monitoring
+- building_block_id: openapi-spec
+  type: Monitoring
+  category: Import
+  name: OpenAPI Spec
+  description: Allow for importing using OpenAPI Spec.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-swagger-round.png
+  tags: Monitoring
+- building_block_id: raml
+  type: Monitoring
+  category: Import
+  name: RAML
+  description: Allow for importing using RAML.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-raml.png
+  tags: Monitoring
+- building_block_id: har
+  type: Monitoring
+  category: Import
+  name: HAR
+  description: Allow for importing using HAR.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-har-file.png
+  tags: Monitoring
+- building_block_id: dashboard
+  type: Monitoring
+  category: Reporting
+  name: Dashboard
+  description: Providing a dashboard to review monitors.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-status-dashboard.png
+  tags: Monitoring
+- building_block_id: embeddable
+  type: Monitoring
+  category: Reporting
+  name: Embeddable
+  description: Providing emeddable tools for API monitoring.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-embeddable.png
+  tags: Monitoring
+- building_block_id: slack
+  type: Monitoring
+  category: 3rd Party
+  name: Slack
+  description: Provide integration with Slack.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/slack-icon.png
+  tags: Monitoring
+- building_block_id: pagerduty
+  type: Monitoring
+  category: 3rd Party
+  name: PagerDuty
+  description: Provide integration with PagerDuty.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/pager-duty-icon.png
+  tags: Monitoring
+- building_block_id: victorops
+  type: Monitoring
+  category: 3rd Party
+  name: VictorOps
+  description: Provide integration with VictorOps.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/victorops-icon.jpeg
+  tags: Monitoring
+- building_block_id: hipchat
+  type: Monitoring
+  category: 3rd Party
+  name: HipChat
+  description: Provide integration with HipChat.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/hip-chat-icon.png
+  tags: Monitoring
+- building_block_id: flowdock
+  type: Monitoring
+  category: 3rd Party
+  name: Flowdock
+  description: Provide integration with Flowdock
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/flowdock-icon.jpeg
+  tags: Monitoring
+- building_block_id: opsgenie
+  type: Monitoring
+  category: 3rd Party
+  name: OpsGenie
+  description: Provide integration with OpsGenie.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/opsgenie-icon.png
+  tags: Monitoring

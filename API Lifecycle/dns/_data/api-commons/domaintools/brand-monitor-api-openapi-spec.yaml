@@ -1,0 +1,52 @@
+swagger: "2.0"
+info:
+  title: Brand Monitor API
+  description: Monitor new domains registrations for specific keywords
+  version: 1.0.0
+host: api.domaintools.com
+basePath: /v1
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /mark-alert/:
+    get:
+      summary: Brand Monitor
+      description: Monitor new domains registrations for specific keywords
+      operationId: brandMonitor
+      parameters:
+      - in: query
+        name: days_back
+        description: Use this parameter in exceptional circumstances where you need
+          to search domains registered up to six days prior to the current date. Set
+          the value to an integer in the range of 1-6.
+        type: string
+        format: string
+      - in: query
+        name: domain_status
+        description: Sets the scope of domain names to search. By default, the API
+          will search both new domain names and domains which are now on-hold (pending
+          delete). To narrow your search to only one of these status codes, set this
+          parameter to either new or on-hold.
+        type: string
+        format: string
+      - in: query
+        name: exclude
+        description: Domain names with these words will be excluded from the result
+          set. Separate multiple terms with the pipe character ( | ).
+        type: string
+        format: string
+      - in: query
+        name: query
+        description: One or more terms separated by the pipe character ( | ).
+        type: string
+        format: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Brand Monitor
+definitions: []

@@ -1,0 +1,22 @@
+name: Currenxie
+description: Currenxie provides SME's and corporates with a compelling proposition.
+  A personal service, competitive rates and access to a next generation online platform.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26542-currenxie.jpg
+tags:
+- Technology
+- Marketplace
+- Financial Services
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/currenxie/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: http://currenxie.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

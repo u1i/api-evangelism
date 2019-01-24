@@ -1,0 +1,23 @@
+swagger: "2.0"
+info:
+  title: Checkpoint Server API
+  description: The Checkpoint Server API.
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /checkpointservers:
+    get:
+      summary: List&lt;CheckpointServer&gt;
+      description: List all checkpoint servers
+      operationId: listltcheckpointservergt
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checkpoint Server
+definitions: []

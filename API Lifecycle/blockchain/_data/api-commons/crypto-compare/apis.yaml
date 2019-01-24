@@ -1,0 +1,21 @@
+name: Crypto Compare
+description: We bring you all the latest streaming pricing data in the world of cryptocurrencies.
+  Whether you are just interested in the Bitcoin price or you want to see the latest
+  Ether volume, we have all the data available at your fingertips. Join the discussion...
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26468-www-cryptocompare-com.jpg
+tags:
+- Technology
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/crypto-compare/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: https://www.cryptocompare.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

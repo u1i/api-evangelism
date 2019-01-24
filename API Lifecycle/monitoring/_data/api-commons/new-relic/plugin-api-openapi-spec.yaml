@@ -1,0 +1,163 @@
+swagger: "2.0"
+info:
+  title: Plugin API
+  description: The Plugin API.
+  version: 1.0.0
+host: api.newrelic.com
+basePath: /
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /v2/plugins.{format}:
+    get:
+      summary: List
+      description: <p>This API endpoint returns a list of the Plugins associated with
+        your New Relic account.</p><p>Plugins can be filtered by their guid or the
+        list of plugin IDs.</p><p>See our documentation for a discussion on <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/pagination-api-output
+        target=_blank>output pagination</a>.</p>
+      operationId: list
+      parameters:
+      - in: query
+        name: detailed
+        description: Include all data about a plugin
+        type: boolean
+      - in: query
+        name: filter[guid]
+        description: Filter plugin by guid
+        type: string
+      - in: query
+        name: filter[ids]
+        description: Filter plugin by ids
+        type: list
+      - in: query
+        name: page
+        description: Pagination index
+        type: integer
+      responses:
+        200:
+          description: OK
+      tags:
+      - Plugin
+  /v2/plugins/{id}.{format}:
+    get:
+      summary: Show
+      description: <p>This API endpoint returns a single plugin, identified by its
+        ID.</p>
+      operationId: show
+      parameters:
+      - in: query
+        name: detailed
+        description: Include all data about a plugin
+        type: boolean
+      - in: path
+        name: id
+        description: Plugin ID
+        type: integer
+      responses:
+        200:
+          description: OK
+      tags:
+      - Plugin
+definitions:
+  "":
+    properties:
+      plugin:
+        description: This is a default description.
+        type: GET
+      id:
+        description: This is a default description.
+        type: GET
+      name:
+        description: This is a default description.
+        type: GET
+      guid:
+        description: This is a default description.
+        type: GET
+      publisher:
+        description: This is a default description.
+        type: GET
+      component_agent_count:
+        description: This is a default description.
+        type: GET
+      details:
+        description: This is a default description.
+        type: GET
+      summary_metrics:
+        description: This is a default description.
+        type: GET
+      description:
+        description: This is a default description.
+        type: GET
+      is_public:
+        description: This is a default description.
+        type: GET
+      created_at:
+        description: This is a default description.
+        type: GET
+      updated_at:
+        description: This is a default description.
+        type: GET
+      last_published_at:
+        description: This is a default description.
+        type: GET
+      has_unpublished_changes:
+        description: This is a default description.
+        type: GET
+      branding_image_url:
+        description: This is a default description.
+        type: GET
+      upgraded_at:
+        description: This is a default description.
+        type: GET
+      short_name:
+        description: This is a default description.
+        type: GET
+      publisher_about_url:
+        description: This is a default description.
+        type: GET
+      publisher_support_url:
+        description: This is a default description.
+        type: GET
+      download_url:
+        description: This is a default description.
+        type: GET
+      first_edited_at:
+        description: This is a default description.
+        type: GET
+      last_edited_at:
+        description: This is a default description.
+        type: GET
+      first_published_at:
+        description: This is a default description.
+        type: GET
+      published_version:
+        description: This is a default description.
+        type: GET
+      metric:
+        description: This is a default description.
+        type: GET
+      value_function:
+        description: This is a default description.
+        type: GET
+      thresholds:
+        description: This is a default description.
+        type: GET
+      values:
+        description: This is a default description.
+        type: GET
+      caution:
+        description: This is a default description.
+        type: GET
+      critical:
+        description: This is a default description.
+        type: GET
+      raw:
+        description: This is a default description.
+        type: GET
+      formatted:
+        description: This is a default description.
+        type: GET

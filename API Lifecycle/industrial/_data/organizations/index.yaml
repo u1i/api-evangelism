@@ -1,0 +1,48 @@
+---
+- slug: flir
+  name: Flir
+  description: LIR Systems, Inc. designs, develops, manufactures, markets, and distributes
+    technologies that enhance perception and awareness. We bring innovative sensing
+    solutions into daily life through our thermal imaging systems, visible-light imaging
+    systems, locator systems, measurement and diagnostic systems, and advanced threat
+    detection systems. Our products improve the way people interact with the world
+    around them, enhance public safety and well-being, increase energy efficiency,
+    and enable healthy and entertained communities.
+  url: http://flir.com
+  shorturl: ""
+  twitter: https://twitter.com/flir
+  blog: http://developer.flir.com/blog/
+  blogrss: http://developer.flir.com/feed/
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/FLIR_logo.png
+  tags: Imaging,Sensors,Cameras,Drones,Industrial
+- slug: opto-22
+  name: Opto 22
+  description: Opto 22 manufactures controllers, I/O, solid state relays, and software
+    products that link electrical, mechanical, and electronic devices to networks
+    and computers. Our customers use our products to monitor, control, and get data
+    from machines and devices. Industrially hardened SNAP PAC standalone and rack-mounted
+    programmable automation controllers with a REST API!
+  url: http://opto22.com
+  shorturl: ""
+  twitter: https://twitter.com/opto22
+  blog: ""
+  blogrss: http://blog.opto22.com/optoblog/rss.xml
+  github: https://github.com/Opto22
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Opto_22_-_PAC_controllers__industrial_I_O__solid_state_relays_for_industrial_automation__energy_management__remote_monitoring__data_acquisition.png
+  tags: Industrial
+- slug: rockwell-automation
+  name: Rockwell Automation
+  description: Rockwell Automation, the world's largest company dedicated to industrial
+    automation and information, makes its customers more productive and the world
+    more sustainable. Throughout the world, our flagship Allen-Bradley&reg; and Rockwell
+    Software&reg; product brands are recognized for innovation and excellence.
+  url: http://www.rockwellautomation.com/
+  shorturl: ""
+  twitter: https://twitter.com/ROKAutomation
+  blog: http://www.rockwellautomation.com/global/news/blog/overview.page
+  blogrss: http://blog.emea.rockwellautomation.com/feed/
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/rockwell-automation.jpg
+  tags: Industrial
+...

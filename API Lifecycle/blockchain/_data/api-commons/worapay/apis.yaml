@@ -1,0 +1,25 @@
+name: WoraPay
+description: WoraPay, (www.worapay.com), is the payments without the queues platform
+  founded in 2012 and specialising in helping retailers to increase sales and profit
+  by allowing their customers to avoid the need to queue to pay.    WoraPay was launched
+  in the Bal...
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26549-worapay.jpg
+tags:
+- Technology
+- SaaS
+- Mobile
+- Financial Services
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/worapay/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: http://worapay.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

@@ -1,0 +1,25 @@
+swagger: "2.0"
+info:
+  title: Settings API
+  description: The Settings API.
+  version: 1.0.0
+host: api.pingdom.com
+basePath: /
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  n    /api/{version}/settings:
+    n    get:
+      summary: Get Account Settings
+      description: '    Returns all account-specific settings.'
+      operationId: get-account-settings
+      responses:
+        200:
+          description: OK
+      tags:
+      - Settings
+definitions: []

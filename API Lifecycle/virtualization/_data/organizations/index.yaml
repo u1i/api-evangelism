@@ -1,0 +1,434 @@
+- id: Q34BUiBhvyiPgFfiA587G1167hx0ISsp8aI123B0e42123ICE117
+  name: Apiary
+  summary: Apiary jump-started the modern API design movement, by making API definitions
+    more than just about API documentation, allowing API designers to define APIs
+    in the machine readable API definition format API blueprint, then mock, share,
+    and publish documentation via a cloud platform.
+  details: Apiary jump-started the modern API design movement, by making API definitions
+    more than just about API documentation, allowing API designers to define APIs
+    in the machine readable API definition format API blueprint, then mock, share,
+    and publish documentation via a cloud platform.
+  website: https://apiary.io
+  twitter: https://twitter.com/apiaryio
+  github: https://github.com/apiaryio
+  blog: http://blog.apiary.io/
+  blogrss: http://blog.apiary.io/feed.xml
+  logo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19-apiary.jpg
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19-apiary.jpg
+  tags: API LIfeycle,API Service Provider,Design,Documentation,Enterprise,internet,Profiled,SaaS,Stack
+    Network,Studio,Technology,Virtualization,Virtualization
+  apis: []
+- id: RMegK0JCz9d7szrEt5w123SoPI1yw14fPZluaYz116dTCPw117
+  name: Apigee API Studio
+  summary: Apigee launched their API Studio out of their earlier Apigee-127 product,
+    their work on the Swagger platform and editor, and their BaaS offering, opening
+    up the ability for developers to design, mock, test and share via the online platform.
+    While Apigee Studio is part of the larger Apigee line of products, it is a separate
+    standalone, open source based studio.
+  details: Apigee launched their API Studio out of their earlier Apigee-127 product,
+    their work on the Swagger platform and editor, and their BaaS offering, opening
+    up the ability for developers to design, mock, test and share via the online platform.
+    While Apigee Studio is part of the larger Apigee line of products, it is a separate
+    standalone, open source based studio.
+  website: http://apistudio.io/
+  twitter: ""
+  github: ""
+  blog: ""
+  blogrss: ""
+  logo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-studio-logo.png
+  logo_width: "225"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-studio-logo.png
+  tags: API Service Provider,Clients,Design,Profiled,Stack Network,Studio,Testing,Virtualization
+  apis: []
+- id: yklKzd116AeBF4f5B5IkLQ1167urrvpj116U116Zh5fQRTwte116E117
+  name: Apimint
+  summary: APIMINT is an API lifecycle management tool. With our design first approach,
+    all stake holders get a platform to collaborate and give feedback on API design
+    and structure. We make sure your all your teams can easily agree and understand
+    your APIs.
+  details: APIMINT is an API lifecycle management tool. With our design first approach,
+    all stake holders get a platform to collaborate and give feedback on API design
+    and structure. We make sure your all your teams can easily agree and understand
+    your APIs.
+  website: https://www.apimint.com
+  twitter: https://twitter.com/apimint_app
+  github: ""
+  blog: http://blog.mint.com/
+  blogrss: ""
+  logo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Apimint_-_Rapidly_Prototype_APIs.png
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Apimint_-_Rapidly_Prototype_APIs.png
+  tags: API Service Provider,Cloud,Deployment,Design,Profiled,Stack Network,Studio,Virtualization
+  apis: []
+- id: ECalv3D5bnlPB3TG0c459KuHj02tfXcqKoyY4H116jD74117
+  name: CodeSandbox
+  summary: CodeSandbox is an online code editor with a focus on creating and sharing
+    web application projects
+  details: CodeSandbox is an online code editor with a focus on creating and sharing
+    web application projects
+  website: https://codesandbox.io
+  twitter: https://twitter.com/codesandboxapp
+  github: ~
+  blog: ~
+  blogrss: ~
+  logo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28167-codesandbox-io.jpg
+  logo_width: ~
+  screenshot: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28167-codesandbox-io.jpg
+  tags: API Service Provider,Profiled,SaaS,Technology,Virtualization
+  apis: []
+- id: ZylYuStGty2FJQ0Hi116sOJ80vIp8fl3JWQEIvAgCM5to117
+  name: Computer Associates Service Virtualization
+  summary: A service mocking framework for rapid development. Create and manage a
+    virtual API that simulates the behavior of the components required to exercise
+    your application under test.
+  details: A service mocking framework for rapid development. Create and manage a
+    virtual API that simulates the behavior of the components required to exercise
+    your application under test.
+  website: https://vapi.ca.com
+  twitter: ""
+  github: ""
+  blog: ""
+  blogrss: ""
+  logo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ca_simpleapi_creation_223.png
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ca_simpleapi_creation_223.png
+  tags: Virtualization
+  apis: []
+- id: 4sZvKuN8NccY6wvvpAnCuLuxOduJ1RPcfi6xvOOOQAQ117
+  name: Crosscheck Networks
+  summary: Crosscheck Networks is the global leader in API Testing, Simulation, and
+    Gateway technologies with product deployments in over 50,000 customer networks
+    worldwide. Comprehensive API testing includes functional automation, performance,
+    compliance and security testing with patented dynamic mutation technology.
+  details: Crosscheck Networks is the global leader in API Testing, Simulation, and
+    Gateway technologies with product deployments in over 50,000 customer networks
+    worldwide. Comprehensive API testing includes functional automation, performance,
+    compliance and security testing with patented dynamic mutation technology.
+  website: http://www.crosschecknet.com/
+  twitter: https://twitter.com/crosschecknet
+  github: ""
+  blog: http://soa-testing.blogspot.com/
+  blogrss: http://feeds.feedburner.com/soatesting?format=xml
+  logo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/crosscheck-networks.png
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/crosscheck-networks.png
+  tags: API Gateways,API Service Provider,Enterprise,Profiled,SaaS,Security,Stack
+    Network,Technology,Testing,Virtualization
+  apis: []
+- id: orkjZoGwJsVUL43AhhPvjf1LgZW5u6ZGv2116KtXVlE60117
+  name: Denodo
+  summary: Denodo - the leader in Data Virtualization provides business agility by
+    integrating disparate data from any enterprise source, Big Data and Cloud in real
+    time.
+  details: Denodo - the leader in Data Virtualization provides business agility by
+    integrating disparate data from any enterprise source, Big Data and Cloud in real
+    time.
+  website: https://www.denodo.com
+  twitter: https://twitter.com/denodo
+  github: ~
+  blog: ~
+  blogrss: ~
+  logo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/27840-www-denodo-com.jpg
+  logo_width: ~
+  screenshot: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/27840-www-denodo-com.jpg
+  tags: Data,Enterprise,SaaS,Technology,Virtualization
+  apis: []
+- id: ZQFLVembJGtUe116Onqy7TVPwzmQeZuluR2f5T6sYol2A117
+  name: mockable.io
+  summary: Mockable is a simple configurable service to mock out RESTful API or SOAP
+    web-services. This online service allows you to quickly define REST API or SOAP
+    endpoints and have them return JSON or XML data.
+  details: Mockable is a simple configurable service to mock out RESTful API or SOAP
+    web-services. This online service allows you to quickly define REST API or SOAP
+    endpoints and have them return JSON or XML data.
+  website: https://www.mockable.io/
+  twitter: https://twitter.com/mockableio
+  github: ""
+  blog: ""
+  blogrss: ""
+  logo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18933-mockable-io.jpg
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18933-mockable-io.jpg
+  tags: API Service Provider,Profiled,SaaS,Stack Network,Technology,Virtualization
+  apis: []
+- id: WHoi5WThz8sLQBeBoS8KJimic9CVaLcBojmljcNQUPU117
+  name: Mockaroo
+  summary: Mockaroo lets you generate up to 1,000 rows of realistic test data in CSV,
+    JSON, SQL, and Excel formats.  If youre developing an application, youll want
+    to make sure youre testing it under conditions that closely simulate a production
+    environment. In production, youll have an army of users banging away at your app
+    and filling your database with data, which puts stress on your code. If youre
+    hand-e
+  details: Mockaroo lets you generate up to 1,000 rows of realistic test data in CSV,
+    JSON, SQL, and Excel formats.  If youre developing an application, youll want
+    to make sure youre testing it under conditions that closely simulate a production
+    environment. In production, youll have an army of users banging away at your app
+    and filling your database with data, which puts stress on your code. If youre
+    hand-entering data into a test environment one record at a time using the UI,
+    youre never going to build up the volume and variety of data that your app will
+    accumulate in a few days in production. Worse, the data you enter will be biased
+    towards your own usage patterns and wont match real-world usage, leaving important
+    bugs undiscovered.
+  website: https://mockaroo.com/
+  twitter: https://twitter.com/mockaroodev
+  github: ""
+  blog: ""
+  blogrss: ""
+  logo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mockaroo-logo.png
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mockaroo-logo.png
+  tags: API Service Provider,Profiled,Virtualization
+  apis: []
+- id: n5ia6KDM076u1d9wY6LGUkQpKQDP1fOV8v2VthEbuS4117
+  name: MockLab
+  summary: MockLab helps teams ship better apps faster by mocking APIs that arent
+    ready, dont have a reliable sandbox or have high usage charges. Keep building
+    and testing when the APIs you use arent ready. Ship more robust systems by simulating
+    edge cases and faults. Performance testing without large 3rd party bills. Simulate
+    stateful behaviour in your mocked API using a simple finite state machine model.
+  details: MockLab helps teams ship better apps faster by mocking APIs that arent
+    ready, dont have a reliable sandbox or have high usage charges. Keep building
+    and testing when the APIs you use arent ready. Ship more robust systems by simulating
+    edge cases and faults. Performance testing without large 3rd party bills. Simulate
+    stateful behaviour in your mocked API using a simple finite state machine model.
+    Dynamically render responses using the Handlebars templating language. Craft your
+    simulation using the friendly, no-code UI or go fully automated with the 100%
+    WireMock-compatible API. Capture traffic to another API, then play it back from
+    MockLab. Mock the unfinished parts of the API and proxy the rest straight through
+    to the real thing. Test your app to destruction by injecting delays, dropped connections,
+    drip-drip responses and corrupt HTTP payloads. All the power and flexibility you
+    need for pain-free testing.
+  website: https://get.mocklab.io
+  twitter: https://twitter.com/TomAkehurst
+  github: ""
+  blog: ""
+  blogrss: ""
+  logo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Mocklab_Logo_4x.png
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Mocklab_Logo_4x.png
+  tags: Mocking,Virtualization
+  apis: []
+- id: 9V2A024WQPKMIrlXuFZgggCAnA6s1ENxoONCJrjjPWc117
+  name: MockServer
+  summary: Easy mocking of any system you integrate with via HTTP or HTTPS. MockServer
+    can be used for mocking any system you integrate with via HTTP or HTTPS. MockServer
+    Proxy can be used for transparently recording all requests sent by a system (i.e.
+    an application or set of applications).
+  details: Easy mocking of any system you integrate with via HTTP or HTTPS. MockServer
+    can be used for mocking any system you integrate with via HTTP or HTTPS. MockServer
+    Proxy can be used for transparently recording all requests sent by a system (i.e.
+    an application or set of applications).
+  website: http://www.mock-server.com/
+  twitter: ""
+  github: ""
+  blog: ""
+  blogrss: ""
+  logo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18935-mockserver.jpg
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18935-mockserver.jpg
+  tags: API Service Provider,Profiled,Stack Network,Technology,Virtualization
+  apis: []
+- id: 1ZwIRussbQnR13JGnOsDMtyJYRbZpCfUjz3ZdJrbIzA117
+  name: Mocky
+  summary: Mock your HTTP responses to test your REST API.
+  details: Mock your HTTP responses to test your REST API.
+  website: http://www.mocky.io/
+  twitter: ""
+  github: ""
+  blog: ""
+  blogrss: ""
+  logo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mocky-logo.png
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mocky-logo.png
+  tags: API Service Provider,Code,Profiled,Sandbox,Testing,Virtualization
+  apis: []
+- id: Iyu5c7RO23mwpdATRcTBtCYiHeIad6XQhHq00EiZ8uM117
+  name: Monkeypod
+  summary: Monkeypod is a cloud-based API design and virtualization tool. It allows
+    developers to collaboratively create HTTP APIs using an intuitive browser-based
+    interface, automatically generating documentation and an in-browser API sandbox.
+    Monkeypod further enables rapid iteration and testing by creating a virtual version
+    of the API that developers can make calls against immediately.
+  details: Monkeypod is a cloud-based API design and virtualization tool. It allows
+    developers to collaboratively create HTTP APIs using an intuitive browser-based
+    interface, automatically generating documentation and an in-browser API sandbox.
+    Monkeypod further enables rapid iteration and testing by creating a virtual version
+    of the API that developers can make calls against immediately.
+  website: https://monkeypod.io/
+  twitter: https://twitter.com/Monkeypodio
+  github: ""
+  blog: ""
+  blogrss: ""
+  logo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/monkey-pod-logo.png
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/monkey-pod-logo.png
+  tags: API Service Provider,Profiled,Virtualization
+  apis: []
+- id: irYCMNdnLFcMBj1QgpLEZpcFLt123K4YNJFM6jzPvEZSc117
+  name: Nomos Software
+  summary: Onboarding new customers, and rolling out new services and products to
+    existing customers, often involves integrating the customers IT systems via the
+    organisations APIs and XML channels. Customer portals from Nomos make this process
+    smoother by providing an interactive means for customers to understand and uncover
+    the business policies that they must comply with. The portals are also used to
+    trou
+  details: 'Onboarding new customers, and rolling out new services and products to
+    existing customers, often involves integrating the customers IT systems via the
+    organisations APIs and XML channels. Customer portals from Nomos make this process
+    smoother by providing an interactive means for customers to understand and uncover
+    the business policies that they must comply with. The portals are also used to
+    troubleshoot problems when automated requests from customers fail. '
+  website: http://nomos-software.com/
+  twitter: https://twitter.com/nomossoftware
+  github: ""
+  blog: http://nomos-software.com/resources/blog
+  blogrss: ""
+  logo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/9101-nomos-software.jpg
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/9101-nomos-software.jpg
+  tags: API LIfeycle,Enterprise,SaaS,Stack Network,Technology,Virtualization
+  apis: []
+- id: HurbEu6fwMbh5v5wr0Ap2EffVpnh116SkIWoFQgoAlHLo117
+  name: Parasoft
+  summary: 'Parasoft researches and develops software solutions that help organizations
+    deliver defect-free software efficiently. By integrating development testing,
+    API testing, and service virtualization, we reduce the time, effort, and cost
+    of delivering secure, reliable, and compliant software. Parasofts enterprise and
+    embedded development solutions are the industrys most comprehensive???including
+    static '
+  details: Parasoft researches and develops software solutions that help organizations
+    deliver defect-free software efficiently. By integrating development testing,
+    API testing, and service virtualization, we reduce the time, effort, and cost
+    of delivering secure, reliable, and compliant software. Parasofts enterprise and
+    embedded development solutions are the industrys most comprehensive???including
+    static analysis, unit testing, requirements traceability, coverage analysis, functional
+    and load testing, dev/test environment management, and more.
+  website: http://www.parasoft.com/
+  twitter: https://twitter.com/Parasoft
+  github: https://github.com/parasoft
+  blog: http://blog.parasoft.com/
+  blogrss: http://www.parasoft.com/rss/
+  logo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/9094-parasoft.jpg
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/9094-parasoft.jpg
+  tags: Enterprise,SaaS,Stack Network,Technology,Testing,Virtualization
+  apis: []
+- id: CGaaYv8AaqgZezD7jb88e3u94kxTH70C9xoLi8By5E4117
+  name: RestCase
+  summary: RestCase focuses on the REST API development cycle and enhances team collaboration,
+    reduces development time, improves testing and increases overall product quality.
+  details: RestCase focuses on the REST API development cycle and enhances team collaboration,
+    reduces development time, improves testing and increases overall product quality.
+  website: http://www.restcase.com/
+  twitter: https://twitter.com/RestCaseApi
+  github: https://github.com/restcase
+  blog: http://blog.restcase.com/
+  blogrss: http://blog.restcase.com/rss/
+  logo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/restcase_logo.png
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/restcase_logo.png
+  tags: Testing,Virtualization
+  apis: []
+- id: KcvLfIzbYCt5t7jYMDvBDRoJi3XBbRZ9gabRFkljk5A117
+  name: Restpoint
+  summary: I work with APIs daily and needed a way to build and share API prototypes
+    fast to get feedback before coding. So I built one, and ported it to the cloud
+    for anyone to use.
+  details: I work with APIs daily and needed a way to build and share API prototypes
+    fast to get feedback before coding. So I built one, and ported it to the cloud
+    for anyone to use.
+  website: https://restpoint.io
+  twitter: ~
+  github: ~
+  blog: ~
+  blogrss: ~
+  logo: ~
+  logo_width: ~
+  screenshot: ~
+  tags: Mocking,Virtualization
+  apis: []
+- id: OTD87UaGzDLWnjBT0dapZtQxbb0R22bpa116rEhuMoAUY117
+  name: SmartBear Software
+  summary: SmartBear Software provides tools for over 100,000 software professionals
+    to build, test, and monitor some of the best software applications and websites
+    anywhere on the desktop, mobile and in the cloud.
+  details: SmartBear Software provides tools for over 100,000 software professionals
+    to build, test, and monitor some of the best software applications and websites
+    anywhere on the desktop, mobile and in the cloud.
+  website: http://smartbear.com/
+  twitter: https://twitter.com/smartbear
+  github: https://github.com/SmartBear
+  blog: http://blog.smartbear.com/
+  blogrss: http://feeds.feedburner.com/smartbear
+  logo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1157-smartbear-software.jpg
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1157-smartbear-software.jpg
+  tags: API LIfeycle,Enterprise,Monitoring,Performance,SaaS,Security,Stack Network,Technology,Testing,Virtualization
+  apis:
+  - api_id: rf116S1KKUSbYZempIBb1D29BRrxY4123W5gKpzAffIGdpg117
+    name: TestServer REST API
+    slug: testserver-rest-api
+    website: http://readyapi.smartbear.com/testserver/reference/service
+    openapi-spec: ""
+    api-blueprint: ""
+    postman: ""
+    documentation: ""
+    sdk-io: ""
+- id: SoeW977xvUyDyDlTuVmRhLsh123HKOaxXkVRQKSzg9116cs117
+  name: UNINETT HTTPjs
+  summary: Server API Mock-Ups in your browser. Mock an API in your browser, to prototype
+    a backend or test your API client. Aids very rapid development of mock-up server
+    APIs to improve the quality of your HTTP API clients.
+  details: Server API Mock-Ups in your browser. Mock an API in your browser, to prototype
+    a backend or test your API client. Aids very rapid development of mock-up server
+    APIs to improve the quality of your HTTP API clients.
+  website: http://httpjs.net/
+  twitter: ""
+  github: ""
+  blog: ""
+  blogrss: ""
+  logo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/HTTPjs-UNINETT.png
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/HTTPjs-UNINETT.png
+  tags: Mocking,Stack Network,Virtualization
+  apis: []
+- id: TziWyV8B1hZ39I64rZeCcP123UQdN116fMCegrGIXE2ppwI117
+  name: vREST
+  summary: Simplify, Automate and Speed-up REST API Testing
+  details: Simplify, Automate and Speed-up REST API Testing
+  website: http://vrest.io/
+  twitter: https://twitter.com/vrest_io
+  github: ""
+  blog: ""
+  blogrss: ""
+  logo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18738-vrest.jpg
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18738-vrest.jpg
+  tags: SaaS,Stack Network,Technology,Testing,Virtualization
+  apis: []
+- id: gpNZzzGRwuQk7sW53mqQtXKL2Ys38eCzaBOZW123B123RJY117
+  name: WireMock
+  summary: WireMock is a flexible library for stubbing and mocking web services. Unlike
+    general purpose mocking tools it works by creating an actual HTTP server that
+    your code under test can connect to as it would a real web service. It supports
+    HTTP response stubbing, request verification, proxy/intercept, record/playback
+    of stubs and fault injection, and can be used from within a unit test or deployed
+    into
+  details: WireMock is a flexible library for stubbing and mocking web services. Unlike
+    general purpose mocking tools it works by creating an actual HTTP server that
+    your code under test can connect to as it would a real web service. It supports
+    HTTP response stubbing, request verification, proxy/intercept, record/playback
+    of stubs and fault injection, and can be used from within a unit test or deployed
+    into a test environment. Although it???s written in Java, there???s also a JSON
+    API so you can use it with pretty much any language out there.
+  website: http://wiremock.org/
+  twitter: ""
+  github: ""
+  blog: ""
+  blogrss: ""
+  logo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/wiremock.jpg
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/wiremock.jpg
+  tags: SaaS,Technology,Virtualization
+  apis: []

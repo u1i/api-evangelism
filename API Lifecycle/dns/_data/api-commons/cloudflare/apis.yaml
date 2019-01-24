@@ -1,0 +1,304 @@
+name: CloudFlare
+description: CloudFlare, Inc. is a U.S. company that provides a content delivery network
+  and distributed domain name server services, sitting between the visitor and the
+  CloudFlare users hosting provider, acting as a reverse proxy for websites. Its network
+  protects, speeds up, and improves availability for a website or mobile application
+  with a change in DNS.
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
+tags:
+- DNS
+created: "2016-10-22"
+modified: "2016-10-22"
+url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/cloudflare/apis.yaml
+specificationVersion: "0.14"
+apis:
+- name: App Subscription API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/cloudflare/app-subscription-api-openapi-spec.yaml
+- name: Custom Pages for a Zone API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/cloudflare/custom-pages-for-a-zone-api-openapi-spec.yaml
+- name: Custom SSL for a Zone API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/cloudflare/custom-ssl-for-a-zone-api-openapi-spec.yaml
+- name: DNS Records for a Zone API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/cloudflare/dns-records-for-a-zone-api-openapi-spec.yaml
+- name: Firewall access rule for a Zone API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/cloudflare/firewall-access-rule-for-a-zone-api-openapi-spec.yaml
+- name: Keyless SSL for a Zone API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/cloudflare/keyless-ssl-for-a-zone-api-openapi-spec.yaml
+- name: Organization Invites API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/cloudflare/organization-invites-api-openapi-spec.yaml
+- name: Organization Members API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/cloudflare/organization-members-api-openapi-spec.yaml
+- name: Organization Roles API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/cloudflare/organization-roles-api-openapi-spec.yaml
+- name: Organization-level Firewall access rule API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/cloudflare/organizationlevel-firewall-access-rule-api-openapi-spec.yaml
+- name: Organizations API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/cloudflare/organizations-api-openapi-spec.yaml
+- name: Railgun API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/cloudflare/railgun-api-openapi-spec.yaml
+- name: Railgun connections for a Zone API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/cloudflare/railgun-connections-for-a-zone-api-openapi-spec.yaml
+- name: User API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/cloudflare/user-api-openapi-spec.yaml
+- name: User Billing History API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/cloudflare/user-billing-history-api-openapi-spec.yaml
+- name: User Billing Profile API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/cloudflare/user-billing-profile-api-openapi-spec.yaml
+- name: User-level Firewall access rule API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/cloudflare/userlevel-firewall-access-rule-api-openapi-spec.yaml
+- name: Users Invites API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/cloudflare/users-invites-api-openapi-spec.yaml
+- name: Users Organizations API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/cloudflare/users-organizations-api-openapi-spec.yaml
+- name: WAF Rule Groups API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/cloudflare/waf-rule-groups-api-openapi-spec.yaml
+- name: WAF Rule Packages API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/cloudflare/waf-rule-packages-api-openapi-spec.yaml
+- name: WAF Rules API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/cloudflare/waf-rules-api-openapi-spec.yaml
+- name: Zone Analytics API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/cloudflare/zone-analytics-api-openapi-spec.yaml
+- name: Zone API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/cloudflare/zone-api-openapi-spec.yaml
+- name: Zone Settings API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/cloudflare/zone-settings-api-openapi-spec.yaml
+- name: Zone Subscription API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
+  humanURL: https://www.cloudflare.com
+  baseURL: https://www.cloudflare.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/cloudflare/zone-subscription-api-openapi-spec.yaml
+x-common:
+- type: x-blog
+  url: https://blog.cloudflare.com/
+- type: x-blog-rss-feed
+  url: http://blog.cloudflare.com/rss/
+- type: x-base-url-for-portal
+  url: https://www.cloudflare.com/docs/client-api.html
+- type: x-github
+  url: https://github.com/cloudflare
+- type: x-landing-page
+  url: https://www.cloudflare.com/partners/
+- type: x-dedicated-plans--pricing-page
+  url: https://www.cloudflare.com/plans/
+- type: x-privacy-policy-page
+  url: https://www.cloudflare.com/security-policy
+- type: x-security-practices-page
+  url: https://www.cloudflare.com/security-policy/
+- type: x-terms-of-service-page
+  url: https://www.cloudflare.com/terms/
+- type: x-twitter
+  url: https://twitter.com/CloudFlare
+- type: x-website
+  url: https://www.cloudflare.com
+- type: x-portal
+  url: https://www.cloudflare.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

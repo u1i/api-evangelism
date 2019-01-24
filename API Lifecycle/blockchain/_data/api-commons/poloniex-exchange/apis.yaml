@@ -1,0 +1,24 @@
+name: Poloniex Exchange
+description: Based in the United States, Poloniex is a leading cryptocurrency exchange
+  offering a wide variety of digital assets.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26523-poloniex-exchange.jpg
+tags:
+- Technology
+- Marketplace
+- internet
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/poloniex-exchange/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: http://mintpal.com
+- type: x-website
+  url: http://poloniex.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

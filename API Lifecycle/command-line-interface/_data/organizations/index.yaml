@@ -1,0 +1,195 @@
+- slug: illumina-basespace
+  name: Illumina BaseSpace
+  description: >-
+    aseSpace Sequence Hub is a cloud-based genomics analysis and storage
+    platform that directly integrates with all Illumina sequencers.
+  url: 'http://basespace.illumina.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/basespace'
+  blog: 'http://blog.basespace.illumina.com/'
+  blog_rss: 'http://blog.basespace.illumina.com/feed/'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1428_logo.jpg
+  tags: 'Telco,Genetics,Medical,Science,Science,Command Line Interface'
+- slug: amazon-web-services
+  name: Amazon Web Services
+  description: >-
+    Amazon Web Services(AWS) is a collection of remote computing services (also
+    called web services) that together make up a cloud computing platform,
+    offered over the Internet by Amazon.com. The most central and well-known of
+    these services are Amazon EC2 and Amazon S3. The service is advertised as
+    providing a large computing capacity (potentially many servers) much faster
+    and cheaper than building a physical server farm.
+  url: 'http://aws.amazon.com'
+  short_url: ''
+  twitter: 'https://twitter.com/awscloud'
+  blog: 'http://aws.amazon.com/blogs/aws/'
+  blog_rss: 'http://feeds.feedburner.com/AmazonWebServicesBlog'
+  github: 'https://github.com/amazonwebservices'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/amazon-aws-logo.jpg
+  tags: >-
+    Storage,DNS,BaaS,Payments,Hypermedia,Cloud,Compute,My API
+    Stack,Management,Voice,Partners,Plans,API LIfeycle,Real
+    Time,Serverless,Advertising,Commerce,Database,Command Line Interface,DNS
+    Cloud,Getting Started,Orchestration
+- slug: firebase
+  name: Firebase
+  description: >-
+    Firebase is a mobile platform that helps you
+    quickly&nbsp;develop&nbsp;high-quality apps,&nbsp;grow&nbsp;your user base,
+    and&nbsp;earn&nbsp;more money. Firebase is made up of complementary features
+    that you can mix-and-match to fit your needs.
+  url: 'https://firebase.google.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/firebase'
+  blog: 'https://firebase.googleblog.com/'
+  blog_rss: 'http://firebase.googleblog.com/feeds/posts/default?alt=rss'
+  github: 'https://github.com/firebase'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/firebase-logo.png
+  tags: >-
+    Real Time,API LIfeycle,Database,Command Line Interface,Links,Google
+    APIs,Security,Testing,Virtualization
+- slug: heroku
+  name: Heroku
+  description: >-
+    Heroku is the first and best multi-language cloud application platform, or
+    platform-as-a-service. Heroku allows developers to deploy, scale, and manage
+    their apps without needing to think about servers or systems administration.
+    Over one million applications have been deployed to Heroku.
+  url: 'https://www.heroku.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/HerokuDevCenter'
+  blog: 'https://blog.heroku.com/'
+  blog_rss: 'http://feeds2.feedburner.com/heroku'
+  github: 'https://github.com/heroku'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/211_logo.png
+  tags: >-
+    PaaS,Platform,My API Stack,API LIfeycle,Database,Command Line
+    Interface,Getting Started,Issues,Issues Example,Federal Government,Federal
+    Government,Federal Government,Federal Government
+- slug: werker
+  name: Werker
+  description: >-
+    Wercker is a continuous delivery platform focusing on changing the way
+    developers build and deploy their applications. This platform was built in
+    order to make developers' lives easier and enabling them to move fast and
+    make things.
+  url: 'http://wercker.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/wercker'
+  blog: 'http://blog.wercker.com/'
+  blog_rss: 'http://blog.wercker.com/rss.xml'
+  github: 'https://github.com/wercker'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/werker-logo.png
+  tags: 'Microservices,Orchestration,Containers,Command Line Interface'
+- slug: microsoft-azure
+  name: Microsoft Azure
+  description: >-
+    Microsoft Azure is a cloud computing platform and infrastructure created by
+    Microsoft for building, deploying, and managing applications and services
+    through a global network of Microsoft-managed datacenters. It provides both
+    PaaS and IaaS services and supports many different programming languages,
+    tools and frameworks, including both Microsoft-specific and third-party
+    software and systems
+  url: 'https://azure.microsoft.com/en-us/'
+  short_url: ''
+  twitter: 'https://twitter.com/azure'
+  blog: 'http://azure.microsoft.com/blog/'
+  blog_rss: 'http://azure.microsoft.com/blog/feed/'
+  github: 'https://github.com/Azure'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-azure-logo.png
+  tags: >-
+    Management,API Management
+    Other,Deployment,Compute,Database,Serverless,Portal,Command Line
+    Interface,DNS,DNS Cloud,Reliability,Service Level Agreement,Cloud,Bigcos
+- slug: docker
+  name: Docker
+  description: >-
+    Docker is an open platform for developers and sysadmins to build, ship, and
+    run distributed applications. Consisting of Docker Engine, a portable,
+    lightweight runtime and packaging tool, and Docker Hub, a cloud service for
+    sharing applications and automating workflows, Docker enables apps to be
+    quickly assembled from components and eliminates the friction between
+    development, QA, and production environments. As a result, IT can ship
+    faster and run the same app, unchanged, on laptops, data center VMs, and any
+    cloud.
+  url: 'https://www.docker.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/docker'
+  blog: 'http://blog.docker.com/'
+  blog_rss: 'http://blog.docker.com/feed/'
+  github: 'https://github.com/docker'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/docker.png
+  tags: 'Containers,My API Stack,Command Line Interface'
+- slug: tutum
+  name: Tutum
+  description: >-
+    Tutum lets developers easily manage and run lightweight, portable,
+    self-sufficient containers from any application. The same container that a
+    developer builds and tests on a laptop can run at scale in Tutum. Their
+    solution offers users the best capabilities and features of IaaS and PaaS,
+    without the shortcomings or disadvantages of either one.
+  url: 'https://www.tutum.co/'
+  short_url: ''
+  twitter: 'https://twitter.com/tutumcloud'
+  blog: 'http://blog.tutum.co/'
+  blog_rss: 'http://blog.tutum.co/feed/'
+  github: 'https://github.com/tutumcloud'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/tatum-logo.png
+  tags: 'Containers,Microservices,Orchestration,Command Line Interface'
+- slug: wpcli
+  name: WP-CLI
+  description: >-
+    WP-CLI is a set of command-line tools for managing WordPress installations.
+    You can update plugins, configure multisite installs and much more, without
+    using a web browser.
+  url: 'https://wp-cli.org/'
+  short_url: ''
+  twitter: 'https://twitter.com/wpcli'
+  blog: 'https://wp-cli.org/blog/'
+  blog_rss: 'https://wp-cli.org/atom.xml'
+  github: 'https://github.com/wp-cli'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Command_line_interface_for_WordPress___WP-CLI.png
+  tags: 'Command Line Interface,WordPress'
+- slug: apache-commons-cli
+  name: Apache Commons CLI
+  description: >-
+    The Apache Commons CLI library provides an API for parsing command line
+    options passed to programs. It's also able to print help messages detailing
+    the options available for a command line tool.
+  url: 'https://commons.apache.org/proper/commons-cli/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Commons_CLI.png
+  tags: 'Command Line Interface,CLI'
+- slug: microsoft-powershell
+  name: Microsoft Powershell
+  description: >-
+    PowerShell is an automation platform and scripting language for Windows and
+    Windows Server that allows you to simplify the management of your systems.
+    Unlike other text-based shells, PowerShell harnesses the power of the .NET
+    Framework, providing rich objects and a massive set of built-in
+    functionality for taking control of your Windows environments.&nbsp;
+  url: 'https://msdn.microsoft.com/en-us/powershell/mt173057.aspx'
+  short_url: ''
+  twitter: ''
+  blog: 'https://blogs.msdn.microsoft.com/powershell/'
+  blog_rss: 'https://blogs.msdn.microsoft.com/powershell/feed/'
+  github: 'https://github.com/powershell'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/PowerShell
+    logo.png
+  tags: Command Line Interface

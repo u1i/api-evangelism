@@ -1,0 +1,31 @@
+swagger: "2.0"
+info:
+  title: Series
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /series:
+    post:
+      summary: Post time series points
+      description: '          The metrics end-point allows you to post time-series
+        data that can be          graphed on Datadogs dashboards.        '
+      operationId: post-time-series-points
+      parameters:
+      - type: string
+      - in: query
+        name: '[[POSIX_timestamp, numeric_value], ...]'
+        description: 'n              n              Note that the timestamp should
+          be in seconds, must be current, and the numeric value is a 32bit float gauge-type
+          value.n            n          '
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Series
+definitions: []

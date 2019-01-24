@@ -1,0 +1,23 @@
+swagger: "2.0"
+info:
+  title: No Title
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /regions:
+    get:
+      summary: Regions Resource
+      description: Information about the available service regions that you can use
+        to send requests through Runscope.
+      operationId: ""
+      responses:
+        200:
+          description: OK
+      tags:
+      - Regions
+definitions: []

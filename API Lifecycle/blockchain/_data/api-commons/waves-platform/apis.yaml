@@ -1,0 +1,22 @@
+name: Waves Platform
+description: Blockchain platform with emphasis on custom token creation, transfer
+  and decentralized trading, with deep fiat integration and focus on community-backed
+  projects
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26467-marketdata-wavesplatform-com.jpg
+tags:
+- Technology
+- Enterprise
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/waves-platform/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: http://marketdata.wavesplatform.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

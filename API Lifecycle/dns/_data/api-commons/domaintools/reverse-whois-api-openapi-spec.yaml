@@ -1,0 +1,55 @@
+swagger: "2.0"
+info:
+  title: Reverse Whois API
+  description: Provides a list of domain names with Whois records that match a specific
+    query
+  version: 1.0.0
+host: api.domaintools.com
+basePath: /v1
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /reverse-whois/:
+    get:
+      summary: Reverse Whois
+      description: Provides a list of domain names with Whois records that match a
+        specific query
+      operationId: reverseWhois
+      parameters:
+      - in: query
+        name: exclude
+        description: Domain names with Whois records that match these terms will be
+          excluded from the result set. Separate multiple terms with the pipe character
+          ( | ).
+        type: string
+        format: string
+      - in: query
+        name: mode
+        description: 'quote : only lists the size and retail price of the query if
+          you have per-domain pricing access purchase : includes the complete list
+          of domain names that match the query'
+        type: string
+        format: string
+      - in: query
+        name: scope
+        description: tSets the scope of the report to include only current Whois records,
+          or to include both current and historic records. Value must be current (the
+          default) or historic.
+        type: string
+        format: string
+      - in: query
+        name: terms
+        description: List of one or more terms to search for in the Whois record,
+          separated with the pipe character ( | ).
+        type: string
+        format: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Reverse Whois
+definitions: []

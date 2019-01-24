@@ -1,0 +1,85 @@
+- slug: instarecon
+  name: Instarecon
+  description: Automated digital reconnaissance
+  url: 'https://github.com/vergl4s/instarecon'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/vergl4s/'
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'DNS,Scraping,Security'
+- slug: blacksheepwall
+  name: blacksheepwall
+  description: blacksheepwall is a hostname reconnaissance tool written in Go.
+  url: 'https://github.com/tomsteele/blacksheepwall'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/tomsteele/'
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Scraping,DNS,Security'
+- slug: cbthreatexchangeconnector
+  name: Carbon Black - Facebook Threat Exchange Connector
+  description: Carbon Black - Facebook Threat Exchange Connector
+  url: 'https://github.com/carbonblack/cb-threatexchange-connector'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/carbonblack/'
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Security, General'
+- slug: falconorchestrator
+  name: CrowdStrike Falcon Orchestrator
+  description: >-
+    CrowdStrike Falcon Orchestrator provides automated workflow and response
+    capabilities
+  url: 'https://github.com/CrowdStrike/falcon-orchestrator'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/CrowdStrike/'
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Orchestration,Security'
+- slug: knock
+  name: Knockout.js
+  description: Knock Subdomain Scan
+  url: 'https://github.com/guelfoweb/knock'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/guelfoweb/'
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'DNS,Scraping,Security'
+- slug: cortex
+  name: Cortex
+  description: Powerful Observable Analysis Engine
+  url: 'https://github.com/CERT-BDF/Cortex'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/CERT-BDF/'
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Security,General'
+- slug: owasp-zap
+  name: OWASP ZAP
+  description: >-
+    The OWASP Zed Attack Proxy (ZAP) is one of the world’s most popular free
+    security tools and is actively maintained by hundreds of international
+    volunteers*. It can help you automatically find security vulnerabilities in
+    your web applications while you are developing and testing your
+    applications. Its also a great tool for experienced pentesters to use for
+    manual security testing
+  url: 'https://github.com/zaproxy/zaproxy'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/zaproxy'
+  image: 'https://s3.amazonaws.com/kinlane-productions/owasp/Zap128x128.png'
+  tags: 'Security,General'

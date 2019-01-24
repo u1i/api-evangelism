@@ -1,0 +1,138 @@
+swagger: "2.0"
+info:
+  title: Events API
+  description: The Events API.
+  version: 1.0.0
+host: api.truesight.bmc.com
+basePath: /
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /api/v1/events:
+    post:
+      summary: Post an Event
+      description: '          This end point allows you to post events to the stream.
+        You can tag them, set priority and event aggregate them with other events.        '
+      operationId: post-an-event
+      parameters:
+      - type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  '/custom_events ':
+    ' post ':
+      summary: Custom Events
+      description: Creates new custom event.ttt
+      operationId: -custom-events-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Custom Events
+  '/custom_events/all?fromUtc={fromUtc}&amp;toUtc={toUtc} ':
+    ' get ':
+      summary: Custom_events All?fromUtc={fromUtc}&amp;toUtc={toUtc}
+      description: Gets all custom events using optional filter.ttt
+      operationId: -custom-events-allfromutcfromutcamptoutctoutc-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Custom Events
+  '/custom_events/{id} ':
+    ' delete ':
+      summary: Custom_events {id}
+      description: Deletes custom event.ttt
+      operationId: -custom-events-id-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Custom Events
+    ' get ':
+      summary: Custom_events {id}
+      description: Gets custom event by Id.ttt
+      operationId: -custom-events-id-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Custom Events
+    ' put ':
+      summary: Custom_events {id}
+      description: Updates custom event.ttt
+      operationId: -custom-events-id-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Custom Events
+  ? '/events?message={message}&amp;severity={severity}&amp;timestamp_utc_from={timestamp_utc_from}&amp;timestamp_utc_to={timestamp_utc_to} '
+  : ' get ':
+      summary: Events?message={message}&amp;severity={severity}&amp;timestamp_utc_from={timestamp_utc_from}&amp;timestamp_utc_to={timestamp_utc_to}
+      description: Gets a list of events for the current user.ttt
+      operationId: -eventsmessagemessageampseverityseverityamptimestamp-utc-fromtimestamp-utc-fromamptimestamp-utc-toti
+      responses:
+        200:
+          description: OK
+      tags:
+      - Custom Events
+  /v1/events:
+    get:
+      summary: List events
+      description: Searches for events in the specified organization.
+      operationId: list-events
+      responses:
+        200:
+          description: OK
+      tags:
+      - Events
+    post:
+      summary: Create event
+      description: Creates an event. Every event occurrence is persisted to the database
+        as a RawEvent. Based on the EventFingerprint, a new Event will be created
+        or an existing one will be de-duplicated.
+      operationId: create-event
+      responses:
+        200:
+          description: OK
+      tags:
+      - Events
+  /v1/events/:event_id:
+    get:
+      summary: Get event
+      description: Returns the event with the specified event id from the database.
+      operationId: get-event
+      responses:
+        200:
+          description: OK
+      tags:
+      - Events
+  /v1/events/:event_id/raw:
+    get:
+      summary: Get raw events
+      description: Returns all of the event occurrences (raw events) for the specified
+        event.
+      operationId: get-raw-events
+      responses:
+        200:
+          description: OK
+      tags:
+      - Events
+  /v1/events/raw:
+    get:
+      summary: List raw events
+      description: Queries all event occurrences (raw events) for the specified organization.
+      operationId: list-raw-events
+      responses:
+        200:
+          description: OK
+      tags:
+      - Events
+definitions: []

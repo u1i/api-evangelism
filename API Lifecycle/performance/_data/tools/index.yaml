@@ -1,0 +1,50 @@
+- slug: apib
+  name: API Bench
+  description: 'A simple, fast HTTP performance-testing tool'
+  url: 'https://github.com/apigee/apib'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/apigee/'
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Performance,General'
+- slug: entropy
+  name: Entropy
+  description: An entropy and failure injection management API for Docker platforms.
+  url: 'https://github.com/buildertools/entropy'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/buildertools/'
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Containers,Testing,Performance,General'
+- slug: beeping
+  name: BeePing
+  description: HTTP Monitoring via API - Measure the performance of you servers
+  url: 'https://github.com/yanc0/beeping'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/yanc0/'
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Monitoring, General, Performance,General'
+- slug: sitespeed
+  name: Sitespeed.io
+  description: >-
+    Sitespeed.io is an open source tool that helps you analyze and optimize your
+    website speed and performance, based on performance best practices advices
+    from the coach and collecting browser metrics using the Navigation Timing
+    API, User Timings and Visual Metrics (FirstVisualChange, SpeedIndex &
+    LastVisualChange).
+  url: 'https://www.sitespeed.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/SiteSpeedio'
+  blog: 'https://www.sitespeed.io/blog/'
+  blog_rss: ''
+  github: 'https://github.com/sitespeedio/sitespeed.io'
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/sitespeed/sitespeed.io-logo-large2.png
+  tags: 'Performance,General'

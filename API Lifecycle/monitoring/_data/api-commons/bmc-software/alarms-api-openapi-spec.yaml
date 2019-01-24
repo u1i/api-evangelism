@@ -1,0 +1,153 @@
+swagger: "2.0"
+info:
+  title: Alarms API
+  description: The Alarms API.
+  version: 1.0.0
+host: api.truesight.bmc.com
+basePath: /
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /v1/alarm/:alarmId:
+    delete:
+      summary: Delete Alarm
+      description: Deletes an alarm
+      operationId: delete-alarm
+      parameters:
+      - in: query
+        name: alarmIdnThe alarm to delete
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Alarms
+    get:
+      summary: Get Alarm by Id
+      description: Retrieves a single alarm
+      operationId: get-alarm-by-id
+      parameters:
+      - in: query
+        name: alarmId
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Alarms
+    put:
+      summary: Update Alarm
+      description: ' Update an Alarm'
+      operationId: update-alarm
+      parameters:
+      - in: formData
+        name: name
+        description: The name of the alarm
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Alarms
+  /v1/alarms:
+    get:
+      summary: Get All Alarms
+      description: ' Get all of the Alarms'
+      operationId: get-all-alarms
+      responses:
+        200:
+          description: OK
+      tags:
+      - Alarms
+    post:
+      summary: Create Alarm
+      description: Create an Alarm
+      operationId: create-alarm
+      parameters:
+      - in: formData
+        name: name
+        description: The name of the alarm
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Alarms
+  /v1/alarms/search:
+    get:
+      summary: Get Alarms by Name
+      description: Retrieves alarms by name
+      operationId: get-alarms-by-name
+      parameters:
+      - in: query
+        name: alarmName
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Alarms
+  /v2/alarms:
+    get:
+      summary: Get All Alarms
+      description: Get all of the Alarms
+      operationId: get-all-alarms
+      responses:
+        200:
+          description: OK
+      tags:
+      - Alarms
+    post:
+      summary: Create Alarm
+      description: Create an Alarm
+      operationId: create-alarm
+      responses:
+        200:
+          description: OK
+      tags:
+      - Alarms
+  /v2/alarms/:alarmId:
+    delete:
+      summary: Delete Alarm
+      description: Deletes an alarm
+      operationId: delete-alarm
+      parameters:
+      - in: query
+        name: alarmIdnThe alarm to delete
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Alarms
+    get:
+      summary: Get Alarm by Id
+      description: Retrieves a single alarm
+      operationId: get-alarm-by-id
+      parameters:
+      - in: query
+        name: alarmId
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Alarms
+    put:
+      summary: Update Alarm
+      description: Updates an alarm
+      operationId: update-alarm
+      parameters:
+      - in: query
+        name: alarmId integernThe alarm to update
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Alarms
+definitions: []

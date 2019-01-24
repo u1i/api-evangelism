@@ -1,0 +1,184 @@
+name: PagerDuty
+description: 'PagerDuty is the 911 dispatch system for IT, helping operations engineers,
+  DevOps and developers resolve IT system problems as quickly as possible. PagerDuty
+  aggregates errors from all of your IT monitoring tools and handles the people part
+  of the equation: alerting via phone, SMS or email, on-call scheduling and automatic
+  escalation of critical incidents.'
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/632_logo.png
+tags:
+- Monitoring
+created: "2016-10-02"
+modified: "2016-10-02"
+url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/pagerduty/apis.yaml
+specificationVersion: "0.14"
+apis:
+- name: Abilities API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/632_logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - Monitoring
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/pagerduty/abilities-api-openapi-spec.yaml
+- name: Add-ons API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/632_logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - Monitoring
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/pagerduty/addons-api-openapi-spec.yaml
+- name: APIS
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/632_logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - Monitoring
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/pagerduty/apis-openapi-spec.yaml
+- name: Escalation Policies API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/632_logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - Monitoring
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/pagerduty/escalation-policies-api-openapi-spec.yaml
+- name: Incidents API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/632_logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - Monitoring
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/pagerduty/incidents-api-openapi-spec.yaml
+- name: Log Entries API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/632_logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - Monitoring
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/pagerduty/log-entries-api-openapi-spec.yaml
+- name: Maintenance Windows API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/632_logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - Monitoring
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/pagerduty/maintenance-windows-api-openapi-spec.yaml
+- name: Notifications API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/632_logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - Monitoring
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/pagerduty/notifications-api-openapi-spec.yaml
+- name: On-Calls API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/632_logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - Monitoring
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/pagerduty/oncalls-api-openapi-spec.yaml
+- name: PagerDuty Complete API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/632_logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - Monitoring
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/pagerduty/pagerduty-complete-api-openapi-spec.yaml
+- name: Schedules API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/632_logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - Monitoring
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/pagerduty/schedules-api-openapi-spec.yaml
+- name: Services API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/632_logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - Monitoring
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/pagerduty/services-api-openapi-spec.yaml
+- name: Teams API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/632_logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - Monitoring
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/pagerduty/teams-api-openapi-spec.yaml
+- name: Users API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/632_logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - Monitoring
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/pagerduty/users-api-openapi-spec.yaml
+- name: Vendors API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/632_logo.png
+  humanURL: ""
+  baseURL: ""
+  tags:
+  - Monitoring
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/pagerduty/vendors-api-openapi-spec.yaml
+x-common:
+- type: x-base-url-for-api
+  url: https://acme.pagerduty.com/api/
+- type: x-blog
+  url: http://blog.pagerduty.com/
+- type: x-blog-rss-feed
+  url: http://blog.pagerduty.com/feed/
+- type: x-portal
+  url: http://developer.pagerduty.com/
+- type: x-github
+  url: https://github.com/PagerDuty
+- type: x-twitter
+  url: https://twitter.com/pagerduty
+- type: x-webinars
+  url: http://www.pagerduty.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

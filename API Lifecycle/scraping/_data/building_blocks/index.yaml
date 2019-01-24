@@ -1,0 +1,566 @@
+- building_block_id: concept-extraction
+  type: Scraping
+  category: Content Harvesting & Extraction
+  name: Concept Extraction
+  description: Extracting topics that are present as tags from extracted content
+  image: ''
+  tags: Scraping Content
+- building_block_id: summarization
+  type: Scraping
+  category: Content Harvesting & Extraction
+  name: Summarization
+  description: Providing a summarization of content that is extracted from a URL.
+  image: ''
+  tags: Scraping Content
+- building_block_id: entity-extraction
+  type: Scraping
+  category: Content Harvesting & Extraction
+  name: Entity Extraction
+  description: >-
+    Locate and classify named entities, such as the names of persons,
+    organizations, locations from extracted content.
+  image: ''
+  tags: Scraping Content
+- building_block_id: taxonomy--classification
+  type: Scraping
+  category: Content Harvesting & Extraction
+  name: Taxonomy & Classification
+  description: >-
+    Identifying potential categories, and classifications present in extracted
+    content.
+  image: ''
+  tags: Scraping Content
+- building_block_id: relation-extraction
+  type: Scraping
+  category: Content Harvesting & Extraction
+  name: Relation Extraction
+  description: >-
+    Detection and classification of semantic relationship identified within
+    extracted text from URL.
+  image: ''
+  tags: Scraping Content
+- building_block_id: article-extraction
+  type: Scraping
+  category: Content Harvesting & Extraction
+  name: Article Extraction
+  description: Extraction of news and blog article from the content retrieved from a URL.
+  image: ''
+  tags: Scraping Content
+- building_block_id: discussion-extraction
+  type: Scraping
+  category: Content Harvesting & Extraction
+  name: Discussion Extraction
+  description: >-
+    Extraction of structured and threaded conversations such as forums, and
+    comments from extracted content.
+  image: ''
+  tags: Scraping Content
+- building_block_id: date-extraction
+  type: Scraping
+  category: Content Harvesting & Extraction
+  name: Date Extraction
+  description: >-
+    Pulling of the dates from an article, blog post, and other content published
+    via a URL.
+  image: ''
+  tags: Scraping Content
+- building_block_id: author-extraction
+  type: Scraping
+  category: Content Harvesting & Extraction
+  name: Author Extraction
+  description: >-
+    Pulling of author names from an article, blog post, and content published by
+    a specific individual.
+  image: ''
+  tags: Scraping Content
+- building_block_id: product-extraction
+  type: Scraping
+  category: Content Harvesting & Extraction
+  name: Product Extraction
+  description: >-
+    The extraction of specific product related information like title,
+    description, pricing, and images from content extracted from web pages.
+  image: ''
+  tags: Scraping Content
+- building_block_id: related-phrases
+  type: Scraping
+  category: Content Harvesting & Extraction
+  name: Related Phrases
+  description: Identifying related phrases with content extracted from website URL.
+  image: ''
+  tags: Scraping Content
+- building_block_id: pagination-extraction
+  type: Scraping
+  category: Content Harvesting & Extraction
+  name: Pagination Extraction
+  description: >-
+    Identifying the breadcrumbs, and pagination for URLs where content is being
+    extracted and providing necessary details to navigate and harvest as needed.
+  image: ''
+  tags: Scraping Content
+- building_block_id: dictionaries
+  type: Scraping
+  category: Content Harvesting & Extraction
+  name: Dictionaries
+  description: >-
+    Provide the ability to create, access, and manage dictionaries from
+    extracted content, and for applying to content that is harvested.
+  image: ''
+  tags: Scraping Content
+- building_block_id: image-extraction
+  type: Scraping
+  category: Media Acquisition
+  name: Image Extraction
+  description: The extraction of images from content pulled from URLs.
+  image: ''
+  tags: Scraping Media
+- building_block_id: video-extraction
+  type: Scraping
+  category: Media Acquisition
+  name: Video Extraction
+  description: The extraction of videos from content pulled from URLs.
+  image: ''
+  tags: Scraping Media
+- building_block_id: image-tagging
+  type: Scraping
+  category: Media Acquisition
+  name: Image Tagging
+  description: Tagging of images with specific topics when extracted from URLs.
+  image: ''
+  tags: Scraping Media
+- building_block_id: image-color-extraction
+  type: Scraping
+  category: Media Acquisition
+  name: Image Color Extraction
+  description: Identifying of colors present in images extracted from URLs.
+  image: ''
+  tags: Scraping Media
+- building_block_id: face-detection
+  type: Scraping
+  category: Media Acquisition
+  name: Face Detection
+  description: Identifying faces within images and photos extracted from URLs.
+  image: ''
+  tags: Scraping Media
+- building_block_id: barcode-recognition
+  type: Scraping
+  category: Media Acquisition
+  name: Barcode Recognition
+  description: Identifying barcodes that are present in images extracted from URLs.
+  image: ''
+  tags: Scraping Media
+- building_block_id: license-plate-recognition
+  type: Scraping
+  category: Media Acquisition
+  name: License Plate Recognition
+  description: >-
+    The identification of vehicle license plates identified in photos and images
+    extracted from URLs.
+  image: ''
+  tags: Scraping Media
+- building_block_id: feed-detection
+  type: Scraping
+  category: Document Processing
+  name: Feed Detection
+  description: Identifying the types of different documents and feeds available via URLs.
+  image: ''
+  tags: Scraping Documents
+- building_block_id: pdf-extraction
+  type: Scraping
+  category: Document Processing
+  name: PDF Extraction
+  description: The extraction of content from PDF documents harvested from URLs.
+  image: ''
+  tags: Scraping Documents
+- building_block_id: word-documents
+  type: Scraping
+  category: Document Processing
+  name: Word Documents
+  description: Extraction of content from Word documents that are harvest via URLs.
+  image: ''
+  tags: Scraping Documents
+- building_block_id: html-table-extraction
+  type: Scraping
+  category: Structured Data Extraction
+  name: HTML Table Extraction
+  description: Pulling of HTML tables from content extracted via URLs.
+  image: ''
+  tags: Scraping Structured Data
+- building_block_id: spreadsheet-extraction
+  type: Scraping
+  category: Structured Data Extraction
+  name: Spreadsheet Extraction
+  description: Extraction of structured data from spreadsheets harvested from URLs.
+  image: ''
+  tags: Scraping Documents
+- building_block_id: csv-files
+  type: Scraping
+  category: Structured Data Extraction
+  name: CSV Files
+  description: Identification and processing of CSV files extracted from URLs.
+  image: ''
+  tags: Scraping Structured Data
+- building_block_id: json-files
+  type: Scraping
+  category: Structured Data Extraction
+  name: JSON Files
+  description: Identification and processing of JSON files extracted from URLs.
+  image: ''
+  tags: Scraping Structured Data
+- building_block_id: microformats-parsing
+  type: Scraping
+  category: Structured Data Extraction
+  name: Microformats Parsing
+  description: The parsing of common microformats from content extracted from URLs.
+  image: ''
+  tags: Scraping Structured Data
+- building_block_id: xml-extraction
+  type: Scraping
+  category: Structured Data Extraction
+  name: XML Extraction
+  description: The extraction of structured data from XML files harvested from URLs.
+  image: ''
+  tags: Scraping Documents
+- building_block_id: seed-urls
+  type: Scraping
+  category: Crawling
+  name: Seed URLs
+  description: Allowing users to provide URLs that seed the web crawling process.
+  image: ''
+  tags: Scraping Crawling
+- building_block_id: pseudourls
+  type: Scraping
+  category: Crawling
+  name: Pseudo-URLs
+  description: >-
+    Allow for the ability to provide URL patterns that will applied during the
+    crawling process
+  image: ''
+  tags: Scraping Crawling
+- building_block_id: scripting
+  type: Scraping
+  category: Crawling
+  name: Scripting
+  description: Allow for scripting as part of the web crawling cycle.
+  image: ''
+  tags: Scraping Crawling
+- building_block_id: conditional-expressions
+  type: Scraping
+  category: Crawling
+  name: Conditional Expressions
+  description: >-
+    Allow for the defining of conditional expressions that can be applied during
+    the web crawling process.
+  image: ''
+  tags: Scraping Crawling
+- building_block_id: xpath
+  type: Scraping
+  category: Crawling
+  name: XPath
+  description: >-
+    Allow the application of XPath when processing XML files during the web
+    crawling process.
+  image: ''
+  tags: Scraping Crawling
+- building_block_id: regex
+  type: Scraping
+  category: Crawling
+  name: RegEx
+  description: >-
+    Opening up the ability to apply regular expression as part of evaluation
+    during the crawling process.
+  image: ''
+  tags: Scraping Crawling
+- building_block_id: injection
+  type: Scraping
+  category: Crawling
+  name: Injection
+  description: Allow for the injection of data and content into the crawling of web pages.
+  image: ''
+  tags: Scraping Crawling
+- building_block_id: timeout
+  type: Scraping
+  category: Crawling
+  name: Timeout
+  description: >-
+    Giving users control over defining timeout limitations to be applied during
+    the crawling cycle.
+  image: ''
+  tags: Scraping Crawling
+- building_block_id: semantic-text-analysis
+  type: Scraping
+  category: Machine Learning
+  name: Semantic Text Analysis
+  description: >-
+    Relating syntactic structures, from text to the level of the writing as a
+    whole, to their language-independent meanings.
+  image: ''
+  tags: Machine Learning Scraping
+- building_block_id: semantic-similarity
+  type: Scraping
+  category: Machine Learning
+  name: Semantic Similarity
+  description: >-
+    Look for the similarities that exist after relating syntactic structures in
+    content to the level of the writing as a whole, to their
+    language-independent meanings.
+  image: ''
+  tags: Machine Learning Scraping
+- building_block_id: sentiment-analysis
+  type: Scraping
+  category: Machine Learning
+  name: Sentiment Analysis
+  description: >-
+    Identify and categorize opinions expressed in content to interpret it's
+    attitude towards a particular topic, product, etc., is positive, negative,
+    or neutral.
+  image: ''
+  tags: Machine Learning Scraping
+- building_block_id: emotion-analysis
+  type: Scraping
+  category: Machine Learning
+  name: Emotion Analysis
+  description: >-
+    Evaluating content for signs of human emotion presence such as sad or happy,
+    complimenting and augmenting sentiment analysis.
+  image: ''
+  tags: Machine Learning Scraping
+- building_block_id: content-latest-index
+  type: Scraping
+  category: Content Access
+  name: Content Latest Index
+  description: >-
+    Providing access to the latest content crawled and harvest against a domain
+    or list of domains.
+  image: ''
+  tags: Scraping Content Access
+- building_block_id: historical-index
+  type: Scraping
+  category: Content Access
+  name: Historical Index
+  description: >-
+    Allowing access to historical content that has been retrieved crawling and
+    scraping URLs.
+  image: ''
+  tags: Scraping Content Access
+- building_block_id: storage
+  type: Scraping
+  category: Content Access
+  name: Storage
+  description: 'Offering storage for content, data, and media that is scraped from URLs.'
+  image: ''
+  tags: Scraping Content Access
+- building_block_id: search
+  type: Scraping
+  category: Content Access
+  name: Search
+  description: Providing search tools for access content that is scraped from URLs.
+  image: ''
+  tags: Scraping Content Access
+- building_block_id: domain-lists
+  type: Scraping
+  category: DNS
+  name: Domain Lists
+  description: >-
+    Providing lists of domains, and subdomains to seed scraping and harvesting
+    activities.
+  image: ''
+  tags: Scraping DNS
+- building_block_id: domain-metadata
+  type: Scraping
+  category: DNS
+  name: Domain Metadata
+  description: >-
+    Providing details about domains that can be used in the scraping and
+    crawling process.
+  image: ''
+  tags: Scraping DNS
+- building_block_id: api
+  type: Scraping
+  category: Automation & Orchestration
+  name: API
+  description: >-
+    Provide an API for programmatically managing all aspects of the scraping and
+    crawling process.
+  image: ''
+  tags: Scraping Automation
+- building_block_id: webhooks
+  type: Scraping
+  category: Automation & Orchestration
+  name: Webhooks
+  description: >-
+    Provide a webhook architecture for triggering or being notified of specific
+    events when scraping and crawling.
+  image: ''
+  tags: Scraping Automation
+- building_block_id: reporting
+  type: Scraping
+  category: Analytics
+  name: Reporting
+  description: Providing reporting on crawling and scraping activities.
+  image: ''
+  tags: Scraping Analytics
+- building_block_id: url-metrics
+  type: Scraping
+  category: Analytics
+  name: URL Metrics
+  description: 'Provide metrics on specific URLs, offering detail on its activity.'
+  image: ''
+  tags: Scraping Analytics
+- building_block_id: spam-score
+  type: Scraping
+  category: Analytics
+  name: Spam Score
+  description: >-
+    Providing a spam score for domains or URLs included as part of crawling and
+    spider process.
+  image: ''
+  tags: Scraping Analytics
+- building_block_id: rankings
+  type: Scraping
+  category: Analytics
+  name: Rankings
+  description: >-
+    Providng rankings that can be applied to domains, URLs, content, data,
+    media, and other building blocks of the crawling and scraping activities.
+  image: ''
+  tags: Scraping Analytics
+- building_block_id: language-detection
+  type: Scraping
+  category: International
+  name: Language Detection
+  description: >-
+    Providing language detection resources for applying against content and data
+    that is extracted from URLs.
+  image: ''
+  tags: Scraping International
+- building_block_id: geo-ip-address
+  type: Scraping
+  category: International
+  name: Geo IP Address
+  description: >-
+    Providing the ability to harvest and scrape content and data from specific
+    IP addresses located in specific geographic regions and countries.
+  image: ''
+  tags: Scraping International
+- building_block_id: proxies
+  type: Scraping
+  category: Utilities
+  name: Proxies
+  description: >-
+    Allowing for the deployment, configuration, and operation of proxies that
+    get applied as part of scraping and crawling.
+  image: ''
+  tags: Scraping Utilities
+- building_block_id: cookies
+  type: Scraping
+  category: Utilities
+  name: Cookies
+  description: >-
+    Provide tooling for managing and configuration cookies that are used as part
+    of scraping and crawling.
+  image: ''
+  tags: Scraping Utilities
+- building_block_id: headers
+  type: Scraping
+  category: Utilities
+  name: Headers
+  description: >-
+    Giving control over what headers are sent as part of the scraping and
+    crawling process.
+  image: ''
+  tags: Scraping Utilities
+- building_block_id: user-agents
+  type: Scraping
+  category: Utilities
+  name: User Agents
+  description: >-
+    Allow for the customization of the user agent that identifies scraping and
+    crawling tooling.
+  image: ''
+  tags: Scraping Utilities
+- building_block_id: ip-address
+  type: Scraping
+  category: Utilities
+  name: IP Address
+  description: >-
+    Provide the ability to select from different IP address pools, change, and
+    optimize IP addresses used in the scraping and crawling process.
+  image: ''
+  tags: Scraping Utilities
+- building_block_id: logging
+  type: Scraping
+  category: Utilities
+  name: Logging
+  description: >-
+    Providing logging for scraping and crawling with the ability to search, and
+    configure as needed.
+  image: ''
+  tags: Scraping Utilities
+- building_block_id: batch-calls
+  type: Scraping
+  category: Utilities
+  name: Batch Calls
+  description: >-
+    Provide the ability to make more than one call at once, tackling mulitple
+    objects at once.
+  image: ''
+  tags: Scraping Utilities
+- building_block_id: scheduler
+  type: Scraping
+  category: Utilities
+  name: Scheduler
+  description: >-
+    Enable the ability control the schedule for the execution of scraping and
+    crawling jobs.
+  image: ''
+  tags: Scraping Utilities
+- building_block_id: low-latency
+  type: Scraping
+  category: Utilities
+  name: Low Latency
+  description: 'Allow for low latency scraping and crawling, limiting the impact on targets.'
+  image: ''
+  tags: Scraping Utilities
+- building_block_id: dropbox
+  type: Scraping
+  category: Integrations
+  name: Dropbox
+  description: Integration of crawling and scraping activities into Dropbox.
+  image: ''
+  tags: Scraping Integration
+- building_block_id: amazon-s3
+  type: Scraping
+  category: Integrations
+  name: Amazon S3
+  description: Integration of crawling and scraping activities into Amazon S3.
+  image: ''
+  tags: Scraping Integration
+- building_block_id: google-sheets
+  type: Scraping
+  category: Integrations
+  name: Google Sheets
+  description: Integration of crawling and scraping activities into Google Sheets.
+  image: ''
+  tags: Scraping Integration
+- building_block_id: plot.ly
+  type: Scraping
+  category: Integrations
+  name: Plot.ly
+  description: Integration of crawling and scraping activities into Plot.ly.
+  image: ''
+  tags: Scraping Integration
+- building_block_id: silk
+  type: Scraping
+  category: Integrations
+  name: Silk
+  description: Integration of crawling and scraping activities into Silk.
+  image: ''
+  tags: Scraping Integration
+- building_block_id: tableau
+  type: Scraping
+  category: Integrations
+  name: Tableau
+  description: Integration of crawling and scraping activities into Tableau.
+  image: ''
+  tags: Scraping Integration

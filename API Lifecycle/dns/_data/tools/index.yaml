@@ -1,0 +1,346 @@
+---
+- slug: goinvestigate
+  name: goinvestigate
+  description: A Go package for interfacing with the OpenDNS Investigate API
+  url: https://github.com/opendns/goinvestigate
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: SDK,DNS,Go
+- slug: dnssecmonitor
+  name: DNSSEC Monitoring
+  description: DNSSEC-monitoring tools used by .SE
+  url: https://github.com/dotse/dnssec-monitor
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: https://github.com/dotse/
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: DNS,Monitoring
+- slug: autotaskphp
+  name: autotask-php
+  description: A PHP SOAP wrapper for the Autotask Web Service API
+  url: https://github.com/opendns/autotask-php
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: DNS,PHP,SDK
+- slug: dnsserver
+  name: dnsserver
+  description: A small DNS service for communicating A and SRV records.
+  url: https://github.com/docker/dnsserver
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: DNS,Containers
+- slug: dnscryptproxy
+  name: dnscrypt-proxy
+  description: A tool for securing communications between a client and a DNS resolver
+  url: https://github.com/opendns/dnscrypt-proxy
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: DNS,Proxy
+- slug: bundy
+  name: bundy
+  description: an authoritative DNS server
+  url: https://github.com/bundy-dns/bundy
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: DNS,Server
+- slug: diagnosticapp
+  name: diagnosticapp
+  description: App to diagnose DNS issues
+  url: https://github.com/opendns/diagnosticapp
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: DNS,Diagnostics
+- slug: instarecon
+  name: Instarecon
+  description: Automated digital reconnaissance
+  url: https://github.com/vergl4s/instarecon
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: https://github.com/vergl4s/
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: DNS,Scraping,Security
+- slug: opendnsfetchstats
+  name: opendns-fetchstats
+  description: Automatically fetch your OpenDNS Top Domains data
+  url: https://github.com/opendns/opendns-fetchstats
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: DNS,Analysis
+- slug: bind
+  name: BIND
+  description: BIND is open source software that implements the Domain Name System
+    (DNS) protocols for the Internet. It is a reference implementation of those protocols,
+    but it is also production-grade software, suitable for use in high-volume and
+    high-reliability applications. &nbsp;
+  url: https://www.isc.org/downloads/bind/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: ""
+  tags: DNS,Server
+- slug: blacksheepwall
+  name: blacksheepwall
+  description: blacksheepwall is a hostname reconnaissance tool written in Go.
+  url: https://github.com/tomsteele/blacksheepwall
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: https://github.com/tomsteele/
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Scraping,DNS,Security
+- slug: chefdnsimple
+  name: chef-dnsimple
+  description: Chef cookbook for DNSimple
+  url: https://github.com/dnsimple/chef-dnsimple
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: DNS Orchestration
+- slug: dnsqproxy
+  name: dnsqproxy
+  description: DNS Query Proxy
+  url: https://github.com/dotse/dnsqproxy
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: DNS,Proxy
+- slug: dnscheck
+  name: dnscheck
+  description: DNSCheck code, DNS delegation quality checker.
+  url: https://github.com/dotse/dnscheck
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: DNS
+- slug: openresolve
+  name: OpenResolve
+  description: Docker Image for Domain Information as a REST-like API
+  url: https://github.com/opendns/OpenResolve
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: DNS
+- slug: dnstest
+  name: dnstest
+  description: Erlang app for testing authoritative DNS servers for compliance.
+  url: https://github.com/dnsimple/dnstest
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: DNS,Testing,General
+- slug: knot
+  name: knot
+  description: High-performance authoritative-only DNS server
+  url: https://github.com/CZ-NIC/knot
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: DNS,Server
+- slug: clientjs
+  name: client-js
+  description: Import.io JavaScript client library
+  url: https://github.com/import-io/client-js
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: SDK,Scraping,DNS
+- slug: apijava
+  name: api-java
+  description: Java wrapper for DomainTools API
+  url: https://github.com/DomainTools/api-java
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: DNS,SDK
+- slug: apijoomla
+  name: api-joomla
+  description: Joomla components for the DomainTools API
+  url: https://github.com/DomainTools/api-joomla
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: DNS,CMS
+- slug: knock
+  name: Knockout.js
+  description: Knock Subdomain Scan
+  url: https://github.com/guelfoweb/knock
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: https://github.com/guelfoweb/
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: DNS,Scraping,Security
+- slug: dataviz
+  name: dataviz
+  description: OpenDNS Data Visualization Framework
+  url: https://github.com/opendns/dataviz
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: DNS,Visualization
+- slug: apiphp
+  name: api-php
+  description: PHP wrapper for DomainTools API
+  url: https://github.com/DomainTools/api-php
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: DNS,PHP,SDK
+- slug: denominator
+  name: denominator
+  description: Portably control DNS clouds using java or bash
+  url: https://github.com/Netflix/denominator
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: DNS
+- slug: pyinvestigate
+  name: pyinvestigate
+  description: Python module to interface with the OpenDNS Investigate API
+  url: https://github.com/opendns/pyinvestigate
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: DNS,Python,SDK
+- slug: apipython
+  name: api-python
+  description: Python wrapper for the DomainTools API
+  url: https://github.com/DomainTools/api-python
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: DNS,SDK,Python
+- slug: domainstats
+  name: domainstats
+  description: Query a list of domains against the OpenDNS Investigate API.
+  url: https://github.com/opendns/domainstats
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Domains,DNS
+- slug: apiruby
+  name: api-ruby
+  description: Ruby wrapper for DomainTools API
+  url: https://github.com/DomainTools/api-ruby
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: DNS,SDK,Ruby
+- slug: dnsimplego
+  name: dnsimple-go
+  description: The DNSimple API client for Go.
+  url: https://github.com/dnsimple/dnsimple-go
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: SDK,DNS
+- slug: dnsimpleruby
+  name: dnsimple-ruby
+  description: The DNSimple API client for Ruby.
+  url: https://github.com/dnsimple/dnsimple-ruby
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: SDK,DNS
+- slug: dnssecanalysis
+  name: dnssec-analysis
+  description: tools for analyzing dnssec
+  url: https://github.com/dotse/dnssec-analysis
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: DNS,Analysis
+...

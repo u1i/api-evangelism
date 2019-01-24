@@ -1,0 +1,303 @@
+- slug: rack
+  name: rack
+  description: A CLI for Rackspace
+  url: 'https://github.com/rackspace/rack'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Command Line Interface,Cloud'
+- slug: phpclitools
+  name: php-cli-tools
+  description: A collection of tools to help with PHP command line utilities
+  url: 'https://github.com/wp-cli/php-cli-tools'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'WordPress,Command Line Interface'
+- slug: apimancli
+  name: apiman-cli
+  description: A Command Line Interface (CLI) for apiman
+  url: 'https://github.com/apiman/apiman-cli'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Command Line Interface
+- slug: doctl
+  name: doctl
+  description: A command line tool for DigitalOcean services
+  url: 'https://github.com/digitalocean/doctl'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Command Line Interface
+- slug: googleanalytics
+  name: google-analytics
+  description: A command-line interface and Python API wrapper for Google Analytics.
+  url: 'https://github.com/debrouwere/google-analytics'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Command Line Interface,Analysis'
+- slug: githubcli
+  name: github-cli
+  description: A command-line interface to the GitHub Issues API v2.
+  url: 'https://github.com/jsmits/github-cli'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Command Line Interface,Issues'
+- slug: diffbotpowershellclient
+  name: diffbot-powershell-client
+  description: A Diffbot API client for Powershell
+  url: 'https://github.com/diffbot/diffbot-powershell-client'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Scraping,SDK,PowerShell,Command Line Interface'
+- slug: cli
+  name: cli
+  description: A small package for building command line apps in Go
+  url: 'https://github.com/micro/cli'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Command Line Interface
+- slug: dataqualitycli
+  name: data-quality-cli
+  description: CLI for creating databases for Data Quality Dashboards.
+  url: 'https://github.com/frictionlessdata/data-quality-cli'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Data,Command Line Interface'
+- slug: dockercloudcli
+  name: dockercloud-cli
+  description: CLI for Docker Cloud
+  url: 'https://github.com/docker/dockercloud-cli'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Containers,Command Line Interface'
+- slug: reindexcli
+  name: reindex-cli
+  description: CLI for Reindex
+  url: 'https://github.com/reindexio/reindex-cli'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Command Line Interface
+- slug: algorithmiacli
+  name: algorithmia-cli
+  description: CLI interface to Algorithmia algorithms and data API
+  url: 'https://github.com/algorithmiaio/algorithmia-cli'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Command Line Interface,Algorithms'
+- slug: dropboxapicommand
+  name: dropbox-api-command
+  description: command line interface to access Dropbox API
+  url: 'https://github.com/s-aska/dropbox-api-command'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Command Line Interface
+- slug: mapboxclipy
+  name: mapbox-cli-py
+  description: Command line interface to Mapbox Web Services
+  url: 'https://github.com/mapbox/mapbox-cli-py'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Command Line Interface
+- slug: ironcli
+  name: ironcli
+  description: Command line tool for the Iron.io platform.
+  url: 'https://github.com/iron-io/ironcli'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Command Line Interface
+- slug: cli
+  name: cli
+  description: Command-line client for Tutum
+  url: 'https://github.com/tutumcloud/cli'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Command Line Interface
+- slug: arangodbdcos
+  name: arangodb-dcos
+  description: DCOS CLI for ArangoDB
+  url: 'https://github.com/arangodb/arangodb-dcos'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Command Line Interface,Database'
+- slug: newmandocker
+  name: newman-docker
+  description: Docker images for Newman Collection Runner
+  url: 'https://github.com/postmanlabs/newman-docker'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Containers,Command Line Interface,Clients'
+- slug: fbcmd
+  name: fbcmd
+  description: Facebook Command Line Interface
+  url: 'https://github.com/dtompkins/fbcmd'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Command Line Interface,Social'
+- slug: gcalcli
+  name: gcalcli
+  description: Google Calendar Command Line Interface
+  url: 'https://github.com/insanum/gcalcli'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Command Line Interface,Calendaring'
+- slug: cli
+  name: cli
+  description: Heroku CLI
+  url: 'https://github.com/heroku/cli'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Command Line Interface
+- slug: mediumcli
+  name: medium-cli
+  description: 'Medium for Hackers - :computer: A CLI for Medium Stories.'
+  url: 'https://github.com/djadmin/medium-cli'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Command Line Interface
+- slug: newman
+  name: newman
+  description: Newman is a command-line collection runner for Postman
+  url: 'https://github.com/postmanlabs/newman'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Command Line Interface,Clients'
+- slug: powershellaylien
+  name: PowerShellAylien
+  description: >-
+    PowerShell Module to interact with AYLIEN Text Analysis API - a package
+    consisting of eight differen
+  url: 'https://github.com/AYLIEN/PowerShellAylien'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Scraping,Command Line Interface'
+- slug: apiary-cli
+  name: Apiary CLI
+  description: >-
+    The Apiary CLI gem is a command line tool for developing and previewing API
+    Blueprint documents locally. It can also be used for pushing updated
+    documents to and fetching existing documents from Apiary.io.
+  url: 'https://client.apiary.io/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/apiary-icon.png
+  tags: 'API Blueprint,API Blueprint Core,Command Line Interface,Command Line'
+- slug: firebasetools
+  name: firebase-tools
+  description: The Firebase Command Line Tools
+  url: 'https://github.com/firebase/firebase-tools'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Command Line Interface
+- slug: restful
+  name: restful
+  description: Unlocking the potential of the WP REST API at the command line
+  url: 'https://github.com/wp-cli/restful'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'WordPress,Command Line Interface'

@@ -1,0 +1,11 @@
+- title: API Governance News
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-news-icon.png'
+  header: >-
+    These are the news items I've curated in my monitoring of the API space that
+    have some relevance to the API governance converstation. A converstion that is still growing, but has been getting more roots lately as mainstream companies push to adopt APIs.
+  footer: >-
+    If you think there is a link I should have listed here feel free to tweet it
+    at me, or submit as a Github issue. Even though I do this full time, I'm
+    still a one person show, and I miss quite a bit, and depend on my network to
+    help me know what is going on.
+  tags: Acquisitions

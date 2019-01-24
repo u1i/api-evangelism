@@ -1,0 +1,107 @@
+---
+- slug: api-blueprint-sublime-plugin
+  name: API Blueprint Sublime Plugin
+  description: An API Blueprint Sublime editor text plugin.
+  url: https://github.com/apiaryio/api-blueprint-sublime-plugin/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/sublime-dark-icon.png
+  tags: Integrated Development Environment,API Blueprint,API Blueprint Core,Design,Design
+- slug: atomlanguageapiblueprint
+  name: atom-language-api-blueprint
+  description: API Blueprint and MSON grammars for the Atom.io text editor.
+  url: https://github.com/danielgtaylor/atom-language-api-blueprint/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/atom-icon.png
+  tags: API Blueprint,Integrated Development Environment,Editor
+- slug: abm
+  name: ABM
+  description: API Blueprint Manager
+  url: https://github.com/Tuxilero/ABM/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Integrated Development Environment,API Blueprint
+- slug: atom-editor-api-blueprint-preview
+  name: Atom Editor API Blueprint Preview
+  description: The Atom Editor API Blueprint preview is a plugin for the Atom editor
+    that allows you to render HTML representation of API Blueprint in the right of
+    the current open Atom editor using CTRL-SHIFT-A. This plugin requires Agilou to
+    be installed and available in your path.
+  url: https://atom.io/packages/api-blueprint-preview
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/atom-icon.png
+  tags: Design,API Blueprint,Design,Integrated Development Environment
+- slug: eclipse-rest-client
+  name: Eclipse REST Client
+  description: Feature rich rest client for developers to play with RESTful web services.
+    It can be used to test any URL for following HTTP methods GET, POST, PUT, DELETE,
+    HEAD, OPTIONS, and TRACE.
+  url: https://marketplace.eclipse.org/content/rest-client
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/eclipse-800x188.png
+  tags: Integrated Development Environment,Clients
+- slug: atomapiblueprintpreview
+  name: atom-api-blueprint-preview
+  description: Live preview API Blueprint in Atom
+  url: https://github.com/danielgtaylor/atom-api-blueprint-preview/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/atom-icon.png
+  tags: Integrated Development Environment,API Blueprint
+- slug: awstoolkitforeclipse
+  name: aws-toolkit-for-eclipse
+  description: Official mirror of the AWS Toolkit for Eclipse.  For more information
+    on the toolkit, see our web si
+  url: https://github.com/amazonwebservices/aws-toolkit-for-eclipse
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Integrated Development Environment
+- slug: apiblueprint.vim
+  name: apiblueprint.vim
+  description: This vim plugin brings syntax highlighting and linting for API Blueprint.
+  url: https://github.com/kylef/apiblueprint.vim/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Integrated Development Environment,API Blueprint,VIM
+- slug: developerstudio
+  name: developer-studio
+  description: WSO2 Developer Studio IDE Public Repository
+  url: https://github.com/wso2/developer-studio
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Integrated Development Environment
+...

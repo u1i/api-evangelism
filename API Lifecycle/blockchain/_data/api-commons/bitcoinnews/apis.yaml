@@ -1,0 +1,20 @@
+name: BitcoinNews
+description: We are the world leader in news, prices and information on bitcoin and
+  other digital currencies.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26429-bitcoinnews.jpg
+tags:
+- Blockchain News
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/bitcoinnews/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: http://bitcoinnews.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

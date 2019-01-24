@@ -1,0 +1,147 @@
+swagger: "2.0"
+info:
+  title: Service-Level Agreement API
+  description: Accesses SLA test configurations and reports.
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /sla-api/v1/agent-groups:
+    get:
+      summary: List Agent Groups
+      description: ""
+      operationId: slaapiv1agentgroups
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /sla-api/v1/test-quotas:
+    get:
+      summary: List Test Configuration Quotas
+      description: ""
+      operationId: slaapiv1testquotas
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /sla-api/v1/tests:
+    post:
+      summary: Create a New Test Configuration
+      description: ""
+      operationId: slaapiv1tests
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /sla-api/v1/tests/{id}:
+    delete:
+      summary: Delete a Test Configuration
+      description: ""
+      operationId: slaapiv1testsid
+      parameters:
+      - in: Number
+        name: id
+        description: The test&#8217;s unique identifier.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    get:
+      summary: Get a Test Configuration
+      description: ""
+      operationId: slaapiv1testsid
+      parameters:
+      - in: Number
+        name: id
+        description: The test&#8217;s unique identifier.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    put:
+      summary: Update a Test Configuration
+      description: ""
+      operationId: slaapiv1testsid
+      parameters:
+      - in: Number
+        name: id
+        description: The test&#8217;s unique identifier.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /sla-api/v1/tests/{slaTestId}/reports/availability{?start,end}:
+    get:
+      summary: List Availability Reports
+      description: ""
+      operationId: slaapiv1testsslatestidreportsavailabilitystartend
+      parameters:
+      - in: String
+        name: end
+        description: Timestamp for the end of data window, in UTC 8601 format.
+        type: string
+      - in: Number
+        name: slaTestId
+        description: Unique identifier for the test you wish to run a report on.
+        type: string
+      - in: String
+        name: start
+        description: Timestamp for the start of the data window, in UTC 8601 format.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /sla-api/v1/tests/{slaTestId}/reports/performance{?start,end}:
+    get:
+      summary: List Performance Reports
+      description: ""
+      operationId: slaapiv1testsslatestidreportsperformancestartend
+      parameters:
+      - in: String
+        name: end
+        description: Timestamp for the end of the data window, in UTC 8601 format.
+        type: string
+      - in: Number
+        name: slaTestId
+        description: Unique identifier for the test you wish to run a report on.
+        type: string
+      - in: String
+        name: start
+        description: Timestamp for the start of the data window, in UTC 8601 format.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /sla-api/v1/tests{?slaTestIds}:
+    get:
+      summary: List Test Configurations
+      description: ""
+      operationId: slaapiv1testsslatestids
+      parameters:
+      - in: String
+        name: slaTestIds
+        description: One or more IDs of SLA tests, comma separated.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

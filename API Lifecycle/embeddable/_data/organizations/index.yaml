@@ -1,0 +1,144 @@
+- slug: embedly
+  name: Embedly
+  description: >-
+    Embedly provides a platform and suite of tools to make embedding and
+    previewing links simple. Embedly helps publishers and consumers manage embed
+    codes from more than 100 Websites and APIs, including YouTube, Flickr,
+    Ustream, Picassa, Hulu, Twitpic, Quantcast, and CrunchBase. It automatically
+    convert links from these sources into embedded media on the fly.
+  url: 'http://embed.ly/'
+  short_url: ''
+  twitter: 'https://twitter.com/embedly'
+  blog: 'https://twitter.com/weogeostatus'
+  blog_rss: 'http://blog.embed.ly/rss'
+  github: 'https://github.com/embedly'
+  image: ''
+  tags: 'Videos,Social,Embed,Embeddable,Scraping,Scraping Tools'
+- slug: addthis
+  name: AddThis
+  description: >-
+    AddThis, the new brand name for Clearspring Technologies, is the leader in
+    socially connecting publishers, services and advertisers to audiences on the
+    open web. Reaching more than 1.3 billion unique users monthly,
+    AddThis&rsquo; social tools and analytics are used on more than 14 million
+    unique domains to distribute and track digital content such as web pages,
+    widgets, and videos to social networks, bookmarking sites, blogs, and more.
+    To learn more visit AddThis.com
+  url: 'http://www.addthis.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/addthis'
+  blog: 'http://www.addthis.com/blog/'
+  blog_rss: 'http://www.addthis.com/blog/feed/'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/addthis-logo.jpg
+  tags: 'Sharing,Embeddable,Social Bookmarking,Link,Links'
+- slug: stackpile
+  name: StackPile
+  description: >-
+    A better way to install 3rd party apps. StackPile allows you to install and
+    use 3rd party tools and apps on your website in seconds without expensive
+    code changes.
+  url: 'https://stackpile.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/stackpile'
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/stackpile-logo.png
+  tags: 'iPaaS,Embeddable'
+- slug: google-fusion-tables
+  name: Google Fusion Tables
+  description: >-
+    Fusion Tables is an experimental data visualization web application to
+    gather, visualize, and share data tables.
+  url: 'https://developers.google.com/fusiontables/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-fusion-tables.jpg
+  tags: 'Google APIs,Visualizations,Data,Database,Spreadsheets,Embeddable'
+- slug: the-open-graph-protocol
+  name: The Open Graph Protocol
+  description: >-
+    The Open Graph protocol enables any web page to become a rich object in a
+    social graph. For instance, this is used on Facebook to allow any web page
+    to have the same functionality as any other object on Facebook.
+  url: 'http://ogp.me/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/open-graph-protocol.png
+  tags: 'Embeddable,Media,Social'
+- slug: apiembed
+  name: APIEmbed
+  description: >-
+    Auto-generated code snippets in many programming languages for your website,
+    blog or API documentation.
+  url: 'https://apiembed.com/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/APIembed.png
+  tags: 'Embeddable,Code,Documentation'
+- slug: iframely
+  name: Iframely
+  description: >-
+    Iframely Open-Source package includes the client javascript wrapper of the
+    API, so you don't need to spend time on it yourself. If you'd prefer to
+    render a widget from the data yourself, please refer to How to Render a
+    Widget. If you are using Cloud API, you don't need iframely.js as the embed
+    code will be provided to you by API as the html field of JSON response. You
+    may find iframely.js lib in /static/js/iframely.js folder. It facilitates
+    calls and fetches information from /iframely API endpoint and renders
+    responsive embed widgets from the data received.
+  url: 'https://iframely.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/iframely'
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/iframely.png
+  tags: Embeddable
+- slug: mozilla-brick
+  name: Mozilla Brick
+  description: >-
+    Brick is a collection of UI components designed for the easy and quick
+    building of web application UIs. Brick components are built using the Web
+    Components standard to allow developers to describe the UI of their app
+    using the HTML syntax they already know.
+  url: 'http://brick.mozilla.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/mozbrick'
+  blog: 'http://brick.mozilla.io/v2.0/blog'
+  blog_rss: ''
+  github: 'https://github.com/mozbrick'
+  image: ''
+  tags: Embeddable
+- slug: oembed
+  name: oEmbed
+  description: >-
+    oEmbed is a format for allowing an embedded representation of a URL on third
+    party sites. The simple API allows a website to display embedded content
+    (such as photos or videos) when a user posts a link to that resource,
+    without having to parse the resource directly.
+  url: 'http://oembed.com/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/oEmbed.png
+  tags: Embeddable

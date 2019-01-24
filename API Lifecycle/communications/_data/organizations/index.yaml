@@ -1,0 +1,103 @@
+- slug: intercom
+  name: Intercom
+  description: >-
+    Intercom is a fundamentally new way for internet businesses to communicate
+    with customers, personally, at scale. It's a customer communication platform
+    with a suite of integrated products for every team&mdash;including sales,
+    marketing, product, and support. Our products enable targeted communication
+    with customers on your website, inside your web and mobile apps, and by
+    email.
+  url: 'https://www.intercom.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/intercomdevs'
+  blog: 'https://blog.intercom.com/'
+  blog_rss: 'http://feeds.feedburner.com/insideintercom'
+  github: 'https://github.com/intercom'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/intercom-logo.png
+  tags: 'Support,Communication,Communications'
+- slug: jekyll
+  name: Jekyll
+  description: >-
+    Jekyll is a simple, blog-aware, static site generator for personal, project,
+    or organization sites.
+  url: 'https://jekyllrb.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/jekyllrb'
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/jekyll'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/jekyll-logo.png
+  tags: 'Portal,Website, Communications'
+- slug: pagely
+  name: Pagely
+  description: >-
+    Pagely is the first Managed WordPress Hosting service that handles most of
+    the technical stuff like upgrades, performance, and security to allow you to
+    focus on your content. We provide WordPress Hosting for personal sites to
+    multi-server clusters for enterprise and all manner of sites in between.
+  url: 'http://pagely.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/pagely'
+  blog: 'http://blog.pagely.com/'
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/pagely-logo.png
+  tags: 'Blogging,Hosting,Web,Portal,Communications'
+- slug: medium
+  name: Medium
+  description: >-
+    Medium is an online publishing platform founded by Twitter co-founder Evan
+    Williams in August 2012. The platform has evolved into a hybrid of
+    non-professional contributions and professional, paid contributions, an
+    example of social journalism.
+  url: 'https://medium.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/Medium'
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/Medium'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/medium-logo.png
+  tags: 'Blogging,Communications'
+- slug: wordpress.com
+  name: WordPress.com
+  description: >-
+    WordPress, which is commonly used to refer to all WordPress products, is the
+    most popular and fastest growing publishing platform on the web. WordPress
+    began as a blogging platform but soon evolved to include additional types of
+    websites including news sites, corporate sites (for large brands and small
+    businesses alike), e-commerce sites and everything in between.
+  url: 'http://wordpress.com'
+  short_url: ''
+  twitter: 'https://twitter.com/wordpressdotcom'
+  blog: 'http://wordpress.org/news/'
+  blog_rss: 'http://wordpress.org/news/feed/'
+  github: 'https://github.com/wordpress'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/969_logo.png
+  tags: >-
+    Blogging,CMS,API LIfeycle,Content,Content,Indie EdTech Data
+    Jam,Communications
+- slug: tumblr
+  name: Tumblr
+  description: >-
+    Tumblr is a re-envisioning of tumblelogging, a subset of blogging that uses
+    quick, mixed-media posts. The service hopes to do for the tumblelog what
+    services like LiveJournal and Blogger did for the blog. The difference is
+    that its extreme simplicity will make luring users a far easier task than
+    acquiring users for traditional weblogging. Anytime a user sees something
+    interesting online, they can click a quick &ldquo;Share on Tumblr&rdquo;
+    bookmarklet that then tumbles the snippet directly. The result is varied
+    string of media ranging links and text to pictures and videos that takes
+    very little time and effort to maintain.
+  url: 'https://www.tumblr.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/tumblr'
+  blog: 'http://staff.tumblr.com/'
+  blog_rss: 'http://staff.tumblr.com/rss'
+  github: 'https://github.com/tumblr'
+  image: 'http://assets.tumblr.com/images/logo_page/img_logotype_34465d_2x.png'
+  tags: 'Blog,Social,Content,Blogging,Communications'

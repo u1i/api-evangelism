@@ -1,0 +1,357 @@
+- building_block_id: none
+  type: Deprecation
+  category: Types
+  name: Individual API Endpoints
+  description: >-
+    Looking to have a plan for the deprecation of individual APIs, or sets of
+    APIs.
+  image: none
+  tags: Deprecation
+- building_block_id: none
+  type: Deprecation
+  category: Types
+  name: Individual API Tooling
+  description: >-
+    An approach to how you deprecate one of the client solutions available on
+    API platform.
+  image: none
+  tags: Deprecation
+- building_block_id: none
+  type: Deprecation
+  category: Types
+  name: Entire Platform Shutdown
+  description: >-
+    What is the plan for an entire platform shutdown, ceasing all API
+    operations.
+  image: none
+  tags: Deprecation
+- building_block_id: none
+  type: Deprecation
+  category: Types
+  name: Enter Platform Safe Mode
+  description: >-
+    What is the plan for just putting the platform into safe mode, and still
+    operating.
+  image: none
+  tags: Deprecation
+- building_block_id: none
+  type: Deprecation
+  category: Runway
+  name: Initial Expectation Set
+  description: >-
+    What expectations are, or have been set early on in the API design, and
+    deployment parts of the life cycle when it comes to API deprecation.
+  image: none
+  tags: Deprecation
+- building_block_id: none
+  type: Deprecation
+  category: Runway
+  name: Legal Department
+  description: >-
+    What legally has been provided in terms of service, privacy policy, and
+    other parts of the legal department for a platform.
+  image: none
+  tags: Deprecation
+- building_block_id: none
+  type: Deprecation
+  category: Runway
+  name: First Decision
+  description: >-
+    Establishing that an API or platform will need to be deprecated. Recording
+    the date, time, and other key details on what this decision was reached.
+  image: none
+  tags: Deprecation
+- building_block_id: none
+  type: Deprecation
+  category: Runway
+  name: First Notice
+  description: >-
+    What is the time to the first external notice, either privately to partners,
+    or also publicly to the general community.
+  image: none
+  tags: Deprecation
+- building_block_id: none
+  type: Deprecation
+  category: Runway
+  name: Lock-down New Signups
+  description: >-
+    When will new signups for the platform be locked down, stopping all new user
+    and application registration.
+  image: none
+  tags: Deprecation
+- building_block_id: none
+  type: Deprecation
+  category: Runway
+  name: Lock-down New Writes
+  description: >-
+    When will all POST, PUT, and other write capabilities be locked down, making
+    it easier to stabilize, sync, and migrate for final shut down.
+  image: none
+  tags: Deprecation
+- building_block_id: none
+  type: Deprecation
+  category: Runway
+  name: Light Switch Flicking
+  description: >-
+    Will there be light switch flicking, or dark-out testing, which send real
+    world pain to API consumers, reminding them that a shutdown is imminent.
+  image: none
+  tags: Deprecation
+- building_block_id: none
+  type: Deprecation
+  category: Runway
+  name: Other Milestones
+  description: >-
+    What other milestones are there that will be important to internal, partner,
+    and public stakeholders?
+  image: none
+  tags: Deprecation
+- building_block_id: none
+  type: Deprecation
+  category: Runway
+  name: Final Date
+  description: >-
+    What is the final date for shutdown, requiring all syncs, migrations,
+    exports, and integration to completely cease.
+  image: none
+  tags: Deprecation
+- building_block_id: none
+  type: Deprecation
+  category: Communication
+  name: Key Players
+  description: >-
+    As soon as the first decision to deprecate is made, who are the key players,
+    and stake holder that need to be contacted, and made aware of the API
+    deprecation.
+  image: none
+  tags: Deprecation
+- building_block_id: none
+  type: Deprecation
+  category: Communication
+  name: Public Players
+  description: >-
+    Once key stakeholders are made aware, what is the plan to go public, and
+    make the general community, and industry aware that the API deprecation is
+    imminent.
+  image: none
+  tags: Deprecation
+- building_block_id: none
+  type: Deprecation
+  category: Communication
+  name: Schedule (Runway)
+  description: >-
+    What does the entire runway look like, with as complete schedule from first
+    decision, to final date -- including a communication schedule documented
+    along the way.
+  image: none
+  tags: Deprecation
+- building_block_id: none
+  type: Deprecation
+  category: Communication
+  name: Historical
+  description: >-
+    What historical communications will be made available from blog posts, to
+    tweets, documentation, and other communication focused efforts.
+  image: none
+  tags: Deprecation
+- building_block_id: none
+  type: Deprecation
+  category: Communication
+  name: Be Real
+  description: 'Make sure that you are genuine in your plans, communication, and out reach.'
+  image: none
+  tags: Deprecation
+- building_block_id: none
+  type: Deprecation
+  category: Communication
+  name: Be Friendly
+  description: Be as friendly as you can. It will be a hard time for everyone involved.
+  image: none
+  tags: Deprecation
+- building_block_id: none
+  type: Deprecation
+  category: Communication
+  name: Be Transparent
+  description: 'Try to be as transparent as you possibly can, throughout the process.'
+  image: none
+  tags: Deprecation
+- building_block_id: none
+  type: Deprecation
+  category: Communication
+  name: Be Respectful
+  description: 'Showing respect for your consumers, and their challenges will go a long way.'
+  image: none
+  tags: Deprecation
+- building_block_id: none
+  type: Deprecation
+  category: Communication
+  name: PR Campaign
+  description: 'Craft a public relations plan, and execute it well. Don''t take shortcuts.'
+  image: none
+  tags: Deprecation
+- building_block_id: none
+  type: Deprecation
+  category: Communication
+  name: Communicate Often
+  description: >-
+    Make sure and email, post to blog, tweet, and communicate regulatly about
+    the deprecation.
+  image: none
+  tags: Deprecation
+- building_block_id: none
+  type: Deprecation
+  category: Tooling
+  name: Data Migration
+  description: >-
+    What data migration tools, services, and support will be made available to
+    help customers get their data off of a platform, and somewhere where they
+    can put to use.
+  image: none
+  tags: Deprecation
+- building_block_id: none
+  type: Deprecation
+  category: Tooling
+  name: Settings Migration
+  description: >-
+    Will there be the opportunity to export settings, and other configurations,
+    so that they can be applied into other external systems, either
+    automatically, or manually.
+  image: none
+  tags: Deprecation
+- building_block_id: none
+  type: Deprecation
+  category: Tooling
+  name: Data Sync
+  description: >-
+    Are there any real-time data sync opportunities, to help reduce the amount
+    of work that is needed at the time of shutdown, slowly getting API consumers
+    offloaded to their new solution.
+  image: none
+  tags: Deprecation
+- building_block_id: none
+  type: Deprecation
+  category: Tooling
+  name: Data Portability
+  description: >-
+    Beyond migration, and syncing, can API consumers get raw dumps of all of
+    their usage data, as well as any other object, and entity they have stored
+    via API operations.
+  image: none
+  tags: Deprecation
+- building_block_id: none
+  type: Deprecation
+  category: Licensing
+  name: Data License
+  description: How will data be licensed after things are shut down?
+  image: none
+  tags: Deprecation
+- building_block_id: none
+  type: Deprecation
+  category: Licensing
+  name: Server Code
+  description: What server code will be made available as open source license?
+  image: none
+  tags: Deprecation
+- building_block_id: none
+  type: Deprecation
+  category: Licensing
+  name: Client Code
+  description: What client code will be made available as open source license?
+  image: none
+  tags: Deprecation
+- building_block_id: none
+  type: Deprecation
+  category: Licensing
+  name: API License
+  description: 'How will the API definition, and data schema be licensed for reuse?'
+  image: none
+  tags: Deprecation
+- building_block_id: none
+  type: Deprecation
+  category: Virtualization
+  name: AWS AMI
+  description: >-
+    Will there be an Amazaon AMI made available for any server or client
+    implementations?
+  image: none
+  tags: Deprecation
+- building_block_id: none
+  type: Deprecation
+  category: Virtualization
+  name: Heroku Deploy
+  description: >-
+    Will there be Heroku deployment made available for any server or client
+    implementations?
+  image: none
+  tags: Deprecation
+- building_block_id: none
+  type: Deprecation
+  category: Virtualization
+  name: Docker Image
+  description: >-
+    Will there be Docker images made available for any server or client
+    implementations?
+  image: none
+  tags: Deprecation
+- building_block_id: none
+  type: Deprecation
+  category: Management
+  name: Github Repo
+  description: >-
+    Will a dedicated Github repository be made available for the company,
+    platform, API, or other aspects of opportunity, made available for capturing
+    any remaining code, data, and content.
+  image: none
+  tags: Deprecation
+- building_block_id: none
+  type: Deprecation
+  category: Management
+  name: Github Issues
+  description: >-
+    Is there a Github issues established for handling all concerns, and
+    conversations around the API deprecation.
+  image: none
+  tags: Deprecation
+- building_block_id: none
+  type: Deprecation
+  category: Management
+  name: API Purgatory
+  description: >-
+    Have you contacted Kin Lane, the API Evangelist, so he can take a snapshot
+    of your API, for inclusion in the API Purgatory Museum.
+  image: none
+  tags: Deprecation
+- building_block_id: none
+  type: Deprecation
+  category: Management
+  name: X-API-Warn
+  description: Using the X-API-Warn header for all requests made to any deprecated APIs.
+  image: none
+  tags: Deprecation
+- building_block_id: none
+  type: Deprecation
+  category: Support
+  name: Contact Person
+  description: >-
+    Who is the person (name, email, Twitter, and Github) who is the point of
+    contact for the API deprecation process.
+  image: none
+  tags: Deprecation
+- building_block_id: none
+  type: Deprecation
+  category: Support
+  name: Migration Partners
+  description: >-
+    Are there any migration partners that can help out during any migrations,
+    syncing, configuration, and setup of external solutions.
+  image: none
+  tags: Deprecation
+- building_block_id: none
+  type: Deprecation
+  category: Support
+  name: Migration Locations
+  description: >-
+    Are there any other existing platforms, including competitors, that you can
+    point API consumers to, as an alternative to the API being deprecated.
+  image: none
+  tags: Deprecation

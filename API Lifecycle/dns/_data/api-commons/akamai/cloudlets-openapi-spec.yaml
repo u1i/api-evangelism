@@ -1,0 +1,612 @@
+swagger: "2.0"
+info:
+  title: Cloudlets
+  description: Create and manage Cloudlet policies and policy versions.
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /cloudlets/api/v2/group-info:
+    get:
+      summary: List Groups
+      description: ""
+      operationId: cloudletsapiv2groupinfo
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /cloudlets/api/v2/group-info/{groupId}:
+    get:
+      summary: Get a Group
+      description: ""
+      operationId: cloudletsapiv2groupinfogroupid
+      parameters:
+      - in: Number
+        name: groupId
+        description: For GET operations, returns only policies associated with the
+          group ID entered. Enter -1 to request policies from your default group,
+          and enter 0 to get policies in all groups.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /cloudlets/api/v2/origins/currentActivations:
+    get:
+      summary: List Current Cloudlets Origin Activations
+      description: ""
+      operationId: cloudletsapiv2originscurrentactivations
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /cloudlets/api/v2/origins/{originId}:
+    get:
+      summary: Get a Cloudlets Origin
+      description: ""
+      operationId: cloudletsapiv2originsoriginid
+      parameters:
+      - in: String
+        name: originId
+        description: Unique identifier for the origin.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    put:
+      summary: Update a Cloudlets Origin
+      description: ""
+      operationId: cloudletsapiv2originsoriginid
+      parameters:
+      - in: String
+        name: originId
+        description: Unique identifier for the origin.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /cloudlets/api/v2/origins/{originId}/activations:
+    get:
+      summary: List Activations for a Cloudlets Origin
+      description: ""
+      operationId: cloudletsapiv2originsoriginidactivations
+      parameters:
+      - in: String
+        name: originId
+        description: Unique identifier for the origin.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    post:
+      summary: Activate a Cloudlets Origin Version
+      description: ""
+      operationId: cloudletsapiv2originsoriginidactivations
+      parameters:
+      - in: String
+        name: originId
+        description: Unique identifier for the origin.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /cloudlets/api/v2/origins/{originId}/versions:
+    get:
+      summary: List Cloudlets Origin Versions
+      description: ""
+      operationId: cloudletsapiv2originsoriginidversions
+      parameters:
+      - in: String
+        name: originId
+        description: Unique identifier for the origin.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    post:
+      summary: Create a Cloudlets Origin Version
+      description: ""
+      operationId: cloudletsapiv2originsoriginidversions
+      parameters:
+      - in: String
+        name: originId
+        description: Unique identifier for the origin.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /cloudlets/api/v2/origins/{originId}/versions/{version}{?validate}:
+    get:
+      summary: Get a Cloudlets Origin Version
+      description: ""
+      operationId: cloudletsapiv2originsoriginidversionsversionvalidate
+      parameters:
+      - in: String
+        name: originId
+        description: Unique identifier for the origin.
+        type: string
+      - in: Boolean
+        name: validate
+        description: For GET operations, verifies that the current settings for the
+          selected originId and version are valid.
+        type: string
+      - in: Number
+        name: version
+        description: The origin version.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    put:
+      summary: Update a Cloudlets Origin Version
+      description: ""
+      operationId: cloudletsapiv2originsoriginidversionsversionvalidate
+      parameters:
+      - in: String
+        name: originId
+        description: Unique identifier for the origin.
+        type: string
+      - in: Boolean
+        name: validate
+        description: For GET operations, verifies that the current settings for the
+          selected originId and version are valid.
+        type: string
+      - in: Number
+        name: version
+        description: The origin version.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /cloudlets/api/v2/origins{?type}:
+    get:
+      summary: List Cloudlets Origins
+      description: ""
+      operationId: cloudletsapiv2originstype
+      parameters:
+      - in: String
+        name: type
+        description: Returns data for a specific type of origin as defined in Property
+          Manager. Options include alb for Application Load Balancer origins, customer
+          for standard origins, and netstorage for NetStorage-based origins.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /cloudlets/api/v2/policies/{policyId}:
+    delete:
+      summary: Remove a Policy
+      description: ""
+      operationId: cloudletsapiv2policiespolicyid
+      parameters:
+      - in: Number
+        name: policyId
+        description: The ID of the policy.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    get:
+      summary: Get a Policy
+      description: ""
+      operationId: cloudletsapiv2policiespolicyid
+      parameters:
+      - in: Number
+        name: policyId
+        description: The ID of the policy.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    put:
+      summary: Update a Policy
+      description: ""
+      operationId: cloudletsapiv2policiespolicyid
+      parameters:
+      - in: Number
+        name: policyId
+        description: The ID of the policy.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /cloudlets/api/v2/policies/{policyId}/activations{?network,propertyName}:
+    get:
+      summary: List Policy Activations
+      description: ""
+      operationId: cloudletsapiv2policiespolicyidactivationsnetworkpropertyname
+      parameters:
+      - in: String
+        name: network
+        description: Returns only activations for the selected network, either staging
+          or prod.
+        type: string
+      - in: Number
+        name: policyId
+        description: The ID of the policy.
+        type: string
+      - in: String
+        name: propertyName
+        description: Returns only activations for the selected property.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /cloudlets/api/v2/policies/{policyId}/versions/{version}/activations:
+    post:
+      summary: Activate a Policy Version
+      description: ""
+      operationId: cloudletsapiv2policiespolicyidversionsversionactivations
+      parameters:
+      - in: Number
+        name: policyId
+        description: The ID of the policy.
+        type: string
+      - in: Number
+        name: version
+        description: The version number of the policy.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /cloudlets/api/v2/policies/{policyId}/versions/{version}/rules/{akaRuleId}:
+    get:
+      summary: Get a Version Rule
+      description: ""
+      operationId: cloudletsapiv2policiespolicyidversionsversionrulesakaruleid
+      parameters:
+      - in: String
+        name: akaRuleId
+        description: The ID of the rule within the policy version.
+        type: string
+      - in: Number
+        name: policyId
+        description: The ID of the policy.
+        type: string
+      - in: Number
+        name: version
+        description: The version number of the policy.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    put:
+      summary: Update a Version Rule
+      description: ""
+      operationId: cloudletsapiv2policiespolicyidversionsversionrulesakaruleid
+      parameters:
+      - in: String
+        name: akaRuleId
+        description: The ID of the rule within the policy version.
+        type: string
+      - in: Number
+        name: policyId
+        description: The ID of the policy.
+        type: string
+      - in: Number
+        name: version
+        description: The version number of the policy.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /cloudlets/api/v2/policies/{policyId}/versions/{version}/rules{?index}:
+    post:
+      summary: Add a Version Rule
+      description: ""
+      operationId: cloudletsapiv2policiespolicyidversionsversionrulesindex
+      parameters:
+      - in: Number
+        name: index
+        description: The order within the current list of rules where you want to
+          add the new rule. If you do not set this parameter, the new rule is added
+          to the end of the current rule list. For Cloudlets, the first rule listed
+          is the first rule evaluated.
+        type: string
+      - in: Number
+        name: policyId
+        description: The ID of the policy.
+        type: string
+      - in: Number
+        name: version
+        description: The version number of the policy.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /cloudlets/api/v2/policies/{policyId}/versions/{version}{?matchRuleFormat}:
+    put:
+      summary: Update a Policy Version
+      description: ""
+      operationId: cloudletsapiv2policiespolicyidversionsversionmatchruleformat
+      parameters:
+      - in: String
+        name: matchRuleFormat
+        description: Returns the matchRuleFormat version string, which shows the version
+          of the Cloudlet-specific matchRules used. Defaults to 1.0.
+        type: string
+      - in: Number
+        name: policyId
+        description: The ID of the policy.
+        type: string
+      - in: Number
+        name: version
+        description: The version number of the policy.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /cloudlets/api/v2/policies/{policyId}/versions/{version}{?omitRules,matchRuleFormat}:
+    delete:
+      summary: Remove a Policy Version
+      description: ""
+      operationId: cloudletsapiv2policiespolicyidversionsversionomitrulesmatchruleformat
+      parameters:
+      - in: String
+        name: matchRuleFormat
+        description: Returns the matchRuleFormat version string, which shows the version
+          of the Cloudlet-specific matchRules used. Defaults to 1.0.
+        type: string
+      - in: Boolean
+        name: omitRules
+        description: Excludes the match rules from the results. Defaults to false.
+        type: string
+      - in: Number
+        name: policyId
+        description: The ID of the policy.
+        type: string
+      - in: Number
+        name: version
+        description: The version number of the policy.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    get:
+      summary: Get a Policy Version
+      description: ""
+      operationId: cloudletsapiv2policiespolicyidversionsversionomitrulesmatchruleformat
+      parameters:
+      - in: String
+        name: matchRuleFormat
+        description: Returns the matchRuleFormat version string, which shows the version
+          of the Cloudlet-specific matchRules used. Defaults to 1.0.
+        type: string
+      - in: Boolean
+        name: omitRules
+        description: Excludes the match rules from the results. Defaults to false.
+        type: string
+      - in: Number
+        name: policyId
+        description: The ID of the policy.
+        type: string
+      - in: Number
+        name: version
+        description: The version number of the policy.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /cloudlets/api/v2/policies/{policyId}/versions{?includeRules,matchRuleFormat}:
+    get:
+      summary: List Policy Versions
+      description: ""
+      operationId: cloudletsapiv2policiespolicyidversionsincluderulesmatchruleformat
+      parameters:
+      - in: Boolean
+        name: includeRules
+        description: Includes the match rules for all policy versions in the results.
+          Defaults to false.
+        type: string
+      - in: String
+        name: matchRuleFormat
+        description: Returns the matchRuleFormat version string, which shows the version
+          of the Cloudlet-specific matchRules used. Defaults to 1.0.
+        type: string
+      - in: Number
+        name: policyId
+        description: The ID of the policy.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /cloudlets/api/v2/policies/{policyId}/versions{?matchRuleFormat,cloneVersion}:
+    post:
+      summary: Create a New Policy Version
+      description: ""
+      operationId: cloudletsapiv2policiespolicyidversionsmatchruleformatcloneversion
+      parameters:
+      - in: Number
+        name: cloneVersion
+        description: If cloning an existing policy version, this parameter value is
+          the number of the policy version you want to clone. If there are attributes
+          that you do not want propagated from the source policy version, you must
+          provide the new values in the request.
+        type: string
+      - in: String
+        name: matchRuleFormat
+        description: Returns the matchRuleFormat version string, which shows the version
+          of the Cloudlet-specific matchRules used. Defaults to 1.0.
+        type: string
+      - in: Number
+        name: policyId
+        description: The ID of the policy.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /cloudlets/api/v2/policies{?clonePolicyId,version}:
+    post:
+      summary: Create a Policy
+      description: ""
+      operationId: cloudletsapiv2policiesclonepolicyidversion
+      parameters:
+      - in: Number
+        name: clonePolicyId
+        description: If cloning an existing policy, this parameter is the ID of the
+          policy (policyId) you want to clone. If there are attributes that you do
+          not want propagated from the source policy, you must provide the new values
+          in the request.
+        type: string
+      - in: Number
+        name: version
+        description: For POST operations, indicates the version of the existing policy
+          to use for the new policy. If not specified, the latest version of the existing
+          policy is copied.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /cloudlets/api/v2/policies{?gid,includeDeleted,cloudletId}:
+    get:
+      summary: List Policies
+      description: ""
+      operationId: cloudletsapiv2policiesgidincludedeletedcloudletid
+      parameters:
+      - in: Number
+        name: cloudletId
+        description: For GET operations, returns only policies for this particular
+          cloudletId.
+        type: string
+      - in: Number
+        name: gid
+        description: For GET operations, returns only policies associated with the
+          group ID (gid) entered. Enter gid=-1 to request policies from your default
+          group, and enter gid=0 to get policies in all groups.
+        type: string
+      - in: Boolean
+        name: includeDeleted
+        description: For GET operations, includes deleted policies in the results.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /cloudlets/api/v2/properties:
+    get:
+      summary: List Associated Properties
+      description: ""
+      operationId: cloudletsapiv2properties
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /cloudlets/api/v2/schemas/{schemaName}:
+    get:
+      summary: Get a Schema
+      description: ""
+      operationId: cloudletsapiv2schemasschemaname
+      parameters:
+      - in: String
+        name: schemaName
+        description: The name of the JSON schema file.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /cloudlets/api/v2/{policyId}/properties:
+    get:
+      summary: Get Associated Properties for a Policy
+      description: ""
+      operationId: cloudletsapiv2policyidproperties
+      parameters:
+      - in: Number
+        name: policyId
+        description: The ID of the policy.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  cloudletCode:
+    get:
+      summary: List Schemas per Cloudlet
+      description: ""
+      operationId: cloudletcode
+      parameters:
+      - in: String
+        name: cloudletType
+        description: The two- or three- letter code of the Cloudlet you want to view
+          all schemas for. This value corresponds to the cloudletCode member available
+          from List Cloudlets.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  cloudletId:
+    get:
+      summary: List Cloudlets
+      description: ""
+      operationId: cloudletid
+      parameters:
+      - in: Number
+        name: cloudletId
+        description: For GET operations, returns only policies for this particular
+          cloudletId.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

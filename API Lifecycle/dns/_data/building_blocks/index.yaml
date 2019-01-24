@@ -1,0 +1,331 @@
+- building_block_id: base-url-for-api
+  type: DNS
+  category: Domain(s)
+  name: Base URL for API
+  description: >-
+    Providing a simple base URL for accessing API resources -- api.example.com
+    is one common pattern.
+  image: ''
+  tags: DNS
+- building_block_id: base-url-for-portal
+  type: DNS
+  category: Domain(s)
+  name: Base URL for Portal
+  description: >-
+    Providing a simple base URL for accessing the developer portal --
+    developer.example.com is one common pattern.
+  image: ''
+  tags: DNS
+- building_block_id: domain
+  type: DNS
+  category: Core DNS
+  name: Domain
+  description: 'Management of a single domain, and its administrative information.'
+  image: ''
+  tags: 'DNS,Core DNS'
+- building_block_id: record
+  type: DNS
+  category: Core DNS
+  name: Record
+  description: Management of all types of records for a single domain.
+  image: ''
+  tags: 'DNS,Core DNS'
+- building_block_id: zone
+  type: DNS
+  category: Core DNS
+  name: Zone
+  description: Manage the zones for any particular domain.
+  image: ''
+  tags: 'DNS,Core DNS'
+- building_block_id: registration
+  type: DNS
+  category: Core DNS
+  name: Registration
+  description: >-
+    Being able to register new domains, purchase, and manage ownership and
+    registrar.
+  image: ''
+  tags: 'DNS,Core DNS'
+- building_block_id: cache
+  type: DNS
+  category: Core DNS
+  name: Cache
+  description: Allow for domain level caching of all requests made through the domain.
+  image: ''
+  tags: 'DNS,Core DNS'
+- building_block_id: ip-address
+  type: DNS
+  category: Core DNS
+  name: IP Address
+  description: 'Ability to manage IP address information, and perform lookups.'
+  image: ''
+  tags: 'DNS,Core DNS'
+- building_block_id: geo-/-regions
+  type: DNS
+  category: Core DNS
+  name: Geo / Regions
+  description: Manage geographic specific details about domain operation.
+  image: ''
+  tags: 'DNS,Core DNS'
+- building_block_id: forwarding
+  type: DNS
+  category: Core DNS
+  name: Forwarding
+  description: Enabling the ability to forward domains.
+  image: ''
+  tags: 'DNS,Core DNS'
+- building_block_id: private
+  type: DNS
+  category: Core DNS
+  name: Private
+  description: Allowing for the management of a private DNS deployment.
+  image: ''
+  tags: 'DNS,Core DNS'
+- building_block_id: health-monitors
+  type: DNS
+  category: Stability
+  name: Health Monitors
+  description: >-
+    The ability to monitor domain health and availability, and receive
+    notifications, or take actions based upon.
+  image: ''
+  tags: 'DNS,DNS Stability'
+- building_block_id: dns-failover
+  type: DNS
+  category: Stability
+  name: DNS Failover
+  description: >-
+    Allowing for failover at the DNS level, providing redundancy and failover of
+    DNS infrastructure.
+  image: ''
+  tags: 'DNS,DNS Stability'
+- building_block_id: latency-based-routing
+  type: DNS
+  category: Stability
+  name: Latency Based Routing
+  description: >-
+    Being able to route DNS traffic to different locations based upon latency of
+    networks.
+  image: ''
+  tags: 'DNS,DNS Stability'
+- building_block_id: verification
+  type: DNS
+  category: Stability
+  name: Verification
+  description: >-
+    Ability to verify availability, and health of DNS infrastructure, and
+    certifying for other parties.
+  image: ''
+  tags: 'DNS,DNS Stability'
+- building_block_id: service-level-agreement
+  type: DNS
+  category: Stability
+  name: Service Level Agreement
+  description: Providing a service level agreement (SLA) for DNS customers.
+  image: ''
+  tags: 'DNS,Stability,DNS Stability'
+- building_block_id: threat-analysis
+  type: DNS
+  category: Security
+  name: Threat Analysis
+  description: Providing systems that will automate the analysis of threats to DNS.
+  image: ''
+  tags: 'DNS,Security,DNS Security'
+- building_block_id: threat-intelligence
+  type: DNS
+  category: Security
+  name: Threat Intelligence
+  description: Give access to the actual intelligence behind threats to DNS.
+  image: ''
+  tags: 'DNS,DNS Security'
+- building_block_id: whitelist-/-blacklist
+  type: DNS
+  category: Security
+  name: Whitelist / Blacklist
+  description: >-
+    Being able to establish white lists and black lists of domains, IP
+    addresses, and other criteria for DNS level defense.
+  image: ''
+  tags: 'DNS,DNS Security'
+- building_block_id: denial-of-service-ddos
+  type: DNS
+  category: Security
+  name: Denial of Service (DDOS)
+  description: >-
+    DNS tools for identifying and defending against a denial of service (DOS)
+    attack.
+  image: ''
+  tags: 'DNS,DNS Security'
+- building_block_id: analytics
+  type: DNS
+  category: Awareness
+  name: Analytics
+  description: >-
+    Providing analytics about DNS configuration and operations an operation
+    through visual interface.
+  image: ''
+  tags: 'DNS,DNS Awareness'
+- building_block_id: reporting
+  type: DNS
+  category: Awareness
+  name: Reporting
+  description: Provide self-service reporting tools on DNS activity and services.
+  image: ''
+  tags: 'DNS Awareness,DNS'
+- building_block_id: history
+  type: DNS
+  category: Awareness
+  name: History
+  description: >-
+    Give access to DNS activity history allowing for the search and browsing of
+    all services in the past.
+  image: ''
+  tags: 'DNS Awareness,DNS'
+- building_block_id: webhooks
+  type: DNS
+  category: Notifications
+  name: Webhooks
+  description: Providing notifications via webhooks when it comes to DNS events.
+  image: ''
+  tags: 'DNS,DNS Notifications'
+- building_block_id: email
+  type: DNS
+  category: Notifications
+  name: Email
+  description: Provide notifications about DNS layer via emails.
+  image: ''
+  tags: 'DNS,DNS Notifications'
+- building_block_id: sms
+  type: DNS
+  category: Notifications
+  name: SMS
+  description: Provide notifications about DNS layer via SMS.
+  image: ''
+  tags: 'DNS,DNS Notifications'
+- building_block_id: basecamp
+  type: DNS
+  category: Integrations
+  name: Basecamp
+  description: Providing DNS integration with the Basecamp platform.
+  image: ''
+  tags: 'DNS,DNS Integration'
+- building_block_id: flowdock
+  type: DNS
+  category: Integrations
+  name: Flowdock
+  description: Providing DNS integration with the Flowdock system.
+  image: ''
+  tags: 'DNS,DNS Integration'
+- building_block_id: nagios
+  type: DNS
+  category: Integrations
+  name: Nagios
+  description: Providing DNS integration with the Nagios monitoring suite.
+  image: ''
+  tags: 'DNS,DNS Integration'
+- building_block_id: opsgenie
+  type: DNS
+  category: Integrations
+  name: OpsGenie
+  description: Providing DNS integration with the OpsGenie platform.
+  image: ''
+  tags: 'DNS,DNS Integration'
+- building_block_id: pagerduty
+  type: DNS
+  category: Integrations
+  name: PagerDuty
+  description: Providing DNS integration with the PagerDuty service.
+  image: ''
+  tags: 'DNS,DNS Integration'
+- building_block_id: pingdom
+  type: DNS
+  category: Integrations
+  name: Pingdom
+  description: Providing DNS integration with the Pingdom service.
+  image: ''
+  tags: 'DNS,DNS Integration'
+- building_block_id: slack
+  type: DNS
+  category: Integrations
+  name: Slack
+  description: >-
+    Providing integration with the messaging platform Slack for DNS
+    notificaitons.
+  image: ''
+  tags: 'DNS,DNS Integration'
+- building_block_id: victorops
+  type: DNS
+  category: Integrations
+  name: VictorOps
+  description: Providing DNS integration with the VictorOps system.
+  image: ''
+  tags: 'DNS,DNS Integration'
+- building_block_id: diagnostic
+  type: DNS
+  category: Utility
+  name: Diagnostic
+  description: Providing diagnostic tools for DNS setup.
+  image: ''
+  tags: 'DNS,DNS Utility'
+- building_block_id: batch-requests
+  type: DNS
+  category: Utility
+  name: Batch Requests
+  description: Allowing for batch request submissions of DNS changes.
+  image: ''
+  tags: 'DNS,DNS Utility'
+- building_block_id: templates
+  type: DNS
+  category: Utility
+  name: Templates
+  description: Providing the ability to create and use templates when configuring DNS.
+  image: ''
+  tags: 'DNS,DNS Utility'
+- building_block_id: import
+  type: DNS
+  category: Utility
+  name: Import
+  description: Allowing for the import of DNS configuration using portable formats.
+  image: ''
+  tags: 'DNS,DNS Utility'
+- building_block_id: export
+  type: DNS
+  category: Utility
+  name: Export
+  description: Allowing for the export of DNS configuration using portable formats.
+  image: ''
+  tags: 'DNS,DNS Utility'
+- building_block_id: api
+  type: DNS
+  category: Utility
+  name: API
+  description: >-
+    A set of API resources available for managing all aspects of DNS operations,
+    so that DNS for API operations can be automated.
+  image: ''
+  tags: 'DNS,DNS Utility'
+- building_block_id: command-line-interface
+  type: DNS
+  category: Utility
+  name: Command Line Interface
+  description: Providing a command line interface for managing DNS services.
+  image: ''
+  tags: 'DNS,DNS Utility'
+- building_block_id: domain-lists
+  type: Scraping
+  category: DNS
+  name: Domain Lists
+  description: >-
+    Providing lists of domains, and subdomains to seed scraping and harvesting
+    activities.
+  image: ''
+  tags: Scraping DNS
+- building_block_id: domain-metadata
+  type: Scraping
+  category: DNS
+  name: Domain Metadata
+  description: >-
+    Providing details about domains that can be used in the scraping and
+    crawling process.
+  image: ''
+  tags: Scraping DNS

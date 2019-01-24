@@ -1,0 +1,87 @@
+swagger: "2.0"
+info:
+  title: Security Monitor
+  description: Retrieve real-time data on security events.
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /security-monitor/v1/report-packs/{reportPackId}:
+    get:
+      summary: Get a Report Pack
+      description: ""
+      operationId: securitymonitorv1reportpacksreportpackid
+      parameters:
+      - in: Number
+        name: reportPackId
+        description: Report pack ID
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /security-monitor/v1/report-packs/{reportPackId}/data-sources:
+    get:
+      summary: List Data Sources
+      description: ""
+      operationId: securitymonitorv1reportpacksreportpackiddatasources
+      parameters:
+      - in: Number
+        name: reportPackId
+        description: Report pack ID.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /security-monitor/v1/report-packs/{reportPackId}/data-stores:
+    get:
+      summary: List Data Stores
+      description: ""
+      operationId: securitymonitorv1reportpacksreportpackiddatastores
+      parameters:
+      - in: Number
+        name: reportPackId
+        description: Report pack ID.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /security-monitor/v1/report-packs/{reportPackId}/data-stores/{dataStoreId}:
+    get:
+      summary: Get a Data Store
+      description: ""
+      operationId: securitymonitorv1reportpacksreportpackiddatastoresdatastoreid
+      parameters:
+      - in: Number
+        name: dataStoreId
+        description: Data store ID.
+        type: string
+      - in: Number
+        name: reportPackId
+        description: Report pack ID.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  name:
+    get:
+      summary: List Report Packs
+      description: ""
+      operationId: name
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

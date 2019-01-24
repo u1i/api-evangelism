@@ -1,0 +1,234 @@
+swagger: "2.0"
+info:
+  title: Billing Center
+  description: Access to contract usage data in JSON for accounts in which you have
+    access.
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  ? /billing-center-api/v2/contracts/{contractId}/products/{productId}/measures{?year,month,fromYear,fromMonth,toYear,toMonth,statisticName,billingDayOnly}
+  : get:
+      summary: List Usage per Contract
+      description: ""
+      operationId: billingcenterapiv2contractscontractidproductsproductidmeasuresyearmonthfromyearfrommonthtoyeartomont
+      parameters:
+      - in: Boolean
+        name: billingDayOnly
+        description: Aggregates cumulative data as of the end of the billing period,
+          typically the end of the month, otherwise the day the contract&#8217;s term
+          expires. Supplementary data may be available when contracts are extended
+          within a given month.
+        type: string
+      - in: String
+        name: contractId
+        description: Identifies the contract under which data is aggregated.
+        type: string
+      - in: Integer
+        name: fromMonth
+        description: The month starting the range of aggregated data. Must be paired
+          with fromYear, toYear, and toMonth.
+        type: string
+      - in: Integer
+        name: fromYear
+        description: The year starting the range of aggregated data. Must be paired
+          with fromMonth, toYear, and toMonth.
+        type: string
+      - in: Integer
+        name: month
+        description: The month for which data is aggregated. Must be paired with a
+          year value.
+        type: string
+      - in: String
+        name: productId
+        description: Identifies the product under which data is aggregated.
+        type: string
+      - in: String
+        name: statisticName
+        description: Reports on a specific statistic, otherwise reports all statistics
+          by default.
+        type: string
+      - in: Integer
+        name: toMonth
+        description: The month ending the range of aggregated data. Must be paired
+          with toYear, fromYear, and fromMonth.
+        type: string
+      - in: Integer
+        name: toYear
+        description: The year ending the range of aggregated data. Must be paired
+          with toMonth, fromYear, and fromMonth.
+        type: string
+      - in: Integer
+        name: year
+        description: The year for which data is aggregated. Must be paired with a
+          month value.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Contracts
+  /billing-center-api/v2/contracts/{contractId}/products/{productId}/statistics{?year,month,fromYear,fromMonth,toYear,toMonth}:
+    get:
+      summary: List Statistics per Contract
+      description: ""
+      operationId: billingcenterapiv2contractscontractidproductsproductidstatisticsyearmonthfromyearfrommonthtoyeartomo
+      parameters:
+      - in: String
+        name: contractId
+        description: Identifies the contract under which data is aggregated.
+        type: string
+      - in: Integer
+        name: fromMonth
+        description: The month starting the range of aggregated data. Must be paired
+          with fromYear, toYear, and toMonth.
+        type: string
+      - in: Integer
+        name: fromYear
+        description: The year starting the range of aggregated data. Must be paired
+          with fromMonth, toYear, and toMonth.
+        type: string
+      - in: Integer
+        name: month
+        description: The month for which data is aggregated. Must be paired with a
+          year value.
+        type: string
+      - in: String
+        name: productId
+        description: Identifies the product under which data is aggregated.
+        type: string
+      - in: Integer
+        name: toMonth
+        description: The month ending the range of aggregated data. Must be paired
+          with toYear, fromYear, and fromMonth.
+        type: string
+      - in: Integer
+        name: toYear
+        description: The year ending the range of aggregated data. Must be paired
+          with toMonth, fromYear, and fromMonth.
+        type: string
+      - in: Integer
+        name: year
+        description: The year for which data is aggregated. Must be paired with a
+          month value.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Contracts
+  ? /billing-center-api/v2/reporting-groups/{reportingGroupId}/products/{productId}/measures{?year,month,fromYear,fromMonth,toYear,toMonth,statisticName,billingDayOnly}
+  : get:
+      summary: List Usage per Reporting Group
+      description: ""
+      operationId: billingcenterapiv2reportinggroupsreportinggroupidproductsproductidmeasuresyearmonthfromyearfrommonth
+      parameters:
+      - in: Boolean
+        name: billingDayOnly
+        description: Aggregates cumulative data as of the end of the billing period,
+          typically the end of the month, otherwise the day the contract&#8217;s term
+          expires. Supplementary data may be available when contracts are extended
+          within a given month.
+        type: string
+      - in: Integer
+        name: fromMonth
+        description: The month starting the range of aggregated data. Must be paired
+          with fromYear, toYear, and toMonth.
+        type: string
+      - in: Integer
+        name: fromYear
+        description: The year starting the range of aggregated data. Must be paired
+          with fromMonth, toYear, and toMonth.
+        type: string
+      - in: Integer
+        name: month
+        description: The month for which data is aggregated. Must be paired with a
+          year value.
+        type: string
+      - in: String
+        name: productId
+        description: Identifies the product under which data is aggregated.
+        type: string
+      - in: String
+        name: reportingGroupId
+        description: Identifies the unique reporting group.
+        type: string
+      - in: String
+        name: statisticName
+        description: Reports on a specific statistic, otherwise reports all statistics
+          by default.
+        type: string
+      - in: Integer
+        name: toMonth
+        description: The month ending the range of aggregated data. Must be paired
+          with toYear, fromYear, and fromMonth.
+        type: string
+      - in: Integer
+        name: toYear
+        description: The year ending the range of aggregated data. Must be paired
+          with toMonth, fromYear, and fromMonth.
+        type: string
+      - in: Integer
+        name: year
+        description: The year for which data is aggregated. Must be paired with a
+          month value.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Contracts
+  ? /billing-center-api/v2/reporting-groups/{reportingGroupId}/products/{productId}/statistics{?year,month,fromYear,fromMonth,toYear,toMonth}
+  : get:
+      summary: List Statistics per Reporting Group
+      description: ""
+      operationId: billingcenterapiv2reportinggroupsreportinggroupidproductsproductidstatisticsyearmonthfromyearfrommon
+      parameters:
+      - in: Integer
+        name: fromMonth
+        description: The month starting the range of aggregated data. Must be paired
+          with fromYear, toYear, and toMonth.
+        type: string
+      - in: Integer
+        name: fromYear
+        description: The year starting the range of aggregated data. Must be paired
+          with fromMonth, toYear, and toMonth.
+        type: string
+      - in: Integer
+        name: month
+        description: The month for which data is aggregated. Must be paired with a
+          year value.
+        type: string
+      - in: String
+        name: productId
+        description: Identifies the product under which data is aggregated.
+        type: string
+      - in: String
+        name: reportingGroupId
+        description: Identifies the unique reporting group.
+        type: string
+      - in: Integer
+        name: toMonth
+        description: The month ending the range of aggregated data. Must be paired
+          with toYear, fromYear, and fromMonth.
+        type: string
+      - in: Integer
+        name: toYear
+        description: The year ending the range of aggregated data. Must be paired
+          with toMonth, fromYear, and fromMonth.
+        type: string
+      - in: Integer
+        name: year
+        description: The year for which data is aggregated. Must be paired with a
+          month value.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Contracts
+definitions: []

@@ -1,0 +1,147 @@
+swagger: "2.0"
+info:
+  title: Case Management
+  description: Resolve questions or issues with your Akamai applications and services.
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /cases/v1/portal-user/case/{caseId}:
+    get:
+      summary: Get a Case
+      description: ""
+      operationId: casesv1portalusercasecaseid
+      parameters:
+      - in: String
+        name: caseId
+        description: Unique identifier for the support ticket.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Case
+  /cases/v1/portal-user/case/{caseId}/files:
+    post:
+      summary: Upload a File Attachment
+      description: ""
+      operationId: casesv1portalusercasecaseidfiles
+      parameters:
+      - in: String
+        name: caseId
+        description: Unique identifier for the support ticket.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Case
+  /cases/v1/portal-user/case/{caseId}/notes:
+    post:
+      summary: Comment on a Case
+      description: ""
+      operationId: casesv1portalusercasecaseidnotes
+      parameters:
+      - in: String
+        name: caseId
+        description: Unique identifier for the support ticket.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Case
+  /cases/v1/portal-user/case/{caseId}/request-close:
+    put:
+      summary: Close a Request
+      description: ""
+      operationId: casesv1portalusercasecaseidrequestclose
+      parameters:
+      - in: String
+        name: caseId
+        description: Unique identifier for the support ticket.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Case
+  /cases/v1/portal-user{?status,type,category}:
+    get:
+      summary: List Cases
+      description: ""
+      operationId: casesv1portaluserstatustypecategory
+      parameters:
+      - in: Enumeration
+        name: category
+        description: 'ts for technicalSupport, or etc (currently ignored). Possible
+          values: ts.'
+        type: string
+      - in: String
+        name: status
+        description: Retrieves all if missing, both active and closed cases.
+        type: string
+      - in: String
+        name: type
+        description: Retrieves all if missing, both user and company cases.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Case
+  /cases/v1/PS:
+    get:
+      summary: List Professional Services Cases
+      description: ""
+      operationId: casesv1ps
+      responses:
+        200:
+          description: OK
+      tags:
+      - Case
+    post:
+      summary: Create a Professional Services Case
+      description: ""
+      operationId: casesv1ps
+      responses:
+        200:
+          description: OK
+      tags:
+      - Case
+  /cases/v1/{category}:
+    get:
+      summary: List Cases per Category
+      description: ""
+      operationId: casesv1category
+      parameters:
+      - in: Enumeration
+        name: category
+        description: 'Category of lists to retrieve. Possible values: Billing_Support,
+          Business_Support, Technical_Support.'
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Case
+    post:
+      summary: Create a Case
+      description: ""
+      operationId: casesv1category
+      parameters:
+      - in: Enumeration
+        name: category
+        description: 'Category of lists to retrieve. Possible values: Billing_Support,
+          Business_Support, Technical_Support.'
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Case
+definitions: []

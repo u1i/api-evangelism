@@ -1,0 +1,163 @@
+swagger: "2.0"
+info:
+  title: Alert External Service Condition API
+  description: The Alert External Service Condition API.
+  version: 1.0.0
+host: api.newrelic.com
+basePath: /
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /v2/alerts_external_service_conditions.{format}:
+    get:
+      summary: List
+      description: <p>This API endpoint allows you to list the external service conditions
+        for your alert policy.</p><p>See our documentation for a discussion on <a
+        href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/pagination-api-output
+        target=_blank> output pagination</a>.</p>
+      operationId: list
+      parameters:
+      - in: query
+        name: page
+        description: Pagination index
+        type: integer
+      - in: query
+        name: policy_id
+        description: Alerts policy ID
+        type: integer
+      responses:
+        200:
+          description: OK
+      tags:
+      - Alert External Service Condition
+  /v2/alerts_external_service_conditions/policies/{policy_id}.{format}:
+    post:
+      summary: Create
+      description: '<p>This API endpoint allows you to create external service conditions
+        for your alert policies.</p><p>Note: <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/rest-api-key>Admin
+        Useru2019s API Key</a> is required.</p><p>See our documentation for a discussion
+        on <a href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/rest-api-calls-new-relic-alerts#ext-conditions-create
+        target=_blank>creating conditions for external services</a>.</p><p>All fields
+        are required except for u201crunbook_urlu201d, u201cenabledu201d (defaults
+        to false).</p><p><a href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/alerts-conditions-api-field-names#type
+        target=_blank>type</a>: apm_external_service, mobile_external_service.</p><p><a
+        href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/alerts-conditions-api-field-names#name
+        target=_blank>name</a>: A title for your condition.</p><p><a href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/alerts-conditions-api-field-names#enabled
+        target=_blank>enabled</a>: The status of your condition (optional).</p><p><a
+        href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/alerts-conditions-api-field-names#entities
+        target=_blank>entities</a>: An array of instance IDs associated with your
+        condition.</p><p><a href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/alerts-conditions-api-field-names#external_service_url
+        target=_blank>external_service_url</a>: The URL of the external service. Must
+        not include protocol (u201cexample.comu201d, not u201chttps://example.comu201d)</p><p><a
+        href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/alerts-conditions-api-field-names#metric
+        target=_blank>metric</a>: The metric field accepts parameters based on the
+        condition <b>type</b> selected as follows:</p><p>u00a0u00a0When <b>apm_external_service</b>:
+        response_time_average, response_time_minimum, response_time_maximum, throughput.</p><p>u00a0u00a0When
+        <b>mobile_external_service</b>: response_time_average, response_time_minimum,
+        response_time_maximum, throughput, network_failure_percentage, http_status_error_percentage.</p><p><a
+        href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/alerts-conditions-api-field-names#runbook_url
+        target=_blank>runbook_url</a>: Runbook URL to display in notifications (optional).</p><p><a
+        href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/alerts-conditions-api-field-names#terms_duration
+        target=_blank>terms[duration]</a> (in minutes): 5, 10, 15, 30, 60, 120.</p><p><a
+        href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/alerts-conditions-api-field-names#terms_operator
+        target=_blank>terms[operator]</a>: above, below, equal.</p><p><a href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/alerts-conditions-api-field-names#terms_priority
+        target=_blank>terms[priority]</a>: critical, warning.</p><p><a href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/alerts-conditions-api-field-names#terms_threshold
+        target=_blank>terms[threshold]</a>: Must be 0 or greater.</p><p><a href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/alerts-conditions-api-field-names#terms_time_function
+        target=_blank>terms[time_function]</a>: all, any.</p>'
+      operationId: create
+      parameters:
+      - in: body
+        name: external_service_condition
+        description: Condition schema
+        schema:
+          $ref: '#/definitions/holder'
+      - in: path
+        name: policy_id
+        description: Alerts policy ID
+        type: integer
+      responses:
+        200:
+          description: OK
+      tags:
+      - Alert External Service Condition
+  /v2/alerts_external_service_conditions/{condition_id}.{format}:
+    delete:
+      summary: Delete
+      description: '<p>This API endpoint allows you to delete external service conditions
+        associated with your alert policy.</p><p>Note: <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/rest-api-key>Admin
+        Useru2019s API Key</a> is required.</p><p>See our documentation for a discussion
+        on <a href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/rest-api-calls-new-relic-alerts#ext-conditions-delete
+        target=_blank>deleting External services conditions</a>.</p>'
+      operationId: delete
+      parameters:
+      - in: path
+        name: condition_id
+        description: Alerts condition ID
+        type: integer
+      responses:
+        200:
+          description: OK
+      tags:
+      - Alert External Service Condition
+  /v2/alerts_external_service_conditions/{id}.{format}:
+    put:
+      summary: Update
+      description: '<p>This API endpoint allows you to update external service conditions
+        for your alert policies.</p><p>Note: <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/rest-api-key>Admin
+        Useru2019s API Key</a> is required.</p><p>See Alerts External Service Conditions
+        &gt; Create for an explanation of the field values used in this command or
+        the online documentation on<a href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/rest-api-calls-new-relic-alerts#ext-conditions-update
+        target=_blank>updating conditions for external services</a>.</p>'
+      operationId: update
+      parameters:
+      - in: body
+        name: external_service_condition
+        description: Condition schema
+        schema:
+          $ref: '#/definitions/holder'
+      - in: path
+        name: id
+        description: Alerts condition ID to update
+        type: integer
+      responses:
+        200:
+          description: OK
+      tags:
+      - Alert External Service Condition
+definitions:
+  "":
+    properties:
+      external_service_condition:
+        description: This is a default description.
+        type: GET
+      id:
+        description: This is a default description.
+        type: GET
+      type:
+        description: This is a default description.
+        type: GET
+      name:
+        description: This is a default description.
+        type: GET
+      enabled:
+        description: This is a default description.
+        type: GET
+      entities:
+        description: This is a default description.
+        type: GET
+      external_service_url:
+        description: This is a default description.
+        type: GET
+      metric:
+        description: This is a default description.
+        type: GET
+      runbook_url:
+        description: This is a default description.
+        type: GET
+      terms:
+        description: This is a default description.
+        type: GET

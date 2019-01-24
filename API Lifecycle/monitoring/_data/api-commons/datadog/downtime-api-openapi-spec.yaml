@@ -1,0 +1,121 @@
+swagger: "2.0"
+info:
+  title: Downtime API
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /api/v1/downtime:
+    get:
+      summary: Get all monitor downtimes
+      description: ""
+      operationId: get-all-monitor-downtimes
+      parameters:
+      - type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Downtime
+    post:
+      summary: Schedule monitor downtime
+      description: ""
+      operationId: schedule-monitor-downtime
+      parameters:
+      - type: string
+      - in: query
+        name: period
+        description: ' how often to repeat as an integer. For example to repeat every
+          3 days, selectn                a type of days and a period of 3.n              '
+        type: string
+      - in: query
+        name: type
+        description: ' the type of recurrence. Choose from: days, weeks,n              months,
+          years.n              '
+        type: string
+      - in: query
+        name: until_date
+        description: ' (optional) the date at which the recurrence should end as a
+          POSIX timestmap.n                until_occurences and until_date are mutually
+          exclusiven              '
+        type: string
+      - in: query
+        name: until_occurrences
+        description: ' (optional) how many times the downtime will be rescheduled.n                until_occurences
+          and until_date are mutually exclusiven              '
+        type: string
+      - in: query
+        name: week_days
+        description: ' (optional) a list of week days to repeat on. Choose from: Mon,
+          Tue, Wed, Thu, Fri, Sat or Sun. Only applicable when type is weeks. First
+          letter must be capitalized.n              '
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Downtime
+  /api/v1/downtime/:downtime_id:
+    delete:
+      summary: Cancel monitor downtime
+      description: ""
+      operationId: cancel-monitor-downtime
+      parameters:
+      - type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Downtime
+    get:
+      summary: Get a monitor downtime
+      description: ""
+      operationId: get-a-monitor-downtime
+      responses:
+        200:
+          description: OK
+      tags:
+      - Downtime
+    put:
+      summary: Update monitor downtime
+      description: ""
+      operationId: update-monitor-downtime
+      parameters:
+      - type: string
+      - in: query
+        name: period
+        description: ' how often to repeat as an integer. For example to repeat every
+          3 days, selectn                a type of days and a period of 3.n              '
+        type: string
+      - in: query
+        name: type
+        description: ' the type of recurrence. Choose from: days, weeks,n              months,
+          years.n              '
+        type: string
+      - in: query
+        name: until_date
+        description: ' (optional) the date at which the recurrence should end as a
+          POSIX timestmap.n                until_occurences and until_date are mutually
+          exclusiven              '
+        type: string
+      - in: query
+        name: until_occurrences
+        description: ' (optional) how many times the downtime will be rescheduled.n                until_occurences
+          and until_date are mutually exclusiven              '
+        type: string
+      - in: query
+        name: week_days
+        description: ' (optional) a list of week days to repeat on. Choose from: Mon,
+          Tue, Wed, Thu, Fri, Sat or Sun. Only applicable when type is weeks. First
+          letter must be capitalized.n              '
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Downtime
+definitions: []

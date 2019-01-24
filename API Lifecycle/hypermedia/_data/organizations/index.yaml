@@ -1,0 +1,207 @@
+---
+- slug: clarify
+  name: Clarify
+  description: Clarify makes what was said, searchable. As the world records more
+    and more of its interactions, in more and more ways, it needs a new generation
+    of tools to filter, manage, and process the raw data. Clarify's API, SDKs and
+    plugins enable developers and entrepreneurs to add audio and video search to any
+    application. Clarify is already being used by disruptors and innovators, as well
+    as some of the world&rsquo;s largest institutions.
+  url: http://clarify.io/
+  shorturl: ""
+  twitter: https://twitter.com/ClarifyAPI
+  blog: http://clarify.io/blog/
+  blogrss: ""
+  github: https://github.com/OP3Nvoice
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/clarify-logo.png
+  tags: Audio,Voice,Hypermedia,Videos,Target,Hypermedia API
+- slug: feedbooks
+  name: Feedbooks
+  description: Feedbooks is a digital library and cloud publishing service for both
+    public domain and original books. The main focus of the web site is providing
+    e-books with particularly high-quality typesetting in multiple formats, particularly
+    EPUB, Kindle, and PDF formats. Custom PDF generation settings, like trim size
+    dimensions and margins, are possible on the site.
+  url: http://www.feedbooks.com
+  shorturl: ""
+  twitter: https://twitter.com/feedbooks
+  blog: http://blog.feedbooks.com
+  blogrss: http://blog.feedbooks.com/feed/
+  github: https://github.com/Feedbooks
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/403_logo.png
+  tags: Books,IPhone,Mobile,Telco,Publishing,Hypermedia,Hypermedia API
+- slug: django-rest
+  name: Django REST
+  description: Django REST framework is a powerful and flexible toolkit that makes
+    it easy to build Web APIs.&nbsp;It offers an attractive, web browseable version
+    of your API, and the option of returning raw JSON. The Django Rest Framework provides
+    powerful model serialization, display data using standard function based views,
+    or get granular with powerful class based views for more complex functionality.
+    All in a fully REST compliant wrapper.
+  url: http://www.django-rest-framework.org
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/django-rest-framework.png
+  tags: Deployment,Framework,Hypermedia,Hypermedia API
+- slug: api-platform
+  name: API Platform
+  description: An incredible PHP web framework to build modern, API-first web projects!
+    Out of the box hypermedia and Linked Data support with JSON-LD, Schema.org and
+    Hydra.
+  url: https://api-platform.com
+  shorturl: ""
+  twitter: https://twitter.com/ApiPlatform
+  blog: ""
+  blogrss: ""
+  github: https://github.com/api-platform
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-platform-logo.png
+  tags: Deployment,Framework,PHP,Hypermedia,JSON LD,Schema.org,Hydra,Linked Data,Open
+    Source,Hypermedia API
+- slug: apigility
+  name: Apigility
+  description: Separating presentation logic from data provides the flexibility to
+    support multiple client form factors, and future-proofs apps to allow behind-the-scenes
+    change without breaking user interfaces. With Apigility, you can take the code
+    that powers your business, and then API-enable it.
+  url: https://apigility.org/
+  shorturl: ""
+  twitter: https://twitter.com/Apigility
+  blog: ""
+  blogrss: ""
+  github: https://github.com/zfcampus
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apigility-logo.png
+  tags: Deployment,HAL,Hypermedia,Cloud,Hypermedia API
+- slug: verticalresponse
+  name: VerticalResponse
+  description: VerticalResponse Inc. provides a full suite of Web-based, self-service
+    marketing solutions including email marketing, social media, event marketing,
+    direct mail and online surveys. Its mission is to empower businesses and non-profit
+    organizations to easily and affordably create, share and analyze their own marketing
+    campaigns. Users can benefit from a wide variety of features including more than
+    700 free email marketing templates; the ability to share their content over social
+    media networks; and robust reporting so that they can understand campaign success.
+  url: http://verticalresponse.com
+  shorturl: ""
+  twitter: https://twitter.com/vr4smallbiz
+  blog: http://developer.verticalresponse.com/Blog
+  blogrss: http://developer.verticalresponse.com/blog/feed-entries
+  github: https://github.com/VerticalResponse
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/517_logo.png
+  tags: Email Marketing,Hypermedia,Marketing,Partners,Hypermedia API
+- slug: huddle
+  name: Huddle
+  description: Established in 2006, Huddle creates cloud-based collaboration and Content
+    software for the enterprise. Its patent-pending intelligent technology locates
+    and recommends valuable information to users, with no need for search. Huddle
+    is used by more than 100,000 business and government organizations worldwide,
+    including the central US and UK government, AKQA, HTC and Kia Motors, to securely
+    store, share and collaborate on content with people inside and outside of their
+    organization. Huddle can be accessed online, on desktops and on the move with
+    BlackBerry, iPhone and iPad apps.
+  url: http://www.huddle.com
+  shorturl: ""
+  twitter: https://twitter.com/huddle
+  blog: http://www.huddle.com/blog/
+  blogrss: ""
+  github: https://github.com/Huddle
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/423_logo.png
+  tags: Enterprise,Projects,Collaboration,People,Files,API United Kingdom,Hypermedia,Content,Hypermedia
+    API
+- slug: elastic-path
+  name: Elastic Path
+  description: Elastic Path builds commerce software that powers the next generation
+    of digital experiences, helping businesses generate more revenue from their goods,
+    services, and content. Our products, including Commerce Engine, Cortex, and Subscriptions,
+    enable companies to unite discovery, buying, and consumption into outstanding
+    customer experiences that drive more engagement and conversion.
+  url: http://www.elasticpath.com
+  shorturl: ""
+  twitter: https://twitter.com/elasticpath
+  blog: ""
+  blogrss: ""
+  github: https://github.com/elasticpath
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/elastic-path.jpeg
+  tags: Enterprise,Retail,Commerce,Hypermedia,API LIfeycle,Definitions,Hypermedia
+    API
+- slug: alps.io
+  name: alps.io
+  description: Announcement account for the Application-Level Proile Semantics (ALPS)
+    specification for Web Service Description.
+  url: ""
+  shorturl: ""
+  twitter: https://twitter.com/alps_io
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: ""
+  tags: Hypermedia,Definitions, Design, Data Schema,Hypermedia API
+- slug: foxycart
+  name: foxycart
+  description: FoxyCart is a hosted PCI compliant e-commerce platform built to empower
+    web developers and designers with a powerful and flexible platform with which
+    to add e-commerce functionality to existing systems. It's not an all-in-one system
+    with an integrated CMS, CRM, email marketing system, or anything else. We've chosen
+    flexibility over bloat, power over features, and built the most flexible and streamlined
+    cart and checkout system available.&nbsp;
+  url: https://foxycart.com
+  shorturl: ""
+  twitter: https://twitter.com/foxycart
+  blog: http://www.foxycart.com/blog
+  blogrss: http://feeds.feedburner.com/foxycart
+  github: https://github.com/FoxyCart
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/foxy-cart-logo.png
+  tags: Hypermedia,Commerce,API LIfeycle,Target,Shopping Cart,Hypermedia API
+- slug: paypal
+  name: PayPal
+  description: PayPal is an online payments and money transfer service that allows
+    you to send money via email, phone, text message or Skype. They offer products
+    to both individuals and businesses alike, including online vendors, auction sites
+    and corporate users. PayPal connects effortlessly to bank accounts and credit
+    cards.
+  url: https://paypal.com
+  shorturl: ""
+  twitter: https://twitter.com/paypal
+  blog: ""
+  blogrss: ""
+  github: https://github.com/paypal
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/237_logo.png
+  tags: International,Currency,Invoice,Payments,Billing,Merchant,Hypermedia,Payment
+    API,Indie EdTech Data Jam,Payment API,Getting Started,Hypermedia API
+- slug: amazon-web-services
+  name: Amazon Web Services
+  description: Amazon Web Services(AWS) is a collection of remote computing services
+    (also called web services) that together make up a cloud computing platform, offered
+    over the Internet by Amazon.com. The most central and well-known of these services
+    are Amazon EC2 and Amazon S3. The service is advertised as providing a large computing
+    capacity (potentially many servers) much faster and cheaper than building a physical
+    server farm.
+  url: http://aws.amazon.com
+  shorturl: ""
+  twitter: https://twitter.com/awscloud
+  blog: http://aws.amazon.com/blogs/aws/
+  blogrss: http://feeds.feedburner.com/AmazonWebServicesBlog
+  github: https://github.com/amazonwebservices
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/amazon-aws-logo.jpg
+  tags: Storage,DNS,BaaS,Payments,Hypermedia,Cloud,Compute,My API Stack,Management,Voice,Partners,Plans,API
+    LIfeycle,Real Time,Serverless,Advertising,Commerce,Database,Command Line Interface,DNS
+    Cloud,Getting Started,Orchestration,Hypermedia API
+- slug: wurl
+  name: Wurl
+  description: Since 2010, Wurl has provided online-video programming, metadata and
+    cloud-based services to video service providers on broadband-connected devices
+    including smart&shy;phones, tablets, connected TVs, OTT services, IPTV systems,
+    video CE devices, and desktop/web apps. &nbsp;Our customers use the Wurl API&thinsp;
+    to integrate the world&rsquo;s best online video with their own products&thinsp;&mdash;&thinsp;now
+    serving +3 million apps and devices.
+  url: http://wurl.com
+  shorturl: ""
+  twitter: https://twitter.com/wurldotcom
+  blog: http://www.wurl.com/blog
+  blogrss: http://wurl.com/feed/
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1945_logo.png
+  tags: Videos,Streaming,Media,Television,Siren,Hypermedia,Videos,Hypermedia API
+...

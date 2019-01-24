@@ -1,0 +1,25 @@
+swagger: "2.0"
+info:
+  title: Servertime API
+  description: The Servertime API.
+  version: 1.0.0
+host: api.pingdom.com
+basePath: /
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  n    /api/{version}/servertime:
+    n    get:
+      summary: Get Current Server Time
+      description: '    Get the current time of the API server.'
+      operationId: get-current-server-time
+      responses:
+        200:
+          description: OK
+      tags:
+      - Servertime
+definitions: []

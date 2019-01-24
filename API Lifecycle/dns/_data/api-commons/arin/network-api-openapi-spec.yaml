@@ -1,0 +1,74 @@
+swagger: "2.0"
+info:
+  title: Network API
+  description: For managing network details.
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /net/children:
+    get:
+      summary: List Children
+      description: ' lists the child networks of a given network.'
+      operationId: netChildren
+      responses:
+        200:
+          description: OK
+      tags:
+      - Children
+  /net/parent:
+    get:
+      summary: List Partent
+      description: lists the parent network of a given network.
+      operationId: netParent
+      responses:
+        200:
+          description: OK
+      tags:
+      - Parent
+  /net/pocs:
+    get:
+      summary: List POCs
+      description: lists the POCs associated with a given network.
+      operationId: netsPocs
+      responses:
+        200:
+          description: OK
+      tags:
+      - POCs
+  /net/rdns:
+    get:
+      summary: List RDNS
+      description: lists the delegations of a given network.
+      operationId: netRdns
+      responses:
+        200:
+          description: OK
+      tags:
+      - RDNS
+  /nets:
+    get:
+      summary: Networks
+      description: ""
+      operationId: nets
+      parameters:
+      - in: query
+        name: handle
+        description: the handle of the network
+        type: string
+        format: string
+      - in: query
+        name: name
+        description: the name of the network
+        type: string
+        format: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Networks
+definitions: []

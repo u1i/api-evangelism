@@ -1,0 +1,79 @@
+swagger: "2.0"
+info:
+  title: Account API
+  description: The account API.
+  version: 1.0.0
+host: api.truesight.bmc.com
+basePath: /
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /account:
+    get:
+      summary: Account Resource
+      description: Information about the authorized account.
+      operationId: information-about-the-authorized-account
+      responses:
+        200:
+          description: OK
+      tags:
+      - Account
+  /v1/account/aws/status:
+    get:
+      summary: Get AWS Integration Status
+      description: ' Gets AWS status'
+      operationId: get-aws-integration-status
+      responses:
+        200:
+          description: OK
+      tags:
+      - Account
+  /v1/account/mobile-devices:
+    get:
+      summary: Get All Account Mobile Devices
+      description: Gets all of the devices for an account
+      operationId: get-all-account-mobile-devices
+      responses:
+        200:
+          description: OK
+      tags:
+      - Account
+  /v1/account/mobile-devices/:accountDeviceId:
+    delete:
+      summary: Delete Account Mobile Device
+      description: Deletes a device from an account
+      operationId: delete-account-mobile-device
+      parameters:
+      - in: query
+        name: accountDeviceIdnThe account device ID to delete
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Account
+  /v1/account/sources:
+    put:
+      summary: Set source metadata
+      description: ' Sets one or more source metadata'
+      operationId: set-source-metadata
+      responses:
+        200:
+          description: OK
+      tags:
+      - Account
+  /v1/account/sources/:lastModified?:
+    get:
+      summary: Get all source information
+      description: ' Gets all source (host + data stream) information'
+      operationId: get-all-source-information
+      responses:
+        200:
+          description: OK
+      tags:
+      - Account
+definitions: []

@@ -1,0 +1,252 @@
+- slug: versioneye
+  name: VersionEye
+  description: >-
+    Notification System for Software Libraries. Follow your libraries and get
+    notified about new versions. Stay up-to-date! Over 200K Java, Ruby, Python,
+    PHP, Clojure &amp; Node.JS Libraries. VersionEye can monitor your Software
+    Project on GitHub and notify you about outdated dependencies. This tool
+    helps you to stay up-to-date. Never miss a version! Don&rsquo;t waste your
+    time with manually checking dependencies. Save Time &amp; Money.
+  url: 'http://www.versioneye.com/apijson'
+  short_url: ''
+  twitter: 'https://twitter.com/VersionEye'
+  blog: 'http://versioneye.wordpress.com/'
+  blog_rss: ''
+  github: 'https://github.com/versioneye'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1595_logo.jpg
+  tags: 'Social,Notifications,Notifications,Repository,Programming,Code,SDK'
+- slug: sdk-bridge
+  name: SDK Bridge
+  description: >-
+    SDK Bridge&nbsp;is a company that specializes in explaining technology
+    through documentation and software development kits. It provides a variety
+    of API-related services including:  API Documentation Sample code and
+    tutorials Highly technical copywriting Training sessions on how to use
+    software platforms Technology classes for youth  These services can be a
+    critical piece of delivering your API. SDK Bridge says that it is
+    a&nbsp;bridge between people and technology. So very true. SDK
+    Bridge&nbsp;provides a set of services that any business looking to deliver
+    an API should evaluate. Even though you many be able to generate your own
+    marketing materials, SDK and other supporting API documents, you may find
+    more value bring in an outside perspective to make sure you explain how your
+    API solves problems, adds value, and can be successfully integrated to
+    customers systems.
+  url: 'http://sdkbridge.com/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/SDKBridge-logo.gif
+  tags: 'SDK Bridge,Peter Gruenbaum,Jonathan Fingold,Building Block,Documentation'
+- slug: safedk
+  name: SafeDK
+  description: >-
+    SafeDK offers an infrastructure solution, which improves mobile apps'
+    security, stability and QoS, by monitoring and controlling 3rd party tools
+    integrated in the apps.  Our cutting-edge technology empowers app publishers
+    with data and knowledge around the tools they bring home, into the
+    applications they build. We are your companion for the entire development
+    journey: from finding the right SDKs, through safe integration, to their
+    ongoing monitoring and real-time control. We are a team of passionate
+    tech-lovers, who use our talent to bring transparency and trust to the SDK
+    economy, allowing app publishers to maximize the benefits and minimize the
+    risks of using 3rd party tools.
+  url: 'http://www.safedk.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/GetSafeDK'
+  blog: 'http://blog.safedk.com/'
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/safedk-logo.png
+  tags: SDK
+- slug: sdk-critic
+  name: SDK Critic
+  description: >-
+    SDK Critic is a rating and review website for iOS and OS X frameworks.
+    Consult SDK Critic to determine how hesitant you should be about using an
+    unfamiliar framework and which parts of it you should be particularly wary
+    of, based on the consensus of the developer community.
+  url: 'http://www.sdkcritic.com/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sdk-critic.png
+  tags: SDK
+- slug: sdks.io
+  name: SDKS.IO
+  description: >-
+    SDKS.IO is, at heart, a store for SDKs allowing people to create their own,
+    download other SDKs and, most importantly, search through our database of
+    SDKs. We automatically look through existing API repositories including
+    Mashape to bring you a comprehensive list of the SDK world.
+  url: 'http://sdks.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/sdksio'
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sdks-io-logo.png
+  tags: SDK
+- slug: google-cloud-source-repositories
+  name: Google Cloud Source Repositories
+  description: >-
+    Google Cloud Source Repositories provides Git version control to support
+    collaborative development of any application or service, including those
+    that run on Google App Engine and Google Compute Engine. If you are using
+    the Stackdriver Debugger, you can use Cloud Source Repositories and related
+    tools to view debugging information alongside your code during application
+    runtime. Cloud Source Repositories also provides a source browser that you
+    can use to view your repository files from within the Cloud Console.
+  url: 'https://cloud.google.com/source-repositories/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-cloud-repositories.png
+  tags: 'Google APIs,GitHub,Code,SDK,Orchestration'
+- slug: google-apps-admin-sdk
+  name: Google Apps Admin SDK
+  description: >-
+    Administer domain resources, create reports, and manage subscriptions. Use
+    the Directory API to create and manage users and groups for a domain, along
+    with their aliases. Programmatically access the functionality found at the
+    Admin console Organization and users tab. Use the Reports API to gain
+    insights on Content with Google Drive activity reports. Audit administrator
+    actions. Generate customer and user usage reports.
+  url: 'https://developers.google.com/admin-sdk/'
+  short_url: ''
+  twitter: ''
+  blog: 'https://gsuite-developers.googleblog.com/search/label/Admin%20SDK'
+  blog_rss: 'https://gsuite-developers.googleblog.com/feeds/posts/default?alt=rss'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/nexusae0_icon2.png
+  tags: 'Google APIs,Applications,Documents,Licensing,SDK,Monetization,Reseller'
+- slug: rest-united
+  name: REST United
+  description: >-
+    Our mission is to help REST API providers easily create SDKs in different
+    programming languages with easy-to-follow documentation and code samples
+    while software developers can effortlessly consume the REST API by following
+    the SDK installation instruction and using the code samples within minutes.
+  url: 'http://restunited.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/restunited'
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/rest-united.png
+  tags: 'Documentation,SDK,Testing,Debugging,API Management SDK'
+- slug: apimatic
+  name: APIMATIC
+  description: >-
+    APIMATIC is an automatic SDK generator for Hypermedia APIs. Providing SDKs
+    or client libraries not only reduces the time required for your customers to
+    begin consuming your API, but also provides competitor advantage by
+    targeting the variety of programming languages. While the market pressures
+    you to release early and release often, you will often find yourself
+    constrained with respect to time and resources. As a result, maintaining
+    SDKs becomes untenable which ends up becoming a support nightmare.
+  url: 'https://www.apimatic.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/apimatic'
+  blog: 'https://apimatic.io/blog'
+  blog_rss: ''
+  github: 'https://github.com/apimatic'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apimatic-logo.png
+  tags: 'Design,SDK,My API Stack,interesting'
+- slug: aws-codebuild
+  name: AWS CodeBuild
+  description: >-
+    AWS CodeBuild is a fully managed build service that compiles source code,
+    runs tests, and produces software packages that are ready to deploy. With
+    CodeBuild, you don&rsquo;t need to provision, manage, and scale your own
+    build servers. CodeBuild scales continuously and processes multiple builds
+    concurrently, so your builds are not left waiting in a queue. You can get
+    started quickly by using prepackaged build environments, or you can create
+    custom build environments that use your own build tools. With CodeBuild, you
+    are charged by the minute for the compute resources you use.
+  url: 'https://aws.amazon.com/codebuild/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/code-build-console-icon.png
+  tags: 'Amazon Web Services,SDK,Orchestration'
+- slug: aws-codecommit
+  name: AWS CodeCommit
+  description: >-
+    AWS CodeCommit is a fully-managed source control service that makes it easy
+    for companies to host secure and highly scalable private Git repositories.
+    CodeCommit eliminates the need to operate your own source control system or
+    worry about scaling its infrastructure. You can use CodeCommit to securely
+    store anything from source code to binaries, and it works seamlessly with
+    your existing Git tools.
+  url: 'https://aws.amazon.com/codecommit/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Developer-Tools_AWSCodeCommit.png
+  tags: 'Amazon Web Services,SDK,Orchestration'
+- slug: aws-codedeploy
+  name: AWS CodeDeploy
+  description: >-
+    AWS CodeDeploy is a service that automates code deployments to any instance,
+    including Amazon EC2 instances and instances running on-premises. AWS
+    CodeDeploy makes it easier for you to rapidly release new features, helps
+    you avoid downtime during application deployment, and handles the complexity
+    of updating your applications. You can use AWS CodeDeploy to automate
+    software deployments, eliminating the need for error-prone manual
+    operations, and the service scales with your infrastructure so you can
+    easily deploy to one instance or thousands.
+  url: 'https://aws.amazon.com/codedeploy/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-codedeploy.png
+  tags: 'Amazon Web Services,SDK,Orchestration'
+- slug: aws-code-pipeline
+  name: AWS Code Pipeline
+  description: >-
+    AWS Data Pipeline is a web service that helps you reliably process and move
+    data between different AWS compute and storage services, as well as
+    on-premise data sources, at specified intervals. With AWS Data Pipeline, you
+    can regularly access your data where it&rsquo;s stored, transform and
+    process it at scale, and efficiently transfer the results to AWS services
+    such as Amazon S3, Amazon RDS, Amazon DynamoDB, and Amazon EMR. AWS Data
+    Pipeline helps you easily create complex data processing workloads that are
+    fault tolerant, repeatable, and highly available. You don&rsquo;t have to
+    worry about ensuring resource availability, managing inter-task
+    dependencies, retrying transient failures or timeouts in individual tasks,
+    or creating a failure notification system. AWS Data Pipeline also allows you
+    to move and process data that was previously locked up in on-premise data
+    silos.
+  url: 'https://aws.amazon.com/datapipeline/'
+  short_url: ''
+  twitter: ''
+  blog: 'http://blogs.aws.amazon.com/bigdata'
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Developer-Tools_AWSCodePipeline.png
+  tags: 'Amazon Web Services,SDK,Data,Migration,Orchestration'

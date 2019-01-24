@@ -1,0 +1,59 @@
+swagger: "2.0"
+info:
+  title: Content Control Utility (v2)
+  description: Purge Edge content by request. Use this API when writing new applications.
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /ccu/v2/purges/{purgeId}:
+    get:
+      summary: Get Purge Status
+      description: ""
+      operationId: ccuv2purgespurgeid
+      parameters:
+      - in: String
+        name: purgeId
+        description: The purgeId returned from the POST to the queue.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /ccu/v2/queues/{queueName}:
+    get:
+      summary: Get Current Queue Size
+      description: ""
+      operationId: ccuv2queuesqueuename
+      parameters:
+      - in: String
+        name: queueName
+        description: Name of the queue. Currently supported options are default and
+          emergency.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    post:
+      summary: Add a Request
+      description: ""
+      operationId: ccuv2queuesqueuename
+      parameters:
+      - in: String
+        name: queueName
+        description: Name of the queue. Currently supported options are default and
+          emergency.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

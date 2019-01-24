@@ -1,0 +1,363 @@
+swagger: "2.0"
+info:
+  title: Media Services
+  description: Build a custom HD Network Management Interface with Akamai Utility,
+    Domain, Stream, and Archive Management APIs. Latest (OPEN) version.
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /config-media-live/v1/api/live/utils/archivelocation:
+    get:
+      summary: List Archive Locations
+      description: ""
+      operationId: configmedialivev1apiliveutilsarchivelocation
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-media-live/v1/live:
+    get:
+      summary: List Domains
+      description: ""
+      operationId: configmedialivev1live
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    post:
+      summary: Create a Domain
+      description: ""
+      operationId: configmedialivev1live
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-media-live/v1/live/utils/contacts:
+    get:
+      summary: List Contacts
+      description: ""
+      operationId: configmedialivev1liveutilscontacts
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-media-live/v1/live/utils/countries:
+    get:
+      summary: List Countries
+      description: ""
+      operationId: configmedialivev1liveutilscountries
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-media-live/v1/live/utils/cpcode:
+    get:
+      summary: List CP Codes
+      description: ""
+      operationId: configmedialivev1liveutilscpcode
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-media-live/v1/live/utils/delivery/format:
+    get:
+      summary: List Delivery Formats
+      description: ""
+      operationId: configmedialivev1liveutilsdeliveryformat
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-media-live/v1/live/utils/ingest/format:
+    get:
+      summary: List Ingest Formats
+      description: ""
+      operationId: configmedialivev1liveutilsingestformat
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-media-live/v1/live/{domain}:
+    delete:
+      summary: Remove a Domain
+      description: ""
+      operationId: configmedialivev1livedomain
+      parameters:
+      - in: String
+        name: domain
+        description: Unique identifier for each domain..
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    get:
+      summary: Get a Domain
+      description: ""
+      operationId: configmedialivev1livedomain
+      parameters:
+      - in: String
+        name: domain
+        description: Unique identifier for each domain..
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-media-live/v1/live/{domain}/stream:
+    get:
+      summary: List Streams
+      description: ""
+      operationId: configmedialivev1livedomainstream
+      parameters:
+      - in: String
+        name: domain
+        description: Unique identifier for each domain.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    post:
+      summary: Create a New Stream
+      description: ""
+      operationId: configmedialivev1livedomainstream
+      parameters:
+      - in: String
+        name: domain
+        description: Unique identifier for each domain.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-media-live/v1/live/{domain}/stream/{streamId}:
+    delete:
+      summary: Remove a Stream
+      description: ""
+      operationId: configmedialivev1livedomainstreamstreamid
+      parameters:
+      - in: String
+        name: domain
+        description: Unique identifier for each domain.
+        type: string
+      - in: Number
+        name: streamId
+        description: Unique identifier for each stream.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    get:
+      summary: Get a Stream
+      description: ""
+      operationId: configmedialivev1livedomainstreamstreamid
+      parameters:
+      - in: String
+        name: domain
+        description: Unique identifier for each domain.
+        type: string
+      - in: Number
+        name: streamId
+        description: Unique identifier for each stream.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    put:
+      summary: Modify a Stream
+      description: ""
+      operationId: configmedialivev1livedomainstreamstreamid
+      parameters:
+      - in: String
+        name: domain
+        description: Unique identifier for each domain.
+        type: string
+      - in: Number
+        name: streamId
+        description: Unique identifier for each stream.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-media-live/v1/live/{domain}/stream/{streamId}/event:
+    get:
+      summary: List Events
+      description: ""
+      operationId: configmedialivev1livedomainstreamstreamidevent
+      parameters:
+      - in: String
+        name: domain
+        description: Unique identifier for each domain.
+        type: string
+      - in: Number
+        name: streamId
+        description: Unique identifier for each stream.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-media-live/v1/live/{domain}/stream/{streamId}/event/{eventName}:
+    delete:
+      summary: Remove an Event
+      description: ""
+      operationId: configmedialivev1livedomainstreamstreamideventeventname
+      parameters:
+      - in: String
+        name: domain
+        description: Unique identifier for each domain.
+        type: string
+      - in: String
+        name: eventName
+        description: Human-readable event name.
+        type: string
+      - in: Number
+        name: streamId
+        description: Unique identifier for each stream.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    get:
+      summary: Get an Event
+      description: ""
+      operationId: configmedialivev1livedomainstreamstreamideventeventname
+      parameters:
+      - in: String
+        name: domain
+        description: Unique identifier for each domain.
+        type: string
+      - in: String
+        name: eventName
+        description: Human-readable event name.
+        type: string
+      - in: Number
+        name: streamId
+        description: Unique identifier for each stream.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    put:
+      summary: Modify an Event
+      description: ""
+      operationId: configmedialivev1livedomainstreamstreamideventeventname
+      parameters:
+      - in: String
+        name: domain
+        description: Unique identifier for each domain.
+        type: string
+      - in: String
+        name: eventName
+        description: Human-readable event name.
+        type: string
+      - in: Number
+        name: streamId
+        description: Unique identifier for each stream.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-media-live/v1/live/{domain}/version:
+    post:
+      summary: Create a New Version
+      description: ""
+      operationId: configmedialivev1livedomainversion
+      parameters:
+      - in: String
+        name: domain
+        description: Unique identifier for each domain.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-media-live/v1/live/{domain}/version/{versionId}:
+    get:
+      summary: Get a Version
+      description: ""
+      operationId: configmedialivev1livedomainversionversionid
+      parameters:
+      - in: String
+        name: domain
+        description: Unique identifier for each domain.
+        type: string
+      - in: Number
+        name: versionId
+        description: Domain&#8217;s incremental version number.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-media-live/v1/live/{domain}/version/{versionId}/activation:
+    get:
+      summary: Get Activation Status
+      description: ""
+      operationId: configmedialivev1livedomainversionversionidactivation
+      parameters:
+      - in: String
+        name: domain
+        description: Unique identifier for each domain.
+        type: string
+      - in: Number
+        name: versionId
+        description: Domain&#8217;s incremental version number.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    put:
+      summary: Activate a Version
+      description: ""
+      operationId: configmedialivev1livedomainversionversionidactivation
+      parameters:
+      - in: String
+        name: domain
+        description: Unique identifier for each domain.
+        type: string
+      - in: Number
+        name: versionId
+        description: Domain&#8217;s incremental version number.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

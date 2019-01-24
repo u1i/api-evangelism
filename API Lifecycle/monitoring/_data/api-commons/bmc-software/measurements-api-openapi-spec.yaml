@@ -1,0 +1,51 @@
+swagger: "2.0"
+info:
+  title: Measurements
+  description: The Measurements.
+  version: 1.0.0
+host: api.truesight.bmc.com
+basePath: /
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /v1/measurements:
+    post:
+      summary: Add measures
+      description: Adds measurement readings to the data store.
+      operationId: add-measures
+      parameters:
+      - in: formData
+        name: source
+        description: The source of the metric
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Measurements
+  /v1/measurements/:metric:
+    get:
+      summary: Get measures
+      description: Retrieves measurement readings.
+      operationId: get-measures
+      responses:
+        200:
+          description: OK
+      tags:
+      - Measurements
+  /v1/measurementsBatch:
+    post:
+      summary: Get measures batch
+      description: Same as /v1/measurements/:metric except that an array of query
+        objects are passed in the body.
+      operationId: get-measures-batch
+      responses:
+        200:
+          description: OK
+      tags:
+      - Measurements
+definitions: []

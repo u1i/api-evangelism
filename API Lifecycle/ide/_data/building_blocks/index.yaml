@@ -1,0 +1,123 @@
+- building_block_id: workspace
+  type: IDE
+  category: Workbench
+  name: Workspace
+  description: >-
+    Workspace definition tooling and services, allowing APIs to be an integrated
+    part of the IDE workspaces, either by default or custom addition.
+  image: ''
+  tags: IDE
+- building_block_id: project
+  type: IDE
+  category: Workbench
+  name: Project
+  description: >-
+    Allowing developers to break up API development into specific projects,
+    providing well defined, project focused organization for API integration.
+  image: ''
+  tags: IDE
+- building_block_id: environment
+  type: IDE
+  category: Workbench
+  name: Environment
+  description: >-
+    Is there the option for establishing separate environments within an IDE.
+    Are developers able to segment and group their API integrations into
+    multiple environments.
+  image: ''
+  tags: IDE
+- building_block_id: autocomplete
+  type: IDE
+  category: Workbench
+  name: Autocomplete
+  description: >-
+    One of the hallmark features of an IDE, is autocomplete for specific
+    languages and frameworks. In this scenario autocomplete is focused on
+    dictionaries created by API definitions, meant for specific integrations.
+  image: ''
+  tags: IDE
+- building_block_id: worker
+  type: IDE
+  category: Backend
+  name: Worker
+  description: >-
+    Are there options for creating specific works, that allow specific API
+    integrations to be established, and run in isolation as specific workers or
+    jobs.
+  image: ''
+  tags: IDE
+- building_block_id: container
+  type: IDE
+  category: Backend
+  name: Container
+  description: >-
+    Are there options to be able to containerize individual API integrations,
+    isolating them into specific virtualized instances.
+  image: ''
+  tags: IDE
+- building_block_id: github
+  type: IDE
+  category: Extending
+  name: Github
+  description: >-
+    Using Github as a source for code, templates, definitions, and other
+    essential building blocks of the API development process, in a modern IDE.
+  image: ''
+  tags: IDE
+- building_block_id: plugins
+  type: IDE
+  category: Extending
+  name: Plugins
+  description: >-
+    Does the IDE environment allow for plugins, and extending the environment?
+    Plugins allow for the introduction of 3rd party tools and services into the
+    IDE workspace.
+  image: ''
+  tags: IDE
+- building_block_id: customize
+  type: IDE
+  category: Extending
+  name: Customize
+  description: >-
+    Are there options for customizing the IDE, from look and feel, to the
+    functionality.
+  image: ''
+  tags: IDE
+- building_block_id: editors
+  type: IDE
+  category: Configuration
+  name: Editor(s)
+  description: >-
+    Are there options for multiple editors, depending on media or file type, or
+    possible set per project and environment levels, within the IDE.
+  image: ''
+  tags: IDE
+- building_block_id: themes
+  type: IDE
+  category: Configuration
+  name: Themes
+  description: >-
+    Are there theme options, allowing the environment, workspace, and projects
+    to be custom defined by stored themes.
+  image: ''
+  tags: IDE
+- building_block_id: resources
+  type: IDE
+  category: Awareness
+  name: Resources
+  description: >-
+    What API focused resources are available within an IDE environment. How do
+    developers find documentation, and other resources that support them in
+    their integrations.
+  image: ''
+  tags: IDE
+- building_block_id: analytics
+  type: IDE
+  category: Awareness
+  name: Analytics
+  description: >-
+    What analytics are available to support API integrations, during
+    development? Is the ability to track and measure API related integrations
+    during design and development time.
+  image: ''
+  tags: IDE

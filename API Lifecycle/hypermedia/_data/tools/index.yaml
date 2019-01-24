@@ -1,0 +1,126 @@
+---
+- slug: json:api
+  name: JSON:API
+  description: A standard for building APIs in JSON, extracted from the JSON transport
+    implicitly defined by Ember Data's REST adapter.
+  url: ""
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/jsonapi@1.3x.png
+  tags: Hypermedia,Media Type
+- slug: hal-browser
+  name: HAL Browser
+  description: An API browser for the hal+json media type.&nbsp;HAL is a simple format
+    that gives a consistent and easy way to hyperlink between resources in your API.
+    Adopting HAL will make your API explorable, and its documentation easily disocverable
+    from within the API itself.
+  url: https://github.com/mikekelly/hal-browser
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/hal-info-model.png
+  tags: Hypermedia,Media Type
+- slug: collection+json
+  name: Collection+JSON
+  description: Collection+JSON is a JSON-based read/write hypermedia-type designed
+    to support management and querying of simple collections.
+  url: http://amundsen.com/media-types/collection/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: https://github.com/collection-json
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/madmen_icon_400x400.jpg
+  tags: Hypermedia,Definitions,Design,Media Type
+- slug: fortune.js
+  name: Fortune.js
+  description: Hello nerds. Fortune is a framework for prototyping hypermedia APIs
+    that implement the JSON API specification. It comes with a modular persistence
+    layer, with adapters for NeDB (built-in), MongoDB, MySQL, Postgres, & SQLite.
+  url: http://fortunejs.com/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/fortune-js-logo-2.png
+  tags: Hypermedia,Deployment,Framework,Mock,Virtualization
+- slug: jsonapi
+  name: JSON API
+  description: A specification for building JSON APIs
+  url: http://jsonapi.org/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: https://github.com/json-api/json-api
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Definitions,Hypermedia,Media Type
+- slug: hal
+  name: HAL
+  description: HAL is a simple format that gives a consistent and easy way to hyperlink
+    between resources in your API. Adopting HAL will make your API explorable, and
+    its documentation easily discoverable from within the API itself. In short, it
+    will make your API easier to work with and therefore more attractive to client
+    developers. APIs that adopt HAL can be easily served and consumed using open source
+    libraries available for most major programming languages. It's also simple enough
+    that you can just deal with it as you would any other JSON.
+  url: http://stateless.co/hal_specification.html
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/bw-github.jpg
+  tags: Hypermedia,Definitions,Design,Media Type
+- slug: jsonld
+  name: JSON-LD
+  description: JSON-LD is a lightweight Linked Data format. It is easy for humans
+    to read and write. It is based on the already successful JSON format and provides
+    a way to help JSON data interoperate at Web-scale. JSON-LD is an ideal data format
+    for programming environments, REST Web services, and unstructured databases such
+    as CouchDB and MongoDB.
+  url: http://json-ld.org/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/json-ld.png
+  tags: Hypermedia,Definitions,Semantics,Design,Media Type
+- slug: mason
+  name: Mason
+  description: Mason is a JSON format for introducing hypermedia elements to classic
+    JSON data representations. With Mason, you get hypermedia elements for linking
+    and modifying data, features for communicating to client developers and standardized
+    error handling. Mason is built on JSON, reads JSON, writes JSON and generally
+    fits well into a JSON based eco-system.
+  url: https://github.com/JornWildt/Mason
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/jorn-wildt.jpeg
+  tags: Hypermedia,Definitions,DesignMedia Type
+- slug: restdesc
+  name: RESTdesc
+  description: 'Semantic descriptions for hypermedia APIs. RESTdesc allows you to
+    capture the functionality of hypermedia APIs, so automated agents can use them.
+    Despite their powerful capabilities, RESTdesc descriptions are easy to master.
+    The description is not a goal in itself: you want your API to be used. See how
+    RESTdesc opens up your API for discovery, based on its functional characteristics.'
+  url: http://restdesc.org/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/restdesc-logo.png
+  tags: Hypermedia,Definitions,Design,Media Type
+...

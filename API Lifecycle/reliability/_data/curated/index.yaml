@@ -1,0 +1,408 @@
+---
+- curated_id: b1ae861d2d88ca390f93ca03310dc864
+  item_date: "2012-04-21 12:49:06"
+  title: Why Startups Need an API
+  url: https://tune.com/blog/startups-need-api/
+  domain: tune.com
+  image: ""
+- curated_id: sz+tB8pq15mq8YsF73m9QWRv2thg0IMoBqQqtUUdBd4=_15c149cf661:94d33a:2ab7028
+  item_date: "2017-05-16 21:08:52"
+  title: Why You Should Never Shut Down Your API Servers (unless you absolutely have
+    to)
+  url: https://www.apiscience.com/blog/?p=824
+  domain: www.apiscience.com
+  image: ""
+- curated_id: 53UYdSIjaP6vd+2Bz1ivn3GdkSivxwzyAAG6WfdGv7o=_15c36f22e22:2273794:cfb784e9
+  item_date: "2017-05-22 13:10:13"
+  title: Load Balancing a Dynamic Infrastructure with NGINX, Chef, and Consul
+  url: https://www.nginx.com/?p=50319
+  domain: www.nginx.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15c39670169:1c8648:ac928dde
+  item_date: "2017-05-23 12:32:47"
+  title: "What\u2019s Your Quality (ok, uptime)"
+  url: https://medium.com/p/bd11b8a95c46
+  domain: medium.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15c4239b363:2eb5b16:bb404dd5
+  item_date: "2017-05-25 17:41:42"
+  title: Why you should follow the robustness principle in your APIs
+  url: https://engineering.klarna.com/why-you-should-follow-the-robustness-principle-in-your-apis-b77bd9393e4b
+  domain: engineering.klarna.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15c42404778:3446b67:cfb784e9
+  item_date: "2017-05-25 17:52:45"
+  title: Robustness principle
+  url: https://www.wikiwand.com/en/Robustness_principle
+  domain: www.wikiwand.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15c5b9ce2c7:558bf7d:cfb784e9
+  item_date: "2017-05-30 15:35:15"
+  title: The 4 Golden Signals of API Health
+  url: http://info.netsil.com/golden-signals-monitoring
+  domain: info.netsil.com
+  image: ""
+- curated_id: 0VTnUfX894TcY5TA/oMFDbEY1bDrlajzsn67Jr80r8M=_15c5eaa3916:1cd208:7c63ad1c
+  item_date: "2017-05-31 06:19:24"
+  title: "GitHub\u2019s new zero downtime goal is off to a rocky start"
+  url: https://thenextweb.com/?p=1050571
+  domain: thenextweb.com
+  image: ""
+- curated_id: 4b5tCw5GvlXtruVS/z16h27znplNFRBntlQNEyTCvpo=_15c646fdcba:637f413:cfb784e9
+  item_date: "2017-06-01 09:00:11"
+  title: 'Microservices Patterns With Envoy Proxy, Part II: Timeouts and Retries'
+  url: https://developers.redhat.com/blog/?p=435598
+  domain: developers.redhat.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15c67a4707f:1f86a:17464ebe
+  item_date: "2017-06-01 09:27:11"
+  title: "Importing Historical Data from Yahoo Finance following the API Crash \u2014
+    R code"
+  url: https://medium.com/p/3e68ee03fe80
+  domain: medium.com
+  image: ""
+- curated_id: 53UYdSIjaP6vd+2Bz1ivn3GdkSivxwzyAAG6WfdGv7o=_15c6aea80b1:628d2cf:bb404dd5
+  item_date: "2017-06-02 15:22:02"
+  title: High Availability for NGINX Plus on AWS with keepalived and Elastic IP Address
+  url: https://www.nginx.com/?p=50661
+  domain: www.nginx.com
+  image: ""
+- curated_id: UjG+CeLaqj27hMBI/WjhTGNNUNvP04IJdUFt2zsPBtQ=_15caa929443:445d32:52bf19b1
+  item_date: "2017-06-15 00:00:00"
+  title: Best Practices for API Error Handling
+  url: http://nordicapis.com/?p=6675
+  domain: nordicapis.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15caee1eae8:105dab:60392a0b
+  item_date: "2017-06-15 20:06:57"
+  title: Event Hubs Auto
+  url: https://azure.microsoft.com/en-us/blog/event-hubs-auto-inflate-take-control-of-your-scale/?v=17.23h
+  domain: azure.microsoft.com
+  image: ""
+- curated_id: 53UYdSIjaP6vd+2Bz1ivn3GdkSivxwzyAAG6WfdGv7o=_15cb244ef37:67c3ff:3aab93c7
+  item_date: "2017-06-16 11:56:39"
+  title: Deploying NGINX Plus as a Highly Available AWS Load Balancer
+  url: https://www.nginx.com/?p=50727
+  domain: www.nginx.com
+  image: ""
+- curated_id: UGoT913Pj2iVsp570XrRhskqe5/o7yyV3N/NTloByRs=_15cc75bf2f4:6d5248:517b1451
+  item_date: "2017-06-20 13:59:03"
+  title: People trust Amazon with their personal data more than other major tech companies
+    (AMZN)
+  url: http://www.businessinsider.com/most-trusted-companies-keep-data-secure-chart-2017-6?utm_source=feedly&amp;utm_medium=referral
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15cd3e138f8:1a219bd:5b78a817
+  item_date: "2017-06-23 00:31:39"
+  title: What happened to the Yahoo Finance API?
+  url: https://medium.com/p/857c2a6abb6d
+  domain: medium.com
+  image: ""
+- curated_id: b4xX282kQ9FAxkxcTTl6litd4bsIad1WXC3AOIleGAM=_15cf59b6be2:4b24b66:5b78a817
+  item_date: "2017-06-29 13:46:37"
+  title: Service Discovery on OpenShift Using Multicast
+  url: https://blog.openshift.com/?p=12390
+  domain: blog.openshift.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15d1ae213cd:18bc5a8:1aa8479d
+  item_date: "2017-07-06 19:24:40"
+  title: 'Shields.io: Quality metadata badges for open source projects'
+  url: http://shields.io/
+  domain: shields.io
+  image: ""
+- curated_id: c24X2gDoRR+DpWQZwQhYKpS0pfQ6Fe5ZPXToM855EG4=_15d1ec4db23:42dbde:5b78a817
+  item_date: "2017-07-07 13:36:43"
+  title: Introducing double opt
+  url: https://blog.statuspage.io/introducing-double-opt-in
+  domain: blog.statuspage.io
+  image: ""
+- curated_id: c24X2gDoRR+DpWQZwQhYKpS0pfQ6Fe5ZPXToM855EG4=_15d1ec4db23:42dbde:5b78a817
+  item_date: "2017-07-07 13:36:43"
+  title: Introducing double opt
+  url: http://blog.statuspage.io/introducing-double-opt-in
+  domain: blog.statuspage.io
+  image: ""
+- curated_id: dnRmB76fym4hkmgsXBwtmLKNUV3FwG/JzTfREvhE440=_15d27218a32:899050:32bbcd87
+  item_date: "2017-07-09 04:13:08"
+  title: "Avoiding Garbage In \u2013 Garbage Out: Improving Administrative Data Quality
+    for Research"
+  url: http://thegovlab.org/?p=21009
+  domain: thegovlab.org
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15d82227712:36d740b:9493fdce
+  item_date: "2017-07-26 14:02:03"
+  title: Principles of Chaos Engineering
+  url: http://principlesofchaos.org/
+  domain: principlesofchaos.org
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_15d99ac624f:d5df3:6c0c5382
+  item_date: "2017-07-31 10:22:38"
+  title: "GitHub goes down \u2014 and takes developer productivity with it"
+  url: http://techcrunch.com/?p=1521398
+  domain: techcrunch.com
+  image: ""
+- curated_id: 8WqmKMFd8K7u/NGOImR541mH0lptB+6TGihQtOQyTbs=_15d9b0850a7:57bf082:9493fdce
+  item_date: "2017-07-31 15:39:00"
+  title: How CircleCI Processes 4.5 Million Builds Per Month
+  url: https://circleci.com/blog/how-circleci-processes-4-5-million-builds-per-month/
+  domain: circleci.com
+  image: ""
+- curated_id: p9l1QRJSWsBdfQhLvEqI6rdgjdJrOWvtCS0GvuF9J1Q=_15d9ee34201:522672:218de7ce
+  item_date: "2017-08-01 10:36:04"
+  title: "Designing for Scale: Part 3\u2014Scaling Under Stress"
+  url: http://blog.newrelic.com/?p=38222
+  domain: blog.newrelic.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15da07213a6:7b0d4d:bd5def64
+  item_date: "2017-08-01 17:50:48"
+  title: "ChAP: Chaos Automation Platform \u2013 Netflix TechBlog \u2013 Medium"
+  url: https://medium.com/netflix-techblog/chap-chaos-automation-platform-53e6d528371f
+  domain: medium.com
+  image: ""
+- curated_id: dnRmB76fym4hkmgsXBwtmLKNUV3FwG/JzTfREvhE440=_15da3c1bcc1:cc283b:bd5def64
+  item_date: "2017-08-02 09:01:48"
+  title: Why We Should Care About Bad Data
+  url: http://thegovlab.org/?p=21164
+  domain: thegovlab.org
+  image: ""
+- curated_id: +Ynkn+nz8fFgq+6Gv4fm5JNOl4AoS3Zj0L4DndA6JPA=_15da7cbe1fb:39c892:9cc60c90
+  item_date: "2017-08-02 23:00:00"
+  title: How to Handle Planned Downtime for Your API
+  url: https://zapier.com/engineering/api-planned-downtime/
+  domain: zapier.com
+  image: ""
+- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15dbd2929aa:1faa6c1:ce556ce1
+  item_date: "2017-08-07 07:46:17"
+  title: 'Judge: IBM owes Indiana $78M for failed welfare automation'
+  url: http://hosted.ap.org/dynamic/stories/A/APFN_US_INDIANA_WELFARE_LAWSUIT_INOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
+  domain: hosted.ap.org
+  image: ""
+- curated_id: 57WISYgmRKJyiA6++i53BYoj9ACy3nCrzF2dbHqarcE=_15dbe620df7:21a6dc1:ce556ce1
+  item_date: "2017-08-07 13:00:00"
+  title: Why Is Getting Clean Article and Product Data So Damn Hard?
+  url: http://blog.diffbot.com/?p=863
+  domain: blog.diffbot.com
+  image: ""
+- curated_id: q2q2EWvhwTr2G72+2bmzQ5IFpAlRi9P7s4CyaWlqDGs=_15dc38b2398:2e4eea0:898d1914
+  item_date: "2017-08-08 13:30:59"
+  title: 'Beyond Google SRE: What is Site Reliability Engineering like at Medium?'
+  url: https://medium.com/p/71c65bd35f4e
+  domain: medium.com
+  image: ""
+- curated_id: 53UYdSIjaP6vd+2Bz1ivn3GdkSivxwzyAAG6WfdGv7o=_15e0c44a184:3b521c:feeb522d
+  item_date: "2017-08-22 16:25:16"
+  title: Load Balancing for NGINX Plus with WURFL InFuze
+  url: https://www.nginx.com/?p=52825
+  domain: www.nginx.com
+  image: ""
+- curated_id: P6ZHWlrPQ5ILOZ54yDX4aZ046+AnYBvjvT3DdNFTXhQ=_15e333cea9a:3936379:feeb522d
+  item_date: "2017-08-30 06:00:51"
+  title: Site Reliability Engineering Is a Kind of Magic
+  url: https://thenewstack.io/?p=2960778
+  domain: thenewstack.io
+  image: ""
+- curated_id: NsOriG9vB4UTHHc+E7z3Iq8VotxRvtvEB9fu/BpjFa4=_15e5dbabc76:7455832:feeb522d
+  item_date: "2017-09-07 11:40:42"
+  title: Mashape Proxy Outage September 7th, 2017
+  url: http://blog.rapidapi.com/?p=874
+  domain: blog.rapidapi.com
+  image: ""
+- curated_id: rxLnjiJudc56FbZKrZ0crrg2UUWdKV8knoKwhWKNfS4=_15ec9115f2a:3616776:e05f56c8
+  item_date: "2017-09-28 08:15:05"
+  title: Adding Resiliency to Handle Registry Outages in Codeship Pro
+  url: https://blog.codeship.com/?p=5586
+  domain: blog.codeship.com
+  image: ""
+- curated_id: ctQxj818xbBhHEFyLu7YdnnqpJkfUeYDSZhAjGqqRko=_15ee3303221:5a56a50:e05f56c8
+  item_date: "2017-10-03 09:48:03"
+  title: Steady Improvement
+  url: http://apimetrics.io/?p=4026
+  domain: apimetrics.io
+  image: ""
+- curated_id: 8gWX9gjCXu6b2pD1eYQk9otwiJsMWRDfIpqRBziTqiI=_15eecc7bded:21eed3:ceb70d89
+  item_date: "2017-10-05 06:35:30"
+  title: What Is Federated Load Balancing and Why Should You Care?
+  url: https://admin.dyn.com/?p=58575
+  domain: admin.dyn.com
+  image: ""
+- curated_id: HtOfh97mKFupH+scuR/ebe1XsXJQ9qHY5fLu1UemHyY=_15f16b525b9:3f7d82c:3522b906
+  item_date: "2017-10-12 17:00:00"
+  title: Mitigating replication lag and reducing read load with freno
+  url: https://githubengineering.com/mitigating-replication-lag-and-reducing-read-load-with-freno
+  domain: githubengineering.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15f25be1923:527d2e4:3522b906
+  item_date: "2017-10-16 08:01:01"
+  title: 'A Cache is Fast: Enhancing our API with Redis'
+  url: https://medium.com/p/bd61d13c3ca8
+  domain: medium.com
+  image: ""
+- curated_id: 1pjjqu+svtKKsalLX16EuxgGP/j/+09bA6GvyDDsDYE=_15f2a4fadb5:5977a19:3522b906
+  item_date: "2017-10-17 05:00:00"
+  title: Ensure Your Site Performs for Peak Traffic
+  url: http://blog.loadimpact.com/ensure-your-site-performs-for-peak-traffic
+  domain: blog.loadimpact.com
+  image: ""
+- curated_id: qQEZ7AvNCW5MO++95eG+wPiOBUdDkSnCTJkRZA9Z4ro=_15f48916485:6c8bc09:9ac85644
+  item_date: "2017-10-23 02:24:56"
+  title: Load
+  url: https://blogs.cisco.com/?p=236151
+  domain: blogs.cisco.com
+  image: ""
+- curated_id: +iHpcF+MVmzqHdkw+fLKtN8U+Gs5PfZG9PfuVqz3Jqk=_15f6e167d58:10c4d4d:7157a206
+  item_date: "2017-10-30 09:00:05"
+  title: Kentik Detect for Kentik Site Reliability
+  url: https://www.kentik.com/?p=7865
+  domain: www.kentik.com
+  image: ""
+- curated_id: p9l1QRJSWsBdfQhLvEqI6rdgjdJrOWvtCS0GvuF9J1Q=_15f6e517964:11903d8:541f3c40
+  item_date: "2017-10-30 10:20:54"
+  title: The Rise of the Site Reliability Engineer
+  url: http://blog.newrelic.com/?p=39713
+  domain: blog.newrelic.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_15f9229b091:146e5c:8cbd7d4f
+  item_date: "2017-11-06 01:31:01"
+  title: Applying principles of chaos engineering to AWS Lambda with latency injection
+  url: https://medium.com/p/ddeb4ff8d983
+  domain: medium.com
+  image: ""
+- curated_id: P6ZHWlrPQ5ILOZ54yDX4aZ046+AnYBvjvT3DdNFTXhQ=_15f9103f134:4e0c80:541f3c40
+  item_date: "2017-11-06 03:00:55"
+  title: How Chaos Engineering Can Bring Stability to Your Distributed Systems
+  url: https://thenewstack.io/?p=3368889
+  domain: thenewstack.io
+  image: ""
+- curated_id: C3F90FsKoCDiHbSaXJU7AQJQ8cndB0yGWwGLZJDlWxM=_1600217fbec:32f164:3c0bb656
+  item_date: "2017-11-28 01:56:10"
+  title: Destiny 2 API Not Working Correctly
+  url: https://mmoexaminer.com/destiny-2-api-not-working-correctly/
+  domain: mmoexaminer.com
+  image: ""
+- curated_id: 53UYdSIjaP6vd+2Bz1ivn3GdkSivxwzyAAG6WfdGv7o=_16004fa6b75:4d8fe:3c0bb656
+  item_date: "2017-11-28 15:06:21"
+  title: Local and Global Server Load Balancing with NGINX Plus and Cedexis
+  url: https://www.nginx.com/?p=54961
+  domain: www.nginx.com
+  image: ""
+- curated_id: ctQxj818xbBhHEFyLu7YdnnqpJkfUeYDSZhAjGqqRko=_1602c5c9bd9:3dd50e0:7157a206
+  item_date: "2017-12-06 06:57:57"
+  title: 'Going SLO: Service Level Agreements and Service Level Objectives'
+  url: http://apimetrics.io/?p=4163
+  domain: apimetrics.io
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_1603324c6a5:891279:541f3c40
+  item_date: "2017-12-07 14:35:30"
+  title: Outages & Transparency
+  url: https://medium.com/p/7372097bfd85
+  domain: medium.com
+  image: ""
+- curated_id: HKwklz9a1LBDBgbulnG916dFzLOZO3KlGWN+5YbUEE4=_1604c9b52c5:2fa98ca:3c0bb656
+  item_date: "2017-12-12 08:52:49"
+  title: Bitcoin exchanges suffer outages
+  url: https://www.ft.com/content/062e5d62-7f31-392e-a571-221e5e6f09fd
+  domain: www.ft.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_16081ffee33:a76300:541f3c40
+  item_date: "2017-12-22 22:02:12"
+  title: The Pros and Cons of Database Scaling Options
+  url: https://dzone.com/articles/1895405
+  domain: dzone.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_16082d63d4d:b9f4ad:541f3c40
+  item_date: "2017-12-23 02:01:00"
+  title: Network Reliability Engineering in 2018
+  url: https://dzone.com/articles/1917927
+  domain: dzone.com
+  image: ""
+- curated_id: 3sOkcm6yz7RzahZqjgGz802Mh9gdTaNECiKVxsvA9Ss=_16105d4afd0:4880d3b:541f3c40
+  item_date: "2018-01-17 09:55:39"
+  title: What Breaks APIs?
+  url: http://www.i-programmer.info/news/231-methodology/11473-what-breaks-apis.html
+  domain: www.i-programmer.info
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_16157cdedc4:17379b3:7157a206
+  item_date: "2018-02-02 10:01:50"
+  title: 'Configuration Tales: Protecting a Flaky API Server'
+  url: https://dzone.com/articles/2021917
+  domain: dzone.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_1616cdaf1da:332156:e66afc8b
+  item_date: "2018-02-06 06:01:02"
+  title: Designing a Mission
+  url: https://medium.com/p/575d850fb41f
+  domain: medium.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_161ae22a9c0:1307981:e66afc8b
+  item_date: "2018-02-19 04:56:01"
+  title: Chaos Engineering using Amazon EC2 Systems Manager
+  url: https://medium.com/p/5278e0bc8482
+  domain: medium.com
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_161c70c156c:fd60c:e66afc8b
+  item_date: "2018-02-24 01:01:50"
+  title: The case when HTTP threatens the Database
+  url: https://medium.com/p/783dbf27ef78
+  domain: medium.com
+  image: ""
+- curated_id: MMCA/259PVQgzewWTRJNcvw/8XXvgI6S68GWeJF7z/0=_161e8087c3d:4d66b0:bdf8aaf1
+  item_date: "2018-03-02 10:34:32"
+  title: Alexa is down, and everyone is making Super Bowl jokes
+  url: https://mashable.com/?p=bp-69929
+  domain: mashable.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_1620c10c9d6:4e34d2:76251cdd
+  item_date: "2018-03-08 13:03:06"
+  title: Circuit Breaker in Lagom Microservices
+  url: https://medium.com/p/cfc705b3a917
+  domain: medium.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_162299b80f3:a435c5:7d6c1c1c
+  item_date: "2018-03-15 05:01:01"
+  title: Load
+  url: https://dzone.com/articles/2109940
+  domain: dzone.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_1632a9099bd:3cd499:c2c34441
+  item_date: "2018-04-05 06:10:48"
+  title: AWS Elastic load balance and CORS issues
+  url: https://medium.com/p/cbe084635cf0
+  domain: medium.com
+  image: ""
+- curated_id: 3sOkcm6yz7RzahZqjgGz802Mh9gdTaNECiKVxsvA9Ss=_1637e4c4174:5fcb34a:93d646dc
+  item_date: "2018-05-20 08:30:15"
+  title: Increasing the Resilience of APIs with Chaos Engineering
+  url: https://www.infoq.com/news/2018/05/gremlin-api-chaos
+  domain: www.infoq.com
+  image: ""
+- curated_id: 0FtxsXJpRJbNVTIbvXhK1ROY2yWLsHvAG9DgvYaXFac=_16582b0c5b6:d2f968:4db7ac35
+  item_date: "2018-08-28 15:38:11"
+  title: Protect Your Sales Opportunities with SLOs and SLAs
+  url: https://royal.pingdom.com/?p=27340
+  domain: royal.pingdom.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_1659a0ec789:1d5bc15:4db7ac35
+  item_date: "2018-09-02 02:03:01"
+  title: Designing a Usable, Flexible, Long
+  url: https://dzone.com/articles/2423016
+  domain: dzone.com
+  image: ""
+- curated_id: qQEZ7AvNCW5MO++95eG+wPiOBUdDkSnCTJkRZA9Z4ro=_165d65aa83a:110fd6:6f86c10b
+  item_date: "2018-09-13 21:28:56"
+  title: 'Plan, Test, Deploy: The Best Ways to Prevent Network Outages'
+  url: https://blogs.cisco.com/?p=262375
+  domain: blogs.cisco.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_1669b00c7ea:228c78b:f7a2ccea
+  item_date: "2018-10-22 01:46:49"
+  title: This Is How We Kong
+  url: https://medium.com/p/7c7c2a37f0fc
+  domain: medium.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_166fbe28019:7ff51:3df421eb
+  item_date: "2018-11-09 11:19:58"
+  title: How Do You Ensure API Quality?
+  url: https://medium.com/p/e1f46a1bd49e
+  domain: medium.com
+  image: ""
+...

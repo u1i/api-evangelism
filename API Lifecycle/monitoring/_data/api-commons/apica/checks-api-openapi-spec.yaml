@@ -1,0 +1,124 @@
+swagger: "2.0"
+info:
+  title: Checks API
+  description: The Checks API.
+  version: 1.0.0
+host: api.pingdom.com
+basePath: /
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  n    /api/{version}/checks:
+    n    get:
+      summary: Get Check List
+      description: '    Returns a list overview of all checks.'
+      operationId: get-check-list
+      parameters:
+      - in: query
+        name: include_tags
+        description: Include tag list for each check. Tags can be marked as &quot;a&quot;
+          or &quot;u&quot;, for auto tagged or user tagged.
+        type: <td>boolean</td>
+      - in: query
+        name: limit
+        description: Limits the number of returned probes to the specified quantity.
+          (Max value is 25000)
+        type: <td>integer</td>
+      - in: query
+        name: offset
+        description: Offset for listing. (Requires limit.)
+        type: <td>integer</td>
+      - in: query
+        name: tags
+        description: Tag list separated by commas. As an example &quot;nginx,apache&quot;
+          would filter out all responses except those tagged nginx or apache.
+        type: <td>string</td>
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checks
+  '/checks ':
+    ' get ':
+      summary: Checks
+      description: ttttGets a list of all checks that are visible to you as a user
+        or a customer depending on the request context.ttt
+      operationId: -checks-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checks
+  '/checks/{checkId} ':
+    ' delete ':
+      summary: Checks {checkId}
+      description: ttttDeletes a check.ttt
+      operationId: -checks-checkid-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checks
+    ' get ':
+      summary: Checks {checkId}
+      description: ttttGets info about a check, current SLA, last result and its status.ttt
+      operationId: -checks-checkid-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checks
+    ' put ':
+      summary: Checks {checkId}
+      description: ttttUpdates a check.ttt
+      operationId: -checks-checkid-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checks
+  '/checks/{checkId}/lastvalue ':
+    ' get ':
+      summary: Checks {checkId} Lastvalue
+      description: ttttGets the absolute last value of a specific check.ttt
+      operationId: -checks-checkid-lastvalue-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checks
+  '/checks/{checkId}/results/{millisecondsUtc}?detail_level={detail_level} ':
+    ' get ':
+      summary: Checks {checkId} Results {millisecondsUtc}?detail_level={detail_level}
+      description: ttttGets a specific check result by a numeric java timestamp.ttt
+      operationId: -checks-checkid-results-millisecondsutcdetail-leveldetail-level-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checks
+  '/checks/{checkId}/results?fromUtc={fromUtc}&amp;toUtc={toUtc}&amp;detail_level={detail_level} ':
+    ' get ':
+      summary: Checks {checkId} Results?fromUtc={fromUtc}&amp;toUtc={toUtc}&amp;detail_level={detail_level}
+      description: ttttGets check results between two dates.ttt
+      operationId: -checks-checkid-resultsfromutcfromutcamptoutctoutcampdetail-leveldetail-level-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checks
+  '/checks/{checkId}/results?mostrecent={mostrecent}&amp;detail_level={detail_level} ':
+    ' get ':
+      summary: Checks {checkId} Results?mostrecent={mostrecent}&amp;detail_level={detail_level}
+      description: ttttGets the most recent check results.ttt
+      operationId: -checks-checkid-resultsmostrecentmostrecentampdetail-leveldetail-level-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checks
+definitions: []

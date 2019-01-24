@@ -1,0 +1,134 @@
+- building_block_id: url
+  type: Webhooks
+  category: Core
+  name: URL
+  description: Tooling for managing the URL of a Webhook.
+  image: ''
+  tags: Webhooks
+- building_block_id: payload
+  type: Webhooks
+  category: Core
+  name: Payload
+  description: Editing what goes into the payload of the Webhook.
+  image: ''
+  tags: Webhooks
+- building_block_id: event
+  type: Webhooks
+  category: Core
+  name: Event
+  description: Selecting which events triggers a Webhook.
+  image: ''
+  tags: Webhooks
+- building_block_id: content-type
+  type: Webhooks
+  category: Core
+  name: Content Type
+  description: Selecting the content type for a Webhooks being submitted.
+  image: ''
+  tags: Webhooks
+- building_block_id: webhooks-targets
+  type: Webhooks
+  category: Inbound
+  name: Webhooks Targets
+  description: >-
+    Providing targets where Webhooks can post information, with targets then
+    providing other services once received.
+  image: ''
+  tags: Webhooks
+- building_block_id: multiple-destinations
+  type: Webhooks
+  category: Outbound
+  name: Multiple Destinations
+  description: >-
+    Sending of received Webhooks to multiple destinations once received,
+    providing routing opportunities for Webhooks.
+  image: ''
+  tags: Webhooks
+- building_block_id: scheduling
+  type: Webhooks
+  category: Outbound
+  name: Scheduling
+  description: >-
+    Running code that can be used as webhook target, also as schedule jobs
+    allowing them to trigger on schedule instead of just events.
+  image: ''
+  tags: Webhooks
+- building_block_id: transformations
+  type: Webhooks
+  category: Utilities
+  name: Transformations
+  description: >-
+    Allow for transformations of received webhooks before they are sent
+    elsewhere.
+  image: ''
+  tags: Webhooks
+- building_block_id: scripting
+  type: Webhooks
+  category: Utilities
+  name: Scripting
+  description: >-
+    Providing scripting tools for creating of webhook targets, transformation,
+    and other webhook functions.
+  image: ''
+  tags: Webhooks
+- building_block_id: retry
+  type: Webhooks
+  category: Utilities
+  name: Retry
+  description: >-
+    Allowing for the retry of any webhook, based upon specific events or
+    schedule.
+  image: ''
+  tags: Webhooks
+- building_block_id: analytics
+  type: Webhooks
+  category: Operations
+  name: Analytics
+  description: >-
+    Providing analytics on webhooks activity, triggers, usage, and other aspects
+    of operations.
+  image: ''
+  tags: Webhooks
+- building_block_id: emails
+  type: Webhooks
+  category: Operations
+  name: Emails
+  description: >-
+    Trigger the sending of emails when webhooks are triggered, received, or
+    other aspects of operations.
+  image: ''
+  tags: Webhooks
+- building_block_id: logging
+  type: Webhooks
+  category: Operations
+  name: Logging
+  description: The logging of all activity generated via webhook activity.
+  image: ''
+  tags: Webhooks
+- building_block_id: alerts
+  type: Webhooks
+  category: Operations
+  name: Alerts
+  description: >-
+    Triggering of alerts based upon events, schedule, and other webhook
+    operations.
+  image: ''
+  tags: Webhooks
+- building_block_id: simulator
+  type: Webhooks
+  category: Operations
+  name: Simulator
+  description: >-
+    Being able to simulate the occurrence of a webhook without the actual event
+    being triggered..
+  image: ''
+  tags: Webhooks
+- building_block_id: github
+  type: Webhooks
+  category: 3rd Party Integration
+  name: Github
+  description: >-
+    Providing Github integration for webhook targets, scripts, and other
+    elements of operation.
+  image: ''
+  tags: Webhooks

@@ -1,0 +1,62 @@
+swagger: "2.0"
+info:
+  title: Widgets API
+  description: The Widgets API.
+  version: 1.0.0
+host: api.serverdensity.io.
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /users/widgets/duplicate/widgetId:
+    "":
+      summary: Duplicating a widget
+      description: ""
+      operationId: duplicating-a-widget
+      parameters:
+      - in: path
+        name: token
+        description: Your API token
+        type: string
+      - in: body
+        name: token
+        description: Your API token
+        schema:
+          $ref: '#/definitions/holder'
+      - in: path
+        name: widgetId
+        description: ID of the widget to duplicate
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Widgets
+  /users/widgets/widgetId:
+    "":
+      summary: Deleting a widget
+      description: ""
+      operationId: deleting-a-widget
+      parameters:
+      - in: path
+        name: token
+        description: Your API token
+        type: string
+      - in: body
+        name: token
+        description: Your API token
+        schema:
+          $ref: '#/definitions/holder'
+      - in: path
+        name: widgetId
+        description: The ID of the widget to delete
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Widgets
+definitions: []

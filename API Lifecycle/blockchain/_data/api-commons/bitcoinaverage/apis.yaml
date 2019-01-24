@@ -1,0 +1,21 @@
+name: BitcoinAverage
+description: BitcoinAverage - Bitcoin Price Index
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26444-bitcoinaverage-com.jpg
+tags:
+- Technology
+- Marketplace
+- internet
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/bitcoinaverage/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: https://bitcoinaverage.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

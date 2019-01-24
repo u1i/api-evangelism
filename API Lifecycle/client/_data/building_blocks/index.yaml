@@ -1,0 +1,286 @@
+---
+- buildingblockid: request-url-editor
+  type: Client
+  category: Request Editor
+  name: Request URL Editor
+  description: Having full control to edit any part of the URL for any request being
+    made through the client.
+  image: ""
+  tags: Clients,Clients
+- buildingblockid: request-headers-editor
+  type: Client
+  category: Request Editor
+  name: Request Headers Editor
+  description: Being able to add, edit, and remove any headers that will be sent with
+    any request being made through the client.
+  image: ""
+  tags: Clients
+- buildingblockid: cookies-manager
+  type: Client
+  category: Request Editor
+  name: Cookies Manager
+  description: Being able create, edit, and remove cookies that control any session
+    of a request being made through the client.
+  image: ""
+  tags: Clients
+- buildingblockid: request-method-manager
+  type: Client
+  category: Request Editor
+  name: Request Method Manager
+  description: Allowing for the use of all HTTP verbs, identify each method that is
+    being made as part of a request through the client.
+  image: ""
+  tags: Clients
+- buildingblockid: request-body-editor
+  type: Client
+  category: Request Editor
+  name: Request Body Editor
+  description: The ability to add, edit, or remove the entire body of a request being
+    made through the client.
+  image: ""
+  tags: Clients
+- buildingblockid: basic-auth
+  type: Client
+  category: Authentication
+  name: Basic Auth
+  description: Basic Auth is supported by an HTTP client for authentication as part
+    of ay request being made.
+  image: ""
+  tags: Clients
+- buildingblockid: digest-auth
+  type: Client
+  category: Authentication
+  name: Digest Auth
+  description: Digest Auth is supported by an HTTP client for authentication as part
+    of ay request being made.
+  image: ""
+  tags: Clients
+- buildingblockid: oauth-1.0
+  type: Client
+  category: Authentication
+  name: OAuth 1.0
+  description: OAuth 1.0a is supported by an HTTP client for authentication as part
+    of ay request being made.
+  image: ""
+  tags: Clients
+- buildingblockid: oauth-2.0
+  type: Client
+  category: Authentication
+  name: OAuth 2.0
+  description: OAuth 2.0 is supported by an HTTP client for authentication as part
+    of ay request being made.
+  image: ""
+  tags: Clients
+- buildingblockid: separate-environments
+  type: Client
+  category: Environment
+  name: Separate Environments
+  description: The HTTP client allows for establishing of separate environments to
+    make requests to APIs in different modes.
+  image: ""
+  tags: Clients
+- buildingblockid: saved-variables
+  type: Client
+  category: Environment
+  name: Saved Variables
+  description: Allow for naming and saving of variables that can be used across API
+    requests, in separate environments.
+  image: ""
+  tags: Clients
+- buildingblockid: save-requests
+  type: Client
+  category: Response Viewer
+  name: Save Requests
+  description: Allow individual requests to be saved, and run again in the future
+    with the saved configuration.
+  image: ""
+  tags: Clients
+- buildingblockid: xml-viewer
+  type: Client
+  category: Response Viewer
+  name: XML Viewer
+  description: Provide a viewer for seeing the XML returned, and be able to copy,
+    paste, save, and other features.
+  image: ""
+  tags: Clients
+- buildingblockid: json-viewer
+  type: Client
+  category: Response Viewer
+  name: JSON Viewer
+  description: Provide a viewer for seeing the JSON returned, and be able to copy,
+    paste, save, and other features.
+  image: ""
+  tags: Clients
+- buildingblockid: raw-viewer
+  type: Client
+  category: Response Viewer
+  name: RAW Viewer
+  description: Provide a viewer for seeing the raw response returned, and be able
+    to copy, paste, save, and other features.
+  image: ""
+  tags: Clients
+- buildingblockid: search
+  type: Client
+  category: Response Viewer
+  name: Search
+  description: Allow the searching of results, by keyword and key phase, returning
+    the point in results that match search.
+  image: ""
+  tags: Clients
+- buildingblockid: collections
+  type: Client
+  category: Organization
+  name: Collections
+  description: Allow for requests to be saved, and stored into collections that can
+    be named, organized and managed in meaningful groups.
+  image: ""
+  tags: Clients
+- buildingblockid: templates
+  type: Client
+  category: Organization
+  name: Templates
+  description: Provide starter templates of common public APIs, allowing HTTP client
+    to be immediately put to use from common definitions.
+  image: ""
+  tags: Clients
+- buildingblockid: clone-requests
+  type: Client
+  category: Organization
+  name: Clone Requests
+  description: Enable the HTTP client to clone existing requests, and generate new
+    collections or requests from existing definitions.
+  image: ""
+  tags: Clients
+- buildingblockid: record
+  type: Client
+  category: Organization
+  name: Record
+  description: Allow for any saved request to be recorded, for playback later.
+  image: ""
+  tags: Clients
+- buildingblockid: replay
+  type: Client
+  category: Organization
+  name: Replay
+  description: Allow for the replay of any saved requests that has been run and recorded.
+  image: ""
+  tags: Clients
+- buildingblockid: keyboard-shortcuts
+  type: Client
+  category: Organization
+  name: Keyboard Shortcuts
+  description: Provide keyboard shortcuts, that make working with HTTP client requests
+    easier.
+  image: ""
+  tags: Clients
+- buildingblockid: history
+  type: Client
+  category: Organization
+  name: History
+  description: Provide a historical listing of API requests that have been made, allowing
+    the history to be searched, reviewed, and managed.
+  image: ""
+  tags: Clients
+- buildingblockid: teams
+  type: Client
+  category: Organization
+  name: Teams
+  description: Provide team environments, allowing users to collaborate, share and
+    work across API requests, and collections.
+  image: ""
+  tags: Clients
+- buildingblockid: import-openapi-spec
+  type: Client
+  category: Import / Export
+  name: Import OpenAPI Spec
+  description: Allow for the importing of API requests using the OpenAPI Spec.
+  image: ""
+  tags: Clients
+- buildingblockid: import-api-blueprint
+  type: Client
+  category: Import / Export
+  name: Import API Blueprint
+  description: Allow for the importing of API requests using the API Blueprint API
+    definition format.
+  image: ""
+  tags: Clients
+- buildingblockid: import-raml
+  type: Client
+  category: Import / Export
+  name: Import RAML
+  description: Allow for the importing of API requests using the RAML API definition
+    format.
+  image: ""
+  tags: Clients
+- buildingblockid: import-postman
+  type: Client
+  category: Import / Export
+  name: Import Postman
+  description: Allow for the importing of API requests using the Postman API definition
+    format.
+  image: ""
+  tags: Clients
+- buildingblockid: export-postman
+  type: Client
+  category: Import / Export
+  name: Export Postman
+  description: Allow for the exporting of API requests using the Postman API definition
+    format.
+  image: ""
+  tags: Clients
+- buildingblockid: export-openapi-spec
+  type: Client
+  category: Import / Export
+  name: Export OpenAPI Spec
+  description: Allow for the exporting of API requests using the OpenAPI Spec.
+  image: ""
+  tags: Clients
+- buildingblockid: export-api-blueprint
+  type: Client
+  category: Import / Export
+  name: Export API Blueprint
+  description: Allow for the exporting of API requests using the API Blueprint API
+    definition format.
+  image: ""
+  tags: Clients
+- buildingblockid: export-raml
+  type: Client
+  category: Import / Export
+  name: Export RAML
+  description: Allow for the exporting of API requests using the RAML API definition
+    format.
+  image: ""
+  tags: Clients
+- buildingblockid: command-line
+  type: Client
+  category: Tooling
+  name: Command Line
+  description: Provide a command line interface for developers to use along with an
+    HTTP client.
+  image: ""
+  tags: Clients
+- buildingblockid: codegen
+  type: Client
+  category: Tooling
+  name: Codegen
+  description: Enable the generation of client code samples from API definitions within
+    the HTTP client.
+  image: ""
+  tags: Clients
+- buildingblockid: proxy
+  type: Client
+  category: Tooling
+  name: Proxy
+  description: Provide a proxy that can be used when making requests via the HTTP
+    client.
+  image: ""
+  tags: Clients
+- buildingblockid: extensions
+  type: Client
+  category: Tooling
+  name: Extensions
+  description: Allowing the extension of an HTTP client using a standardize plugin
+    interface.
+  image: ""
+  tags: Clients
+...

@@ -1,0 +1,112 @@
+swagger: "2.0"
+info:
+  title: Alerts API
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  '/alerts/recipient ':
+    ' post ':
+      summary: Alerts Recipient
+      description: ttttCreates a new recipient with one sms and one email target associated.ttt
+      operationId: -alerts-recipient-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Alerts
+  '/alerts/recipient/{recipient_id} ':
+    ' put ':
+      summary: Alerts Recipient {recipient_id}
+      description: ttttUpdates recipient along with sms and email targets associated.ttt
+      operationId: -alerts-recipient-recipient-id-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Alerts
+  '/alerts/recipients ':
+    ' get ':
+      summary: Alerts Recipients
+      description: ttttGets a list of all alert recipients targets that are visible
+        to you as a customer.ttt
+      operationId: -alerts-recipients-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Alerts
+  '/alerts/recipients/{recipient_id} ':
+    ' get ':
+      summary: Alerts Recipients {recipient_id}
+      description: ttttGets a information about alert recipients targets.ttt
+      operationId: -alerts-recipients-recipient-id-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Alerts
+  '/alerts/targets ':
+    ' get ':
+      summary: Alerts Targets
+      description: ttttGets a list of all alert targets that are visible to you as
+        a customer.ttt
+      operationId: -alerts-targets-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Alerts
+  '/alerts/{alert_id} ':
+    ' delete ':
+      summary: Alerts {alert_id}
+      description: ttttDeletes alert by Id.ttt
+      operationId: -alerts-alert-id-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Alerts
+    ' get ':
+      summary: Alerts {alert_id}
+      description: ttttGets alert by Id.ttt
+      operationId: -alerts-alert-id-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Alerts
+    ' put ':
+      summary: Alerts {alert_id}
+      description: ttttUpdates alert.ttt
+      operationId: -alerts-alert-id-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Alerts
+  '/alerts/{alert_type} ':
+    ' post ':
+      summary: Alerts {alert_type}
+      description: ttttCreates a new alert.ttt
+      operationId: -alerts-alert-type-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Alerts
+  ? '/alerts?check_id={check_id}&amp;severity={severity}&amp;enabled={enabled}&amp;target_type={target_type}&amp;target_id={target_id} '
+  : ' get ':
+      summary: Alerts?check_id={check_id}&amp;severity={severity}&amp;enabled={enabled}&amp;target_type={target_type}&amp;target_id={target_id}
+      description: ttttGets alerts filtered by set of optional parameters.ttt
+      operationId: -alertscheck-idcheck-idampseverityseverityampenabledenabledamptarget-typetarget-typeamptarget-idtarg
+      responses:
+        200:
+          description: OK
+      tags:
+      - Alerts
+definitions: []

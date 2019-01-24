@@ -1,0 +1,82 @@
+swagger: "2.0"
+info:
+  title: Screen API
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /api/v1/screen:
+    get:
+      summary: Get all Screenboards
+      description: Fetch all of your screenboards definitions.
+      operationId: get-all-screenboards
+      responses:
+        200:
+          description: OK
+      tags:
+      - Screen
+    post:
+      summary: Create a Screenboard
+      description: ""
+      operationId: create-a-screenboard
+      parameters:
+      - type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Screen
+  /api/v1/screen/:board_id:
+    delete:
+      summary: Delete a Screenboard
+      description: Delete an existing screenboard.
+      operationId: delete-a-screenboard
+      responses:
+        200:
+          description: OK
+      tags:
+      - Screen
+    get:
+      summary: Get a Screenboard
+      description: Fetch an existing screenboards definition.
+      operationId: get-a-screenboard
+      responses:
+        200:
+          description: OK
+      tags:
+      - Screen
+    put:
+      summary: Update a Screenboard
+      description: ""
+      operationId: update-a-screenboard
+      parameters:
+      - type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Screen
+  /api/v1/screen/share/:board_id:
+    delete:
+      summary: Revoke a shared a Screenboard
+      description: Revoke a currently shared screenboards.
+      operationId: revoke-a-shared-a-screenboard
+      responses:
+        200:
+          description: OK
+      tags:
+      - Screen
+    get:
+      summary: Share a Screenboard
+      description: Share an existing screenboards with a public URL.
+      operationId: share-a-screenboard
+      responses:
+        200:
+          description: OK
+      tags:
+      - Screen
+definitions: []

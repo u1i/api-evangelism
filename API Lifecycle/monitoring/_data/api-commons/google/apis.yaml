@@ -1,0 +1,52 @@
+name: Google
+description: Google Inc. is an American multinational corporation specializing in
+  Internet-related services and products. These include search, cloud computing, software
+  and online advertising technologies. Google provides search and advertising services,
+  which together aim to organize and monetize the world&rsquo;s information. In addition
+  to its dominant search engine, it offers a plethora of online tools and platforms.
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-logo.jpg
+tags:
+- Monitoring
+created: "2016-10-01"
+modified: "2016-10-01"
+url: http://monitoring.apievangelist.com
+specificationVersion: "0.14"
+apis:
+- name: Google PageSpeed API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-logo.jpg
+  humanURL: https://developers.google.com/speed/pagespeed/
+  baseURL: https://developers.google.com/speed/pagespeed/
+  tags:
+  - Monitoring
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/monitoring/gh-pages/_data/api-commons/google/google-pagespeed-api-openapi-spec.yaml
+x-common:
+- type: x-blog-rss-feed
+  url: http://feeds.feedburner.com/GoogleAdsDeveloperBlog
+- type: x-blog-rss-feed
+  url: http://feeds.feedburner.com/blogspot/Xqnd
+- type: x-blog-rss-feed
+  url: http://feeds.feedburner.com/GDBcode
+- type: x-blog-rss-feed
+  url: http://googleappengine.blogspot.com/atom.xml
+- type: x-blog-rss-feed
+  url: http://googleappsdeveloper.blogspot.com/atom.xml
+- type: x-blog-rss-feed
+  url: http://feeds.feedburner.com/GoogleCommerce
+- type: x-blog-rss-feed
+  url: http://googleonlinesecurity.blogspot.com/atom.xml
+- type: x-blog-rss-feed
+  url: http://googlecode.blogspot.com/feeds/posts/default?alt=rss
+- type: x-github
+  url: https://github.com/google
+- type: x-webinars
+  url: https://www.google.com/
+- type: x-portal
+  url: https://www.google.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

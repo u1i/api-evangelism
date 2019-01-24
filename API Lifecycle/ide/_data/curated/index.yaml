@@ -1,0 +1,977 @@
+---
+- curated_id: b1ae861d2d88ca390f93ca03310dc864
+  item_date: "2012-04-21 12:49:06"
+  title: Why Startups Need an API
+  url: https://tune.com/blog/startups-need-api/
+  domain: tune.com
+  image: ""
+- curated_id: 6cad2252771c41688335712fc8854009
+  item_date: "2015-01-07 00:00:00"
+  title: Aspose Maven Dependencies Integrates with Eclipse IDE
+  url: http://www.aspose.com/blogs/aspose-products/aspose-total-product-family/archive/2015/01/07/aspose-maven-dependencies-integrates-with-eclipse-ide.html
+  domain: www.aspose.com
+  image: ""
+- curated_id: 774215710c0450c0c31922c3efd68d61
+  item_date: "2015-02-18 00:00:00"
+  title: How API Description Languages Enable API IDEs
+  url: http://www.programmableweb.com/news/how-api-description-languages-enable-api-ides/sponsored-content/2015/02/18
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 19ea7a96cb3652c063d908decaa070d9
+  item_date: "2015-02-25 00:00:00"
+  title: Connect(?Live?); ? Debugging and Cloud Diagnostics Visual Studio Team QA
+  url: https://blogs.msdn.microsoft.com/visualstudio/2015/02/25/connectlive-debugging-and-cloud-diagnostics-visual-studio-team-qa/
+  domain: blogs.msdn.microsoft.com
+  image: ""
+- curated_id: b49609277e53e7531530e078aeb5a71f
+  item_date: "2015-03-12 00:00:00"
+  title: A Preview of Angular 2 and TypeScript in Visual Studio
+  url: https://blogs.msdn.microsoft.com/visualstudio/2015/03/12/a-preview-of-angular-2-and-typescript-in-visual-studio/
+  domain: blogs.msdn.microsoft.com
+  image: ""
+- curated_id: 2b0a3a3004f4af687f2306fe528eb429
+  item_date: "2015-03-16 00:00:00"
+  title: Python Tools for Visual Studio 2.2 Beta Released
+  url: https://blogs.msdn.microsoft.com/visualstudio/2015/03/16/python-tools-for-visual-studio-2-2-beta-released/
+  domain: blogs.msdn.microsoft.com
+  image: ""
+- curated_id: 757bf2dbb175465f5088009e09f5141c
+  item_date: "2015-03-24 12:37:15"
+  title: Introducing the Azure API Apps Tools for Visual Studio 2013
+  url: http://blogs.msdn.com/b/visualstudio/archive/2015/03/24/introducing-the-azure-api-apps-tools-for-visual-studio-2013.aspx
+  domain: blogs.msdn.com
+  image: ""
+- curated_id: 536d63226713ed3836bf23e7b65dc160
+  item_date: "2015-03-26 00:00:00"
+  title: Facebook announces Nuclide, an open-source IDE based on GitHub?s Atom text
+    editor
+  url: http://venturebeat.com/2015/03/26/facebook-announces-nuclide-an-open-source-ide-based-on-githubs-atom-text-editor/
+  domain: venturebeat.com
+  image: ""
+- curated_id: 7784d19979e83d1a9ec1297beb52f485
+  item_date: "2015-04-04 00:00:00"
+  title: How to Create Your Own Eclipse IDE Plug-in
+  url: http://www.codeproject.com/Tips/893547/How-to-Create-Your-Own-Eclipse-IDE-Plug-in
+  domain: www.codeproject.com
+  image: ""
+- curated_id: 7b63c754061315a371d24fb721fbacfa
+  item_date: "2015-04-13 00:00:00"
+  title: Limitless Customization with ?Che?
+  url: http://blog.codenvy.com/limitless-customization-che/
+  domain: blog.codenvy.com
+  image: ""
+- curated_id: efa36da85b24634b175b619e150a345e
+  item_date: "2015-04-24 00:00:00"
+  title: Node.js Tools 1.0 on GitHub and VMs Available
+  url: http://blogs.msdn.com/b/visualstudio/archive/2015/04/24/node-js-tools-1-0-on-github-and-vms-available.aspx
+  domain: blogs.msdn.com
+  image: ""
+- curated_id: b7b104508422b75ff744ccbef644c5b4
+  item_date: "2015-04-25 00:00:00"
+  title: Getting started with GIT, Visual Studio, and BitBucket
+  url: http://www.codeproject.com/Tips/900204/Getting-started-with-GIT-Visual-Studio-and-BitBuck
+  domain: www.codeproject.com
+  image: ""
+- curated_id: 5750a79c9426cd926e7aa5da152957cb
+  item_date: "2015-04-27 11:15:51"
+  title: '3.9 Release Notes: Pay-as-you-Go IDE'
+  url: http://blog.codenvy.com/3-9-pay-as-you-go-ide/
+  domain: blog.codenvy.com
+  image: ""
+- curated_id: 0f39d1b23834bdd6ae5afba573413c5a
+  item_date: "2015-04-30 00:00:00"
+  title: Hello Minecraft modders! Visual Studio &lt;3s Minecraft
+  url: http://blogs.msdn.com/b/visualstudio/archive/2015/04/30/hello-minecraft-modders-visual-studio-loves-minecraft.aspx
+  domain: blogs.msdn.com
+  image: ""
+- curated_id: a76c959a64ab39134e458ad0493f6a0e
+  item_date: "2015-04-30 00:00:00"
+  title: Microsoft?s cross-platform Visual Studio Code app is based on technology
+    from Github?s Atom editor
+  url: http://thenextweb.com/apps/2015/04/30/microsofts-cross-platform-visual-studio-code-app-is-based-on-githubs-atom-editor/
+  domain: thenextweb.com
+  image: ""
+- curated_id: 1bbf25e620c3fb05f3d47f1fd2e3e7ce
+  item_date: "2015-04-30 00:00:00"
+  title: Announcing the GitHub Extension for Visual Studio
+  url: http://blogs.msdn.com/b/visualstudio/archive/2015/04/30/announcing-the-github-extension-for-visual-studio.aspx
+  domain: blogs.msdn.com
+  image: ""
+- curated_id: b6de7fbe5d31bc02cb3c9b71141b884b
+  item_date: "2015-04-30 00:00:00"
+  title: GitHub Enterprise comes to Microsoft Azure, GitHub launches Visual Studio
+    2015 integrations
+  url: http://venturebeat.com/2015/04/30/github-enterprise-comes-to-microsoft-azure-github-launches-visual-studio-2015-integrations/
+  domain: venturebeat.com
+  image: ""
+- curated_id: 167e545fc7b40406761d1c3bba269c0e
+  item_date: "2015-05-04 00:00:00"
+  title: Introducing Visual Studio?s Network tool
+  url: http://blogs.msdn.com/b/visualstudio/archive/2015/05/04/introducing-visual-studio-s-network-tool.aspx
+  domain: blogs.msdn.com
+  image: ""
+- curated_id: 37cc66fa120109f8b9bf4b1775677c17
+  item_date: "2015-05-05 00:00:00"
+  title: The Future of Cloud IDEs
+  url: http://blog.codenvy.com/cloud-ides-future-development-202/
+  domain: blog.codenvy.com
+  image: ""
+- curated_id: b20d53ae8933f7cd139e0e6b943dd602
+  item_date: "2015-05-06 00:00:00"
+  title: GitHub?s Atom text editor picks up 750K downloads in its first year, with
+    300K monthly users
+  url: http://venturebeat.com/2015/05/06/githubs-atom-text-editor-picks-up-750k-downloads-in-its-first-year-with-300k-monthly-users/
+  domain: venturebeat.com
+  image: ""
+- curated_id: 19d801219aa2c1ceb1afdbd1c5984a4d
+  item_date: "2015-05-08 00:00:00"
+  title: GitHub Integration in Developer Assistant
+  url: http://blogs.msdn.com/b/bingdevcenter/archive/2015/05/08/github-integration-in-developer-assistant.aspx
+  domain: blogs.msdn.com
+  image: ""
+- curated_id: 377cde2379a3f6a239500ad920db87f6
+  item_date: "2015-05-11 00:00:00"
+  title: Visual Studio Code and Azure App Service ? a perfect fit
+  url: http://azure.microsoft.com/blog/2015/05/11/visual-studio-code-and-azure-app-service-a-perfect-fit/
+  domain: azure.microsoft.com
+  image: ""
+- curated_id: 9d71a5b763b93ebb0ec3b6cd96f5a302
+  item_date: "2015-05-12 00:00:00"
+  title: Salesforce Connected Services in Visual Studio
+  url: https://developer.salesforce.com/blogs/developer-relations/2015/05/salesforce-connected-services-visual-studio.html
+  domain: developer.salesforce.com
+  image: ""
+- curated_id: efc09ff33054419a9f607e1a410f64ba
+  item_date: "2015-05-21 00:00:00"
+  title: Deploy to Cloud Foundry with Codenvy
+  url: http://blog.codenvy.com/run-cloud-foundry-codenvy/
+  domain: blog.codenvy.com
+  image: ""
+- curated_id: 92d5eafc7c76db364062f31e24795e4c
+  item_date: "2015-05-27 00:00:00"
+  title: 'The Che Approach: Automating Developer Workflow'
+  url: http://blog.codenvy.com/automating-developer-workflow/
+  domain: blog.codenvy.com
+  image: ""
+- curated_id: 66cb06e729ec894a20123b166745133d
+  item_date: "2015-05-29 00:00:00"
+  title: Extending Visual Studio 2015
+  url: http://blogs.msdn.com/b/visualstudio/archive/2015/05/29/extending-visual-studio-2015.aspx
+  domain: blogs.msdn.com
+  image: ""
+- curated_id: a9a8b15d3b4e3bec482ff3f8f42becd1
+  item_date: "2015-06-01 00:00:00"
+  title: Are cloud vendors and ISVs adopting cloud IDEs?
+  url: http://blog.codenvy.com/cloud-vendors-isvs-adopting-cloud-ides/
+  domain: blog.codenvy.com
+  image: ""
+- curated_id: 9eee52524ea2ac922b2eb858520961fa
+  item_date: "2015-06-02 09:35:34"
+  title: Introducing the Project System Extensibility SDK Preview
+  url: http://blogs.msdn.com/b/visualstudio/archive/2015/06/02/introducing-the-project-system-extensibility-sdk-preview.aspx
+  domain: blogs.msdn.com
+  image: ""
+- curated_id: f9c1703e208378f534cf0a1f231ed4df
+  item_date: "2015-06-04 00:00:00"
+  title: Customizing Codenvy On-Prem with Eclipse Che Extensions
+  url: http://blog.codenvy.com/packaging-custom-extensions-eclipse-che/
+  domain: blog.codenvy.com
+  image: ""
+- curated_id: 0305c5bb6a7b7f563d74ebf73fc52e42
+  item_date: "2015-06-05 00:00:00"
+  title: Getting Started with Docker Tools in Eclipse
+  url: https://www.voxxed.com/blog/2015/06/docker-tools-in-eclipse/
+  domain: www.voxxed.com
+  image: ""
+- curated_id: 3cd4b333bb1c53cf9f42ccb3d8b763a9
+  item_date: "2015-06-11 00:00:00"
+  title: Making JavaScript Editing Easier in Visual Studio 2015
+  url: http://www.infoq.com/news/2015/06/javascript-VS2015
+  domain: www.infoq.com
+  image: ""
+- curated_id: 3fb64e3371a6054d7fb54d027174bbec
+  item_date: "2015-06-12 00:00:00"
+  title: 'Presentation: An Introduction to Eclipse Che'
+  url: https://www.infoq.com/presentations/eclipse-che
+  domain: www.infoq.com
+  image: ""
+- curated_id: 0a8be9fa9228445434b8a7d225ce8e16
+  item_date: "2015-06-12 00:00:00"
+  title: The Containerization of the Developer Workspace
+  url: http://blog.codenvy.com/containerization-developer-workspace/
+  domain: blog.codenvy.com
+  image: ""
+- curated_id: 2fc11c03564c781ecee557ba177e3819
+  item_date: "2015-06-18 00:00:00"
+  title: Localhost is Killing Software Delivery
+  url: http://blog.codenvy.com/localhost-is-killing-software-delivery/
+  domain: blog.codenvy.com
+  image: ""
+- curated_id: fdae4f041b08f8a47e34b61eb63bed81
+  item_date: "2015-06-23 00:00:00"
+  title: Facebook open-sources its Nuclide IDE based on GitHub?s Atom text editor
+  url: http://venturebeat.com/2015/06/23/facebook-open-sources-its-nuclide-ide-based-on-githubs-atom-text-editor/
+  domain: venturebeat.com
+  image: ""
+- curated_id: f6514b67c5013550265594aeb8f28073
+  item_date: "2015-06-25 00:00:00"
+  title: GitHub Releases Atom 1.0 Source Code Editor After Yearlong Beta
+  url: http://www.programmableweb.com/news/github-releases-atom-1.0-source-code-editor-after-yearlong-beta/2015/06/25
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 7e427d2ee465eef6c3f7eae4e4c17de4
+  item_date: "2015-06-25 14:31:20"
+  title: An Introduction to Eclipse Che - YouTube
+  url: https://www.youtube.com/watch
+  domain: www.youtube.com
+  image: ""
+- curated_id: 0d95f3273b54ca9da6acff23f87ed991
+  item_date: "2015-06-26 00:00:00"
+  title: Google plans to support its Android Studio IDE instead of Eclipse
+  url: http://thenextweb.com/dd/2015/06/26/google-plans-to-support-its-android-studio-ide-instead-of-eclipse/
+  domain: thenextweb.com
+  image: ""
+- curated_id: d728c7c4026ebbe21b76ab8124b96edc
+  item_date: "2015-06-26 16:16:26"
+  title: autocomplete-atom-api/completions.json at master
+  url: https://github.com/atom/autocomplete-atom-api/blob/master/completions.json
+  domain: github.com
+  image: ""
+- curated_id: 79fba5b723be7e7daa0c664966eaec59
+  item_date: "2015-06-27 00:00:00"
+  title: Google Ends Support for Android Eclipse Tools
+  url: https://www.infoq.com/news/2015/06/google-android-eclipse
+  domain: www.infoq.com
+  image: ""
+- curated_id: 868fd5948aa32bb6b8ba4d3666025be9
+  item_date: "2015-07-06 00:00:00"
+  title: Start Automation Runbooks in Response to Events in Visual Studio Online
+  url: https://azure.microsoft.com/blog/2015/07/06/start-automation-runbooks-in-response-to-events-in-visual-studio-online/
+  domain: azure.microsoft.com
+  image: ""
+- curated_id: 5446e050f3abab9fed365a390c94dfcd
+  item_date: "2015-07-06 00:00:00"
+  title: Share Your Open Source Extension on the Visual Studio Gallery!
+  url: http://blogs.msdn.com/b/visualstudio/archive/2015/07/06/share-your-open-source-extension-on-the-visual-studio-gallery.aspx
+  domain: blogs.msdn.com
+  image: ""
+- curated_id: b7732218bd919a1bc0e05936a9645f2d
+  item_date: "2015-07-10 00:00:00"
+  title: 'Seconds to Bliss: Announcing a new Dashboard Beta'
+  url: http://blog.codenvy.com/seconds-bliss-announcing-new-dashboard-beta/
+  domain: blog.codenvy.com
+  image: ""
+- curated_id: 6d20bea8fa65ab08bfd039b96db453da
+  item_date: "2015-08-13 00:00:00"
+  title: Eclipse Che and Codenvy on Docker
+  url: http://blog.codenvy.com/eclipse-che-codenvy-docker/
+  domain: blog.codenvy.com
+  image: ""
+- curated_id: 6f34ed0dc61c7ac6eadfecf3242c2667
+  item_date: "2015-08-26 00:00:00"
+  title: Visual Studio Online Extensibility and Marketplace
+  url: https://blogs.msdn.microsoft.com/visualstudioalm/2015/08/26/visual-studio-online-extensibility-and-marketplace/
+  domain: blogs.msdn.microsoft.com
+  image: ""
+- curated_id: 3c087291600e7916515c0831fa86b999
+  item_date: "2015-08-31 00:00:00"
+  title: '[paho-dev] TLS/MQTT-secure is now enabled on Eclipse IoT sandbox'
+  url: http://dev.eclipse.org/mhonarc/lists/paho-dev/msg02900.html
+  domain: dev.eclipse.org
+  image: ""
+- curated_id: bf8b0ac3ff4abb83ab7f4cdfda232107
+  item_date: "2015-09-11 00:00:00"
+  title: Visual Studio Design Patterns add-in/extension
+  url: http://www.codeproject.com/Articles/767200/Visual-Studio-Design-Patterns-add-in-extension
+  domain: www.codeproject.com
+  image: ""
+- curated_id: 627dab7d8acc10e6ade0ac011b3a7ed9
+  item_date: "2015-12-15 00:00:00"
+  title: The API web needs a GUI
+  url: http://pronovix.com/blog/api-web-needs-gui
+  domain: pronovix.com
+  image: ""
+- curated_id: 15a83057b3f73e82068802572300bd79
+  item_date: "2015-12-16 00:00:00"
+  title: Thoughts on Yesterdays Issue Surrounding the GitHub for Visual Studio Extension
+  url: http://www.codeproject.com/Articles/1064943/Thoughts-on-Yesterdays-Issue-Surrounding-the-GitHu
+  domain: www.codeproject.com
+  image: ""
+- curated_id: 0fe251a46d6a8a6afd2abee4bc0d2f69
+  item_date: "2016-01-08 00:00:00"
+  title: Snippets for Visual Studio
+  url: http://www.codeproject.com/Tips/1070336/Snippets-for-Visual-Studio
+  domain: www.codeproject.com
+  image: ""
+- curated_id: 337cdf2a6940630cff05b715176b5098
+  item_date: "2016-01-11 00:00:00"
+  title: Unit Testing Apache Cordova Apps with Visual Studio, Part 1
+  url: https://blogs.msdn.microsoft.com/visualstudio/2016/01/11/unit-testing-apache-cordova-apps-with-visual-studio-part-1/
+  domain: blogs.msdn.microsoft.com
+  image: ""
+- curated_id: 3cac8d0614c9def86a00cca770f83710
+  item_date: "2016-01-13 00:00:00"
+  title: Unit Testing Apache Cordova Apps with Visual Studio, Part 2
+  url: http://blogs.msdn.com/b/visualstudio/archive/2016/01/13/unit-testing-apache-cordova-apps-with-visual-studio-part-2.aspx
+  domain: blogs.msdn.com
+  image: ""
+- curated_id: c5668219a6c19531d5602b3bc2825f96
+  item_date: "2016-01-21 00:00:00"
+  title: Visual Studio Tools for Apache Cordova Update 5
+  url: http://blogs.msdn.com/b/visualstudio/archive/2016/01/21/visual-studio-tools-for-apache-cordova-update-5.aspx
+  domain: blogs.msdn.com
+  image: ""
+- curated_id: 6eb99f3bfd65cef793ca5f07f6a25fea
+  item_date: "2016-01-26 00:00:00"
+  title: Announcing Eclipse Che Beta
+  url: http://blog.codenvy.com/introducing-eclipse-che-beta/
+  domain: blog.codenvy.com
+  image: ""
+- curated_id: 206b4b766c8ced70382a218297df5b5f
+  item_date: "2016-01-27 00:00:00"
+  title: Cloud9 IDE now supports Google Cloud Platform
+  url: http://googlecloudplatform.blogspot.com/2016/01/Cloud9-IDE-now-supports-Google-Cloud-Platform.html
+  domain: googlecloudplatform.blogspot.com
+  image: ""
+- curated_id: adfbe50ab473a0ff5af5f52a5f5750e9
+  item_date: "2016-01-28 00:00:00"
+  title: Apache Cordova development lands on Visual Studio Code
+  url: https://blogs.msdn.microsoft.com/visualstudio/2016/01/28/apache-cordova-development-lands-on-visual-studio-code/
+  domain: blogs.msdn.microsoft.com
+  image: ""
+- curated_id: da91daeb5441efe512a4087ec8fcef8e
+  item_date: "2016-01-31 00:00:00"
+  title: Codenvy Announces the Beta Milestone of Eclipse Che
+  url: https://dzone.com/articles/we-are-pleased-to-announce-the-beta-milestone-of-e
+  domain: dzone.com
+  image: ""
+- curated_id: e95e0bef5d848a8b2f2c0784ada504de
+  item_date: "2016-02-01 16:47:01"
+  title: Automated Testing with Visual Studio
+  url: https://channel9.msdn.com/Blogs/Breakpoint/s02e16
+  domain: channel9.msdn.com
+  image: ""
+- curated_id: c7a9475f4340097cf9dc1891c7c9fec6
+  item_date: "2016-02-02 00:00:00"
+  title: Future trends for IoT, Open Source, and Eclipse IoT
+  url: https://dzone.com/articles/future-trends-for-iot-open-source-and-eclipse-iot
+  domain: dzone.com
+  image: ""
+- curated_id: 3ac26cdffb42d6817389a59bac8e4879
+  item_date: "2016-02-03 00:00:00"
+  title: Free Visual Studio Dev Essentials Program now includes $300 in Azure credits
+    and Exclusive Xamarin University access
+  url: https://blogs.msdn.microsoft.com/visualstudio/2016/02/03/free-visual-studio-dev-essentials-program-feb-2016/
+  domain: blogs.msdn.microsoft.com
+  image: ""
+- curated_id: b64833086cb4c863cf567cee0e548d13
+  item_date: "2016-02-08 00:00:00"
+  title: Write once and deploy to Microsoft Azure or Microsoft Azure Stack from Visual
+    Studio
+  url: https://blogs.msdn.microsoft.com/visualstudio/2016/02/08/write-once-deploy-to-azure-from-visual-studio/
+  domain: blogs.msdn.microsoft.com
+  image: ""
+- curated_id: 9c481f464b63975d5b57d244516f532c
+  item_date: "2016-02-11 00:00:00"
+  title: Find Your Favorite Visual Studio Extension
+  url: https://blogs.msdn.microsoft.com/visualstudio/2016/02/11/find-your-favorite-visual-studio-extension/
+  domain: blogs.msdn.microsoft.com
+  image: ""
+- curated_id: 4a19242bef3ea12fb85eb40e869abbc9
+  item_date: "2016-02-11 00:00:00"
+  title: The Buzz Around Eclipse Che
+  url: https://dzone.com/articles/the-buzz-around-eclipse-che
+  domain: dzone.com
+  image: ""
+- curated_id: 594dbd0da05dc4db54d5facad5157f03
+  item_date: "2016-02-17 00:00:00"
+  title: 'Protected: The next-generation of Codenvy is now beta.'
+  url: http://blog.codenvy.com/codenvy-next-generation-beta/
+  domain: blog.codenvy.com
+  image: ""
+- curated_id: 2c33a6878cfab77302f3c8b02846a910
+  item_date: "2016-02-22 00:00:00"
+  title: Develop ReactNative apps in Visual Studio Code
+  url: https://blogs.msdn.microsoft.com/visualstudio/2016/02/22/develop-reactnative-apps-in-visual-studio-code/
+  domain: blogs.msdn.microsoft.com
+  image: ""
+- curated_id: 77f4f7db87716abf93ed0e96d7f21a8f
+  item_date: "2016-02-23 00:00:00"
+  title: Introducing IBM Node.js Tools for Eclipse Beta
+  url: https://strongloop.com/strongblog/introducing-ibm-node-js-tools-for-eclipse-beta/
+  domain: strongloop.com
+  image: ""
+- curated_id: 8cfd28230a8fb065b8e4c3ef23272bd9
+  item_date: "2016-02-25 00:00:00"
+  title: The Magic that is Codenvy
+  url: http://blog.codenvy.com/the-magic-that-is-codenvy/
+  domain: blog.codenvy.com
+  image: ""
+- curated_id: 365f2a6d2f22a8d37a33c02e10a2aeca
+  item_date: "2016-02-25 00:00:00"
+  title: The (Probably) Simplest Intro to Visual Studio Unit Testing Ever Written
+  url: http://www.codeproject.com/Tips/1081091/The-Probably-Simplest-Intro-to-Visual-Studio-Unit
+  domain: www.codeproject.com
+  image: ""
+- curated_id: 3ae62e40d07b3a9a9dfc799582b599cd
+  item_date: "2016-03-07 00:00:00"
+  title: 'Eclipse Che Release: New IDE Platform Reimagines the Developer Workspace'
+  url: http://blog.codenvy.com/eclipse-che-reimagines-development/
+  domain: blog.codenvy.com
+  image: ""
+- curated_id: 099ffe097696e731a8905e1114d2a4ad
+  item_date: "2016-03-08 00:00:00"
+  title: Eclipse Foundation Releases Next-Generation IDE, Eclipse Che 4.0
+  url: http://www.infoq.com/news/2016/03/eclipse-che-release
+  domain: www.infoq.com
+  image: ""
+- curated_id: 104a0c9a6ce39d3c7f45ad1dcd162c6c
+  item_date: "2016-03-09 00:00:00"
+  title: Announcing Tools for Apache Cordova Update 7
+  url: https://blogs.msdn.microsoft.com/visualstudio/2016/03/09/announcing-tools-for-apache-cordova-update-7/
+  domain: blogs.msdn.microsoft.com
+  image: ""
+- curated_id: cef4bd33ebc538ae749a3d038556c34e
+  item_date: "2016-03-09 00:00:00"
+  title: Cloud9 IDE now supports Google Cloud Platform
+  url: https://cloudplatform.googleblog.com/2016/01/Cloud9-IDE-now-supports-Google-Cloud-Platform.html
+  domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: e822c687f2b63c1b03a931bf7bbe2985
+  item_date: "2016-03-11 00:00:00"
+  title: Support Ending for Visual Studio 2005
+  url: https://blogs.msdn.microsoft.com/visualstudio/2016/03/11/support-ending-for-visual-studio-2005/
+  domain: blogs.msdn.microsoft.com
+  image: ""
+- curated_id: 5adfd1bad1eca47ade0bbd8de33387b4
+  item_date: "2016-03-17 00:00:00"
+  title: Open Sourcing the Visual Studio Productivity Power Tools
+  url: https://blogs.msdn.microsoft.com/visualstudio/2016/03/17/open-sourcing-the-visual-studio-productivity-power-tools/
+  domain: blogs.msdn.microsoft.com
+  image: ""
+- curated_id: e47cdfe0b5c8813035e314da4a54d732
+  item_date: "2016-03-20 00:00:00"
+  title: Easily Extend Your IDE With Extensibility Feature for Visual Studio 2015
+  url: https://dzone.com/articles/easily-extend-your-ide-with-extensibility-feature
+  domain: dzone.com
+  image: ""
+- curated_id: bdfac560786bdeb4c9e5819375c83192
+  item_date: "2016-03-22 00:00:00"
+  title: Introducing R Tools for Visual Studio
+  url: https://blogs.msdn.microsoft.com/visualstudio/2016/03/22/introducing-r-tools-for-visual-studio-3/
+  domain: blogs.msdn.microsoft.com
+  image: ""
+- curated_id: 8cc86856dd2689798526c833ef1f2f7b
+  item_date: "2016-03-22 00:00:00"
+  title: Getting Started With WordPress and Che
+  url: https://dzone.com/articles/getting-started-with-wordpress-and-che
+  domain: dzone.com
+  image: ""
+- curated_id: bbde11d008cb76ce23b39a3eec6b45f1
+  item_date: "2016-03-30 00:00:00"
+  title: API Changes Coming in Electron 1.0
+  url: http://blog.atom.io/2015/11/17/electron-api-changes.html
+  domain: blog.atom.io
+  image: ""
+- curated_id: 0e642001c294a089ba7a3478c75dc31a
+  item_date: "2016-03-31 00:00:00"
+  title: 'Codenvy Release: Enterprise and Team workspaces now available.'
+  url: http://blog.codenvy.com/codenvy-enterprise-team-workspaces-now-generally-available/
+  domain: blog.codenvy.com
+  image: ""
+- curated_id: ad863eec9582c499d0911eeae7c0022e
+  item_date: "2016-04-08 00:00:00"
+  title: 'Introducing TestLeft: Giving Developers the Power to Test Within Standard
+    IDEs'
+  url: http://blog.smartbear.com/automated-testing/testleft-giving-developers-the-power-to-test-within-standard-ides/
+  domain: blog.smartbear.com
+  image: ""
+- curated_id: bb7fbea5c203697f6ce4958a04300c8f
+  item_date: "2016-04-13 00:00:00"
+  title: 'Presentation: Rapid Integration of Scientific Software with Eclipse ICE'
+  url: http://www.infoq.com/presentations/eclipse-ice-science
+  domain: www.infoq.com
+  image: ""
+- curated_id: c6d8d88747e571208842dbb983137299
+  item_date: "2016-04-23 00:00:00"
+  title: 'Release Notes: Codenvy and Eclipse Che 4.1.0'
+  url: http://blog.codenvy.com/whats-new-codenvy-che-4/
+  domain: blog.codenvy.com
+  image: ""
+- curated_id: 57e0102929f67b960497259f26943141
+  item_date: "2016-05-11 00:00:00"
+  title: Codenvy builds Samsung an ?IDE in the box? experience with Eclipse Che
+  url: http://blog.codenvy.com/codenvy-builds-samsung-ide-box-experience-eclipse-che/
+  domain: blog.codenvy.com
+  image: ""
+- curated_id: 01ff30c2a4a1c711a6714e70cdbacf6d
+  item_date: "2016-05-11 00:00:00"
+  title: 'Macros extension: VS 2015 support and open-sourced'
+  url: https://blogs.msdn.microsoft.com/visualstudio/2016/05/11/macros-extension-open-sourced-in-visual-studio-2015/
+  domain: blogs.msdn.microsoft.com
+  image: ""
+- curated_id: 8238a21c29deae057217d7fb937c02a9
+  item_date: "2016-05-12 00:00:00"
+  title: Building Rest Service Made Easy Using Eclipse Plugin
+  url: https://dzone.com/articles/building-rest-service-made-easy-using-eclipse-plug
+  domain: dzone.com
+  image: ""
+- curated_id: c21e7145dae0e4c579747d929c647c9e
+  item_date: "2016-05-13 00:00:00"
+  title: Create a Desktop App With Angular 2 and Electron
+  url: https://dzone.com/articles/create-a-desktop-app-with-angular-2-and-electron
+  domain: dzone.com
+  image: ""
+- curated_id: c36ddd18f81e8c46a438a45a8e053402
+  item_date: "2016-05-18 00:00:00"
+  title: 'Hands-on with Eclipse Che: Simplifying of Configuring Commands'
+  url: http://blog.codenvy.com/simplifying-configuring-commands-command-configuration-api/
+  domain: blog.codenvy.com
+  image: ""
+- curated_id: 78b0c992e90cb987c13c9323c014551d
+  item_date: "2016-05-19 00:00:00"
+  title: New Eclipse Download Page
+  url: https://dzone.com/articles/new-eclipse-download-page
+  domain: dzone.com
+  image: ""
+- curated_id: a0f78f73b39a808795c1ec1aaefc9a5a
+  item_date: "2016-05-27 00:00:00"
+  title: Pinegrow + Atom ? The perfect IDE for the web
+  url: http://pinegrow.com/pinegrow-atom.html
+  domain: pinegrow.com
+  image: ""
+- curated_id: 442dc204e93ecb6123c0cecc2de9dd22
+  item_date: "2016-06-03 00:00:00"
+  title: Sourcegraph for GitHub ? Browse and search GitHub like an IDE
+  url: https://chrome.google.com/webstore/detail/sourcegraph-for-github/dgjhfomjieaadpoljlnidmbgkdffpack
+  domain: chrome.google.com
+  image: ""
+- curated_id: 13827a56293861d85a4455c4f33dcdb0
+  item_date: "2016-06-06 00:00:00"
+  title: Macros Return to Visual Studio
+  url: https://www.infoq.com/news/2016/06/vs-macros
+  domain: www.infoq.com
+  image: ""
+- curated_id: 53a758911d89f3b066a23c04ba30c7dc
+  item_date: "2016-06-14 00:00:00"
+  title: Push Your Webpage to GitHub Repository through Visual Studio
+  url: http://www.codeproject.com/Tips/1106478/Push-Your-Webpage-to-GitHub-Repository-through-Vis
+  domain: www.codeproject.com
+  image: ""
+- curated_id: 28706dd5e024b002bcf24e772c3eb475
+  item_date: "2016-06-22 00:00:00"
+  title: 'Hands-on with Codenvy: Painless Contribution with Pull Request Plugin'
+  url: http://blog.codenvy.com/hands-codenvy-painless-contribution-codenvy-pull-request-plugin/
+  domain: blog.codenvy.com
+  image: ""
+- curated_id: 256d0ca7e7f86cb7763f6a7adb28a1b6
+  item_date: "2016-06-27 00:00:00"
+  title: 'Announcement: Eclipse Che Now a Strategic Platform for Red Hat'
+  url: http://blog.codenvy.com/announcement-eclipse-che-now-strategic-platform-red-hat/
+  domain: blog.codenvy.com
+  image: ""
+- curated_id: c611f204b9f2928b237e4a97c34e7f25
+  item_date: "2016-06-27 00:00:00"
+  title: 'Press Release: Red Hat, Codenvy and Microsoft Collaborate on Language Server
+    Protocol'
+  url: http://blog.codenvy.com/press-release/
+  domain: blog.codenvy.com
+  image: ""
+- curated_id: 97ae3de119520d760d408957fe87ac85
+  item_date: "2016-07-04 00:00:00"
+  title: How to test API endpoint using Atom and RAML?
+  url: https://stackoverflow.com/questions/38220086/testing-spring-mvc-api-no-qualifying-bean-found
+  domain: stackoverflow.com
+  image: ""
+- curated_id: 3df438b6a9ea58aee6e56ea30b22b704
+  item_date: "2016-07-10 00:00:00"
+  title: 'Presentation: Improvements for Eclipse JavaScript Tooling'
+  url: https://www.infoq.com/presentations/jsdt
+  domain: www.infoq.com
+  image: ""
+- curated_id: 7c3fecf7f73717e7319128f5751428ea
+  item_date: "2016-07-10 00:00:00"
+  title: 'Presentation: Eclipse, the IDE for IoT'
+  url: https://www.infoq.com/presentations/eclipse-iot-esp8266
+  domain: www.infoq.com
+  image: ""
+- curated_id: 39951bbeed21f2184cb1f7e527e2b8f0
+  item_date: "2016-07-14 00:00:00"
+  title: Amazons AWS acquires cloud-based IDE startup Cloud9
+  url: http://www.zdnet.com/article/amazons-aws-acquires-cloud-based-ide-startup-cloud9/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: 63534acd61ed260d4b00c6b8283b71fc
+  item_date: "2016-07-14 00:00:00"
+  title: Amazon buys popular cloud-based IDE Cloud9 for use with AWS
+  url: http://thenextweb.com/dd/2016/07/14/amazon-buys-cloud9-aws/
+  domain: thenextweb.com
+  image: ""
+- curated_id: 242392306a9af377971e81629383bbfd
+  item_date: "2016-07-16 08:04:47"
+  title: Amazon?s AWS buys Cloud9 to add more development tools to its web services
+    stack
+  url: https://techcrunch.com/2016/07/14/amazons-aws-buys-cloud9-to-add-more-development-tools-to-its-web-services-stack/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 0088560b4eed1d5a47736b3b001668af
+  item_date: "2016-08-03 00:00:00"
+  title: How to update REST API Client from a Swagger file in Visual Studio
+  url: http://stackoverflow.com/questions/38750877/how-to-update-rest-api-client-from-a-swagger-file-in-visual-studio
+  domain: stackoverflow.com
+  image: ""
+- curated_id: 6123931739465ec9fc8e88eee34f3c90
+  item_date: "2016-08-08 00:00:00"
+  title: How to Use React with Visual Studio and ASP.NET Web API
+  url: https://blog.pusher.com/how-to-use-react-with-visual-studio-and-asp-net-web-api/
+  domain: blog.pusher.com
+  image: ""
+- curated_id: 79ff2e2a21a8337ece58b2829121bd9c
+  item_date: "2016-08-22 00:00:00"
+  title: 'Never leave your Java IDE with Google Cloud Tools for IntelliJ plugin '
+  url: https://cloudplatform.googleblog.com/2016/08/never-leave-your-Java-IDE-with-Google-Cloud-Tools-for-IntelliJ-plugin.html
+  domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: 92ecfd030406fd9be8efe25510ac4be7
+  item_date: "2016-08-25 00:00:00"
+  title: The Evolution and Future of IDEs
+  url: https://dzone.com/articles/the-evolution-and-future-of-ides
+  domain: dzone.com
+  image: ""
+- curated_id: a2d8fdc540eb2d515ede496156c94bc1
+  item_date: "2016-08-30 00:00:00"
+  title: 'OpenShift Ecosystem:  Microsoft Visual Studio , OpenShift and .NET with
+    Click2Cloud'
+  url: https://blog.openshift.com/openshift-ecosystem-microsoft-visual-studio-openshift-and-net-with-click2cloud/
+  domain: blog.openshift.com
+  image: ""
+- curated_id: 96173dda82ef43c8ad8904395f3327ec
+  item_date: "2016-08-31 00:00:00"
+  title: Atom 1.10 and 1.11 beta
+  url: http://blog.atom.io/2016/08/31/atom-1-10-and-1-11-beta.html
+  domain: blog.atom.io
+  image: ""
+- curated_id: 845529df295c9dbf5fcd8443a0a92963
+  item_date: "2016-09-02 00:00:00"
+  title: XPath for Selenium IDE
+  url: https://dzone.com/articles/xpath-implementation-for-selenium-ide
+  domain: dzone.com
+  image: ""
+- curated_id: 3e64e899218a6210a5689344f9ec6d64
+  item_date: "2016-09-07 00:00:00"
+  title: Getting started with Cloud Tools for Visual Studio
+  url: https://cloudplatform.googleblog.com/2016/09/Getting-started-with-Cloud-Tools-for-Visual-Studio.html
+  domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: 0573a14cc1dd4c7c0d15da2a32331aea
+  item_date: "2016-09-12 10:18:13"
+  title: ""
+  url: https://developers.google.com/eclipse/docs/appengine_deploy
+  domain: developers.google.com
+  image: ""
+- curated_id: d725570d19fc2be134d9a65feb060c96
+  item_date: "2016-09-28 00:00:00"
+  title: Visual Studio Bitbucket Extension
+  url: http://devpost.com/software/bitbucket-extension-for-visual-studio
+  domain: devpost.com
+  image: ""
+- curated_id: fc78dc9f0747593101a3060e3ea7cba9
+  item_date: "2016-09-28 00:00:00"
+  title: New Lightning Support in the Force.com IDE ? and Everywhere!
+  url: https://developer.salesforce.com/blogs/developer-relations/2016/09/new-lightning-support-force-com-ide-everywhere.html
+  domain: developer.salesforce.com
+  image: ""
+- curated_id: b063ea6c6a45354a5f3b49728afc213a
+  item_date: "2016-10-04 00:00:00"
+  title: Releasing a Visual Studio Extension
+  url: http://www.codeproject.com/Tips/1136303/Releasing-a-Visual-Studio-Extension
+  domain: www.codeproject.com
+  image: ""
+- curated_id: 682dd5e6d60212429351b2d4766f8188
+  item_date: "2016-10-10 17:21:39"
+  title: Using Docker to Build a Cross-Platform CLI
+  url: https://medium.com/eclipse-che-blog/using-docker-to-build-a-cross-platform-cli-8a5b80a5655d#.7l0prfvva
+  domain: medium.com
+  image: ""
+- curated_id: 27d608a07c20ddf30d969fb4091576fa
+  item_date: "2016-11-10 00:00:00"
+  title: 'Extensibility in Visual Studio ?15?: Increasing Reliability and Performance'
+  url: https://blogs.msdn.microsoft.com/visualstudio/2016/11/10/extensibility-in-visual-studio-15-increasing-reliability-and-performance/
+  domain: blogs.msdn.microsoft.com
+  image: ""
+- curated_id: ce67b18b735170fa863b2982c340d855
+  item_date: "2016-12-15 00:00:00"
+  title: 'IDE Features Trainer: A New Way to Learn Your IDE'
+  url: https://dzone.com/articles/ide-features-trainer-a-new-way-to-learn-your-ide
+  domain: dzone.com
+  image: ""
+- curated_id: 385435fe16000318c988c9f49a59eacc
+  item_date: "2017-01-09 12:05:02"
+  title: 'Tweet: Now @RepreZen_API Studio is available on Eclipse Marketplace! Drop
+    into your #Eclipse IDE, #design amp;amp; build #APIs wihellip; https://t.co/zcir8tkwqn'
+  url: https://twitter.com/RepreZen_API/statuses/818549161540911105
+  domain: twitter.com
+  image: ""
+- curated_id: 4b5be4330ccceca10173d4202005f89e
+  item_date: "2017-01-31 00:00:00"
+  title: 3 IDEs That Will Set the Standard for Cloud Coding Environments
+  url: https://dzone.com/articles/3-ides-that-will-set-the-standard-for-cloud-coding
+  domain: dzone.com
+  image: ""
+- curated_id: f41e06f913485205f8dc3a8e3c42c9eb
+  item_date: "2017-02-07 00:00:00"
+  title: Another Update to Visual Studio 2017 Release Candidate
+  url: https://blogs.msdn.microsoft.com/visualstudio/2017/02/07/another-update-to-visual-studio-2017-rc/
+  domain: blogs.msdn.microsoft.com
+  image: ""
+- curated_id: 23aa3df31708c79a6f13710146c171f4
+  item_date: "2017-02-10 00:00:00"
+  title: Codenvy for Secure Environments
+  url: https://blog.codenvy.com/codenvy-for-secure-environments-8a8d1c0d16b7#.gacmsbhll
+  domain: blog.codenvy.com
+  image: ""
+- curated_id: 887f5f2bbab3aee84ed8a9ad4ec29eed
+  item_date: "2017-02-14 00:00:00"
+  title: 'Visual Studio Extensibility (Day 2): Deploying Visual Studio Extension on
+    staging server and GIT via Continuous Integration'
+  url: https://www.codeproject.com/Articles/1170705/Visual-Studio-Extensibility-Day-Deploying-Visual-S
+  domain: www.codeproject.com
+  image: ""
+- curated_id: a00c793e8810c04d01781edeb54c1c5a
+  item_date: "2017-02-22 00:00:00"
+  title: 'Release Notes: Codenvy 5.3'
+  url: https://medium.com/m/global-identity
+  domain: medium.com
+  image: ""
+- curated_id: 5298b5a9d7de3e390a6c3e3b65013a01
+  item_date: "2017-03-02 00:00:00"
+  title: 'Xamarin University Presents: Getting Started with Xamarin for Visual Studio'
+  url: https://blogs.msdn.microsoft.com/visualstudio/2017/03/02/xamarin-university-presents-getting-started-with-xamarin-for-visual-studio/
+  domain: blogs.msdn.microsoft.com
+  image: ""
+- curated_id: 0a576cc25c7488f3ac04fffd5ea7f54d
+  item_date: "2017-03-02 00:00:00"
+  title: 'Top Integrated Developer Environments (IDEs): 50 Powerful Dev Environments
+    for Streamlined Development, from the Simple and Lightweight to the Robust and
+    Sophisticated'
+  url: https://stackify.com/top-integrated-developer-environments-ides/
+  domain: stackify.com
+  image: ""
+- curated_id: 6369a714ae2975dce8c551a2ab07a44f
+  item_date: "2017-03-07 00:00:00"
+  title: 'Visual Studio 2017: Productivity, Performance, and Partners'
+  url: https://blogs.msdn.microsoft.com/visualstudio/2017/03/07/visual-studio-2017-productivity-performance-and-partners/
+  domain: blogs.msdn.microsoft.com
+  image: ""
+- curated_id: 0c6fcfac845d81467a56f285598db46f
+  item_date: "2017-03-10 00:00:00"
+  title: A Look at the Percepio FreeRTOS Tracealyzer Plugin for Eclipse
+  url: https://dzone.com/articles/a-look-at-the-percepio-freertos-tracealyzer-plugin
+  domain: dzone.com
+  image: ""
+- curated_id: 3c084a50a7c99d8b59285b0f6e802338
+  item_date: "2017-03-13 00:00:00"
+  title: Eclipse Plugins via HTTPS and Lets Encrypt
+  url: https://dzone.com/articles/eclipse-plug-ins-via-https-amp-lets-encrypt
+  domain: dzone.com
+  image: ""
+- curated_id: 2fad6311f86dd4c8869cd589e6baec06
+  item_date: "2017-03-21 00:00:00"
+  title: Choosing Among Text Editors and IDEs
+  url: http://www.monitis.com/blog/choosing-among-text-editors-and-ides/
+  domain: www.monitis.com
+  image: ""
+- curated_id: dc58a87af908e28b9d99420942f00199
+  item_date: "2017-04-05 00:00:00"
+  title: Visual Studio 2017 Update
+  url: https://blogs.msdn.microsoft.com/visualstudio/2017/04/05/visual-studio-2017-update/
+  domain: blogs.msdn.microsoft.com
+  image: ""
+- curated_id: 7e57811c437d9cff701f7579ba6c745c
+  item_date: "2017-04-05 00:00:00"
+  title: Visual Studio 2017 Performance Improvements
+  url: https://blogs.msdn.microsoft.com/visualstudio/2017/04/05/visual-studio-2017-performance-improvements/
+  domain: blogs.msdn.microsoft.com
+  image: ""
+- curated_id: e444a4cf3bce0003d8d15825272fa63f
+  item_date: "2017-04-10 00:00:00"
+  title: Programming in AWS Using Visual Studio 2017
+  url: https://dzone.com/articles/programming-aws-using-visual-studio-2017
+  domain: dzone.com
+  image: ""
+- curated_id: 9e747f404d0752404641c71fb892b014
+  item_date: "2017-04-17 00:00:00"
+  title: "A Real Hacker\u2019s IDE"
+  url: http://hackaday.com/2017/04/17/a-real-hackers-ide/
+  domain: hackaday.com
+  image: ""
+- curated_id: 5384e58966f85047fd7bd79fc181db84
+  item_date: "2017-05-10 00:00:00"
+  title: Build Intelligent Apps Faster with Visual Studio and the Data Science Workload
+  url: https://blogs.msdn.microsoft.com/visualstudio/2017/05/10/build-intelligent-apps-faster-with-visual-studio/
+  domain: blogs.msdn.microsoft.com
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_15c3fab590c:49c66d:ac928dde
+  item_date: "2017-05-25 05:52:58"
+  title: Red Hat to acquire Codenvy as part of its growing container strategy
+  url: http://techcrunch.com/?p=1495658
+  domain: techcrunch.com
+  image: ""
+- curated_id: P6ZHWlrPQ5ILOZ54yDX4aZ046+AnYBvjvT3DdNFTXhQ=_15c42140e7e:2e851bd:bb404dd5
+  item_date: "2017-05-25 17:03:32"
+  title: Red Hat to Acquire Codenvy, Integrate Its IDE into OpenShift.io
+  url: https://thenewstack.io/?p=2400275
+  domain: thenewstack.io
+  image: ""
+- curated_id: b4xX282kQ9FAxkxcTTl6litd4bsIad1WXC3AOIleGAM=_15cf9890967:485ad1a:fe3a8465
+  item_date: "2017-06-30 08:04:28"
+  title: Put Your IDE in a Container with Guacamole
+  url: https://blog.openshift.com/?p=12141
+  domain: blog.openshift.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15d76cd3e6a:f4b25:6c0c5382
+  item_date: "2017-07-24 13:52:28"
+  title: 'Visual studio team service: Trigger a build using any HTTP client'
+  url: https://medium.com/p/884a0cc8b544
+  domain: medium.com
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_15dc08353d9:1dd46a:6c0c5382
+  item_date: "2017-08-07 23:23:36"
+  title: Open sourcing a backend for auto
+  url: https://medium.com/p/d86147850308
+  domain: medium.com
+  image: ""
+- curated_id: A5z98ryli7gzt6Axo4RPgbGxpcibqF8xQ5bog6lO7EE=_15e777e071d:636dc6:64bea9a6
+  item_date: "2017-09-11 17:00:00"
+  title: Introducing Atom
+  url: http://blog.atom.io/2017/09/12/announcing-atom-ide
+  domain: blog.atom.io
+  image: ""
+- curated_id: A5z98ryli7gzt6Axo4RPgbGxpcibqF8xQ5bog6lO7EE=_15e777e071d:636dc7:64bea9a6
+  item_date: "2017-09-11 17:00:00"
+  title: Atom 1.20
+  url: http://blog.atom.io/2017/09/12/atom-1-20
+  domain: blog.atom.io
+  image: ""
+- curated_id: eWu7VVyQziNGDYCNPrNyv5P/LGeod5mr5PXQh3MrqnI=_15e7b6fdfe6:c1f12a:6ea86031
+  item_date: "2017-09-13 06:09:06"
+  title: Sublime Text 3.0 is released
+  url: https://laravel-news.com/sublime-text-3-0-released
+  domain: laravel-news.com
+  image: ""
+- curated_id: P6ZHWlrPQ5ILOZ54yDX4aZ046+AnYBvjvT3DdNFTXhQ=_15e7cb703e7:ea2fa9:64bea9a6
+  item_date: "2017-09-13 12:26:13"
+  title: "GitHub\u2019s Atom Text Editor Gets a Full IDE"
+  url: https://thenewstack.io/?p=3066033
+  domain: thenewstack.io
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_15e9943178a:1495e6:9dbe7464
+  item_date: "2017-09-19 01:30:16"
+  title: Twilio Studio lets you build communication services without having to code
+  url: http://techcrunch.com/?p=1542873
+  domain: techcrunch.com
+  image: ""
+- curated_id: +Ynkn+nz8fFgq+6Gv4fm5JNOl4AoS3Zj0L4DndA6JPA=_15ea586c30e:38068c:c84bd0de
+  item_date: "2017-09-21 04:50:53"
+  title: The 3 Best Cloud IDEs for Backend Developers
+  url: https://zapier.com/engineering/best-cloud-ides/
+  domain: zapier.com
+  image: ""
+- curated_id: A5z98ryli7gzt6Axo4RPgbGxpcibqF8xQ5bog6lO7EE=_15ee33bdf59:5a68721:e05f56c8
+  item_date: "2017-10-02 17:00:00"
+  title: Atom 1.21
+  url: http://blog.atom.io/2017/10/03/atom-1-21
+  domain: blog.atom.io
+  image: ""
+- curated_id: A5z98ryli7gzt6Axo4RPgbGxpcibqF8xQ5bog6lO7EE=_15f11bfbf4c:3719eb5:4d363ef0
+  item_date: "2017-10-11 17:00:00"
+  title: "Atom\u2019s new concurrency"
+  url: http://blog.atom.io/2017/10/12/atoms-new-buffer-implementation
+  domain: blog.atom.io
+  image: ""
+- curated_id: A5z98ryli7gzt6Axo4RPgbGxpcibqF8xQ5bog6lO7EE=_15fc0737ad3:5e7bd3:541f3c40
+  item_date: "2017-11-14 16:00:00"
+  title: Code together in real time with Teletype for Atom
+  url: http://blog.atom.io/2017/11/15/code-together-in-real-time-with-teletype-for-atom
+  domain: blog.atom.io
+  image: ""
+- curated_id: 0VTnUfX894TcY5TA/oMFDbEY1bDrlajzsn67Jr80r8M=_15fc38fde4d:10b6fc:1f4fc1eb
+  item_date: "2017-11-15 22:40:06"
+  title: "GitHub\u2019s Atom text editor now lets you collaborate on code in real"
+  url: https://thenextweb.com/?p=1091399
+  domain: thenextweb.com
+  image: ""
+- curated_id: P6ZHWlrPQ5ILOZ54yDX4aZ046+AnYBvjvT3DdNFTXhQ=_15fcf74084a:14b1fdb:541f3c40
+  item_date: "2017-11-18 06:00:07"
+  title: 'This Week in Programming: Real'
+  url: https://thenewstack.io/?p=3515747
+  domain: thenewstack.io
+  image: ""
+- curated_id: 0VTnUfX894TcY5TA/oMFDbEY1bDrlajzsn67Jr80r8M=_16010d4f502:7b8852:1f4fc1eb
+  item_date: "2017-11-30 22:46:02"
+  title: "Amazon\u2019s AWS Cloud9 IDE lets you write, test, and debug code in your
+    browser"
+  url: https://thenextweb.com/?p=1094305
+  domain: thenextweb.com
+  image: ""
+- curated_id: MMCA/259PVQgzewWTRJNcvw/8XXvgI6S68GWeJF7z/0=_1603772b498:4969f:c8ea36f9
+  item_date: "2017-12-08 10:38:11"
+  title: Amazon's new cloud
+  url: http://mashable.com/?p=bp-64468
+  domain: mashable.com
+  image: ""
+- curated_id: rxLnjiJudc56FbZKrZ0crrg2UUWdKV8knoKwhWKNfS4=_16098c60224:27a5268:7157a206
+  item_date: "2017-12-27 08:15:59"
+  title: 5 Code Editors for Web Application and API Development
+  url: https://blog.codeship.com/?p=5937
+  domain: blog.codeship.com
+  image: ""
+- curated_id: HKwklz9a1LBDBgbulnG916dFzLOZO3KlGWN+5YbUEE4=_1609f1a9e5d:327a5f7:541f3c40
+  item_date: "2017-12-27 22:41:40"
+  title: Cloud IDE Market as platform as a service (PaaS)
+  url: http://www.editiontruth.com/cloud-ide-market-platform-service-paas/
+  domain: www.editiontruth.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_161743c5b4b:414ec9b:3c0bb656
+  item_date: "2018-02-07 22:01:39"
+  title: 'Eclipse: Still the Best IDE!'
+  url: https://dzone.com/articles/2032583
+  domain: dzone.com
+  image: ""
+- curated_id: A5z98ryli7gzt6Axo4RPgbGxpcibqF8xQ5bog6lO7EE=_1619127c010:6b4e668:3c0bb656
+  item_date: "2018-02-12 16:00:00"
+  title: Atom 1.24
+  url: http://blog.atom.io/2018/02/13/atom-1-24
+  domain: blog.atom.io
+  image: ""
+- curated_id: pJGm905BokLVZr/Pl24sMpd19eFuxZ/tV9dx1EzrkgY=_1619b0b691c:7a29235:7157a206
+  item_date: "2018-02-15 11:52:03"
+  title: Visual Studio Code will now ship with Anaconda
+  url: https://sdtimes.com/?p=29368
+  domain: sdtimes.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_163791786a4:2de25d:f3bf0074
+  item_date: "2018-05-18 06:48:46"
+  title: Screenster vs classic Record/Playback IDEs
+  url: https://medium.com/p/97acc70ec1fa
+  domain: medium.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_1648cadbb69:36539ad:19029e75
+  item_date: "2018-07-11 15:45:57"
+  title: Online IDE Repl.it
+  url: https://medium.com/p/33d240c89632
+  domain: medium.com
+  image: ""
+- curated_id: pJGm905BokLVZr/Pl24sMpd19eFuxZ/tV9dx1EzrkgY=_165678350de:9cf4e79:4c71e4fe
+  item_date: "2018-08-23 08:52:35"
+  title: GitLab 11.2 released with insight into real
+  url: https://sdtimes.com/?p=32055
+  domain: sdtimes.com
+  image: ""
+- curated_id: EafyeUhScrtdK/e/knMc+jDDPRJep+NKW+9isgslato=_165b451b4c7:43f28b:4c71e4fe
+  item_date: "2018-09-07 06:36:45"
+  title: Top 5 New IDE Features in API Studio
+  url: https://www.reprezen.com/blog/top-5-new-ide-features-in-api-studio
+  domain: www.reprezen.com
+  image: ""
+...

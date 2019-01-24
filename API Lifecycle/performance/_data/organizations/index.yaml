@@ -1,0 +1,381 @@
+- slug: akamai
+  name: Akamai
+  description: >-
+    Akamai Technologies, Inc. is a content delivery network or CDN and cloud
+    services provider headquartered in Cambridge, Massachusetts, in the United
+    States. Akamai's content delivery network is one of the world's largest
+    distributed computing platforms, responsible for serving between 15 and 30
+    percent of all web traffic. The company operates a network of servers around
+    the world and rents capacity on these servers to customers who want their
+    websites to work faster by distributing content from locations close to the
+    user
+  url: 'https://akamai.com'
+  short_url: ''
+  twitter: 'https://twitter.com/Akamai'
+  blog: 'https://blogs.akamai.com'
+  blog_rss: 'http://blogs.akamai.com/feeds.html'
+  github: 'https://github.com/akamai'
+  image: 'https://s3.amazonaws.com/kinlane-productions/akamai/akamai-logo.png'
+  tags: 'Applications,Cloud,DNS,API LIfeycle,Bots,Performance,Security,DNS Cloud'
+- slug: apica
+  name: Apica
+  description: >-
+    Apica provides the most effective technology for optimizing the performance
+    of cloud and mobile applications. Apica offers companies and developers
+    alike easy-to-use, cloud-based load testing and web performance monitoring
+    tools to test applications for maximum capacity, daily performance, improved
+    load times, and protection from peak loads. For more information about how
+    Apica is providing the highest standard for cloud and mobile application
+    performance management.
+  url: 'https://www.apicasystem.com'
+  short_url: ''
+  twitter: 'https://twitter.com/apicasystems'
+  blog: 'https://www.apicasystem.com/blog/'
+  blog_rss: 'https://www.apicasystem.com/feed/'
+  github: 'https://github.com/ApicaSystem'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apica-logo.png
+  tags: 'Monitoring,Testing,Performance'
+- slug: aws-auto-scaling
+  name: AWS Auto Scaling
+  description: >-
+    Auto Scaling helps you maintain application availability and allows you to
+    scale your&nbsp;Amazon EC2&nbsp;capacity up or down automatically according
+    to conditions you define. You can use Auto Scaling to help ensure that you
+    are running your desired number of Amazon EC2 instances. Auto Scaling can
+    also automatically increase the number of Amazon EC2 instances during demand
+    spikes to maintain performance and decrease capacity during lulls to reduce
+    costs. Auto Scaling is well suited both to applications that have stable
+    demand patterns or that experience hourly, daily, or weekly variability in
+    usage.&nbsp;
+  url: 'https://aws.amazon.com/autoscaling/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  tags: 'Amazon Web Services,Compute,Deployment,Performance'
+- slug: aws-elastic-load-balancing
+  name: AWS Elastic Load Balancing
+  description: >-
+    Elastic Load Balancing automatically distributes incoming application
+    traffic across multiple Amazon EC2 instances. It enables you to achieve
+    fault tolerance in your applications, seamlessly providing the required
+    amount of load balancing capacity needed to route application traffic.
+    Elastic Load Balancing offers two types of load balancers that both feature
+    high availability, automatic scaling, and robust security. These include
+    the&nbsp;Classic Load Balancer&nbsp;that routes traffic based on either
+    application or network level information, and the&nbsp;Application Load
+    Balancer&nbsp;that routes traffic based on advanced application level
+    information that includes the content of the request. The Classic Load
+    Balancer is ideal for simple load balancing of traffic across multiple EC2
+    instances, while the Application Load Balancer is ideal for applications
+    needing advanced routing capabilities, microservices, and container-based
+    architectures. Application Load Balancer offers ability to route traffic to
+    multiple services or load balance across multiple ports on the same EC2
+    instance.
+  url: 'https://aws.amazon.com/elasticloadbalancing/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_ElasticLoadBalancing.png
+  tags: 'Amazon Web Services,Compute,Servers,Performance,Availability'
+- slug: azure-advisor
+  name: Azure Advisor
+  description: >-
+    Azure Advisor is a personalized recommendation engine that helps you follow
+    Azure best practices. It analyzes your Azure resource configuration and
+    usage telemetry, then provides recommendations that can reduce costs and
+    improve the performance, security, and reliability of your applications.
+  url: 'https://azure.microsoft.com/en-us/services/advisor/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/improve-what-matters.png
+  tags: 'Best Practices,Performance,Microsoft'
+- slug: blazemeter
+  name: BlazeMeter
+  description: >-
+    BlazeMeter is a self-service, load testing platform (PaaS) for developers
+    providing an enterprise grade, out-of-the-box load testing solution. Start
+    testing in under five minutes. BlazeMeter significantly simplifies the load
+    testing process by providing developers easy integration into their native
+    development environment.
+  url: 'http://blazemeter.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/BlazeMeter'
+  blog: 'http://blazemeter.com/blog'
+  blog_rss: 'http://feedburner.google.com/fb/a/mailverify?uri=JmeterCloudBlog'
+  github: 'https://github.com/Blazemeter'
+  image: ''
+  tags: 'Testing,Testing,Performance'
+- slug: catchpoint
+  name: Catchpoint
+  description: >-
+    Catchpoint provides real time analytics in the end to end performance of
+    internet services. Our products perform website performance monitoring from
+    multiple vantage points to better understand their performance and the
+    factors impacting it. With Catchpoint companies can lower the cost of
+    quality management and protect revenue by quickly discovering and solving
+    performance issues.
+  url: 'http://www.catchpoint.com'
+  short_url: ''
+  twitter: 'https://twitter.com/catchpoint'
+  blog: 'http://blog.catchpoint.com'
+  blog_rss: 'http://blog.catchpoint.com/feed/'
+  github: 'https://github.com/catchpoint'
+  image: ''
+  tags: 'Enterprise,Performance'
+- slug: crossbrowsertesting
+  name: CrossBrowserTesting
+  description: >-
+    Test your website in dozens of browsers and real devices with instant
+    results. Over one thousand combinations of browsers, OSs, and devices. With
+    CrossBrowserTesting.com, you can test your sites on more than 1500 browsers
+    across more than 65 operating systems, including iOS, Android, Windows, Mac
+    and more.
+  url: 'http://crossbrowsertesting.com'
+  short_url: ''
+  twitter: 'https://twitter.com/xbrowsertesting'
+  blog: 'http://crossbrowsertesting.com/blog'
+  blog_rss: 'http://crossbrowsertesting.com/blog/feed'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cbt-logo.png
+  tags: 'Performance,Projects,Testing,Browser Testing'
+- slug: datadog
+  name: DataDog
+  description: >-
+    Datadog is a monitoring service that brings together metrics and events from
+    servers, databases, applications, tools and services to present a unified
+    view of the infrastructure. These capabilities are provided on a SaaS-based
+    data analytics platform that enables Dev and Ops teams to work
+    collaboratively on the infrastructure to avoid downtime, resolve performance
+    problems, and ensure that development and deployment cycles finish on time.
+  url: 'https://www.datadoghq.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/datadoghq'
+  blog: 'https://www.datadoghq.com/blog/'
+  blog_rss: 'https://www.datadoghq.com/feed/'
+  github: 'https://github.com/datadog'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/datadog-logo.png
+  tags: 'Monitoring,Performance,Orchestration,Aggregation'
+- slug: flood-io
+  name: Flood IO
+  description: >-
+    Flood enables you to generate load from any AWS region, using your own
+    account or ours to achieve the most realistic traffic scenarios. We collate
+    all the results for you, so you can spend more time testing. We sort out the
+    infrastructure, so you can spend more time testing. We've built a massive
+    distributed shared nothing infrastructure which lets you scale out on
+    demand. You'll enjoy much better economies of scale on Flood than you can on
+    our competitors.
+  url: 'https://flood.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/flood_io'
+  blog: 'https://blog.flood.io/'
+  blog_rss: 'https://blog.flood.io/rss/'
+  github: 'https://github.com/flood-io'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/flood-io.png
+  tags: 'Testing,Performance'
+- slug: google-pagespeed-insights
+  name: Google PageSpeed Insights
+  description: >-
+    Page Speed Insights measures the performance of a page for mobile devices
+    and desktop devices. It fetches the url twice, once with a mobile
+    user-agent, and once with a desktop-user agent. The PageSpeed Score ranges
+    from 0 to 100 points. A higher score is better and a score of 85 or above
+    indicates that the page is performing well. Please note that PageSpeed
+    Insights is being continually improved and so the score will change as we
+    add new rules or improve our analysis.
+  url: 'https://developers.google.com/speed/docs/insights/about'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/54de5c09d56ec853cc9310e1.png
+  tags: 'Performance,Websites,Google APIs'
+- slug: gtmetrix
+  name: GTmetrix
+  description: >-
+    GTmetrix can help you develop a faster, more efficient, and all-around
+    improved website experience for your users.  Studies show that users leave a
+    site if it hasn&#8217;t loaded in 4 seconds; keep your users happy and
+    engaged by providing a fast performing website!  GTmetrix uses Google Page
+    Speed and Yahoo! YSlow to grade your site&#8217;s performance and provides
+    actionable recommendations to fix these issues.  GTmetrix provides: full
+    video capture of how your site loads from multiple regions around the world,
+    performance monitoring and alerts for when your site dips below a given
+    threshold, easy to use API for integration with other sites, and much more!
+  url: 'http://gtmetrix.com'
+  short_url: ''
+  twitter: 'https://twitter.com/gtmetrix'
+  blog: ''
+  blog_rss: 'http://gtmetrix.com/news.xml'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/806_logo.png
+  tags: Performance Testing
+- slug: load-impact
+  name: Load Impact
+  description: >-
+    Load Impact is an online load testing service for websites, web apps, mobile
+    apps and APIs. The service allows users to run load tests over the Internet,
+    rather than having to set up their own load testing infrastructure to run
+    tests. Tests are easily repeatable, with minimum preparation required, which
+    also makes the service a good development/optimization tool.
+  url: 'https://loadimpact.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/loadimpact'
+  blog: 'http://blog.loadimpact.com/'
+  blog_rss: 'http://blog.loadimpact.com/rss.xml'
+  github: 'https://github.com/loadimpact'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/load-impact-logo.png
+  tags: 'Testing,Performance'
+- slug: loader.io
+  name: Loader.io
+  description: >-
+    Loader.io is a free load testing service that allows you to stress test your
+    web-apps/apis with thousands of concurrent connections. We were born out of
+    SendGrid Labs which is a new and growing internal effort at SendGrid. Born
+    in late 2012, SendGrid Labs builds tools and services to help developers
+    focus on their core business. We aim to provide creative and innovative
+    solutions to common developer pain points, to make their lives easier, and
+    to help them scale.
+  url: 'https://loader.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/loaderio'
+  blog: 'http://blog.loader.io/'
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/loader-io.png
+  tags: 'Testing,Performance'
+- slug: loadfocus
+  name: LoadFocus
+  description: >-
+    Load test with thousands of concurrent users. Monitor website uptime and
+    perfomance. Measure website speed and get insights. Run load tests in the
+    Cloud and stress your API with up to 50,000 concurrent users. Inspect
+    results to optimise and improve performance.
+  url: 'https://loadfocus.com/'
+  short_url: ''
+  twitter: ''
+  blog: 'http://loadfocus.com/blog/'
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/loadfocus.png
+  tags: 'Performance,Testing'
+- slug: new-relic
+  name: New Relic
+  description: >-
+    New Relic offers SaaS Software Analytics Platform that offers Application
+    Performance Management and Real User Monitoring for Cloud and Data Center
+    deployed web applications implemented in Ruby, Java, .NET, Python, PHP,
+    Node.js. New Relic also offers mobile monitoring solutions for iOS and
+    Android applications.
+  url: 'https://newrelic.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/NewRelic'
+  blog: 'https://blog.newrelic.com/'
+  blog_rss: 'https://blog.newrelic.com/feed/'
+  github: 'https://github.com/newrelic'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/newrelic-logo-square.png
+  tags: 'Monitoring,Performance'
+- slug: pingdom
+  name: Pingdom
+  description: >-
+    Pingdom is a service that tracks the uptime, downtime, and performance of
+    websites. &nbsp;When problems happen with a site that Pingdom monitors, it
+    immediately alerts the owner so the problem can be taken care of. Pingdom
+    monitors websites from multiple locations globally so that it can
+    distinguish genuine downtime from routing and access problems.&nbsp;
+  url: 'http://www.pingdom.com'
+  short_url: ''
+  twitter: 'https://twitter.com/#!/pingdom'
+  blog: 'http://royal.pingdom.com/'
+  blog_rss: 'http://royal.pingdom.com/feed/'
+  github: 'https://github.com/Pingdom'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/456_logo.png
+  tags: 'Monitoring,Performance'
+- slug: pingometer
+  name: Pingometer
+  description: >-
+    Pingometer is a service that monitors the uptime, downtime, and performance
+    of websites. We offer HTTP, HTTPS, RUM, DNS, ICMP, IMAP, POP3, SMTP, TCP,
+    UDP, and Transaction monitors. We have locations in Australia, Brazil,
+    France, Germany, Luxembourg, Japan, the Netherlands, South Africa, the
+    United Kingdom, and the United States.
+  url: 'https://pingometer.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/pingometer'
+  blog: 'https://pingometer.com/blog/'
+  blog_rss: ''
+  github: 'https://github.com/pingometer'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Pingometer-Full-Logo.png
+  tags: 'Monitoring,Performance'
+- slug: plumbr
+  name: Plumbr
+  description: >-
+    Plumbr is a Java performance monitoring solution that brings transparency
+    into your JVM performance. It is the only solution that automatically
+    detects the root causes of Java performance issues by interpreting
+    application performance data.
+  url: 'https://plumbr.eu/'
+  short_url: ''
+  twitter: 'https://twitter.com/JavaPlumbr'
+  blog: 'https://plumbr.eu/blog'
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plumbr-logo.png
+  tags: Performance
+- slug: smartbear-software
+  name: SmartBear Software
+  description: >-
+    SmartBear Software provides tools for over 100,000 software professionals to
+    build, test, and monitor some of the best software applications and websites
+    anywhere on the desktop, mobile and in the cloud.
+  url: 'http://smartbear.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/smartbear'
+  blog: 'http://blog.smartbear.com/'
+  blog_rss: 'http://feeds.feedburner.com/smartbear'
+  github: 'https://github.com/SmartBear'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/SmartBear-Logo.png
+  tags: 'Security,Testing,Monitoring,Virtualization,Performance,API LIfeycle'
+- slug: webpagetest
+  name: WebPagetest
+  description: >-
+    WebPagetest is used for measuring and analyzing the performance of web
+    pages.  There are a lot of options that may seem intimidating at first but
+    doing quick testing is pretty simple.  This guide will walk you through
+    submitting a test and interpreting the results.
+  url: >-
+    https://sites.google.com/a/webpagetest.org/docs/advanced-features/webpagetest-restful-apis
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/webpagetest/webpagetest-logo.png
+  tags: 'Websites,Performance Testing'

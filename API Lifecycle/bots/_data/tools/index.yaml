@@ -1,0 +1,278 @@
+---
+- slug: cljslackbot
+  name: clj-slackbot
+  description: A Clojure bot for Slack
+  url: https://github.com/verma/clj-slackbot
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Slackbot,Bots
+- slug: glossarybot
+  name: glossary-bot
+  description: A Glossary bot for Slack
+  url: https://github.com/codeforamerica/glossary-bot
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Slackbot,Bots,TwitterBot
+- slug: phabulous
+  name: phabulous
+  description: A Phabricator bot for Slack
+  url: https://github.com/etcinit/phabulous
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Slackbot,Bots,TwitterBot
+- slug: nouvion
+  name: Nouvion
+  description: A Slack bot for Merveilles.
+  url: https://github.com/merveilles/Nouvion
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Slackbot,Bots,TwitterBot
+- slug: norrisbot
+  name: norrisbot
+  description: a Slack bot that kicks asses (roundhouse-kicks to be accurate...)
+  url: https://github.com/lmammino/norrisbot
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Slackbot,Bots,TwitterBot
+- slug: doloreslandinghambot
+  name: dolores-landingham-bot
+  description: A Slack bot to welcome new 18F hires with the authority and compassion
+    of Mrs. Landingham
+  url: https://github.com/18F/dolores-landingham-bot
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Slackbot,Bots,TwitterBot
+- slug: morgenbot
+  name: morgenbot
+  description: A standup bot for Slack
+  url: https://github.com/eelzon/morgenbot
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Slackbot,Bots,TwitterBot
+- slug: ircslackecho
+  name: irc-slack-echo
+  description: An IRC bot that echoes activity to slack, and supports mapping IRC
+    usernames to Slack usernames.
+  url: https://github.com/rknLA/irc-slack-echo
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Slackbot,Bots,TwitterBot
+- slug: botkit
+  name: botkit
+  description: Botkit is a toolkit for making bot applications
+  url: https://github.com/howdyai/botkit
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Bots
+- slug: mybot
+  name: mybot
+  description: Build your own Slack bot in Go.
+  url: https://github.com/rapidloop/mybot
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Slackbot,Bots,TwitterBot
+- slug: changetipslack
+  name: changetip-slack
+  description: ChangeTip Slack Tip bot
+  url: https://github.com/changecoin/changetip-slack
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Slackbot,Bots
+- slug: isis
+  name: isis
+  description: Chat bot for Slack, HipChat and Campfire, with plugins!
+  url: https://github.com/silentgrowl/isis
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Slackbot,Bots,TwitterBot
+- slug: facebookmessenger
+  name: facebook-messenger
+  description: Definitely the best Ruby client for Bots on Messenger
+  url: https://github.com/hyperoslo/facebook-messenger
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Bots
+- slug: immaletyoufinish
+  name: imma-let-you-finish
+  description: imma-let-you-finish celebrates over five years of Kanye West hacking
+    the stage. This Slack Bot will randomly appear on your conversation to tell everyone
+    who has the best comment of all times. Of all times!
+  url: https://github.com/Sparragus/imma-let-you-finish
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Slackbot,Bots
+- slug: margiebot
+  name: margiebot
+  description: MargieBot is a .NET library designed to make building bots for Slack
+    fast, easy, and fun.
+  url: https://github.com/jammerware/margiebot
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Slackbot,Bots,TwitterBot
+- slug: kassy
+  name: Kassy
+  description: Modular chat bot. (Karma + Sassy) * (Facebook + Slack) - Hipchat =
+    Kassy
+  url: https://github.com/mrkno/Kassy
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Slackbot,Bots,TwitterBot
+- slug: pythontelegrambot
+  name: python-telegram-bot
+  description: Not just a Python wrapper around the Telegram Bot API.
+  url: https://github.com/python-telegram-bot/python-telegram-bot
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Bots
+- slug: phoenix
+  name: phoenix
+  description: Pluggable bot for Slack
+  url: https://github.com/ehazlett/phoenix
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Slackbot,Bots
+- slug: pytelegrambotapi
+  name: pyTelegramBotAPI
+  description: Python Telegram bot api.
+  url: https://github.com/eternnoir/pyTelegramBotAPI
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Bots
+- slug: hongmoa
+  name: hongmoa
+  description: Slack-bot for pythonistas
+  url: https://github.com/haandol/hongmoa
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Slackbot,Bots
+- slug: phonebot
+  name: phonebot
+  description: Slackbot using IBM Watson and Twilio to make phone calls via slack
+    commands
+  url: https://github.com/IBM-Bluemix/phonebot
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Slackbot,Bots,TwitterBot
+- slug: herokutwitterbotstarter
+  name: heroku-twitterbot-starter
+  description: Starter kit for creating Twitter bots hosted for free on Heroku. Please
+    do not use for evil.
+  url: https://github.com/zwass/heroku-twitterbot-starter
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Bots,TwitterBot
+- slug: nodetelegrambotapi
+  name: node-telegram-bot-api
+  description: Telegram Bot API for NodeJS
+  url: https://github.com/yagop/node-telegram-bot-api
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Bots
+- slug: botbuilder
+  name: BotBuilder
+  description: The Microsoft Bot Builder SDK is one of three main components of the
+    Microsoft Bot Framework.  The Microsoft Bot Framework provides just what you need
+    to build and connect intelligent bots that interact naturally wherever your users
+    are talking, from text/SMS to Skype, Slack, Office 365 mail and other popular
+    services.
+  url: https://github.com/Microsoft/BotBuilder
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Bots,Platform,Slackbot,Bots,TwitterBot
+...

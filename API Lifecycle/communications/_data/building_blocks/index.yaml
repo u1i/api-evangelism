@@ -1,0 +1,128 @@
+- building_block_id: blog
+  type: Communications
+  category: Communications
+  name: Blog
+  description: >-
+    Providing a blog dedicated to API platform operations, with stories about
+    the providers, consumers, and other related stories.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-blog-icon.png
+  tags: Communications
+- building_block_id: blog-rss-feed
+  type: Communications
+  category: Communications
+  name: Blog RSS Feed
+  description: >-
+    Make sure there is an RSS feed for any blog that is published as part of API
+    operations.
+  image: ''
+  tags: Communications
+- building_block_id: twitter
+  type: Communications
+  category: Communications
+  name: Twitter
+  description: >-
+    Provide an active Twitter account for support, as well as evangelism efforts
+    around an APIs operations.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-twitter-icon.png
+  tags: Communications
+- building_block_id: email
+  type: Communications
+  category: Communications
+  name: Email
+  description: >-
+    Provide an email for not just support, but also general platform
+    communications.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-email.png
+  tags: Communications
+- building_block_id: linkedin
+  type: Communications
+  category: Communications
+  name: LinkedIn
+  description: >-
+    Provide an active LinkedIn account for support, as well as evangelism
+    efforts around an APIs operations.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-linkedin.png
+  tags: Communications
+- building_block_id: facebook
+  type: Communications
+  category: Communications
+  name: Facebook
+  description: >-
+    Provide an active Facebook account for support, as well as evangelism
+    efforts around an APIs operations.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-facebook.png
+  tags: Communications
+- building_block_id: google+
+  type: Communications
+  category: Communications
+  name: Google+
+  description: >-
+    Provide an active Google+ account for support, as well as evangelism efforts
+    around an APIs operations.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-google-plus.png
+  tags: Communications
+- building_block_id: email-newsletter
+  type: Communications
+  category: Communications
+  name: Email Newsletter
+  description: >-
+    An email newsletter dedicated to cover news across platform operations,
+    providing weekly summary of activity in the inbox.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-email-newsletter.png
+  tags: Communications
+- building_block_id: instagram
+  type: Communications
+  category: Communications
+  name: Instagram
+  description: >-
+    Using Instagram as a way to communicate with platform users, and let users
+    know there is someone home.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-instagram.png
+  tags: Communications
+- building_block_id: vimeo
+  type: Communications
+  category: Communications
+  name: Vimeo
+  description: >-
+    Using Vimeo as a communication channel for educating users about an API
+    platform.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-vimeo.png
+  tags: Communications
+- building_block_id: youtube
+  type: Communications
+  category: Communications
+  name: Youtube
+  description: >-
+    Using Youtube as a regular content and communication channel to help users
+    learn about platform operations.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-youtube.png
+  tags: Communications
+- building_block_id: chat
+  type: Communications
+  category: Communications
+  name: Chat
+  description: >-
+    Providing a live chant mechanism in the developer portal, allowing
+    developers to connect directly with API support and evangelists.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-chat.png
+  tags: Communications
+- building_block_id: slack
+  type: Communications
+  category: Communications
+  name: Slack
+  description: >-
+    Using Slack to create private channels just for communicating with internal,
+    partner, or public API consumers.
+  image: ''
+  tags: Communications

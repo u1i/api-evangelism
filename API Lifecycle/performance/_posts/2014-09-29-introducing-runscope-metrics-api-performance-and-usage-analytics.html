@@ -1,0 +1,16 @@
+---
+layout: post
+title: 'Introducing Runscope Metrics: API Performance and Usage Analytics'
+source: http://performance.apievangelist.com/2014/09/29/introducing-runscope-metrics-api-performance-and-usage-analytics/
+domain: performance.apievangelist.com
+image: 
+---
+<hr />Some of your most popular feature requests have been for reporting and analytics -- specifically performance (latency) and usage (consumption) metrics. Today, we're announcing the release of Runscope Metrics for all customers.Â The first two Runscope Metrics reports that we're releasing areÂ PerformanceÂ andÂ Usage. 
+Runscope Radar is very useful for testing if an API is operating properly. You may have noticed that while defining tests, an assertion for "Response Time (ms)" is an option. True, that catching a failing test is important (i.e. not responding within time threshold), but tracking performance data onÂ successfulÂ tests is just as important.
+Gradual increases in latency (response time) can be signs of a backend service that is not scaling well.Â Spikes of latency can be an indication of intermittent network problems that are unrelated to the health of the backend service. Â Both of these cases are common and mostly go undetected.Â 
+These spikes and gradual increases in latency are now easily spotted with visual performance graphs. By catchingÂ latency issues early, developers can investigate and address themÂ before they grow into major problems.
+Keeping tabs on the number of API requests an app makes is also important. Modern APIs implement rate limits and throttles â for example, restricting apps to X calls per hour, or Y calls per day. In most cases, an app that exceeds a limit is denied access which could lead to application failure. It's unfortunate, but that's usually what it takes for developers to discover their API request capacity problem.
+Using Runscope Metrics, developers can stay several steps ahead by monitoring their usage. All API calls that proxy through Runscope get logged. Similar to the latency performance report, the usage report makes it easy for developers to spot both gradual trends in growth as well as spikes. This report helps developers to forecast usage trends and plan accordingly.
+The default reporting view for both Performance and Usage Reports is across all hosts. Finding the exact method that is experiencing latency issues, or ramping up on API call consumption, is very easy. Developers can refine the scope of each report by simply clicking a hostname from the list. From the hostname view, drilling down to the endpoint path and method is done exactly the same way.
+Runscope Metrics is available to all customers. If you need help understanding Runscope Metrics reports, send us a note. Our support team is standing by, ready to help.
+<br /><br />URL: http://blog.runscope.com/posts/introducing-runscope-metrics-api-performance-and-usage-analytics<br />

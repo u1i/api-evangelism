@@ -1,0 +1,339 @@
+---
+- curated_id: d77ca7556689c421b43aefcbf43a134e
+  item_date: "2016-10-17 00:00:00"
+  title: 'Introducing Veneur: high performance and global aggregation for Datadog'
+  url: https://stripe.com/blog/introducing-veneur-high-performance-and-global-aggregation-for-datadog
+  domain: stripe.com
+  image: ""
+- curated_id: 3b3a345f96192f0a989577c6280352d3
+  item_date: "2017-01-11 00:00:00"
+  title: Improving Visibility in Security Operations with Search-Driven Lookups
+  url: http://blogs.splunk.com/2017/01/11/improving-visibility-in-security-operations-with-search-driven-lookups/
+  domain: blogs.splunk.com
+  image: ""
+- curated_id: dac07baaf73eb6c6b69eb791af18c2cd
+  item_date: "2017-02-09 00:00:00"
+  title: 'State of open company data in 2016: wins and challenges ahead'
+  url: https://blog.opencorporates.com/2017/02/09/state-of-open-company-data-in-2016-wins-and-challenges-ahead/
+  domain: blog.opencorporates.com
+  image: ""
+- curated_id: e487f962575a20587dcceef6919790f4
+  item_date: "2017-02-09 00:00:00"
+  title: The TSA knows its screening methods are unscientific and unreliable, says
+    ACLU report
+  url: http://www.theverge.com/2017/2/9/14558298/tsa-screening-unscientific-unreliable-aclu-report
+  domain: www.theverge.com
+  image: ""
+- curated_id: 4aa677a0a8d9d57cece4003e86e665e4
+  item_date: "2017-03-18 22:40:54"
+  title: Observability
+  url: http://onemogin.com/observability/
+  domain: onemogin.com
+  image: ""
+- curated_id: 255d1a7ba950e2295265ab72832540b9
+  item_date: "2017-04-06 12:57:28"
+  title: "Uber said to use \u201Csophisticated\u201D software to defraud drivers,
+    passengers"
+  url: https://arstechnica.com/tech-policy/2017/04/uber-said-to-use-sophisticated-software-to-defraud-drivers-passengers/
+  domain: arstechnica.com
+  image: ""
+- curated_id: q2q2EWvhwTr2G72+2bmzQ5IFpAlRi9P7s4CyaWlqDGs=_15c137b684a:2149eae:9eb87abf
+  item_date: "2017-05-16 15:57:51"
+  title: A Comparison of Mapping Approaches for Distributed Cloud Applications
+  url: https://medium.com/p/52be1f61d293
+  domain: medium.com
+  image: ""
+- curated_id: P6ZHWlrPQ5ILOZ54yDX4aZ046+AnYBvjvT3DdNFTXhQ=_15c3234bc70:1ad8624:1980c846
+  item_date: "2017-05-22 15:08:46"
+  title: Dev or Ops, Observability is Crucial
+  url: https://thenewstack.io/?p=2381689
+  domain: thenewstack.io
+  image: ""
+- curated_id: +iHpcF+MVmzqHdkw+fLKtN8U+Gs5PfZG9PfuVqz3Jqk=_15c9d100554:289c8ae:28ce9b86
+  item_date: "2017-06-12 09:00:05"
+  title: Telecoms Take On Network Analytics &amp; Visibility
+  url: http://www.kentik.com/?p=6990
+  domain: www.kentik.com
+  image: ""
+- curated_id: rq6OKKgBiWVp88vsVvs1lxEDBZExs+csk5yWEsrvsaE=_15cc6a464e3:590693:5b78a817
+  item_date: "2017-06-20 09:35:02"
+  title: Stacked Graphs in Honeycomb!
+  url: https://honeycomb.io/blog/2017/06/stacked-graphs-in-honeycomb/
+  domain: honeycomb.io
+  image: ""
+- curated_id: rq6OKKgBiWVp88vsVvs1lxEDBZExs+csk5yWEsrvsaE=_15cd214d392:1832162:517b1451
+  item_date: "2017-06-22 12:43:02"
+  title: 'Filtering in Context: Get Your Investigation On'
+  url: https://honeycomb.io/blog/2017/06/filtering-in-context-get-your-investigation-on/
+  domain: honeycomb.io
+  image: ""
+- curated_id: 4i+1vhCwmRRLfmB7ypTnMh+ZKSvsz6Rgf0lfR0WWb0w=_15ce644c9f0:32815ca:5b78a817
+  item_date: "2017-06-26 14:10:00"
+  title: "Facebook won\u2019t release data on political ads to researchers"
+  url: https://www.engadget.com/2017/06/26/facebook-data-political-ads-researchers/
+  domain: www.engadget.com
+  image: ""
+- curated_id: rq6OKKgBiWVp88vsVvs1lxEDBZExs+csk5yWEsrvsaE=_15ceb550939:341442d:fe3a8465
+  item_date: "2017-06-27 13:35:02"
+  title: Introducing Derived Columns
+  url: https://honeycomb.io/blog/2017/06/introducing-derived-columns/
+  domain: honeycomb.io
+  image: ""
+- curated_id: rq6OKKgBiWVp88vsVvs1lxEDBZExs+csk5yWEsrvsaE=_15cf013a9fa:3abab2e:fe3a8465
+  item_date: "2017-06-28 11:20:22"
+  title: Build Observable Systems
+  url: https://honeycomb.io/blog/2017/06/build-observable-systems/
+  domain: honeycomb.io
+  image: ""
+- curated_id: 9KT49fmuko1tn2wYTNISIGZ+1/Tns6mmobs0me9rgQ4=_15cf562e246:4bd7756:517b1451
+  item_date: "2017-06-29 09:45:04"
+  title: "Honeycomb\u2019s Charity Majors on operations engineering"
+  url: http://blog.intercom.com/?p=12967
+  domain: blog.intercom.com
+  image: ""
+- curated_id: dnRmB76fym4hkmgsXBwtmLKNUV3FwG/JzTfREvhE440=_15d27218a32:899051:32bbcd87
+  item_date: "2017-07-09 04:20:46"
+  title: 'Open data: Accountability and transparency'
+  url: http://thegovlab.org/?p=21011
+  domain: thegovlab.org
+  image: ""
+- curated_id: rq6OKKgBiWVp88vsVvs1lxEDBZExs+csk5yWEsrvsaE=_15d3cfb2d37:2aac77f:4825a421
+  item_date: "2017-07-13 09:35:00"
+  title: Honeycomb &lt;3Kubernetes Observability
+  url: https://honeycomb.io/blog/2017/07/honeycomb-3-kubernetes-observability/
+  domain: honeycomb.io
+  image: ""
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_15d42495e2d:32a787f:32bbcd87
+  item_date: "2017-07-14 11:08:10"
+  title: 'New feature roundup: Integrations and data collection'
+  url: https://www.datadoghq.com/blog/feature-roundup-integrations/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: oWwSZ9Xu4Zg49bpJDa0MWTMCyM67pScdNU+gxmUAZuo=_15d996c9698:ce8ce:6c0c5382
+  item_date: "2017-07-31 09:10:02"
+  title: FCC says its specific plan to stop DDoS attacks must remain secret
+  url: https://arstechnica.com/?p=1140367
+  domain: arstechnica.com
+  image: ""
+- curated_id: rq6OKKgBiWVp88vsVvs1lxEDBZExs+csk5yWEsrvsaE=_15d9ef04cd3:5369c9:218de7ce
+  item_date: "2017-07-31 17:00:00"
+  title: 'Event Foo: Building Better Events'
+  url: https://honeycomb.io/blog/2017/08/event-foo-building-better-events/
+  domain: honeycomb.io
+  image: ""
+- curated_id: eWu7VVyQziNGDYCNPrNyv5P/LGeod5mr5PXQh3MrqnI=_15d9ec2d5dd:51ca01:bd5def64
+  item_date: "2017-08-01 05:45:03"
+  title: Track Laravel Model Changes with Laravel Auditing
+  url: https://laravel-news.com/laravel-auditing-package
+  domain: laravel-news.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15da14e96ad:8cb967:bd5def64
+  item_date: "2017-08-01 21:38:16"
+  title: "Ads.txt \u2013 Authorized Digital Sellers \u2013 IAB Tech Lab"
+  url: https://iabtechlab.com/ads-txt/
+  domain: iabtechlab.com
+  image: ""
+- curated_id: p9l1QRJSWsBdfQhLvEqI6rdgjdJrOWvtCS0GvuF9J1Q=_15dcdaa0eff:3931db3:ce556ce1
+  item_date: "2017-08-10 12:37:46"
+  title: How to Create a Server Overview Dashboard in New Relic Insights
+  url: http://blog.newrelic.com/?p=38352
+  domain: blog.newrelic.com
+  image: ""
+- curated_id: b4xX282kQ9FAxkxcTTl6litd4bsIad1WXC3AOIleGAM=_15dd33a576c:4173e32:ce556ce1
+  item_date: "2017-08-11 14:19:57"
+  title: 'OpenShift Commons Briefing #90: Network Visibility and Runtime Security
+    for OpenShift and Kubernetes'
+  url: https://blog.openshift.com/?p=13216
+  domain: blog.openshift.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15dd92545cd:5f5a24:b8b2a437
+  item_date: "2017-08-12 18:09:52"
+  title: "Can Government Keep Up with Artificial Intelligence? \u2014 NOVA Next"
+  url: http://www.pbs.org/wgbh/nova/next/tech/ai-government-policy/
+  domain: www.pbs.org
+  image: ""
+- curated_id: JA1HSQatpPXQxCQ4ABRR78b1Bv2C04PJrJczJ3cK8JA=_15deb2afe49:46d75c:9cc60c90
+  item_date: "2017-08-16 06:00:00"
+  title: Cloud Complexity Mandates Security Visibility
+  url: https://www.darkreading.com/partner-perspectives/evidentio/cloud-complexity-mandates-security-visibility/a/d-id/1329637
+  domain: www.darkreading.com
+  image: ""
+- curated_id: rq6OKKgBiWVp88vsVvs1lxEDBZExs+csk5yWEsrvsaE=_15e52c9cbe4:339d8bb:ed57ae85
+  item_date: "2017-09-03 17:00:00"
+  title: A Field Guide to Observability
+  url: https://honeycomb.io/blog/2017/09/a-field-guide-to-observability/
+  domain: honeycomb.io
+  image: ""
+- curated_id: UGoT913Pj2iVsp570XrRhskqe5/o7yyV3N/NTloByRs=_15ea64316d3:4a7064:c84bd0de
+  item_date: "2017-09-21 13:45:24"
+  title: We're soon going to know a lot more about how politicians use Facebook to
+    advertise, which could impact their digital ad tactics (FB)
+  url: http://www.businessinsider.com/new-facebook-ad-policy-will-reveal-more-on-how-politicians-use-facebook-to-advertise-2017-9?utm_source=feedly&amp;utm_medium=referral
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: MMCA/259PVQgzewWTRJNcvw/8XXvgI6S68GWeJF7z/0=_15ea6917888:698f0c:55eae650
+  item_date: "2017-09-21 15:28:51"
+  title: Mark Zuckerberg's refusal to make Russia
+  url: http://mashable.com/?p=bp-57614
+  domain: mashable.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15edd3aaa43:180a0d6:feeb522d
+  item_date: "2017-10-02 06:04:16"
+  title: TLA+
+  url: https://en.wikipedia.org/wiki/TLA%2B
+  domain: en.wikipedia.org
+  image: ""
+- curated_id: rq6OKKgBiWVp88vsVvs1lxEDBZExs+csk5yWEsrvsaE=_15f4f4d28d1:77764e8:9ac85644
+  item_date: "2017-10-23 17:00:00"
+  title: 'Metrics: not the observability droids you''re looking for'
+  url: https://honeycomb.io/blog/2017/10/metrics-not-the-observability-droids-youre-looking-for/
+  domain: honeycomb.io
+  image: ""
+- curated_id: rq6OKKgBiWVp88vsVvs1lxEDBZExs+csk5yWEsrvsaE=_15fbb881555:35e6215:3c0bb656
+  item_date: "2017-11-13 16:00:00"
+  title: Best Practices for Observability
+  url: https://honeycomb.io/blog/2017/11/best-practices-for-observability/
+  domain: honeycomb.io
+  image: ""
+- curated_id: 9QOGTVP+u4vwJNHB7SlLr9mbA0Mmqrsw3WZp2GL3orY=_15fe40b3a25:33d9026:541f3c40
+  item_date: "2017-11-22 05:02:33"
+  title: Charity Majors on Observability and Understanding the Operational Ramifications
+    of a System
+  url: https://www.infoq.com/articles/charity-majors-observability-failure
+  domain: www.infoq.com
+  image: ""
+- curated_id: HKwklz9a1LBDBgbulnG916dFzLOZO3KlGWN+5YbUEE4=_15ffe901266:595d0a3:541f3c40
+  item_date: "2017-11-27 07:40:18"
+  title: Uwe Friedrichsen on Functional Service Design and Observability
+  url: https://www.infoq.com/articles/functional-service-design-observability
+  domain: www.infoq.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_1600b76ddbb:b19d2e:3c0bb656
+  item_date: "2017-11-29 13:26:12"
+  title: Untitled (https://epic.org/testimony/congress/EPIC
+  url: https://epic.org/testimony/congress/EPIC-HEC-AlgorithmicTransparency-Nov2017.pdf
+  domain: epic.org
+  image: ""
+- curated_id: 9QOGTVP+u4vwJNHB7SlLr9mbA0Mmqrsw3WZp2GL3orY=_1600f4b5034:11eb3fa:7157a206
+  item_date: "2017-11-30 15:00:33"
+  title: What's New in MicroProfile 1.2
+  url: https://www.infoq.com/news/2017/11/whats-new-in-microprofile-1-2
+  domain: www.infoq.com
+  image: ""
+- curated_id: p9l1QRJSWsBdfQhLvEqI6rdgjdJrOWvtCS0GvuF9J1Q=_1603272efc0:7802a3:3c0bb656
+  item_date: "2017-12-07 11:27:24"
+  title: 'Observability and Instrumentation: What They Are and Why They Matter'
+  url: http://blog.newrelic.com/?p=40625
+  domain: blog.newrelic.com
+  image: ""
+- curated_id: qWvG3upKVjhQsFGaZKAHYPLj/ZqG5EvmI9R31DUAgMw=_16032bb37c6:7ed0eb:7157a206
+  item_date: "2017-12-07 12:44:33"
+  title: "New York City\u2019s open data audit is a promising model for accountability"
+  url: http://sunlightfoundation.com/?p=106934
+  domain: sunlightfoundation.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_160639add58:8ad325:3c0bb656
+  item_date: "2017-12-16 22:01:02"
+  title: Monitoring and Observability
+  url: https://dzone.com/articles/1903662
+  domain: dzone.com
+  image: ""
+- curated_id: dnRmB76fym4hkmgsXBwtmLKNUV3FwG/JzTfREvhE440=_1607024a75b:1d08259:3c0bb656
+  item_date: "2017-12-19 10:52:43"
+  title: New York City moves to create accountability for algorithms
+  url: http://thegovlab.org/?p=22179
+  domain: thegovlab.org
+  image: ""
+- curated_id: JA1HSQatpPXQxCQ4ABRR78b1Bv2C04PJrJczJ3cK8JA=_16079bc9dcf:e5381e:541f3c40
+  item_date: "2017-12-21 07:30:00"
+  title: Why Network Visibility Is Critical to Removing Security Blind Spots
+  url: https://www.darkreading.com/perimeter/why-network-visibility-is-critical-to-removing-security-blind-spots-/a/d-id/1330686
+  domain: www.darkreading.com
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_160b5fcbd1b:377282:98c4d03d
+  item_date: "2018-01-02 00:28:45"
+  title: "The state of serverless observability \u2014 why we built Thundra"
+  url: https://medium.com/p/3e0a70ac5c0a
+  domain: medium.com
+  image: ""
+- curated_id: rq6OKKgBiWVp88vsVvs1lxEDBZExs+csk5yWEsrvsaE=_161be87422b:ad07b3d:7157a206
+  item_date: "2018-02-21 16:00:00"
+  title: Security Through Observability
+  url: https://honeycomb.io/blog/2018/02/security-through-observability/
+  domain: honeycomb.io
+  image: ""
+- curated_id: p9l1QRJSWsBdfQhLvEqI6rdgjdJrOWvtCS0GvuF9J1Q=_162918412d9:9e6f3ce:9f3b30f2
+  item_date: "2018-04-04 09:29:40"
+  title: Driving Operational Awareness With Incident Data
+  url: http://blog.newrelic.com/?p=42250
+  domain: blog.newrelic.com
+  image: ""
+- curated_id: ZQTLjViBmHaIIqn2rojMd1cDp5whcNyr6F3eheqPe98=_162bacc1b51:f7d01e:9f3b30f2
+  item_date: "2018-04-12 09:39:24"
+  title: 'Guest View: Move fast and fix things: It''s time for an API audit'
+  url: https://sdtimes.com/api/move-fast-and-fix-things-its-time-for-an-api-audit/
+  domain: sdtimes.com
+  image: ""
+- curated_id: PSNTZO8gXFUe+cpCZyApw0vEKWPT4b14D6teBEocIAE=_1639353d4c4:7dbed40:3dd877af
+  item_date: "2018-05-24 11:00:02"
+  title: Facebook disclosure requirements for political ads take effect in the United
+    States today
+  url: https://www.theverge.com/2018/5/24/17389834/facebook-political-ad-disclosures-united-states-transparency
+  domain: www.theverge.com
+  image: ""
+- curated_id: /5MAViYZiTpncQvEKcTV5Uedkm2Ey6yRzXULD2bLaXM=_1639351a198:7dbb8f3:3dd877af
+  item_date: "2018-05-24 11:00:09"
+  title: Shining a Light on Ads With Political Content
+  url: http://newsroom.fb.com/?p=11217
+  domain: newsroom.fb.com
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_1639350609e:610e03:abeb7260
+  item_date: "2018-05-24 11:01:20"
+  title: Facebook and Instagram launch US political ad labeling and archive
+  url: https://techcrunch.com/?p=1645522
+  domain: techcrunch.com
+  image: ""
+- curated_id: MMCA/259PVQgzewWTRJNcvw/8XXvgI6S68GWeJF7z/0=_163937bde6f:66a8d1:f3bf0074
+  item_date: "2018-05-24 11:47:53"
+  title: Facebook and Instagram crack down on shady political ads
+  url: https://mashable.com/?p=bp-74997
+  domain: mashable.com
+  image: ""
+- curated_id: HKwklz9a1LBDBgbulnG916dFzLOZO3KlGWN+5YbUEE4=_1639382fd87:81dc2a4:2835af05
+  item_date: "2018-05-24 11:56:19"
+  title: 'Cheatsheet: What Facebook and Twitter changed about political advertising'
+  url: https://digiday.com/marketing/cheatsheet-facebook-twitter-changed-political-advertising/
+  domain: digiday.com
+  image: ""
+- curated_id: UGoT913Pj2iVsp570XrRhskqe5/o7yyV3N/NTloByRs=_16393a136f2:7e41572:3dd877af
+  item_date: "2018-05-24 12:01:53"
+  title: Facebook and Twitter are cracking down on political ads with new requirements
+    and labels (TWTR, FB)
+  url: http://www.businessinsider.com/facebook-twitter-crack-down-on-political-ads-new-requirements-labels-2018-5?utm_source=feedly&amp;utm_medium=referral
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: 4i+1vhCwmRRLfmB7ypTnMh+ZKSvsz6Rgf0lfR0WWb0w=_16393d29dc9:7e8f89c:3dd877af
+  item_date: "2018-05-24 13:14:00"
+  title: Twitter initiates its new campaign ad policy
+  url: https://www.engadget.com/2018/05/24/twitter-initiate-new-campaign-ad-policy/
+  domain: www.engadget.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_1644ae3930d:36301ef:386c987f
+  item_date: "2018-06-29 02:06:01"
+  title: Increasing Observability of Microservices
+  url: https://dzone.com/articles/2291838
+  domain: dzone.com
+  image: ""
+- curated_id: 0VTnUfX894TcY5TA/oMFDbEY1bDrlajzsn67Jr80r8M=_165cfbf02b2:6317eb:215b6325
+  item_date: "2018-09-12 14:44:56"
+  title: MIT taught a neural network how to show its work
+  url: https://thenextweb.com/?p=1150691
+  domain: thenextweb.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_165e813f478:cde3bf:bfb8468
+  item_date: "2018-09-17 07:34:27"
+  title: The Observability Pipeline
+  url: https://dzone.com/articles/2450714
+  domain: dzone.com
+  image: ""
+...

@@ -1,0 +1,20 @@
+name: Magnr
+description: Magnr is building financial services for Bitcoin. Earn interest on your
+  Bitcoin holdings with Magnr Savings or profit from price volatility with Magnr Trading
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26517-magnr.jpg
+tags:
+- Financial Services
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/magnr/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: http://magnr.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

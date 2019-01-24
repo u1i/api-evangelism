@@ -1,0 +1,164 @@
+swagger: "2.0"
+info:
+  title: No Title
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /api/rest/v3/validators/:
+    post:
+      summary: Validators Unit Validator
+      description: <p>Valides the code for a unit</p>
+      operationId: validators-unit-validator
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /api/rest/v3/{project_hook}/:
+    get:
+      summary: Project Project Details
+      description: <p>Provides some details about the project referenced by the project
+        hook.</p>
+      operationId: project-project-details
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /api/rest/v3/{project_hook}/insights:
+    get:
+      summary: Insights Events
+      description: <p>Each event represents a test run and will provide information
+        on failures and successes.</p>
+      operationId: insights-events
+      parameters:
+      - in: query
+        name: project_hook
+        description: <p>Project hook</p>n
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /api/rest/v3/{project_hook}/login:
+    get:
+      summary: Authentication Login
+      description: ""
+      operationId: authentication-login
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /api/rest/v3/{project_hook}/tests:
+    get:
+      summary: Tests Tests
+      description: <p>Lists out all the tests contained in the project referenced
+        by the project hook</p>
+      operationId: tests-tests
+      parameters:
+      - in: query
+        name: project_hook
+        description: <p>Project hook</p>n
+        type: string
+      - in: query
+        name: test_id
+        description: <p>Test id</p>n
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    post:
+      summary: Tests Unit Update
+      description: <p>Updates the unit of the given test. Authentication is required</p>
+      operationId: tests-unit-update
+      parameters:
+      - in: query
+        name: project_hook
+        description: <p>Project hook</p>n
+        type: string
+      - in: query
+        name: test_id
+        description: <p>Test id</p>n
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /api/rest/v3/{project_hook}/tests/:
+    get:
+      summary: Test Run Basic Run
+      description: <p>Runs a test.</p>
+      operationId: test-run-basic-run
+      parameters:
+      - in: query
+        name: dryrun
+        description: <p>the test will run but no events or metrics will be stored</p>n
+        type: boolean
+      - in: query
+        name: project_hook
+        description: <p>Project hook</p>n
+        type: string
+      - in: query
+        name: silent
+        description: <p>no alerts will be triggered by the execution of the test</p>n
+        type: boolean
+      - in: query
+        name: sync
+        description: <p>the test will run syncronously and return the result as the
+          response payload</p>n
+        type: boolean
+      - in: query
+        name: test_id
+        description: <p>Test id</p>n
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    post:
+      summary: Test Run Advanced Run
+      description: <p>Use this endpoint if you want override variables or the payload
+        in the test.</p><ul><li><p>params will be accessible as <em>variables</em>
+        inside the test</p></li><li><p>payload will be parsed based on the &quot;Content-Type&quot;
+        field as will be accessible via the &quot;payload&quot; variable</p></li></ul><p><em>payload</em>
+        AND <em>params</em> are not required at the same time</p>
+      operationId: test-run-advanced-run
+      parameters:
+      - in: query
+        name: dryrun
+        description: <p>the test will run but no events or metrics will be stored</p>n
+        type: boolean
+      - in: query
+        name: project_hook
+        description: <p>Project hook</p>n
+        type: string
+      - in: query
+        name: silent
+        description: <p>no alerts will be triggered by the execution of the test</p>n
+        type: boolean
+      - in: query
+        name: sync
+        description: <p>the test will run syncronously and return the result as the
+          response payload</p>n
+        type: boolean
+      - in: query
+        name: test_id
+        description: <p>Test id</p>n
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

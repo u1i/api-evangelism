@@ -1,0 +1,58 @@
+swagger: "2.0"
+info:
+  title: Scheduled Report API
+  description: The Scheduled Report API.
+  version: 1.0.0
+host: www.site24x7.com.
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /scheduled_reports:
+    get:
+      summary: List Scheduled Reports
+      description: List of all Scheduled Reports.
+      operationId: list-scheduled-reports
+      parameters:
+      - in: path
+        name: sla_idn        n        n            stringn            Unique ID generated
+          by the server. This can be used as an identifier.n        n                n    n        n        display_namen        n        n            stringn            Display
+          name f
+      responses:
+        200:
+          description: OK
+      tags:
+      - Scheduled Reports
+    post:
+      summary: Schedule a Report
+      description: Schedule a report to be received on a specific day and time.
+      operationId: schedule-a-report
+      parameters:
+      - in: path
+        name: display_namen        n        n            requiredn            Display
+          name for the Report.n        n    n    n        n        report_typen        n        n            requiredn            Type
+          of report to be Scheduled.Report Constants
+      responses:
+        200:
+          description: OK
+      tags:
+      - Scheduled Reports
+  /scheduled_reports/{report_id}:
+    put:
+      summary: Update Scheduled Report
+      description: Update the configuration of an existing Scheduled Report.
+      operationId: update-scheduled-report
+      parameters:
+      - in: path
+        name: display_namen        n        n            requiredn            Display
+          name for the Report.n        n    n    n        n        report_typen        n        n            requiredn            Type
+          of report to be Scheduled.Report Constants
+      responses:
+        200:
+          description: OK
+      tags:
+      - Scheduled Reports
+definitions: []

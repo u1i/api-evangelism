@@ -1,0 +1,121 @@
+swagger: "2.0"
+info:
+  title: Relays API
+  description: The Relays API.
+  version: 1.0.0
+host: api.truesight.bmc.com
+basePath: /
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /v1/relays:
+    get:
+      summary: Get All Relay Configurations
+      description: Gets the configurations for all visible relays
+      operationId: get-all-relay-configurations
+      responses:
+        200:
+          description: OK
+      tags:
+      - Relays
+  /v1/relays/:relay/config:
+    get:
+      summary: Get Relay Configuration
+      description: Retrieves config for a relay host if changedIf no timestamp specified,
+        configuration data is always returnedIf config has not changed the string
+        &#39;not-modified&#39; is returned
+      operationId: get-relay-configuration
+      responses:
+        200:
+          description: OK
+      tags:
+      - Relays
+    put:
+      summary: Set Relay Configuration
+      description: ' Stores configuration for a relay. The relay will gather the configuration
+        on the next poll and reconfigure itself as needed.'
+      operationId: set-relay-configuration
+      responses:
+        200:
+          description: OK
+      tags:
+      - Relays
+  /v1/relays/:relay/output:
+    delete:
+      summary: Clear relay output
+      description: Wipes the logged output from the relay up to present.
+      operationId: clear-relay-output
+      responses:
+        200:
+          description: OK
+      tags:
+      - Relays
+    post:
+      summary: Add relay output
+      description: Adds output messages to the relay.Used by the relay to communicate
+        output from execution and commands
+      operationId: add-relay-output
+      responses:
+        200:
+          description: OK
+      tags:
+      - Relays
+  /v1/relays/:relay/output/:since:
+    get:
+      summary: Get relay output
+      description: Queries for relay output messages.
+      operationId: get-relay-output
+      responses:
+        200:
+          description: OK
+      tags:
+      - Relays
+  /v1/relays/:relay/toggle:
+    post:
+      summary: Toggle relay
+      description: Set a relay to be disabled or enabled
+      operationId: toggle-relay
+      parameters:
+      - in: formData
+        name: disabled
+        description: true or false
+        type: string
+      - in: query
+        name: relaynName of relay to toggle
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Relays
+  /v1/relays/:relay/togglePlugin:
+    post:
+      summary: Toggle relay plugin
+      description: Sets a relay plugin to be disabled or enabled
+      operationId: toggle-relay-plugin
+      parameters:
+      - in: formData
+        name: plugin
+        description: Name of plugin
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Relays
+  /v1/relays/heartbeat:
+    post:
+      summary: Set Relay Heartbeat
+      description: Updates the &#39;lastHeardFrom&#39; field of the relay configurationReturns
+        the current system time in UNIX epoch of server.
+      operationId: set-relay-heartbeat
+      responses:
+        200:
+          description: OK
+      tags:
+      - Relays
+definitions: []

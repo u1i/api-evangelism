@@ -1,0 +1,58 @@
+swagger: "2.0"
+info:
+  title: Monitor Group API
+  description: The Monitor Group API.
+  version: 1.0.0
+host: www.site24x7.com.
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /monitor_groups:
+    get:
+      summary: List of all Monitor Groups
+      description: List of all Monitor Groups.
+      operationId: list-of-all-monitor-groups
+      parameters:
+      - in: path
+        name: user_idn        n        n            stringn            Unique ID generated
+          by the server. This can be used as an identifier.n        n                n    n        n        display_namen        n        n            stringn            Name
+          of the U
+      responses:
+        200:
+          description: OK
+      tags:
+      - Monitor Groups
+    post:
+      summary: Create a Monitor Group
+      description: Create a new Monitor Group.
+      operationId: create-a-monitor-group
+      parameters:
+      - in: path
+        name: display_namen        n        n            requiredn            Display
+          Name for the Monitor Group.n        n    n    n        n        descriptionn        n        n            optionaln            Description
+          for the Monitor Group.
+      responses:
+        200:
+          description: OK
+      tags:
+      - Monitor Groups
+  /monitor_groups/{monitor_group_id}:
+    put:
+      summary: Update a Monitor Group
+      description: Update an existing Monitor Group.
+      operationId: update-a-monitor-group
+      parameters:
+      - in: path
+        name: display_namen        n        n            requiredn            Display
+          Name for the Monitor Group.n        n    n    n        n        descriptionn        n        n            optionaln            Description
+          for the Monitor Group.
+      responses:
+        200:
+          description: OK
+      tags:
+      - Monitor Groups
+definitions: []

@@ -1,0 +1,22 @@
+name: HitBTC
+description: We bring cutting-edge technology to the Bitcoin ecosystem!    Hitbtc
+  provides an excellent trading terminal based on professional trading software which
+  is suitable for new and sophisticated users.    As one of our valued customers,
+  we understand how i...
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/hitbtc-logo.png
+tags:
+- Technology
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/hitbtc/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: https://hitbtc.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

@@ -1,0 +1,35 @@
+swagger: "2.0"
+info:
+  title: Traceroute API
+  description: The Traceroute API.
+  version: 1.0.0
+host: api.pingdom.com
+basePath: /
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  n    /api/{version}/traceroute:
+    n    get:
+      summary: Make A Traceroute
+      description: '    Perform a traceroute to a specified target from a specified
+        Pingdom probe.'
+      operationId: make-a-traceroute
+      parameters:
+      - in: query
+        name: host
+        description: Target host
+        type: <td>string</td>
+      - in: query
+        name: probeid
+        description: Probe identifier
+        type: <td>integer</td>
+      responses:
+        200:
+          description: OK
+      tags:
+      - Traceroute
+definitions: []

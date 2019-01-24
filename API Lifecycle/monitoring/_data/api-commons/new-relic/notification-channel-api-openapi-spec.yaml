@@ -1,0 +1,109 @@
+swagger: "2.0"
+info:
+  title: Notification Channel API
+  description: The Notification Channel API.
+  version: 1.0.0
+host: api.newrelic.com
+basePath: /
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /v2/notification_channels.{format}:
+    get:
+      summary: List
+      description: '<p><strong>WARNING</strong>: This is legacy alerting.  This endpoint
+        will be deprecated.</p><p>This API endpoint returns a <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/pagination-api-output
+        target=_blank>paginated</a> list of the notification channels associated with
+        your New Relic account.</p><p>Notification channels can be filtered by their
+        type or a list of IDs.</p>'
+      operationId: list
+      parameters:
+      - in: query
+        name: filter[ids]
+        description: Filter by notification channel IDs
+        type: list
+      - in: query
+        name: filter[type]
+        description: Filter by notification channel types
+        type: list
+      - in: query
+        name: page
+        description: Pagination index
+        type: integer
+      responses:
+        200:
+          description: OK
+      tags:
+      - Notification Channel
+  /v2/notification_channels/{id}.{format}:
+    get:
+      summary: Show
+      description: '<p><strong>WARNING</strong>: This is legacy alerting.  This endpoint
+        will be deprecated.</p><p>This API endpoint returns a single notification
+        channel, identified by ID.u201d</p>'
+      operationId: show
+      parameters:
+      - in: path
+        name: id
+        description: Notification Channel ID
+        type: integer
+      responses:
+        200:
+          description: OK
+      tags:
+      - Notification Channel
+definitions:
+  "":
+    properties:
+      notification_channel:
+        description: This is a default description.
+        type: GET
+      id:
+        description: This is a default description.
+        type: GET
+      type:
+        description: This is a default description.
+        type: GET
+      downtime_only:
+        description: This is a default description.
+        type: GET
+      url:
+        description: This is a default description.
+        type: GET
+      name:
+        description: This is a default description.
+        type: GET
+      description:
+        description: This is a default description.
+        type: GET
+      email:
+        description: This is a default description.
+        type: GET
+      subdomain:
+        description: This is a default description.
+        type: GET
+      service:
+        description: This is a default description.
+        type: GET
+      mobile_alerts:
+        description: This is a default description.
+        type: GET
+      email_alerts:
+        description: This is a default description.
+        type: GET
+      room:
+        description: This is a default description.
+        type: GET
+      links:
+        description: This is a default description.
+        type: GET
+      notification_channels:
+        description: This is a default description.
+        type: GET
+      user:
+        description: This is a default description.
+        type: GET

@@ -1,0 +1,31 @@
+swagger: "2.0"
+info:
+  title: Checks Job API
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  '/checks/{checkId}/job ':
+    ' get ':
+      summary: Checks {checkId} Job
+      description: ttttDEPRECATED. Gets the current job status for a check.ttt
+      operationId: -checks-checkid-job-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checks Job
+    ' post ':
+      summary: Checks {checkId} Job
+      description: ttttExecutes a check.ttt
+      operationId: -checks-checkid-job-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checks Job
+definitions: []

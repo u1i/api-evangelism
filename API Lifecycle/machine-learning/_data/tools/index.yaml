@@ -1,0 +1,35 @@
+---
+- slug: models
+  name: models
+  description: Models built with TensorFlow
+  url: https://github.com/tensorflow/models
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Machine Learning
+- slug: awesometensorflow
+  name: awesome-tensorflow
+  description: TensorFlow - A curated list of dedicated resources http://tensorflow.org
+  url: https://github.com/jtoy/awesome-tensorflow
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Machine Learning
+- slug: algorithmia-google
+  name: algorithmia-google
+  description: Algorithmia Google Apps Scripting client and example.
+  url: https://github.com/kenburcham/algorithmia-google
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Spreadsheets,Machine Learning,Algorithms
+...

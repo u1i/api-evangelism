@@ -1,0 +1,112 @@
+swagger: "2.0"
+info:
+  title: Alert Channel API
+  description: The Alert Channel API.
+  version: 1.0.0
+host: api.newrelic.com
+basePath: /
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /v2/alerts_channels.{format}:
+    get:
+      summary: List
+      description: <p>This API endpoint works with new Alerts on alerts.newrelic.com.</p><p>It
+        returns a list of the channels associated with your New Relic account.</p><p>See
+        our documentation for a discussion on <a href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/rest-api-calls-new-relic-alerts#channels-list>listing
+        notification channels</a>.</p>
+      operationId: list
+      parameters:
+      - in: query
+        name: page
+        description: Pagination index
+        type: integer
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    post:
+      summary: Create
+      description: '<p>This API endpoint works with new Alerts on alerts.newrelic.com.</p><p>It
+        creates a channel associated with your New Relic account.</p><p>Note: <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/rest-api-key>Admin
+        Useru2019s API Key</a> is required.</p><p>See our documentation for a discussion
+        on <a href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/rest-api-calls-new-relic-alerts#channels-create>creating
+        notification channels</a>.</p><p>Channel type configuration options:</p><ul>  <li>    <p>Email</p>    <p>{</p>    <pre><code>recipients
+        : test@google.com,include_json_attachment : true</code></pre>    <p>}</p>  </li>  <li>    <p>HipChat</p>    <p>{</p>    <pre><code>auth_token:
+        abc123,room_id: google.com</code></pre>    <p>}</p>  </li>  <li>    <p>OpsGenie</p>    <p>{</p>    <pre><code>api_key:
+        abc123,teams: team1,tags: tag1,recipients: me@me.com</code></pre>    <p>}</p>  </li>  <li>    <p>Slack</p>    <p>{</p>    <pre><code>url:
+        http://test.com,channel: channel1</code></pre>    <p>}</p>  </li>  <li>    <p>Campfire</p>    <p>{</p>    <pre><code>subdomain:
+        mysubdomain,token: 123abc,room: room1</code></pre>    <p>}</p>  </li>  <li>    <p>Victorops</p>    <p>{</p>    <pre><code>key:
+        mykey,route_key: theroute</code></pre>    <p>}</p>  </li>  <li>    <p>PagerDuty</p>    <p>{</p>    <pre><code>service_key:
+        myservicekey</code></pre>    <p>}</p>  </li>  <li>    <p>Webhook (json)</p>    <p>{</p>    <pre><code>base_url:
+        http://test.com,auth_username: username,auth_password: password,payload_type:
+        application/json,payload: {account_id: 1, account_name: account name },headers:
+        {header1: test, header2: test}</code></pre>    <p>}</p>  </li>  <li>    <p>Webhook
+        (x-www-form-urlencoded)</p>    <p>{</p>    <pre><code>base_url: http://test.com,auth_username:
+        username,auth_password: password,payload_type: application/x-www-form-urlencoded,payload:
+        {account_id: 1, account_name: account name },headers: {header1: test, header2:
+        test}</code></pre>    <p>}</p>  </li></ul>'
+      operationId: create
+      parameters:
+      - in: body
+        name: channel
+        description: channel schema
+        schema:
+          $ref: '#/definitions/holder'
+      - in: query
+        name: policy_ids
+        description: Policy IDs to associate with channel
+        type: array
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /v2/alerts_channels/{channel_id}.{format}:
+    delete:
+      summary: Delete
+      description: '<p>This API endpoint deletes Alerts notification channels.</p><p>Note:
+        <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/rest-api-key>Admin
+        Useru2019s API Key</a> is required.</p><p>See our documentation for a discussion
+        on <a href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/rest-api-calls-new-relic-alerts#channels-delete>deleting
+        notification channels</a>.</p>'
+      operationId: delete
+      parameters:
+      - in: path
+        name: channel_id
+        description: Channel ID
+        type: integer
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions:
+  "":
+    properties:
+      channel:
+        description: This is a default description.
+        type: DELETE
+      id:
+        description: This is a default description.
+        type: DELETE
+      name:
+        description: This is a default description.
+        type: DELETE
+      type:
+        description: This is a default description.
+        type: DELETE
+      configuration:
+        description: This is a default description.
+        type: DELETE
+      links:
+        description: This is a default description.
+        type: DELETE
+      policy_ids:
+        description: This is a default description.
+        type: DELETE

@@ -1,0 +1,58 @@
+swagger: "2.0"
+info:
+  title: Business Hours API
+  description: The Business Hours API.
+  version: 1.0.0
+host: www.site24x7.com.
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /business_hours:
+    get:
+      summary: List Business Hours
+      description: List of all Business Hours.
+      operationId: list-business-hours
+      parameters:
+      - in: path
+        name: background_colorn        n        n            stringn            Back
+          ground color for your reports.n        n                n    n        n        foreground_colorn        n        n            stringn            Foreground
+          ground color for your r
+      responses:
+        200:
+          description: OK
+      tags:
+      - Business Hours
+    post:
+      summary: Create Business Hour
+      description: Create a new Business Hour.
+      operationId: create-business-hour
+      parameters:
+      - in: path
+        name: display_namen        n        n            requiredn            Display
+          name for the Business Hour.n        n    n    n        n        descriptionn        n        n            optionaln            Description
+          for the Business Hour
+      responses:
+        200:
+          description: OK
+      tags:
+      - Business Hours
+  /business_hours/{business_hours_id}:
+    put:
+      summary: Update Business Hour
+      description: Update an existing Business Hour.
+      operationId: update-business-hour
+      parameters:
+      - in: path
+        name: display_namen        n        n            requiredn            Display
+          name for the Business Hour.n        n    n    n        n        descriptionn        n        n            optionaln            Description
+          for the Business Hour
+      responses:
+        200:
+          description: OK
+      tags:
+      - Business Hours
+definitions: []

@@ -1,0 +1,86 @@
+swagger: "2.0"
+info:
+  title: Buckets API
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /buckets:
+    get:
+      summary: Returns a list of buckets.
+      description: ""
+      operationId: ""
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    post:
+      summary: Create a new bucket
+      description: ""
+      operationId: ""
+      parameters:
+      - in: body
+        name: NewBucket
+        schema:
+          $ref: '#/definitions/holder'
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /buckets/{bucketKey}:
+    delete:
+      summary: Delete a single bucket resource.
+      description: ""
+      operationId: ""
+      parameters:
+      - in: path
+        name: bucketKey
+        description: Unique identifier for a bucket
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    get:
+      summary: Returns a single bucket resource.
+      description: ""
+      operationId: ""
+      parameters:
+      - in: path
+        name: bucketKey
+        description: Unique identifier for a bucket
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /buckets/{bucketKey}/errors:
+    get:
+      summary: Retrieve a list of error messages in a bucket
+      description: ""
+      operationId: ""
+      parameters:
+      - in: query
+        name: before
+        description: Only return messages before the given Unix timestamp
+      - in: path
+        name: bucketKey
+        description: Unique identifier for a bucket
+      - in: query
+        name: count
+        description: Maxiumum number of messages to return. Default 50, max 1000.
+      - in: query
+        name: since
+        description: Only return messages after the given Unix timestamp
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

@@ -1,0 +1,91 @@
+swagger: "2.0"
+info:
+  title: Checks API
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  '/checks ':
+    ' get ':
+      summary: Checks
+      description: ttttGets a list of all checks that are visible to you as a user
+        or a customer depending on the request context.ttt
+      operationId: -checks-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checks
+  '/checks/{checkId} ':
+    ' delete ':
+      summary: Checks {checkId}
+      description: ttttDeletes a check.ttt
+      operationId: -checks-checkid-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checks
+    ' get ':
+      summary: Checks {checkId}
+      description: ttttGets info about a check, current SLA, last result and its status.ttt
+      operationId: -checks-checkid-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checks
+    ' put ':
+      summary: Checks {checkId}
+      description: ttttUpdates a check.ttt
+      operationId: -checks-checkid-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checks
+  '/checks/{checkId}/lastvalue ':
+    ' get ':
+      summary: Checks {checkId} Lastvalue
+      description: ttttGets the absolute last value of a specific check.ttt
+      operationId: -checks-checkid-lastvalue-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checks
+  '/checks/{checkId}/results/{millisecondsUtc}?detail_level={detail_level} ':
+    ' get ':
+      summary: Checks {checkId} Results {millisecondsUtc}?detail_level={detail_level}
+      description: ttttGets a specific check result by a numeric java timestamp.ttt
+      operationId: -checks-checkid-results-millisecondsutcdetail-leveldetail-level-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checks
+  '/checks/{checkId}/results?fromUtc={fromUtc}&amp;toUtc={toUtc}&amp;detail_level={detail_level} ':
+    ' get ':
+      summary: Checks {checkId} Results?fromUtc={fromUtc}&amp;toUtc={toUtc}&amp;detail_level={detail_level}
+      description: ttttGets check results between two dates.ttt
+      operationId: -checks-checkid-resultsfromutcfromutcamptoutctoutcampdetail-leveldetail-level-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checks
+  '/checks/{checkId}/results?mostrecent={mostrecent}&amp;detail_level={detail_level} ':
+    ' get ':
+      summary: Checks {checkId} Results?mostrecent={mostrecent}&amp;detail_level={detail_level}
+      description: ttttGets the most recent check results.ttt
+      operationId: -checks-checkid-resultsmostrecentmostrecentampdetail-leveldetail-level-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checks
+definitions: []

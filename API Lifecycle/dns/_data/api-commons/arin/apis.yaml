@@ -1,0 +1,98 @@
+name: ARIN
+description: ARIN offers public access to ARIN registration data via a number of services.
+  Traditionally, these services are known in the industry as Whois in reference to
+  the public data service of the ARPANET, precursor of todays modern Internet. Whois
+  services are offered by all the Regional Internet Registries (RIRs), most Internet
+  Routing Registries (IRRs) and most domain name registries and registrars.
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/arin-logo.png
+tags:
+- DNS
+created: "2016-10-22"
+modified: "2016-10-22"
+url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/arin/apis.yaml
+specificationVersion: "0.14"
+apis:
+- name: Autonomous System Numbers (ASNs) API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/arin-logo.png
+  humanURL: https://www.arin.net
+  baseURL: https://www.arin.net
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/arin/autonomous-system-numbers-asns-api-openapi-spec.yaml
+- name: CIDR API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/arin-logo.png
+  humanURL: https://www.arin.net
+  baseURL: https://www.arin.net
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/arin/cidr-api-openapi-spec.yaml
+- name: Customers API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/arin-logo.png
+  humanURL: https://www.arin.net
+  baseURL: https://www.arin.net
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/arin/customers-api-openapi-spec.yaml
+- name: Network API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/arin-logo.png
+  humanURL: https://www.arin.net
+  baseURL: https://www.arin.net
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/arin/network-api-openapi-spec.yaml
+- name: Organization API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/arin-logo.png
+  humanURL: https://www.arin.net
+  baseURL: https://www.arin.net
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/arin/organization-api-openapi-spec.yaml
+- name: Point of Contact (POC) API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/arin-logo.png
+  humanURL: https://www.arin.net
+  baseURL: https://www.arin.net
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/arin/point-of-contact-poc-api-openapi-spec.yaml
+- name: Reverse DNS API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/arin-logo.png
+  humanURL: https://www.arin.net
+  baseURL: https://www.arin.net
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/arin/reverse-dns-api-openapi-spec.yaml
+x-common:
+- type: x-website
+  url: https://www.arin.net
+- type: x-base-url-for-portal
+  url: https://www.arin.net/resources/restful-interfaces.html
+- type: x-twitter
+  url: https://twitter.com/TeamARIN
+- type: x-portal
+  url: https://www.arin.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

@@ -1,0 +1,444 @@
+---
+- curated_id: b1ae861d2d88ca390f93ca03310dc864
+  item_date: "2012-04-21 12:49:06"
+  title: Why Startups Need an API
+  url: https://tune.com/blog/startups-need-api/
+  domain: tune.com
+  image: ""
+- curated_id: qEhKDgQTWN5jIcHOrxMbVOp9dr7ayHAKl9EVLyrAF1s=_15d137680d0:ca7ee6:32bbcd87
+  item_date: "2017-07-05 06:00:38"
+  title: Ambassador 0.10.1, with gRPC and authentication support
+  url: https://www.datawire.io/?p=2748
+  domain: www.datawire.io
+  image: ""
+- curated_id: IF5SUyRkajQQb6nKIFxqt/RpuCbAHZbg0rxIFu553CU=_15e2f16266d:2edc93:56b346f
+  item_date: "2017-08-29 10:12:38"
+  title: Secure and Manage AWS Lambda Endpoints with Kong
+  url: http://blog.mashape.com/?p=4161
+  domain: blog.mashape.com
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_15e882a9f48:338e:803daed2
+  item_date: "2017-09-15 17:50:46"
+  title: Using Protocol Buffers with API Gateway and AWS Lambda
+  url: https://medium.com/p/22c3804f3e76
+  domain: medium.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15ec109b62a:77de39:9dbe7464
+  item_date: "2017-09-26 09:45:46"
+  title: Securing APIs with API Gateway
+  url: https://medium.com/p/73775a4efe7d
+  domain: medium.com
+  image: ""
+- curated_id: qEhKDgQTWN5jIcHOrxMbVOp9dr7ayHAKl9EVLyrAF1s=_15eece47f89:251762:4d363ef0
+  item_date: "2017-10-04 13:56:16"
+  title: 'Introducing Ambassador 0.14: Kubernetes'
+  url: https://www.datawire.io/?p=2965
+  domain: www.datawire.io
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_15ef083c48a:6f888:b13647f7
+  item_date: "2017-10-06 00:08:38"
+  title: Connect AWS Api Gateway to SQS
+  url: https://medium.com/p/923cf312bf78
+  domain: medium.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15f037eff35:10a35f3:aa3e42e1
+  item_date: "2017-10-09 09:43:57"
+  title: APInf enables distributed API gateways with plethora of protocols
+  url: https://medium.com/p/66f6d3a34396
+  domain: medium.com
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_15f026dc36e:f38102:626ab4cd
+  item_date: "2017-10-09 11:37:47"
+  title: Service Mesh vs API Gateway
+  url: https://medium.com/p/a6d814b9bf56
+  domain: medium.com
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_15f17d3f789:76fb0d:626ab4cd
+  item_date: "2017-10-13 15:21:26"
+  title: 'AWS APIGateway: Swagger Import vs Cloudformation Resources'
+  url: https://medium.com/p/66255eda6515
+  domain: medium.com
+  image: ""
+- curated_id: 6G7BNWphFgp+rqhNHAAAbyeGQbB7u2OV9FA4ntOF++c=_15f250eec50:505cd16:4d363ef0
+  item_date: "2017-10-16 05:00:06"
+  title: Flex your apps muscles with Mobile SDK 1.5 for CA Mobile API Gateway
+  url: https://www.ca.com/en/blog-highlight/?p=45180
+  domain: www.ca.com
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_15f356155e8:4a6f0:8cbd7d4f
+  item_date: "2017-10-19 09:04:50"
+  title: Why You Should Use API Gateway Proxy Integration With Lambda
+  url: https://medium.com/p/bc340bd40931
+  domain: medium.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15f571e7db8:9b77a3e:4d363ef0
+  item_date: "2017-10-25 22:04:32"
+  title: Create Models and Mapping Templates for Request and Response Mappings
+  url: http://docs.aws.amazon.com/apigateway/latest/developerguide/models-mappings.html
+  domain: docs.aws.amazon.com
+  image: ""
+- curated_id: rxLnjiJudc56FbZKrZ0crrg2UUWdKV8knoKwhWKNfS4=_15f59459a24:874bcf7:9ac85644
+  item_date: "2017-10-26 08:15:09"
+  title: Design Patterns in API Gateways and Microservices
+  url: https://blog.codeship.com/?p=5704
+  domain: blog.codeship.com
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_15f5ebe26e0:37e6f6:8cbd7d4f
+  item_date: "2017-10-27 09:50:38"
+  title: Lambda
+  url: https://medium.com/p/3a9397af0e6d
+  domain: medium.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_15f9a59d499:20a19a2:aa3e42e1
+  item_date: "2017-11-01 09:37:10"
+  title: How to setup subdomain for aws api gateway?
+  url: https://medium.com/p/d526a9fd6722
+  domain: medium.com
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_15f8d13c299:e7030:8cbd7d4f
+  item_date: "2017-11-05 08:46:41"
+  title: Serverless
+  url: https://medium.com/p/e2918e47862
+  domain: medium.com
+  image: ""
+- curated_id: C3F90FsKoCDiHbSaXJU7AQJQ8cndB0yGWwGLZJDlWxM=_15f9006f181:301efe:541f3c40
+  item_date: "2017-11-05 21:55:03"
+  title: API Gateway
+  url: https://www.cioreview.com/news/api-gatewaybringing-together-api-and-microservice-management-nid-25150-cid-119.html
+  domain: www.cioreview.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_15fc79c8872:71c671:d77c33d7
+  item_date: "2017-11-16 02:02:42"
+  title: Flex Your App's Muscles With Mobile SDK 1.5 for CA Mobile API Gateway
+  url: https://dzone.com/articles/1815187
+  domain: dzone.com
+  image: ""
+- curated_id: IF5SUyRkajQQb6nKIFxqt/RpuCbAHZbg0rxIFu553CU=_1600aeeb49c:a5d23d:3c0bb656
+  item_date: "2017-11-29 10:58:28"
+  title: Kong CE 0.11.2 released
+  url: https://konghq.com/?p=6685
+  domain: konghq.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_160129fbeca:1766460:7157a206
+  item_date: "2017-12-01 07:01:00"
+  title: Microservices Design Patterns
+  url: https://dzone.com/articles/1839882
+  domain: dzone.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_160267bd3df:33707dd:7157a206
+  item_date: "2017-12-05 03:14:00"
+  title: "Kong meets Auth0 \xB7 Scaleout Ninja"
+  url: https://medium.com/p/44f24eb72a8c
+  domain: medium.com
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_16032b99af1:5c2be8:e66afc8b
+  item_date: "2017-12-07 12:45:10"
+  title: AWS Serverless Application Model Template for Lambda Function proxied by
+    API Gateway
+  url: https://medium.com/p/ac85dd66cfcc
+  domain: medium.com
+  image: ""
+- curated_id: 3sOkcm6yz7RzahZqjgGz802Mh9gdTaNECiKVxsvA9Ss=_16050596471:35ec6db:541f3c40
+  item_date: "2017-12-13 06:01:10"
+  title: Epiq Announces API Gateway for AACER
+  url: https://globenewswire.com/news-release/2017/12/13/1261306/0/en/Epiq-Announces-API-Gateway-for-AACER.html
+  domain: globenewswire.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_16067c36830:e7520f:541f3c40
+  item_date: "2017-12-17 14:27:24"
+  title: How you should and should not use the API Gateway proxy integration
+  url: https://read.acloud.guru/how-you-should-and-should-not-use-the-api-gateway-proxy-integration-f9e35479b993
+  domain: read.acloud.guru
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_1608284965e:7e3720:b64595cf
+  item_date: "2017-12-22 11:48:54"
+  title: Using JQuery to access an AWS API Gateway (CORS)
+  url: https://medium.com/p/afa11fd27f2a
+  domain: medium.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_16096997dc3:249f71b:541f3c40
+  item_date: "2017-12-26 22:01:03"
+  title: Getting Started With Ambassador
+  url: https://dzone.com/articles/1906814
+  domain: dzone.com
+  image: ""
+- curated_id: ZQTLjViBmHaIIqn2rojMd1cDp5whcNyr6F3eheqPe98=_160a3aaac4b:392a502:3c0bb656
+  item_date: "2017-12-29 10:08:44"
+  title: Amazon API Gateway boosts compression, tagging
+  url: http://searchaws.techtarget.com/blog/AWS-Cloud-Cover/Amazon-API-Gateway-boosts-compression-tagging
+  domain: searchaws.techtarget.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_160e8c4fdf8:13fd2c:d325fb33
+  item_date: "2018-01-11 09:31:24"
+  title: 'API Gateway: the Microservices Superglue'
+  url: https://medium.com/p/ca43de5d0d99
+  domain: medium.com
+  image: ""
+- curated_id: 3sOkcm6yz7RzahZqjgGz802Mh9gdTaNECiKVxsvA9Ss=_16129ad64d0:7fdb646:3c0bb656
+  item_date: "2018-01-24 09:48:34"
+  title: Bank of America Merrill Lynch's API Gateway Seeks to Connect EMEA Clients
+    with Fintechs
+  url: https://bankinnovation.net/2018/01/bank-of-america-merrill-lynchs-api-gateway-seeks-to-connect-emea-clients-with-fintechs/
+  domain: bankinnovation.net
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_1616d3d9ace:367ff78:541f3c40
+  item_date: "2018-02-06 14:10:06"
+  title: Mozilla announces an open gateway for the internet of things
+  url: https://techcrunch.com/2018/02/06/mozilla-announces-an-open-framework-for-the-internet-of-things/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 0VTnUfX894TcY5TA/oMFDbEY1bDrlajzsn67Jr80r8M=_1616fa13a0b:28609f:e66afc8b
+  item_date: "2018-02-07 01:34:41"
+  title: "Mozilla\u2019s new Things Gateway is an open home for your smart devices"
+  url: https://thenextweb.com/?p=1105949
+  domain: thenextweb.com
+  image: ""
+- curated_id: pJGm905BokLVZr/Pl24sMpd19eFuxZ/tV9dx1EzrkgY=_16170c52f7f:3a912b6:7157a206
+  item_date: "2018-02-07 06:47:14"
+  title: Mozilla releases Internet of Things gateway solution
+  url: https://sdtimes.com/?p=29263
+  domain: sdtimes.com
+  image: ""
+- curated_id: 3sOkcm6yz7RzahZqjgGz802Mh9gdTaNECiKVxsvA9Ss=_16194ddd5e0:70daa98:3c0bb656
+  item_date: "2018-02-14 07:01:21"
+  title: Trulioo Is An API Gateway To Digital Identity Verification
+  url: https://www.benzinga.com/fintech/18/02/11181663/trulioo-is-an-api-gateway-to-digital-identity-verification
+  domain: www.benzinga.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_1619a02e035:7a06e82:541f3c40
+  item_date: "2018-02-15 06:25:08"
+  title: Compare API Gateways
+  url: https://www.lunchbadger.com/compare-tyk-api-gateway-express-features/
+  domain: www.lunchbadger.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_161beb1af1c:aebbec2:3c0bb656
+  item_date: "2018-02-23 12:14:49"
+  title: Microservices Authentication and Authorization Using API Gateway
+  url: https://dzone.com/articles/2069545
+  domain: dzone.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_161cbff500f:c10636a:3c0bb656
+  item_date: "2018-02-24 22:01:01"
+  title: Building Ambassador, an Open Source API Gateway on Kubernetes and Envoy
+  url: https://dzone.com/articles/2075210
+  domain: dzone.com
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_161f047d7d9:5fe053:76251cdd
+  item_date: "2018-03-04 01:11:32"
+  title: Getting AWS Lambda and API Gateway to support binary, 2018 edition
+  url: https://medium.com/p/9dfd81ab9291
+  domain: medium.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_161fe3c2cac:3ac9c64:7c9981b6
+  item_date: "2018-03-06 16:40:54"
+  title: "Announcing Gloo: The Function Gateway \u2013 solo.io \u2013 Medium"
+  url: https://medium.com/solo-io/announcing-gloo-the-function-gateway-3f0860ef6600
+  domain: medium.com
+  image: ""
+- curated_id: lvAGyZqtR0/mYw7A1WiIHy09UFoEw3/rxwIZeeDcKuw=_16206e8c856:12b2cf0:76251cdd
+  item_date: "2018-03-08 08:02:06"
+  title: API proxy or gateway?
+  url: http://blog.akana.com/?p=1439
+  domain: blog.akana.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_162644aa3e3:164948b:bdf8aaf1
+  item_date: "2018-03-26 11:51:45"
+  title: Securing APIS with JSON Web Tokens and an API Gateway
+  url: https://medium.com/p/b9b589149616
+  domain: medium.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_162d5af98da:61c972:76251cdd
+  item_date: "2018-04-17 09:12:56"
+  title: Migrating our API Gateway from Flask to Django
+  url: https://medium.com/p/88a585c4df1a
+  domain: medium.com
+  image: ""
+- curated_id: IF5SUyRkajQQb6nKIFxqt/RpuCbAHZbg0rxIFu553CU=_16327825158:f630fc:5785ab88
+  item_date: "2018-05-02 10:40:21"
+  title: "API Gateway \u2013 a Rapidly Changing Landscape"
+  url: https://konghq.com/?p=7033
+  domain: konghq.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_16327f90748:f835ab:3dd877af
+  item_date: "2018-05-03 09:15:10"
+  title: "Service Mesh, Service Discovery and API Gateways \xB7 Express Gateway"
+  url: https://www.express-gateway.io/service-mesh-service-discovery-and-api-gateways/
+  domain: www.express-gateway.io
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_163bee8dc06:3dc30e9:2835af05
+  item_date: "2018-06-01 22:03:01"
+  title: Using API Gateways to Facilitate Your Transition From Monolith to Microservices
+  url: https://dzone.com/articles/2252399
+  domain: dzone.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_1643a5e6ff9:1c323b7:386c987f
+  item_date: "2018-06-25 21:20:18"
+  title: WSO2 API Manager Microgateway
+  url: https://medium.com/p/a32e37638c3a
+  domain: medium.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_1643ac0c5fc:1cac7d7:386c987f
+  item_date: "2018-06-25 22:04:00"
+  title: Using API Gateways to Facilitate Your Transition From Monolith to Microservices
+  url: https://dzone.com/articles/2289908
+  domain: dzone.com
+  image: ""
+- curated_id: 9QOGTVP+u4vwJNHB7SlLr9mbA0Mmqrsw3WZp2GL3orY=_1644ae7f69d:3692048:4e0f6129
+  item_date: "2018-06-29 02:00:40"
+  title: Amazon API Gateway Now Supports Private Endpoints
+  url: https://www.infoq.com/news/2018/06/amazon-api-gateway
+  domain: www.infoq.com
+  image: ""
+- curated_id: FRZ+shc3LqpVCK621K34zGjZOGTG++v8k67fCOJZwfI=_164954e013a:a2fff2f:4e0f6129
+  item_date: "2018-06-29 13:08:43"
+  title: "How to build a secure API gateway \u2013 Network Security"
+  url: https://www.forumsys.com/?p=13997
+  domain: www.forumsys.com
+  image: ""
+- curated_id: WogDV3hkG8yrAvqu9zgFSDkVGkkG3KTJb/4jkpnYK10=_1647033c06c:6bef078:386c987f
+  item_date: "2018-07-06 07:55:45"
+  title: What is an API Microgateway?
+  url: https://apifriends.com/?p=9656
+  domain: apifriends.com
+  image: ""
+- curated_id: ZQTLjViBmHaIIqn2rojMd1cDp5whcNyr6F3eheqPe98=_16489109972:8ebadf9:aa514a55
+  item_date: "2018-07-11 03:38:31"
+  title: Rapid Akamai API Gateway Adoption Demonstrates How DevOps Can Drive Exceptional
+    End
+  url: https://www.prnewswire.com/news-releases/rapid-akamai-api-gateway-adoption-demonstrates-how-devops-can-drive-exceptional-end-user-web-experiences-300678849.html
+  domain: www.prnewswire.com
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_1648f087714:39645e4:19029e75
+  item_date: "2018-07-12 08:07:32"
+  title: Deploying Drift Apps on AWS using AWS Lambda and API Gateway
+  url: https://medium.com/p/ca033e274e61
+  domain: medium.com
+  image: ""
+- curated_id: /nF/YWkHiuackzrydqXDCsc7DAaVQPLQJZlxS4iGK2E=_164922d9260:9d446b2:386c987f
+  item_date: "2018-07-12 22:33:38"
+  title: 'Tyk 2.7: An API Gateway Odyssey'
+  url: https://tyk.io/?p=25809
+  domain: tyk.io
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_16494c16e37:40c967e:b83afde1
+  item_date: "2018-07-13 10:47:39"
+  title: Navigate your AWS Lambda Logs from Amazon API Gateway Response Headers
+  url: https://medium.com/p/c78bd7f73715
+  domain: medium.com
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_164a7cf801b:543e939:b83afde1
+  item_date: "2018-07-17 03:35:49"
+  title: 'API Gateway: Learn the basics of AWS API Gateway with Serverless Framework'
+  url: https://medium.com/p/9c27333e550e
+  domain: medium.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_164abdb3062:c18f06f:386c987f
+  item_date: "2018-07-17 22:02:00"
+  title: 'Develop an API Gateway Using Tarantool (Part 3): Queue Parsing With Python'
+  url: https://dzone.com/articles/2330959
+  domain: dzone.com
+  image: ""
+- curated_id: 3sOkcm6yz7RzahZqjgGz802Mh9gdTaNECiKVxsvA9Ss=_164ad895a0d:c4479fe:aa514a55
+  item_date: "2018-07-18 05:25:25"
+  title: Building an API Gateway with the Ballerina Programming Language
+  url: https://www.infoq.com/articles/ballerina-api-gateway
+  domain: www.infoq.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_164bb08bc06:7dc24:e8d3bdb3
+  item_date: "2018-07-20 02:59:21"
+  title: "KONG \u2014 The Microservice API Gateway"
+  url: https://medium.com/p/526c4ca0cfa6
+  domain: medium.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_164d340952f:4fe882:e393bce5
+  item_date: "2018-07-25 13:38:49"
+  title: "Building an API with Lambdas and API Gateway \u2014 Part 2"
+  url: https://medium.com/p/7c674a0eb121
+  domain: medium.com
+  image: ""
+- curated_id: 9QOGTVP+u4vwJNHB7SlLr9mbA0Mmqrsw3WZp2GL3orY=_1655d4f8b0e:8ec1abb:4db7ac35
+  item_date: "2018-08-21 08:15:56"
+  title: Use API gateways to aid microservices communication, security
+  url: https://searchmicroservices.techtarget.com/tip/Use-API-gateways-to-aid-microservices-communication-security
+  domain: searchmicroservices.techtarget.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_16564ff00fc:756d01:215b6325
+  item_date: "2018-08-22 06:45:20"
+  title: AWS API Gateway with Terraform
+  url: https://medium.com/p/7a2bebe8b68f
+  domain: medium.com
+  image: ""
+- curated_id: 53UYdSIjaP6vd+2Bz1ivn3GdkSivxwzyAAG6WfdGv7o=_165cfcd4b6f:7255b5:4db7ac35
+  item_date: "2018-08-24 14:31:05"
+  title: 'Deploying NGINX Plus as an API Gateway, Part 3: Publishing gRPC Services'
+  url: https://www.nginx.com/?p=59248
+  domain: www.nginx.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_1657725980f:89772e:6f86c10b
+  item_date: "2018-08-26 09:26:11"
+  title: API Gateway is a key to the success of API based Enterprise Integration
+  url: https://medium.com/p/ce74095a9c15
+  domain: medium.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_1658507888d:2be6f2:4c71e4fe
+  item_date: "2018-08-29 02:06:01"
+  title: The Role of API Gateways in API Security
+  url: https://dzone.com/articles/2415252
+  domain: dzone.com
+  image: ""
+- curated_id: oNWXIUFEq3deZ9p31Bzsn84rUoNNfVyF0iFTFhkkP/M=_165d9668d54:598fa2:3097813d
+  item_date: "2018-09-14 11:42:32"
+  title: HTTPS
+  url: https://github.com/SteveLTN/https-portal
+  domain: github.com
+  image: ""
+- curated_id: lvAGyZqtR0/mYw7A1WiIHy09UFoEw3/rxwIZeeDcKuw=_165ef3e8282:670cdb:4db7ac35
+  item_date: "2018-09-18 05:32:57"
+  title: Securing the microservices mesh with an API Gateway
+  url: http://blog.akana.com/?p=2775
+  domain: blog.akana.com
+  image: ""
+- curated_id: 3sOkcm6yz7RzahZqjgGz802Mh9gdTaNECiKVxsvA9Ss=_165ef1cf812:640761:4c71e4fe
+  item_date: "2018-09-18 08:42:45"
+  title: Kong Announces Version 1.0 of its Open
+  url: https://www.programmableweb.com/news/kong-announces-version-10-its-open-source-microservice-api-gateway/brief/2018/09/18
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 3sOkcm6yz7RzahZqjgGz802Mh9gdTaNECiKVxsvA9Ss=_165f35756af:c8a858:4c71e4fe
+  item_date: "2018-09-19 10:32:00"
+  title: Kong Crushes API Orchestration Challenges
+  url: https://www.sdxcentral.com/articles/news/kong-crushes-api-orchestration-challenges/2018/09/
+  domain: www.sdxcentral.com
+  image: ""
+- curated_id: 3sOkcm6yz7RzahZqjgGz802Mh9gdTaNECiKVxsvA9Ss=_165fcdff0b8:1af829d:6f86c10b
+  item_date: "2018-09-21 09:00:53"
+  title: 'NGINX Interview: Enterprise Adoption of Software Load Balancing, API Gateways,
+    and Service Meshes'
+  url: https://www.infoq.com/news/2018/09/nginx-future-networking
+  domain: www.infoq.com
+  image: ""
+- curated_id: 53UYdSIjaP6vd+2Bz1ivn3GdkSivxwzyAAG6WfdGv7o=_165fda76724:1b7b093:4c71e4fe
+  item_date: "2018-09-21 12:17:11"
+  title: Consolidating Your API Gateway and Load Balancer with NGINX
+  url: https://www.nginx.com/?p=59518
+  domain: www.nginx.com
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_166244cbe9c:19e445:4eafa5b
+  item_date: "2018-09-28 16:03:03"
+  title: How to create an AWS Lambda Authorizer for API Gateway
+  url: https://medium.com/p/45df4745a0e
+  domain: medium.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_166b1f7bc52:14dc0ed:d42b93be
+  item_date: "2018-10-25 17:13:25"
+  title: Release Releasing SAM v1.8.0
+  url: https://github.com/awslabs/serverless-application-model/releases/tag/v1.8.0
+  domain: github.com
+  image: ""
+- curated_id: WogDV3hkG8yrAvqu9zgFSDkVGkkG3KTJb/4jkpnYK10=_166b2ad2e55:15c33dd:f7a2ccea
+  item_date: "2018-10-26 15:57:48"
+  title: 'Microgateway Blog Series, Part 2: Edge to Internal'
+  url: https://apifriends.com/?p=11309
+  domain: apifriends.com
+  image: ""
+...

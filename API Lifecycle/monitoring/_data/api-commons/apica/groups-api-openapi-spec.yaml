@@ -1,0 +1,107 @@
+swagger: "2.0"
+info:
+  title: Groups API
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  '/groups ':
+    ' get ':
+      summary: Groups
+      description: ttttGets a hierarchy of all monitor groups that are visible to
+        you as a user or a customer depending on the request context.ttt
+      operationId: -groups-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Groups
+    ' post ':
+      summary: Groups
+      description: ttttCreates a new monitor group.ttt
+      operationId: -groups-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Groups
+  '/groups/{groupId} ':
+    ' delete ':
+      summary: Groups {groupId}
+      description: ttttDeletes a monitor group by Id.ttt
+      operationId: -groups-groupid-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Groups
+    ' put ':
+      summary: Groups {groupId}
+      description: ttttUpdates a monitor group.ttt
+      operationId: -groups-groupid-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Groups
+  '/groups/{groupId}/checks ':
+    ' delete ':
+      summary: Groups {groupId} Checks
+      description: ttttUnassigns checks from the monitor group.ttt
+      operationId: -groups-groupid-checks-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Groups
+    ' get ':
+      summary: Groups {groupId} Checks
+      description: ttttGets a list of checks assigned to the monitor group.ttt
+      operationId: -groups-groupid-checks-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Groups
+    ' post ':
+      summary: Groups {groupId} Checks
+      description: ttttAssigns checks to the monitor group.ttt
+      operationId: -groups-groupid-checks-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Groups
+  '/groups/{groupId}/users ':
+    ' delete ':
+      summary: Groups {groupId} Users
+      description: ttttttt
+      operationId: -groups-groupid-users-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Groups
+    ' get ':
+      summary: Groups {groupId} Users
+      description: ttttGets a list of users assigned to the monitor group.ttt
+      operationId: -groups-groupid-users-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Groups
+    ' post ':
+      summary: Groups {groupId} Users
+      description: ttttAssigns users to the monitor group.ttt
+      operationId: -groups-groupid-users-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Groups
+definitions: []

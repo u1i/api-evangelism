@@ -1,0 +1,149 @@
+---
+- slug: dropproxy
+  name: Dropproxy
+  description: Our RESTful API is 100% open. You don't need a special key or anything,
+    just make HTTP calls to the end-points listed below. The base URL for the API
+    is http://api.dropproxy.com/.
+  url: http://dropproxy.com/api-doc
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/API-Documentation-Dropproxy.png
+  tags: Anonymous,Dropbox,Files,Proxy
+- slug: varnish-software
+  name: Varnish Software
+  description: Varnish Software is the company behind Varnish Cache, a widely trusted
+    open source web accelerator, significantly enhancing web performance for businesses
+    online. We power major sites across all industry types&mdash;for businesses such
+    as Nikon, Transport for London and Vimeo as well as more than 1.8 million websites
+    worldwide. Varnish Plus is our commercial suite, offering products for scalability,
+    customization, monitoring and expert support services.
+  url: https://www.varnish-software.com/
+  shorturl: ""
+  twitter: https://twitter.com/varnishsoftware
+  blog: https://www.varnish-software.com/blog
+  blogrss: https://www.varnish-software.com/blog/feed.rss
+  github: https://github.com/varnish
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/varnish-software.jpeg
+  tags: Management,Caching,API Proxy,API LIfeycle
+- slug: azure-relay
+  name: Azure Relay
+  description: The Azure Relay service facilitates hybrid applications by enabling
+    you to securely expose services that reside within a corporate enterprise network
+    to the public cloud, without having to open a firewall connection, or require
+    intrusive changes to a corporate network infrastructure. Relay supports a variety
+    of different transport protocols and web services standards.
+  url: ""
+  shorturl: ""
+  twitter: ""
+  blog: https://blogs.msdn.microsoft.com/servicebus/
+  blogrss: https://blogs.msdn.microsoft.com/servicebus/feed/
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/service-relay-bus.png
+  tags: Microsoft,Relay,Proxy
+- slug: charles-proxy
+  name: Charles Proxy
+  description: Charles is an HTTP proxy / HTTP monitor / Reverse Proxy that enables
+    a developer to view all of the HTTP and SSL / HTTPS traffic between their machine
+    and the Internet. This includes requests, responses and the HTTP headers (which
+    contain the cookies and caching information).
+  url: https://www.charlesproxy.com/
+  shorturl: ""
+  twitter: https://twitter.com/charlesproxy
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/charles-proxy-banner.jpg
+  tags: Proxy
+- slug: fiddler
+  name: Fiddler
+  description: The free web debugging proxy for any browser, system or platform. Fiddler
+    is a free web debugging proxy which logs all HTTP(s) traffic between your computer
+    and the Internet. Use it to debug traffic from virtually any application that
+    supports a proxy like IE, Chrome, Safari, Firefox, Opera and more.
+  url: http://www.telerik.com/fiddler
+  shorturl: ""
+  twitter: https://twitter.com/telerikfiddler
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/fiddler.png
+  tags: Proxy
+- slug: mitmproxy
+  name: mitmproxy
+  description: An interactive console program that allows traffic flows to be intercepted,
+    inspected, modified and replayed.
+  url: https://mitmproxy.org/
+  shorturl: ""
+  twitter: https://twitter.com/mitmproxy
+  blog: ""
+  blogrss: ""
+  github: https://github.com/mitmproxy
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mitmproxy-logo.png
+  tags: Proxy
+- slug: vulcand
+  name: Vulcand
+  description: Vulcand is a reverse proxy for HTTP API management and microservices.
+    It is inspired by Hystrix. It uses Etcd as a configuration backend, so changes
+    to configuration take effect immediately without restarting the service.
+  url: https://www.vulcanproxy.com/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/vulcan.png
+  tags: Proxy,API Proxy
+- slug: wiretap
+  name: Wiretap
+  description: The one-click proxy that shows you everything. &nbsp;View HTTP request-response
+    exchanges between your web or mobile app and any REST API in real-time. &nbsp;Wiretap
+    is like a browser's Network Tab, but for Web and Mobile Apps. Server-to-ServerPrinting
+    HTTP request and responses data to console is a thing of the past with Wiretap.
+    Every single server-side programming language works with Wiretap. Mobile-to-ServerDo
+    your iOS or Android apps talk to web APIs? Use Wiretap to avoid facepalming, setting
+    break points, and stepping through the debugger just to figure out how a web API
+    is responding. Webhook-to-ServerCreate a Wiretap connected to your server for
+    Webhooks and see exactly what they're sending you. Retry requests with a single
+    click, no more reproducing steps on a 3rd party service. Tunnel-to-LocalhostWiretap
+    your development servers behind a firewall with tunneling. The simple desktop
+    application makes setting up a Wiretap to localhost as easy as to a public host.
+  url: https://httpkit.com/wiretap
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: https://github.com/wiretap
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Wiretap-Logo.png
+  tags: Proxy,Debugging
+- slug: apitools
+  name: APItools
+  description: Building Apps that depend on APIs speeds up development and helps make
+    software all-round more awesome. However, tracking and managing traffic flows
+    to these APIs, reacting if they slow down or fail, dealing with version changes
+    and the like can add massive overhead to development and operations.
+  url: https://www.apitools.com/
+  shorturl: ""
+  twitter: https://twitter.com/apitools
+  blog: http://docs.apitools.com/blog/
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apitools-logo.png
+  tags: Testing,API Proxy
+- slug: stoplight
+  name: StopLight
+  description: StopLight provides engineering teams with a new way to document, test,
+    and build web APIs. Our technology easily and automatically maps an API, and then
+    provides tooling and services to reduce development time, and increase reliability
+    and accessibility.
+  url: http://stoplight.io/
+  shorturl: ""
+  twitter: https://twitter.com/stoplightio
+  blog: http://blog.stoplight.io/
+  blogrss: http://blog.stoplight.io/rss/
+  github: https://github.com/stoplightio
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/stoplight-io-logo.png
+  tags: Testing,Clients,API LIfeycle,Proxy,Design,Studio
+...

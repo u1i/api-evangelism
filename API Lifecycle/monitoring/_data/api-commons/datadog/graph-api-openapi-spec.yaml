@@ -1,0 +1,75 @@
+swagger: "2.0"
+info:
+  title: Graph API
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  api/v1/graph/embed:
+    get:
+      summary: Get All Embeds
+      description: '          Gets a list of previously created embeddable graphs.        '
+      operationId: get-all-embeds
+      responses:
+        200:
+          description: OK
+      tags:
+      - Graph
+    post:
+      summary: Create Embed
+      description: '          Creates a new embeddable graph.        '
+      operationId: create-embed
+      parameters:
+      - type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Graph
+  api/v1/graph/embed/:embed_id:
+    get:
+      summary: Get Specific Embed
+      description: '          Get the HTML fragment for a previously generated embed
+        with embed_id.        '
+      operationId: get-specific-embed
+      parameters:
+      - type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Graph
+  api/v1/graph/embed/:embed_id/enable:
+    get:
+      summary: Enable Embed
+      description: '          Enable a specified embed.        '
+      operationId: enable-embed
+      responses:
+        200:
+          description: OK
+      tags:
+      - Graph
+  api/v1/graph/snapshot:
+    get:
+      summary: Graph Snapshot
+      description: ""
+      operationId: graph-snapshot
+      parameters:
+      - type: string
+      - in: query
+        name: graph_def
+        description: ' can be used instead of metric_query. The JSON document uses
+          the grammar defined here and should be formatted to a single line then URLEncoded.
+          The graph_def argument is only available in the REST API and not using the
+          Ruby or Python wrappers. n    '
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Graph
+definitions: []

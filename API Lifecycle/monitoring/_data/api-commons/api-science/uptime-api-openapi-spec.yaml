@@ -1,0 +1,44 @@
+swagger: "2.0"
+info:
+  title: Uptime
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /monitors/{id}/uptime.json:
+    get:
+      summary: Uptime Report
+      description: Uptime Report
+      operationId: uptimeReport
+      parameters:
+      - in: query
+        name: end
+        description: 'The end point you want to build a performance report from. Format
+          should be in ISO 8601. If the timezone is not provided, the report will
+          assume UTC. Partial dates (ex: YYYY-MM-DD) are supported'
+      - in: path
+        name: id
+        description: Id for the monitor.
+      - in: query
+        name: preset
+        description: Present for commonly requested reports. Options are lastDay and
+          lastWeek.
+      - in: query
+        name: resolution
+        description: The resolution is the time unit for aggregating data, with allowable
+          values of hourly, daily, and weekly.
+      - in: query
+        name: start
+        description: 'The start point you want to build a performance report from.
+          Format should be in ISO 8601. If the timezone is not provided, the report
+          will assume UTC. Partial dates (ex: YYYY-MM-DD) are supported.'
+      responses:
+        200:
+          description: OK
+      tags:
+      - Uptime
+definitions: []

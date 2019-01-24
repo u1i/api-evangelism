@@ -1,0 +1,25 @@
+swagger: "2.0"
+info:
+  title: Datasets API
+  description: The Datasets API.
+  version: 1.0.0
+host: api.truesight.bmc.com
+basePath: /
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /v1/datasets/*:
+    get:
+      summary: List dataset
+      description: ' *'
+      operationId: list-dataset
+      responses:
+        200:
+          description: OK
+      tags:
+      - Datasets
+definitions: []

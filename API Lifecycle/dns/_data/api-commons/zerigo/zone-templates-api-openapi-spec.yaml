@@ -1,0 +1,95 @@
+swagger: "2.0"
+info:
+  title: No Title
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /api/1.1/zone_templates.xml:
+    get:
+      summary: List all templates
+      description: 'There are two optional parameters: page=# and per_page=#. page
+        defaults to 1 (and starts at 1, not 0). per_page defaults to 100 but should
+        be specified exactly if a change of the default value will cause your application
+        to fail. The maximum value for per_page is 1000.'
+      operationId: list-all-templates
+      responses:
+        200:
+          description: OK
+      tags:
+      - Zone Templates
+    post:
+      summary: Create a template
+      description: ns1 should be left out unless ns-type is &#8216;sec&#8217;. slave-nameservers
+        should be left out unless ns-type is &#8216;pri&#8217;. See more details under
+        Zone Templates Overview.
+      operationId: create-a-template
+      responses:
+        200:
+          description: OK
+      tags:
+      - Zone Templates
+  /api/1.1/zone_templates/12345678.xml:
+    put:
+      summary: Update a template
+      description: ns1 should be left out unless ns-type is &#8216;sec&#8217;. slave-nameservers
+        should be left out unless ns-type is &#8216;pri&#8217;. See more details under
+        Zone Templates Overview.
+      operationId: update-a-template
+      responses:
+        200:
+          description: OK
+      tags:
+      - Zone Templates
+  /api/1.1/zone_templates/1234568.xml:
+    delete:
+      summary: Delete a template
+      description: Status 200 on success.
+      operationId: delete-a-template
+      responses:
+        200:
+          description: OK
+      tags:
+      - Zone Templates
+  /api/1.1/zone_templates/new.xml:
+    get:
+      summary: Get a blank template
+      description: This response may be useful to obtain a blank template, suitable
+        for use as a guide or retrieving default values for included fields.
+      operationId: get-a-blank-template
+      responses:
+        200:
+          description: OK
+      tags:
+      - Zone Templates
+  and:
+    host-templates-count:
+      summary: Get a template
+      description: This response is similar to List all templates with the addition
+        of host-templates-count and possibly host-templates. As long as there are
+        no more than 300 host templates, they will be returned. If there are more,
+        the host-templates array will be left out. host-templates-count will always
+        be returned.
+      operationId: get-a-template
+      responses:
+        200:
+          description: OK
+      tags:
+      - Zone Templates
+  header:
+    x-query-count:
+      summary: Count all templates
+      description: This is the total number of zone templates available. It is the
+        same value as provided in the X-Query-Count header in the Managed DNS &#8594;
+        List all templates API method.
+      operationId: count-all-templates
+      responses:
+        200:
+          description: OK
+      tags:
+      - Zone Templates
+definitions: []

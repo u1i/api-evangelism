@@ -1,0 +1,96 @@
+- building_block_id: containers
+  type: Containers
+  category: Core Concepts
+  name: Containers
+  description: >-
+    A single unit of compute, complete with operating system, and application
+    layer.
+  image: ''
+  tags: Containers
+- building_block_id: images
+  type: Containers
+  category: Core Concepts
+  name: Images
+  description: >-
+    A snapshot of a single container instance that then allows it to be deployed
+    as a container.
+  image: ''
+  tags: Containers
+- building_block_id: nodes
+  type: Containers
+  category: Core Concepts
+  name: Nodes
+  description: 'A single server instance, where many containers can be deployed and managed.'
+  image: ''
+  tags: Containers
+- building_block_id: volumes
+  type: Containers
+  category: Core Concepts
+  name: Volumes
+  description: >-
+    A data volume is a specially-designated directory within one or more
+    containers that bypasses the local.
+  image: ''
+  tags: Containers
+- building_block_id: clusters
+  type: Containers
+  category: Core Concepts
+  name: Clusters
+  description: >-
+    Allows for the creation and access to a pool of containers, organized into a
+    meaningful group.
+  image: ''
+  tags: Containers
+- building_block_id: networks
+  type: Containers
+  category: Core Concepts
+  name: Networks
+  description: Defining the network linkage between containers.
+  image: ''
+  tags: Containers
+- building_block_id: hub
+  type: Containers
+  category: Core Concepts
+  name: Hub
+  description: >-
+    A cloud-based registry service for building and shipping application or
+    service containers.
+  image: ''
+  tags: Containers
+- building_block_id: registry
+  type: Containers
+  category: Core Concepts
+  name: Registry
+  description: >-
+    A server location for registering, storing, and distributing container
+    images.
+  image: ''
+  tags: Containers
+- building_block_id: containers
+  type: Containers
+  category: API
+  name: Containers
+  description: A web API for managing containers.
+  image: ''
+  tags: Containers
+- building_block_id: image
+  type: Containers
+  category: API
+  name: Image
+  description: A web API for managing container images.
+  image: ''
+  tags: Containers
+- building_block_id: volumes
+  type: Containers
+  category: API
+  name: Volumes
+  description: A web API for managing the volumes used by containers.
+  image: ''
+  tags: Containers
+- building_block_id: networks
+  type: Containers
+  category: API
+  name: Networks
+  description: A web API for managing container networks.
+  image: ''
+  tags: Containers

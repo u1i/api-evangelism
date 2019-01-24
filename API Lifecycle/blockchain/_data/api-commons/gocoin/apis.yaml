@@ -1,0 +1,22 @@
+name: GoCoin
+description: Integrate Bitcoin into your shop for free with GoCoin. Accept Bitcoin,
+  Litecoin, and other digital currencies.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26506-gocoin-com.jpg
+tags:
+- Technology
+- SaaS
+- Financial Services
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/gocoin/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: https://gocoin.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

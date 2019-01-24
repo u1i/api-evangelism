@@ -1,0 +1,22 @@
+name: Cryptostocks
+description: ""
+image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-butterfly.png
+tags:
+- Technology
+- internet
+- Currency
+- Broken
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/cryptostocks/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: https://cryptostocks.com/api
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

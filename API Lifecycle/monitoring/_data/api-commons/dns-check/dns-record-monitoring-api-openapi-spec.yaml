@@ -1,0 +1,47 @@
+swagger: "2.0"
+info:
+  title: No Title
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /groups/:group_uuid/:record_id:
+    get:
+      summary: DNS Record Monitoring API
+      description: The DNS Check API is used to request data for either a specific
+        DNS record, or all records in a DNS record group.
+      operationId: ""
+      parameters:
+      - in: query
+        name: api_key
+        description: tThe secret key thats used to authenticate the connecting application.
+          See the Generating an API Key page for details.
+        type: string
+        format: string
+      - in: query
+        name: group_uuid
+        description: The UUID of the DNS record group. When viewing a DNS record or
+          record group, this is the 36-character string that follows /tests/ in the
+          URL. This DNS record groups UUID is ea883d67-d9f6-45e3-b3a1-844dd1857824.
+          Specify a group_uuid of all to show information for all of your accounts
+          DNS record groups.
+        type: string
+        format: string
+      - in: query
+        name: record_id
+        description: The ID of the DNS record. When viewing the URL of a DNS records
+          details or history page, this is the integer that follows the UUID in the
+          URL. For example, this DNS record has a record_id of 5529. Specify a record_id
+          of all to show information for all DNS records in a DNS record group.t1234
+        type: string
+        format: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - DNS
+definitions: []

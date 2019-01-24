@@ -1,0 +1,53 @@
+swagger: "2.0"
+info:
+  title: Vendors API
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /vendors:
+    get:
+      summary: List vendors
+      description: List all vendors.
+      operationId: list-all-vendors
+      responses:
+        200:
+          description: OK
+      tags:
+      - Vendors
+    x-description:
+      summary: L
+      description: L
+      operationId: L
+      responses:
+        200:
+          description: OK
+      tags:
+      - Vendors
+  /vendors/{id}:
+    get:
+      summary: Get a vendor
+      description: Get details about one specific vendor.
+      operationId: get-details-about-one-specific-vendor
+      parameters:
+      - in: query
+        name: No Name
+      responses:
+        200:
+          description: OK
+      tags:
+      - Vendors
+    x-description:
+      summary: G
+      description: G
+      operationId: G
+      responses:
+        200:
+          description: OK
+      tags:
+      - Vendors
+definitions: []

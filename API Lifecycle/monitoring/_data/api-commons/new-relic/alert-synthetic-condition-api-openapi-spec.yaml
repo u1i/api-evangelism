@@ -1,0 +1,135 @@
+swagger: "2.0"
+info:
+  title: Alert Synthetic Condition API
+  description: The Alert Synthetic Condition API.
+  version: 1.0.0
+host: api.newrelic.com
+basePath: /
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /v2/alerts_synthetics_conditions.{format}:
+    get:
+      summary: List
+      description: <p>This API endpoint allows you to list the Synthetics conditions
+        for your alert policy.</p><p>See our documentation for a discussion on <a
+        href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/rest-api-calls-new-relic-alerts#synthetics-conditions-list
+        target=_blank>listing Synthetic conditions</a>and <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/pagination-api-output
+        target=_blank> output pagination</a>.</p>
+      operationId: list
+      parameters:
+      - in: query
+        name: page
+        description: Pagination index
+        type: integer
+      - in: query
+        name: policy_id
+        description: Alerts policy ID
+        type: integer
+      responses:
+        200:
+          description: OK
+      tags:
+      - Alert Synthetic Condition
+  /v2/alerts_synthetics_conditions/policies/{policy_id}.{format}:
+    post:
+      summary: Create
+      description: '<p>This API endpoint allows you to create Synthetics conditions
+        for your alert policies.</p><p>Note: <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/rest-api-key>Admin
+        Useru2019s API Key</a> is required.</p><p>See our documentation for a discussion
+        on <a href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/rest-api-calls-new-relic-alerts#synthetics-conditions-create
+        target=_blank>creating Synthetic conditions</a>.</p><p>All fields are required
+        except for u201crunbook_urlu201d, u201cenabledu201d (defaults to false).</p><p><a
+        href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/alerts-conditions-api-field-names#name
+        target=_blank>name</a>: A title for your condition.</p><p><a href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/alerts-conditions-api-field-names#monitor_id
+        target=_blank>monitor_id</a>: The GUID of the Synthetics monitor to alert
+        on.</p><p><a href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/alerts-conditions-api-field-names#runbook_url
+        target=_blank>runbook_url</a>: Runbook URL to display in notifications (optional).</p><p><a
+        href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/alerts-conditions-api-field-names#enabled
+        target=_blank>enabled</a>: The status of your condition (optional).</p>'
+      operationId: create
+      parameters:
+      - in: path
+        name: policy_id
+        description: Alerts policy ID
+        type: integer
+      - in: body
+        name: synthetics_condition
+        description: Condition schema
+        schema:
+          $ref: '#/definitions/holder'
+      responses:
+        200:
+          description: OK
+      tags:
+      - Alert Synthetic Condition
+  /v2/alerts_synthetics_conditions/{condition_id}.{format}:
+    delete:
+      summary: Delete
+      description: '<p>This API endpoint allows you to delete Synthetics conditions
+        associated with your alert policy.</p><p>Note: <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/rest-api-key>Admin
+        Useru2019s API Key</a> is required.</p><p>See our documentation for a discussion
+        on <a href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/rest-api-calls-new-relic-alerts#synthetics-conditions-delete
+        target=_blank>deleting Synthetic conditions</a>.</p>'
+      operationId: delete
+      parameters:
+      - in: path
+        name: condition_id
+        description: Alerts condition ID
+        type: integer
+      responses:
+        200:
+          description: OK
+      tags:
+      - Alert Synthetic Condition
+  /v2/alerts_synthetics_conditions/{id}.{format}:
+    put:
+      summary: Update
+      description: '<p>This API endpoint allows you to update Synthetics conditions
+        for your alert policies.</p><p>Note: <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/rest-api-key>Admin
+        Useru2019s API Key</a> is required.</p><p>See our documentation for a discussion
+        on <a href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/rest-api-calls-new-relic-alerts#synthetics-conditions-update
+        target=_blank>updating Synthetic conditions</a>.</p><p>See Alerts Synthetics
+        Conditions &gt; Create for an explanation of the field values used in this
+        command.</p>'
+      operationId: update
+      parameters:
+      - in: path
+        name: id
+        description: Alerts condition ID to update
+        type: integer
+      - in: body
+        name: synthetics_condition
+        description: Condition schema
+        schema:
+          $ref: '#/definitions/holder'
+      responses:
+        200:
+          description: OK
+      tags:
+      - Alert Synthetic Condition
+definitions:
+  "":
+    properties:
+      synthetics_condition:
+        description: This is a default description.
+        type: GET
+      id:
+        description: This is a default description.
+        type: GET
+      name:
+        description: This is a default description.
+        type: GET
+      monitor_id:
+        description: This is a default description.
+        type: GET
+      runbook_url:
+        description: This is a default description.
+        type: GET
+      enabled:
+        description: This is a default description.
+        type: GET

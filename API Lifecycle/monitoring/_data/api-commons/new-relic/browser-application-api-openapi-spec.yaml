@@ -1,0 +1,73 @@
+swagger: "2.0"
+info:
+  title: Browser Application API
+  description: The Browser Application API.
+  version: 1.0.0
+host: api.newrelic.com
+basePath: /
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /v2/browser_applications.{format}:
+    get:
+      summary: List
+      description: <p>This API endpoint returns a list of the Browser Applications
+        associated with your New Relic account.</p><p>Browser Applications can be
+        filtered by their name, or by the application IDs.</p>
+      operationId: list
+      parameters:
+      - in: query
+        name: filter[ids]
+        description: Filter by application ids
+        type: list
+      - in: query
+        name: filter[name]
+        description: Filter by application name
+        type: string
+      - in: query
+        name: page
+        description: Pagination index
+        type: integer
+      responses:
+        200:
+          description: OK
+      tags:
+      - Browser Application
+    post:
+      summary: Create
+      description: <p>This API endpoint allows you to create a standalone Browser
+        Application.</p>
+      operationId: create
+      parameters:
+      - in: body
+        name: browser_application
+        description: Browser Application Schema
+        schema:
+          $ref: '#/definitions/holder'
+      responses:
+        200:
+          description: OK
+      tags:
+      - Browser Application
+definitions:
+  "":
+    properties:
+      browser_application:
+        description: This is a default description.
+        type: POST
+      id:
+        description: This is a default description.
+        type: POST
+      name:
+        description: This is a default description.
+        type: POST
+      browser_monitoring_key:
+        description: This is a default description.
+        type: POST
+      loader_script:
+        description: This is a default description.
+        type: POST

@@ -1,0 +1,91 @@
+swagger: "2.0"
+info:
+  title: Environments API
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /buckets/{bucketKey}/environments:
+    get:
+      summary: Returns list of shared environments for a specified bucket.
+      description: Returns list of shared environments for a specified bucket.
+      operationId: ""
+      parameters:
+      - in: path
+        name: bucketKey
+      responses:
+        200:
+          description: OK
+      tags:
+      - Environments
+    post:
+      summary: Create new shared environment.
+      description: Create new shared environment.
+      operationId: ""
+      parameters:
+      - in: path
+        name: bucketKey
+      - in: body
+        name: NewEnvironment
+        schema:
+          $ref: '#/definitions/holder'
+      responses:
+        200:
+          description: OK
+      tags:
+      - Environments
+  /buckets/{bucketKey}/environments/{environmentId}:
+    delete:
+      summary: Delete an Environment
+      description: Delete an Environment
+      operationId: ""
+      responses:
+        200:
+          description: OK
+      tags:
+      - Environments
+    get:
+      summary: Environment Detail
+      description: Get the details of a single test environment or shared envionment.
+      operationId: ""
+      responses:
+        200:
+          description: OK
+      tags:
+      - Environments
+    put:
+      summary: Update the details of a test environment.
+      description: Update the details of a test environment.
+      operationId: ""
+      parameters:
+      - in: path
+        name: bucketKey
+      - in: path
+        name: environmentId
+        description: Unique identifier for a shared environment
+      - in: body
+        name: ModifiedEnvironment
+        schema:
+          $ref: '#/definitions/holder'
+      responses:
+        200:
+          description: OK
+      tags:
+      - Environments
+  /buckets/{bucketKey}/tests/{test_id}/environments/{environmentId}:
+    get:
+      summary: Modify Environment
+      description: Update the details of an test environment by making a PUT request
+        with a JSON body of the environment details. The full environment details
+        will need to be provided, not just the updated configuration.
+      operationId: ""
+      responses:
+        200:
+          description: OK
+      tags:
+      - Environments
+definitions: []

@@ -1,0 +1,248 @@
+- building_block_id: cpu-usage
+  type: Performance
+  category: Core Performance
+  name: CPU Usage
+  description: Allow for the monitoring of CPU usage.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-cpu.png
+  tags: Performance
+- building_block_id: memory-usage
+  type: Performance
+  category: Core Performance
+  name: Memory Usage
+  description: Allow for the monitoring of memory usage.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-memory.png
+  tags: Performance
+- building_block_id: disk-i/o
+  type: Performance
+  category: Core Performance
+  name: Disk I/O
+  description: Allow for the monitoring of disk I/O.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-hard-drive.png
+  tags: Performance
+- building_block_id: network-i/o
+  type: Performance
+  category: Core Performance
+  name: Network I/O
+  description: Allow for the monitoring of network I/O.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-network.png
+  tags: Performance
+- building_block_id: request-editor
+  type: Performance
+  category: Core Performance
+  name: Request Editor
+  description: Being able to edit the request being made.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-editor.png
+  tags: Performance
+- building_block_id: request-retry
+  type: Performance
+  category: Core Performance
+  name: Request Retry
+  description: Allow the retry of any performance test.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-retry.png
+  tags: Performance
+- building_block_id: request-sharing
+  type: Performance
+  category: Core Performance
+  name: Request Sharing
+  description: Enable the sharing of performance tests.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-sharing.jpeg
+  tags: Performance
+- building_block_id: request-playback
+  type: Performance
+  category: Core Performance
+  name: Request Playback
+  description: Enable the playback of any performance test.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-play.jpg
+  tags: Performance
+- building_block_id: request-scheduling
+  type: Performance
+  category: Core Performance
+  name: Request Scheduling
+  description: Enable the scheduling of performance tests.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-scheduling.jpeg
+  tags: Performance
+- building_block_id: request-compare
+  type: Performance
+  category: Core Performance
+  name: Request Compare
+  description: Allow for the comparison of performance tests.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-compare.png
+  tags: Performance
+- building_block_id: request-scripting
+  type: Performance
+  category: Core Performance
+  name: Request Scripting
+  description: Allow for the scripting againsts tests.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-html-code.png
+  tags: Performance
+- building_block_id: request-automation
+  type: Performance
+  category: Core Performance
+  name: Request Automation
+  description: Allow for the automation of performance tests.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-clock-gear.png
+  tags: Performance
+- building_block_id: request-commenting
+  type: Performance
+  category: Core Performance
+  name: Request Commenting
+  description: Enable testers to comment on tests.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-chat.png
+  tags: Performance
+- building_block_id: latency-testing
+  type: Performance
+  category: Core Performance
+  name: Latency Testing
+  description: Provide latency testing tools.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-speedometer.png
+  tags: Performance
+- building_block_id: simulator
+  type: Performance
+  category: Core Performance
+  name: Simulator
+  description: Provide a performance test simulator.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-siimulation.png
+  tags: Performance
+- building_block_id: region-based-testing
+  type: Performance
+  category: Targeted Performance
+  name: Region Based Testing
+  description: Allow for performance tests from specific geographic regions.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-region.png
+  tags: Performance
+- building_block_id: provider-based-testing
+  type: Performance
+  category: Targeted Performance
+  name: Provider Based Testing
+  description: Allow for performance tests from specific providers.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-api-provider.png
+  tags: Performance
+- building_block_id: basicauth
+  type: Performance
+  category: Authentication
+  name: Basic-Auth
+  description: Using Basic Auth for authentication.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-basic-auth.jpg
+  tags: Performance
+- building_block_id: api-keys
+  type: Performance
+  category: Authentication
+  name: API Keys
+  description: Using API keys for authentication.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-key.png
+  tags: Performance
+- building_block_id: oauth
+  type: Performance
+  category: Authentication
+  name: OAuth
+  description: Using OAuth for authentication.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/oauth-logo.png
+  tags: Performance
+- building_block_id: collections
+  type: Performance
+  category: Utility
+  name: Collections
+  description: Allow performance tests to be organized in collections.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-collection.png
+  tags: Performance
+- building_block_id: command-line-interface
+  type: Performance
+  category: Utility
+  name: Command Line Interface
+  description: Provide a command line interface for performance tests.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-command-line.png
+  tags: Performance
+- building_block_id: virtualization
+  type: Performance
+  category: Utility
+  name: Virtualization
+  description: Allow performance tests to be conducted against virtualized instances.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-virtualization.png
+  tags: Performance
+- building_block_id: teams
+  type: Performance
+  category: Utility
+  name: Teams
+  description: Enable team environments for performance testing.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-team-male-female.png
+  tags: Performance
+- building_block_id: api
+  type: Performance
+  category: Utility
+  name: API
+  description: Provide an API for integrating with all testing.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/api-commons-icon.png
+  tags: Performance
+- building_block_id: postman
+  type: Performance
+  category: Import
+  name: Postman
+  description: Allow for tests to be imported using Postman.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-postman.png
+  tags: Performance
+- building_block_id: openapi-spec
+  type: Performance
+  category: Import
+  name: OpenAPI Spec
+  description: Allow for tests to be imported using OpenAPI Spec.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-swagger-round.png
+  tags: Performance
+- building_block_id: raml
+  type: Performance
+  category: Import
+  name: RAML
+  description: Allow for tests to be imported using RAML.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-raml.png
+  tags: Performance
+- building_block_id: har
+  type: Performance
+  category: Import
+  name: HAR
+  description: Allow for tests to be imported using HAR files.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-har-file.png
+  tags: Performance
+- building_block_id: junit-xml
+  type: Performance
+  category: Import
+  name: JUnit XML
+  description: Allow for tests to be imported using JUnit XML.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/junit-icon.gif
+  tags: Performance
+- building_block_id: jmeter
+  type: Performance
+  category: 3rd Party
+  name: JMeter
+  description: Provide 3rd pay integration with JMeterr
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/jmeter-logo.jpg
+  tags: Performance

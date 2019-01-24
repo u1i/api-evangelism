@@ -1,0 +1,303 @@
+---
+- slug: dropwizard
+  name: Dropwizard
+  description: A damn simple library for building production-ready RESTful web services.
+  url: https://github.com/dropwizard/dropwizard
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Database,Framework,Java,Deployment
+- slug: microrest.php
+  name: microrest.php
+  description: A micro web application providing a REST API on top of any relational
+    database, using Silex and Doctrine DBAL
+  url: https://github.com/marmelab/microrest.php
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Database,Deployment
+- slug: arrestmysql
+  name: Arrest-MySQL
+  description: A plug-n-play RESTful API for your MySQL database.
+  url: https://github.com/gilbitron/Arrest-MySQL
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Database,Deployment
+- slug: cayley
+  name: cayley
+  description: An open-source graph database
+  url: https://github.com/cayleygraph/cayley
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Database,Graph
+- slug: couchdbapiblueprint
+  name: Couch DB API Blueprint
+  description: apiaryio API Blueprint of Apache CouchDBs API
+  url: https://github.com/BigBlueHat/couchdb-api-blueprint/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Database,API Blueprint,CouchDB,Definitions
+- slug: laravelrestfulapistarter
+  name: laravel-restful-api-starter
+  description: Build a RESTful API with Laravel and MongoDB
+  url: https://github.com/merlosy/laravel-restful-api-starter
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Database,Deployment,MongoDB
+- slug: corona
+  name: Corona
+  description: Community REST API for MarkLogic
+  url: https://github.com/marklogic/Corona
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Database,Deployment
+- slug: arangodbdcos
+  name: arangodb-dcos
+  description: DCOS CLI for ArangoDB
+  url: https://github.com/arangodb/arangodb-dcos
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Command Line Interface,Database
+- slug: arangodbdocker
+  name: arangodb-docker
+  description: Docker container for ArangoDB
+  url: https://github.com/arangodb/arangodb-docker
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Containers,Database
+- slug: dockerneo4j
+  name: docker-neo4j
+  description: Docker Images for the Neo4j Graph Database
+  url: https://github.com/neo4j/docker-neo4j
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Containers,Database,GraphQL
+- slug: dockermysqltmpfs
+  name: docker-mysql-tmpfs
+  description: Docker mysql on tmpfs
+  url: https://github.com/3scale/docker-mysql-tmpfs
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Deployment,Database,Containers,MySQL
+- slug: databeam
+  name: DataBeam
+  description: Generic RESTful Interface for databases
+  url: https://github.com/GSA/DataBeam
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Database,Deployment
+- slug: her
+  name: her
+  description: Her is an ORM (Object Relational Mapper) that maps REST resources to
+    Ruby objects. It is designed to build applications that are powered by a RESTful
+    API instead of a database.
+  url: https://github.com/remiprev/her
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Database,Deployment
+- slug: dumptruck
+  name: dumptruck
+  description: Painlessly move data in and out of a SQLite database.
+  url: https://github.com/scraperwiki/dumptruck
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Database,Scraping
+- slug: ramses
+  name: ramses
+  description: "RAML + Elasticsearch / Postgres / Mongodb / Your Data Store\u2122
+    + Pyramid = RESTful API"
+  url: https://github.com/ramses-tech/ramses
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Database,Deployment,MongoDB,Search
+- slug: postgrest
+  name: postgrest
+  description: REST API for any Postgres database
+  url: https://github.com/begriffs/postgrest/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Database,Connector,Deployment
+- slug: restgomysql
+  name: restgomysql
+  description: REST APIs with Go and MySql
+  url: https://github.com/motyar/restgomysql
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Database,Go,Deployment
+- slug: restheart
+  name: restheart
+  description: RESTHeart, the automatic REST API Server for MongoDB
+  url: https://github.com/SoftInstigate/restheart
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Database,Deployment,MongoDB
+- slug: prest
+  name: prest
+  description: Serve a RESTful API from any PostgreSQL database
+  url: https://github.com/nuveo/prest
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Database,Deployment
+- slug: nodeapi
+  name: NodeAPI
+  description: Simple RESTful API implementation on Node.js + MongoDB.
+  url: https://github.com/ealeksandrov/NodeAPI
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Database,MongoDB,Deployment,Node.js
+- slug: dockerredis
+  name: docker-redis
+  description: Simplest Redis in docker (with persistence)
+  url: https://github.com/3scale/docker-redis
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Deployment,Database,Containers
+- slug: phpcrudapi
+  name: php-crud-api
+  description: Single file PHP script that adds a REST API to a SQL database
+  url: https://github.com/mevdschee/php-crud-api
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Database,Deployment,PHP
+- slug: easymongo
+  name: easymongo
+  description: The easiest MongoDB API
+  url: https://github.com/meritt/easymongo
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Database,Deployment,MongoDB
+- slug: mongo
+  name: mongo
+  description: The Mongo Database
+  url: https://github.com/mongodb/mongo
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Database,Deployment
+- slug: noms
+  name: noms
+  description: The versioned, forkable, syncable database
+  url: https://github.com/attic-labs/noms
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Database,Deployment
+- slug: atlasdb
+  name: atlasdb
+  description: Transactional Distributed Database Layer
+  url: https://github.com/palantir/atlasdb
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Database,Deployment
+- slug: dbtoapi
+  name: db-to-api
+  description: Turns a Database into a Secure, RESTful API
+  url: https://github.com/project-open-data/db-to-api
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Database,Deployment
+...

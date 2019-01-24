@@ -1,0 +1,53 @@
+swagger: "2.0"
+info:
+  title: Abilities API
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /abilities:
+    get:
+      summary: List abilities
+      description: List all of your accounts abilities, by name.
+      operationId: list-all-of-your-accounts-abilities-by-name
+      responses:
+        200:
+          description: OK
+      tags:
+      - Abilities
+    x-description:
+      summary: L
+      description: L
+      operationId: L
+      responses:
+        200:
+          description: OK
+      tags:
+      - Abilities
+  /abilities/{id}:
+    get:
+      summary: Test an ability
+      description: Test whether your account has a given ability.
+      operationId: test-whether-your-account-has-a-given-ability
+      parameters:
+      - in: query
+        name: No Name
+      responses:
+        200:
+          description: OK
+      tags:
+      - Abilities
+    x-description:
+      summary: G
+      description: G
+      operationId: G
+      responses:
+        200:
+          description: OK
+      tags:
+      - Abilities
+definitions: []

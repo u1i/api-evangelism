@@ -1,0 +1,842 @@
+- slug: amazon-web-services
+  name: Amazon Web Services
+  description: >-
+    Amazon Web Services(AWS) is a collection of remote computing services (also
+    called web services) that together make up a cloud computing platform,
+    offered over the Internet by Amazon.com. The most central and well-known of
+    these services are Amazon EC2 and Amazon S3. The service is advertised as
+    providing a large computing capacity (potentially many servers) much faster
+    and cheaper than building a physical server farm.
+  url: 'http://aws.amazon.com'
+  short_url: ''
+  twitter: 'https://twitter.com/awscloud'
+  blog: 'http://aws.amazon.com/blogs/aws/'
+  blog_rss: 'http://feeds.feedburner.com/AmazonWebServicesBlog'
+  github: 'https://github.com/amazonwebservices'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/amazon-aws-logo.jpg
+  tags: >-
+    Storage,DNS,BaaS,Payments,Hypermedia,Cloud,Compute,My API
+    Stack,Management,Voice,Partners,Plans,API LIfeycle,Real
+    Time,Serverless,Advertising,Commerce,Database,Command Line Interface,DNS
+    Cloud,Getting Started,Orchestration
+- slug: opsgen
+  name: OpsGen
+  description: >-
+    There's a better way to build connectivity for high-value enterprise,
+    mobile, IoT, and startup applications. OpsGen can help you easily and
+    rapidly create, manage, and scale your API. Visit our website and find your
+    way today!
+  url: 'http://opsgen.com'
+  short_url: ''
+  twitter: 'https://twitter.com/OpsGenAPI'
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/opsgen-logo.png
+  tags: 'Spreadsheets,Deployment,Database'
+- slug: firebase
+  name: Firebase
+  description: >-
+    Firebase is a mobile platform that helps you
+    quickly&nbsp;develop&nbsp;high-quality apps,&nbsp;grow&nbsp;your user base,
+    and&nbsp;earn&nbsp;more money. Firebase is made up of complementary features
+    that you can mix-and-match to fit your needs.
+  url: 'https://firebase.google.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/firebase'
+  blog: 'https://firebase.googleblog.com/'
+  blog_rss: 'http://firebase.googleblog.com/feeds/posts/default?alt=rss'
+  github: 'https://github.com/firebase'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/firebase-logo.png
+  tags: >-
+    Real Time,API LIfeycle,Database,Command Line Interface,Links,Google
+    APIs,Security,Testing,Virtualization
+- slug: heroku
+  name: Heroku
+  description: >-
+    Heroku is the first and best multi-language cloud application platform, or
+    platform-as-a-service. Heroku allows developers to deploy, scale, and manage
+    their apps without needing to think about servers or systems administration.
+    Over one million applications have been deployed to Heroku.
+  url: 'https://www.heroku.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/HerokuDevCenter'
+  blog: 'https://blog.heroku.com/'
+  blog_rss: 'http://feeds2.feedburner.com/heroku'
+  github: 'https://github.com/heroku'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/211_logo.png
+  tags: >-
+    PaaS,Platform,My API Stack,API LIfeycle,Database,Command Line
+    Interface,Getting Started,Issues,Issues Example,Federal Government,Federal
+    Government,Federal Government,Federal Government
+- slug: hook.io
+  name: Hook.io
+  description: >-
+    hook.io is the leading open-source provider of microservice and webhook
+    hosting. Our service is built with &nbsp;by Developers for Developers.
+    hook.io provides free hosting for Microservices and Webhooks. These hosted
+    services have full integrated access to the hook.io Developer API.
+  url: 'http://hook.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/hookdotio'
+  blog: 'https://hook.io/blog'
+  blog_rss: 'https://hook.io/blog/feed'
+  github: 'https://github.com/bigcompany'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/hook-io-logo.png
+  tags: 'Microservices,Deployment,Database,Webhooks'
+- slug: slashdb
+  name: SlashDB
+  description: >-
+    SlashDB connects your internal databases and constructs a REST/HTTP web
+    service, easily making database content accessible by URLs for getting,
+    updating, inserting and deleting in a secure way. &nbsp;SlashDB provides
+    connectors for Microsoft SQL Server, Oracle, MySQL, PostGreSQL, IBM DB2 and
+    Sybase--covering the top 5 databases you will find in the enterprise or
+    small to medium businesses. SlashDB automatically turns databases into
+    online resource so their content becomes accessible to authorized web,
+    mobile and enterprise applications for reading and writing under standard
+    data formats. Technically speaking, it makes REST APIs out of relational
+    databases.
+  url: 'http://www.slashdb.com/'
+  short_url: ''
+  twitter: 'http://twitter.com/slash_db'
+  blog: ''
+  blog_rss: 'http://www.slashdb.com/feed/'
+  github: 'https://github.com/SlashDB'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/slashdb-new-logo-sideways-medium.png
+  tags: 'Management,Deployment,Database'
+- slug: microsoft-azure
+  name: Microsoft Azure
+  description: >-
+    Microsoft Azure is a cloud computing platform and infrastructure created by
+    Microsoft for building, deploying, and managing applications and services
+    through a global network of Microsoft-managed datacenters. It provides both
+    PaaS and IaaS services and supports many different programming languages,
+    tools and frameworks, including both Microsoft-specific and third-party
+    software and systems
+  url: 'https://azure.microsoft.com/en-us/'
+  short_url: ''
+  twitter: 'https://twitter.com/azure'
+  blog: 'http://azure.microsoft.com/blog/'
+  blog_rss: 'http://azure.microsoft.com/blog/feed/'
+  github: 'https://github.com/Azure'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-azure-logo.png
+  tags: >-
+    Management,API Management
+    Other,Deployment,Compute,Database,Serverless,Portal,Command Line
+    Interface,DNS,DNS Cloud,Reliability,Service Level Agreement,Cloud,Bigcos
+- slug: google-fusion-tables
+  name: Google Fusion Tables
+  description: >-
+    Fusion Tables is an experimental data visualization web application to
+    gather, visualize, and share data tables.
+  url: 'https://developers.google.com/fusiontables/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-fusion-tables.jpg
+  tags: 'Google APIs,Visualizations,Data,Database,Spreadsheets,Embeddable'
+- slug: google-cloud-dataproc
+  name: Google Cloud Dataproc
+  description: >-
+    Use Google Cloud Dataproc, an Apache Hadoop, Apache Spark, Apache Pig, and
+    Apache Hive service, to easily process big datasets at low cost. Control
+    your costs by quickly creating managed clusters of any size and turning them
+    off when you're done. Cloud Dataproc integrates across Google Cloud Platform
+    products, giving you a powerful and complete data processing platform.
+  url: 'https://cloud.google.com/dataproc/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/dataproc.png
+  tags: 'Google APIs,Data,Database,Deployment'
+- slug: dreamfactory
+  name: DreamFactory
+  description: >-
+    DreamFactory Software is a private, venture-backed company based in
+    Campbell, California, with an additional development center in Atlanta,
+    Georgia. We were founded in 2005 and funded in 2006 by New Enterprise
+    Associates. Today, DreamFactory publishes the DreamFactory Services
+    Platform, an open source REST API platform for mobile application
+    developers.
+  url: 'http://www.dreamfactory.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/dfsoftwareinc'
+  blog: 'http://blog.dreamfactory.com/'
+  blog_rss: 'http://blog.dreamfactory.com/rss.xml'
+  github: 'https://github.com/dreamfactorysoftware'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/dreamfactory.png
+  tags: 'Deployment,Hosting,Platform,Management,Database'
+- slug: periscope-data
+  name: Periscope Data
+  description: >-
+    Periscope plugs directly into your databases and lets you run, save, and
+    share analyses over billions of data rows in seconds. By plugging into
+    database, marketing and billing systems, it can show customers how email and
+    SMS affect user retention; which sales channels produce the most loyal
+    users; and how many users use both web and mobile frontends.
+  url: 'https://www.periscopedata.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/periscopedata'
+  blog: 'https://periscopedata.com/blog'
+  blog_rss: 'https://www.periscopedata.com/blog/atom.xml'
+  github: 'https://github.com/PeriscopeData'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/periscope-data.png
+  tags: 'Database,Visualization'
+- slug: arangodb
+  name: ArangoDB
+  description: >-
+    An open-source database with a flexible data model for documents, graphs,
+    and key-values. Build high performance applications using a convenient
+    sql-like query language or JavaScript extensions.
+  url: 'https://www.arangodb.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/arangodb'
+  blog: 'https://www.arangodb.com/blog/'
+  blog_rss: 'https://www.arangodb.com/feed/'
+  github: 'https://github.com/arangodb'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/arangodb_logo2.png
+  tags: 'Database,NoSQL,Road Map'
+- slug: azure-documentdb
+  name: Azure DocumentDB
+  description: >-
+    Azure DocumentDB is a fully-managed NoSQL document database service that
+    offers querying and transaction-processing over schema-free data,
+    predictable and reliable performance, and rapid development.
+  url: 'https://azure.microsoft.com/en-us/services/documentdb/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-document-db-03-replicate.png
+  tags: 'Database,Microsoft,Documents'
+- slug: azure-sql-database
+  name: Azure SQL Database
+  description: >-
+    Make building and maintaining applications easier and more productive. With
+    built-in intelligence that learns app patterns and adapts to maximize
+    performance, reliability, and data protection, SQL Database is a cloud
+    database built for developers.
+  url: 'https://azure.microsoft.com/en-us/services/sql-database/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-sql-01-stop-worrying.png
+  tags: 'Database,Microsoft'
+- slug: scaphold
+  name: Scaphold
+  description: >-
+    Scaphold is a rich backend-as-a-service platform with a web interface like
+    Parse that exposes its API using the powerful GraphQL language.
+  url: 'https://scaphold.io'
+  short_url: ''
+  twitter: 'https://twitter.com/scapholddotio'
+  blog: 'https://scaphold.io/#/blog/'
+  blog_rss: ''
+  github: 'https://github.com/scaphold-io'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/scaphold-logo.png
+  tags: 'Database,GraphQL'
+- slug: reindex
+  name: Reindex
+  description: >-
+    Reindex is a backend as a service for React apps. With Reindex you can build
+    mobile and web apps without time consuming backend development. We provide
+    the storage with a GraphQL API, so you can concentrate on shipping amazing
+    apps to your users. Reindex integrates seamlessly with Relay, the JavaScript
+    framework for building data-driven React applications. Together with Relay
+    and other open source tools for GraphQL, Reindex provides a great developer
+    experience: instead of writing complex logic for data fetching and
+    mutations, you can write declarative queries and the framework handles the
+    complex details.
+  url: 'https://www.reindex.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/reindexio'
+  blog: 'https://www.reindex.io/blog/'
+  blog_rss: ''
+  github: 'https://github.com/reindexio'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/reindex-logo.png
+  tags: 'Database,Graph Database,Single Page Apps'
+- slug: google-cloud-spanner
+  name: Google Cloud Spanner
+  description: >-
+    Cloud Spanner is the first and only relational database service that is both
+    strongly consistent and horizontally scalable. With Cloud Spanner you enjoy
+    all the traditional benefits of a relational database: ACID transactions,
+    relational schemas (and schema changes without downtime), SQL queries, high
+    performance, and high availability. But unlike any other relational database
+    service, Cloud Spanner scales horizontally, to hundreds or thousands of
+    servers, so it can handle the highest of transactional workloads. With
+    automatic scaling, synchronous data replication, and node redundancy, Cloud
+    Spanner delivers up to 99.999% (five 9s) of availability for your mission
+    critical applications. In fact, Google&rsquo;s internal Spanner service has
+    been handling millions of queries per second from many Google services for
+    years.
+  url: 'https://cloud.google.com/spanner/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-spanner-global-scale-consistency_2x.png
+  tags: 'Database,Google APIs'
+- slug: google-cloud-sql
+  name: Google Cloud SQL
+  description: >-
+    Cloud SQL is a fully-managed database service that makes it easy to set up,
+    maintain, manage, and administer your relational PostgreSQL BETA and MySQL
+    databases in the cloud. Cloud SQL offers high performance, scalability, and
+    convenience. Hosted on Google Cloud Platform, Cloud SQL provides a database
+    infrastructure for applications running anywhere.
+  url: 'https://cloud.google.com/sql/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-cloud-sql-lead-2x.png
+  tags: 'Database,Google APIs'
+- slug: salesforce
+  name: Salesforce
+  description: >-
+    Salesforce.com Inc. is a global enterprise software company headquartered in
+    San Francisco, California. Though best known for its customer relationship
+    management (CRM) product, Salesforce has also expanded into the social
+    enterprise arena through acquisitions. It is currently ranked the most
+    innovative company in America by Forbes magazine, as well as number 27 in
+    Fortune's magazine's 100 Best Companies to Work For in 2012. As of April
+    2013, the company is ranked sixth in providing services in marketing and
+    customer service automation
+  url: 'https://developer.salesforce.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/salesforcedevs'
+  blog: 'https://developer.salesforce.com/blogs/'
+  blog_rss: 'http://feeds.feedburner.com/SforceBlog'
+  github: 'https://github.com/salesforce'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/salesforce-logo.png
+  tags: >-
+    Database,Freshbooks,Customer,Hosting,PaaS,Notifications,BaaS,CRM,Sales,Spreadsheets,Partners,Wearables
+- slug: google-biquery
+  name: Google Biquery
+  description: >-
+    BigQuery is Google's fully managed, petabyte scale, low cost enterprise data
+    warehouse for analytics. BigQuery is serverless. There is no infrastructure
+    to manage and you don't need a database administrator, so you can focus on
+    analyzing data to find meaningful insights using familiar SQL. BigQuery is a
+    powerful Big Data analytics platform used by all types of organizations,
+    from startups to Fortune 500 companies.
+  url: 'https://cloud.google.com/bigquery/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/BigQuery_500px.png
+  tags: 'Database,Data,Cloud,Google APIs'
+- slug: airtable
+  name: Airtable
+  description: >-
+    The software revolution has given people access to countless specialized
+    apps, but there's one fundamental tool that almost all apps use that still
+    remains out of reach of most non-programmers &mdash; the database.
+  url: 'https://airtable.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/airtable'
+  blog: 'http://blog.airtable.com/'
+  blog_rss: 'http://blog.airtable.com/rss'
+  github: 'https://github.com/Airtable'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/airtable-logo.png
+  tags: Database
+- slug: apache-couchdb
+  name: Apache CouchDB
+  description: >-
+    CouchDB is a database that completely embraces the web. Store your data with
+    JSON documents. Access your documents and query your indexes with your web
+    browser, via HTTP. Index, combine, and transform your documents with
+    JavaScript. CouchDB works well with modern web and mobile apps.&nbsp;
+  url: 'http://couchdb.apache.org/'
+  short_url: ''
+  twitter: 'https://twitter.com/CouchDB'
+  blog: 'http://blog.couchdb.org/'
+  blog_rss: 'http://blog.couchdb.org/feed/'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/couchdb.jpg
+  tags: Database
+- slug: cloudant
+  name: Cloudant
+  description: >-
+    Cloudant&rsquo;s distributed database-as-a-service (DBaaS) allows developers
+    of fast-growing web and mobile apps to focus on building and improving their
+    products, instead of worrying about scaling and managing their databases on
+    their own.
+  url: 'https://cloudant.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/IBMcloudant'
+  blog: 'http://blog.cloudant.com/'
+  blog_rss: 'https://cloudant.com/?feed=cloudant'
+  github: 'https://github.com/cloudant'
+  image: ''
+  tags: Database
+- slug: compose
+  name: Compose
+  description: >-
+    Build Your Best with MongoDB and Elasticsearch. Compose is a fully-managed
+    platform used by developers to deploy, host and scale databases. Compose
+    deployments scale seamlessly as your data grows. Spend more time on your
+    data model, less time capacity planning. This is how everyone should run
+    databases. Backups, replication, complete monitoring. Three essentials of a
+    production database deployment. Spend your time building apps, let us worry
+    about production operations.
+  url: 'https://www.compose.io'
+  short_url: ''
+  twitter: 'https://twitter.com/composeio'
+  blog: 'https://blog.compose.io/'
+  blog_rss: 'https://blog.compose.io/feed/'
+  github: 'https://github.com/compose'
+  image: ''
+  tags: Database
+- slug: crate
+  name: Crate
+  description: >-
+    Crate is an open source, highly scalable, shared-nothing distributed SQL
+    database. Crate offers the scalability and performance of a modern No-SQL
+    database with the power of Standard SQL. Crate&rsquo;s distributed SQL query
+    engine lets you use the same syntax that already exists in your applications
+    or integrations, and have queries seamlessly executed across the crate
+    cluster, including any aggregations, if needed.
+  url: 'https://crate.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/CrateIO'
+  blog: 'https://crate.io/blog'
+  blog_rss: ''
+  github: 'https://github.com/crate'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/create-io-logo.png
+  tags: Database
+- slug: dbmaestro
+  name: DBMaestro
+  description: >-
+    DBmaestro is a pioneer and a leading DevOps for database solution provider.
+    Its flagship product, DBmaestro TeamWork, enables Agile development and
+    Continuous Integration and Delivery for the Database.
+  url: 'http://www.dbmaestro.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/DBmaestro'
+  blog: 'http://www.dbmaestro.com/blog/'
+  blog_rss: 'http://www.dbmaestro.com/subscribe/'
+  github: 'https://github.com/DBMaestroDev'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/dbmaestro-logo.png
+  tags: Database
+- slug: marklogic
+  name: MarkLogic
+  description: >-
+    MarkLogic Corporation is an American software business that develops and
+    provides an enterprise NoSQL database, MarkLogic. MarkLogic is considered a
+    multi-model NoSQL database for its ability to store, manage, and search JSON
+    and XML documents and graph data (RDF triples). Organizations rely on the
+    flexibility and agility of MarkLogic in order to integrate massive amounts
+    of data and build large scale web applications.
+  url: 'http://www.marklogic.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/marklogic'
+  blog: 'https://developer.marklogic.com/blog'
+  blog_rss: 'https://developer.marklogic.com/blog/atom.xml?feed=blog'
+  github: 'https://github.com/marklogic'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/StorageReview-MarkLogic-Logo.jpg
+  tags: Database
+- slug: neo4j
+  name: Neo4J
+  description: >-
+    Neo4j is an open-source graph database, implemented in Java. The developers
+    describe Neo4j as embedded, disk-based, fully transactional Java persistence
+    engine that stores data structured in graphs rather than in tables. Neo4j is
+    the most popular graph database. Neo4j version 1.0 was released in February,
+    2010. The community edition of the database is licensed under the free GNU
+    General Public License (GPL) v3. The additional modules, such as online
+    backup and high availability, are licensed under the free Affero General
+    Public License (AGPL) v3. The database, with the additional modules, is also
+    available under a commercial license, in a dual license model.
+  url: 'http://neo4j.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/neo4j'
+  blog: 'https://neo4j.com/blog/'
+  blog_rss: 'https://neo4j.com/feed/'
+  github: 'https://github.com/neo4j'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/neo4j-logo-2015.png
+  tags: Database
+- slug: securedb
+  name: SecureDB
+  description: >-
+    SecureDB is the fastest way to encrypt and store the data in the cloud.
+    SecureDB comes built-in with the following modules: 1) Encrypted User
+    Profiles 2) Encrypted Custom Data 3) Encrypted Files. Traditionally,
+    implementing encryption is a complicated, expensive and time consuming
+    exercise. SecureDB makes implementing strong encryption simple, fast and
+    inexpensive.
+  url: 'https://securedb.co/'
+  short_url: ''
+  twitter: 'https://twitter.com/securedb'
+  blog: 'https://securedb.co/blog/'
+  blog_rss: 'https://securedb.co/feed/'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/securedb-logo.png
+  tags: Database
+- slug: visual-paradigm
+  name: Visual Paradigm
+  description: >-
+    &nbsp;Visual Paradigm supports modeling the underlying communication model
+    of REST API, as well as the generation of REST APIs and API documents.
+  url: 'https://www.visual-paradigm.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/visualparadigm'
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/visual-paradigm.png
+  tags: Database
+- slug: webdis
+  name: Webdis
+  description: >-
+    Webdis is a simple HTTP server which forwards commands to Redis and sends
+    the reply back using a format of your choice. Accessing
+    /COMMAND/arg0/arg1/.../argN[.ext] on Webdis executes the command on Redis
+    and returns the response; the reply format can be changed with the optional
+    extension (.json, .txt&hellip;)
+  url: 'http://webd.is/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Webdis__an_HTTP_interface_for_Redis_with_JSON_output.png
+  tags: Database
+- slug: azure-data-lake-store
+  name: Azure Data Lake Store
+  description: >-
+    The Data Lake store provides a single repository where you can capture data
+    of any size type and speed simply without forcing changes to your
+    application as the data scales. In the store, data can be shared for
+    collaboration with enterprise-grade security. It is also designed for
+    high-performance processing and analytics from HDFS applications (ie. Azure
+    HDInsight, Data Lake analytics service, Hortonworks, Cloudera, MapR) and
+    tools, including support for low latency workloads. For example, data can be
+    ingested in real-time from sensors and devices for IoT solutions, or from
+    online shopping websites into the store without the restriction of fixed
+    limits on account or file size unlike current offerings in the market.
+  url: 'https://azure.microsoft.com/en-us/services/data-lake-store/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-data-lake-store-01-petabyte.png
+  tags: 'Data,Storage,Database,Microsoft'
+- slug: apollo
+  name: Apollo
+  description: >-
+    Apollo is an incrementally-adoptable data stack that manages the flow of
+    data between clients and backends. Based on GraphQL, it gives you a
+    principled, unified, and scalable API for developing modern apps on top of
+    services.
+  url: 'http://www.apollostack.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/apollographql'
+  blog: 'https://medium.com/apollo-stack/'
+  blog_rss: ''
+  github: 'https://github.com/apollostack'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apollo-stack.png
+  tags: 'Data,Database,GraphQL'
+- slug: ragic
+  name: Ragic
+  description: >-
+    Ragic enables business people without programming skills to create cloud
+    databases just like how they create a spreadsheet form. Ragic focuses on
+    helping companies and teams who have outgrown their Excel files, to move on
+    to a real database solution that can scale in terms of users, data relation,
+    and data size. Users of Ragic are able to build their own database
+    applications without a line of code through a spreadsheet interface, or
+    install from the supplied ready-made database application templates across
+    many business functions.
+  url: 'http://www.ragic.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/Ragic'
+  blog: 'http://www.ragic.com/intl/en/blog'
+  blog_rss: ''
+  github: 'https://github.com/ragic'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ragic-logo.png
+  tags: 'Data,Database,Forms,Spreadsheets'
+- slug: google-cloud-datastore
+  name: Google Cloud Datastore
+  description: >-
+    Cloud Datastore is a highly-scalable NoSQL database for your applications.
+    Cloud Datastore automatically handles sharding and replication, providing
+    you with a highly available and durable database that scales automatically
+    to handle your applications' load. Cloud Datastore provides a myriad of
+    capabilities such as ACID transactions, SQL-like queries, indexes and much
+    more.
+  url: 'https://cloud.google.com/datastore/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/nosql-tree.png
+  tags: 'Data,Database,Deployment,Google APIs'
+- slug: dydra.com
+  name: Dydra.com
+  description: >-
+    Dydra is a cloud-based graph database. Whether you&rsquo;re using existing
+    social network APIs or want to build your own, Dydra treats your customers'
+    social graph as exactly that.
+  url: 'http://dydra.com'
+  short_url: ''
+  twitter: 'https://twitter.com/dydradata'
+  blog: 'http://blog.dydra.com'
+  blog_rss: 'http://feeds.feedburner.com/dydra'
+  github: 'https://github.com/dydra'
+  image: ''
+  tags: 'Cloud,Database,Semantic,Freshbooks,Database'
+- slug: aws-kinesis-firehose
+  name: AWS Kinesis Firehose
+  description: >-
+    Amazon Kinesis Firehose is the easiest way to load&nbsp;streaming
+    data&nbsp;into AWS. It can capture, transform,&nbsp;and load streaming data
+    into&nbsp;Amazon Kinesis Analytics,&nbsp;Amazon S3,&nbsp;Amazon Redshift,
+    and&nbsp;Amazon Elasticsearch Service, enabling near real-time analytics
+    with existing business intelligence tools and dashboards you&rsquo;re
+    already using today. It is a fully managed service that automatically scales
+    to match the throughput of your data and requires no ongoing administration.
+    It can also batch, compress, and encrypt the data before loading it,
+    minimizing the amount of storage used at the destination and increasing
+    security. You can easily create a Firehose delivery stream from the&nbsp;AWS
+    Management Console, configure it with a few clicks, and start sending data
+    to the stream from hundreds of thousands of data sources to be loaded
+    continuously to AWS &ndash; all in just a few minutes. With Amazon Kinesis
+    Firehose, you only pay for the amount of data you transmit through the
+    service. There is no minimum fee or setup cost.
+  url: 'https://aws.amazon.com/kinesis/firehose/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonKinesis_AmazonKinesisFirehose.png
+  tags: 'Amazon Web Services,Real Time,Database,Data'
+- slug: aws-database-migration-service
+  name: AWS Database Migration Service
+  description: >-
+    AWS Database Migration Service helps you migrate databases to AWS easily and
+    securely. The source database remains fully operational during the
+    migration, minimizing downtime to applications that rely on the database.
+    The AWS Database Migration Service can migrate your data to and from most
+    widely used commercial and open-source databases. The service supports
+    homogenous migrations such as Oracle to Oracle, as well as heterogeneous
+    migrations between different database platforms, such as Oracle to Amazon
+    Aurora or Microsoft SQL Server to MySQL. It also allows you to stream data
+    to Amazon Redshift from any of the supported sources including Amazon
+    Aurora, PostgreSQL, MySQL, MariaDB, Oracle, SAP ASE and SQL Server, enabling
+    consolidation and easy analysis of data in the petabyte-scale data
+    warehouse. AWS Database Migration Service can also be used for continuous
+    data replication with high-availability.
+  url: 'https://aws.amazon.com/dms/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  tags: 'Amazon Web Services,Database,Migration'
+- slug: aws-server-migration-service
+  name: AWS Server Migration Service
+  description: >-
+    AWS Server Migration Service (SMS) is an agentless service which makes it
+    easier and faster for you to migrate thousands of on-premises workloads to
+    AWS. AWS SMS allows you to automate, schedule, and track incremental
+    replications of live server volumes, making it easier for you to coordinate
+    large-scale server migrations.
+  url: 'https://aws.amazon.com/server-migration-service/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AMI.png
+  tags: 'Amazon Web Services,Database,Migration'
+- slug: aws-storage-gateway-service
+  name: AWS Storage Gateway Service
+  description: >-
+    The AWS Storage Gateway service seamlessly enables hybrid storage between
+    on-premises storage environments and&nbsp;the AWS Cloud. It combines a
+    multi-protocol storage appliance with highly efficient network connectivity
+    to&nbsp;Amazon cloud storage&nbsp;services, delivering&nbsp; local
+    performance with virtually unlimited scale. Customers use it in remote
+    offices and datacenters for hybrid cloud workloads, backup and restore,
+    archive, disaster recovery, and tiered storage. The Storage Gateway virtual
+    appliance connects seamlessly to your local infrastructure as a file server,
+    as a volume, or as a virtual tape library (VTL). This seamless connection
+    makes it simple for organizations to augment existing on-premises storage
+    investments with the high scalability, extreme durability and low cost of
+    cloud storage. &nbsp;
+  url: 'https://aws.amazon.com/storagegateway/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  tags: 'Amazon Web Services,Database,Gateway,Data,Deployment'
+- slug: aws-redshift
+  name: AWS Redshift
+  description: >-
+    Amazon Redshift is a fast, fully managed, petabyte-scale&nbsp;data
+    warehouse&nbsp;that makes it simple and cost-effective to analyze all your
+    data using your existing business intelligence tools. Start small for $0.25
+    per hour with no commitments and scale to petabytes for $1,000 per terabyte
+    per year, less than a tenth the cost of traditional solutions. Customers
+    typically see 3x compression, reducing their costs to $333 per uncompressed
+    terabyte per year.
+  url: 'https://aws.amazon.com/redshift/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AmazonRedshift.png
+  tags: 'Amazon Web Services,Database,Data,Data Warehouse'
+- slug: aws-dynamodb
+  name: AWS DynamoDB
+  description: >-
+    Amazon DynamoDB is a fast and flexible NoSQL database service for all
+    applications that need consistent, single-digit millisecond latency at any
+    scale. It is a fully managed cloud database and supports both document and
+    key-value store models. Its flexible data model and reliable performance
+    make it a great fit for mobile, web, gaming, ad tech, IoT, and many other
+    applications. Start today by downloading the local version of DynamoDB, then
+    read our Getting Started Guide.
+  url: 'https://aws.amazon.com/dynamodb/'
+  short_url: ''
+  twitter: ''
+  blog: 'https://aws.amazon.com/dynamodb/developer-resources/#BlogPosts'
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AmazonDynamoDB.png
+  tags: 'Amazon Web Services,Database'
+- slug: aws-snowball
+  name: AWS Snowball
+  description: >-
+    Snowball is a petabyte-scale data transport solution that uses secure
+    appliances to&nbsp;transfer large amounts of data&nbsp;into and out of
+    the&nbsp;AWS cloud. Using Snowball addresses common challenges with
+    large-scale data transfers including high network costs, long transfer
+    times, and security concerns. Transferring data with Snowball is simple,
+    fast, secure, and can be as little as one-fifth the cost of high-speed
+    Internet. With Snowball, you don&rsquo;t need to write any code or purchase
+    any hardware to transfer your data. Simply create a job in the AWS
+    Management Console and a Snowball appliance will be automatically shipped to
+    you*. Once it arrives, attach the appliance to your local network, download
+    and run the Snowball client to establish a connection, and then use the
+    client to select the file directories that you want to transfer to the
+    appliance. The client will then encrypt and transfer the files to the
+    appliance at high speed. Once the transfer is complete and the appliance is
+    ready to be returned, the E Ink shipping label will automatically update and
+    you can track the job status via&nbsp;Amazon Simple Notification Service
+    (SNS), text messages, or directly in the Console. Snowball uses multiple
+    layers of security designed to protect your data including tamper-resistant
+    enclosures, 256-bit encryption, and an industry-standard Trusted Platform
+    Module (TPM) designed to ensure both security and full chain-of-custody of
+    your data. Once the data transfer job has been processed and verified, AWS
+    performs a software erasure of the Snowball appliance.
+  url: 'https://aws.amazon.com/snowball/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSImportExportSnowball.png
+  tags: 'Amazon Web Services,Data,Security,Database'
+- slug: aws-elastic-mapreduce
+  name: AWS Elastic MapReduce
+  description: >-
+    Amazon EMR provides a managed Hadoop framework that makes it easy, fast, and
+    cost-effective to process vast amounts of data across dynamically scalable
+    Amazon EC2 instances. You can also run other popular distributed frameworks
+    such as Apache Spark, HBase, Presto, and Flink in Amazon EMR, and interact
+    with data in other AWS data stores such as Amazon S3 and Amazon DynamoDB.
+    Amazon EMR securely and reliably handles a broad set of big data use cases,
+    including log analysis, web indexing, data transformations (ETL), machine
+    learning, financial analysis, scientific simulation, and bioinformatics.
+  url: 'https://aws.amazon.com/emr/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonEMR.png
+  tags: 'Amazon Web Services,Dat,Data,Database,MapReduce'
+- slug: aws-kinesis-analytics
+  name: AWS Kinesis Analytics
+  description: >-
+    Amazon Kinesis Analytics is the easiest way to process streaming data in
+    real time with standard SQL without having to learn new programming
+    languages or processing frameworks. Amazon Kinesis Analytics enables you to
+    create and run SQL queries on streaming data so that you can gain actionable
+    insights and respond to your business and customer needs promptly. Amazon
+    Kinesis Analytics takes care of everything required to run your queries
+    continuously and scales automatically to match the volume and throughput
+    rate of your incoming data. With Amazon Kinesis Analytics, you only pay for
+    the resources your queries consume. There is no minimum fee or setup cost.
+  url: 'https://aws.amazon.com/kinesis/analytics/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonKinesis_AmazonKinesisAnalytics.png
+  tags: 'Amazon Web Services,Analysis,Database,Logging'

@@ -1,0 +1,40 @@
+name: DNS Made Easy
+description: DNS Made Easy&rsquo;s API is available to perform core functions of the
+  DNS Made Easy web interface programmatically. DNS Made Easy&rsquo;s API is a powerful
+  resource and a great alternative to DNS management through our conventional web
+  interface. Use of the REST based API is available free to all Business and Corporate
+  Memberships.
+image: ""
+tags:
+- DNS
+created: "2016-10-22"
+modified: "2016-10-22"
+url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/dns-made-easy/apis.yaml
+specificationVersion: "0.14"
+apis:
+- name: DNS Made Easy Managed DNS API
+  description: ""
+  image: ""
+  humanURL: http://www.dnsmadeeasy.com
+  baseURL: http://www.dnsmadeeasy.com
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/dns-made-easy/dns-made-easy-managed-dns-api-openapi-spec.yaml
+x-common:
+- type: x-blog-rss-feed
+  url: http://www.dnsmadeeasy.com/feed/
+- type: x-twitter
+  url: https://twitter.com/dnsmadeeasy
+- type: x-website
+  url: http://www.dnsmadeeasy.com
+- type: x-webinars
+  url: http://www.dnsmadeeasy.com
+- type: x-portal
+  url: http://www.dnsmadeeasy.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

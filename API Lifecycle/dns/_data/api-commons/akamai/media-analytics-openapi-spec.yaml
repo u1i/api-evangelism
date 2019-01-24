@@ -1,0 +1,14 @@
+swagger: "2.0"
+info:
+  title: Media Analytics
+  description: Manage report packs, and fetch analytic data for a particular report
+    pack.
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths: []
+definitions: []

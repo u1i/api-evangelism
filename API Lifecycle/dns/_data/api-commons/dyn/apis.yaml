@@ -1,0 +1,83 @@
+name: Dyn
+description: Dyn helps companies monitor, control, and optimize online infrastructure
+  to improve end-user experience. Their Internet performance product suite includes
+  Dyn Internet Intelligence, IP Transit Intelligence, Traffic Director, and DNS APIs.
+  Dyn provides enterprise level sales and pricing for their DNS, and email services.
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/dyn-logo.png
+tags:
+- DNS
+created: "2016-10-23"
+modified: "2016-10-23"
+url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/dyn/apis.yaml
+specificationVersion: "0.14"
+apis:
+- name: Dyn Internet Intelligence API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/dyn-logo.png
+  humanURL: http://dyn.com/
+  baseURL: http://dyn.com/
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/dyn/dyn-internet-intelligence-api-openapi-spec.yaml
+- name: Dyn Managed DNS API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/dyn-logo.png
+  humanURL: http://dyn.com/
+  baseURL: http://dyn.com/
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/dyn/dyn-managed-dns-api-openapi-spec.yaml
+- name: Dyn Remote Access API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/dyn-logo.png
+  humanURL: http://dyn.com/
+  baseURL: http://dyn.com/
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/dyn/dyn-remote-access-api-openapi-spec.yaml
+x-common:
+- type: x-base-url-for-api
+  url: https://api.dynect.net
+- type: x-blog
+  url: http://research.dyn.com/
+- type: x-blog
+  url: http://dyn.com/blog/
+- type: x-blog-rss-feed
+  url: http://feeds.feedburner.com/dyn-blog
+- type: x-blog-rss-feed
+  url: http://research.dyn.com/feed/
+- type: x-base-url-for-portal
+  url: https://help.dyn.com/developers/
+- type: x-forum
+  url: http://www.dyndnscommunity.com/
+- type: x-getting-started
+  url: http://dyn.com/product-wizard/
+- type: x-github
+  url: https://github.com/dyninc
+- type: x-program-details-
+  url: http://dyn.com/about/partners/
+- type: x-privacy-policy-page
+  url: http://dyn.com/legal/dyn-privacy-policy/
+- type: x-selfservice-registration
+  url: https://account.dyn.com/entrance/
+- type: x-status-dashboard
+  url: http://www.dynstatus.com/
+- type: x-terms-of-service-page
+  url: http://dyn.com/legal/dyn-services-agreement/
+- type: x-twitter
+  url: https://twitter.com/Dyn
+- type: x-website
+  url: http://dyn.com/
+- type: x-portal
+  url: http://dyn.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

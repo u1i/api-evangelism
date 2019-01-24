@@ -1,0 +1,110 @@
+swagger: "2.0"
+info:
+  title: CloudFlare DNS Records for a Zone API
+  description: The API for managing CloudFlare DNS Records for a Zone
+  termsOfService: https://www.cloudflare.com/terms/
+  version: 1.0.0
+host: api.cloudflare.com
+basePath: /client/v4
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /zones/:zone_identifier/dns_records:
+    get:
+      summary: List, search, sort, and filter a zones&#39; DNS records
+      description: List, search, sort, and filter a zones&#39; DNS records
+      operationId: cloudflare-dns-records-for-a-zone-api
+      parameters:
+      - in: query
+        name: content
+        description: DNS record contenttttttttttttttt127.0.0.1
+      - in: query
+        name: direction
+        description: Direction to order domainsttttttttttttttdesc
+      - in: query
+        name: match
+        description: Whether to match all search requirements or at least one (any)ttttttttttttttall
+      - in: query
+        name: name
+        description: DNS record namettttttttttttttexample.com
+      - in: query
+        name: order
+        description: Field to order records bytttttttttttttttype
+      - in: query
+        name: page
+        description: Page number of paginated resultstttttttttttttt1
+      - in: query
+        name: per_page
+        description: Number of DNS records per pagetttttttttttttt20
+      - in: query
+        name: type
+        description: DNS record typettttttttttttttA
+      - in: header
+        name: X-AUTH-EMAIL
+        description: Email address associated with your account
+      - in: header
+        name: X-AUTH-KEY
+        description: API key generated on the My Account page
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    post:
+      summary: Create a new DNS record for a zone
+      description: Create a new DNS record for a zone
+      operationId: cloudflare-dns-records-for-a-zone-api
+      parameters:
+      - in: query
+        name: content
+        description: DNS record contenttttttttttttttt127.0.0.1
+      - in: query
+        name: name
+        description: DNS record namettttttttttttttexample.com
+      - in: query
+        name: type
+        description: DNS record typettttttttttttttA
+      - in: header
+        name: X-AUTH-EMAIL
+        description: Email address associated with your account
+      - in: header
+        name: X-AUTH-KEY
+        description: API key generated on the My Account page
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /zones/:zone_identifier/dns_records/:identifier:
+    delete:
+      summary: 'Delete DNS record permission needed: #dns_records:edit'
+      description: ' Delete DNS record permission needed: #dns_records:editntt  '
+      operationId: cloudflare-dns-records-for-a-zone-api
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    get:
+      summary: 'DNS record details permission needed: #dns_records:read'
+      description: ' DNS record details permission needed: #dns_records:readntt  '
+      operationId: cloudflare-dns-records-for-a-zone-api
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    put:
+      summary: 'Update DNS record permission needed: #dns_records:edit'
+      description: ' Update DNS record permission needed: #dns_records:editntt  '
+      operationId: cloudflare-dns-records-for-a-zone-api
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

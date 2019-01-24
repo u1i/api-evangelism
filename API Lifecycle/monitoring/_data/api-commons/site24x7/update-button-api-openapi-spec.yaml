@@ -1,0 +1,33 @@
+swagger: "2.0"
+info:
+  title: Update Button API
+  description: The Update Button API.
+  version: 1.0.0
+host: www.site24x7.com.
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /uptime_buttons/{monitor_id}:
+    delete:
+      summary: Delete Uptime Button
+      description: Delete the uptime button for a monitor.
+      operationId: delete-uptime-button
+      responses:
+        200:
+          description: OK
+      tags:
+      - Uptime Buttons
+    get:
+      summary: Get Uptime Button
+      description: Retrieve the configuration of the Uptime Button.
+      operationId: get-uptime-button
+      responses:
+        200:
+          description: OK
+      tags:
+      - Uptime Buttons
+definitions: []

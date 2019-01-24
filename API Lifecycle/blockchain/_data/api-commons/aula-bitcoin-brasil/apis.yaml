@@ -1,0 +1,19 @@
+name: Aula Bitcoin Brasil
+description: Bitcoin da A u00e1 Z
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26529-aula-bitcoin-brasil.jpg
+tags:
+- internet
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/aula-bitcoin-brasil/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: http://aulabitcoinbrasil.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

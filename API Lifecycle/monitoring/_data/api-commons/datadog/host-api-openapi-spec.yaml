@@ -1,0 +1,59 @@
+swagger: "2.0"
+info:
+  title: Host API
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /api/v1/tags/hosts/:host_name:
+    delete:
+      summary: Remove Host Tags
+      description: '          This end point allows you to remove all tags for a given
+        host.        '
+      operationId: remove-host-tags
+      parameters:
+      - type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Host
+    get:
+      summary: Get Host Tags
+      description: '          Return the list of tags that apply to a given host.        '
+      operationId: get-host-tags
+      parameters:
+      - type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Host
+    post:
+      summary: Add Tags to a Host
+      description: '          This end point allows you to add tags to a host.        '
+      operationId: add-tags-to-a-host
+      parameters:
+      - type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Host
+    put:
+      summary: Update Host Tags
+      description: '          This end point allows you to update all tags for a given
+        host.        '
+      operationId: update-host-tags
+      parameters:
+      - type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Host
+definitions: []

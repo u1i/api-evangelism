@@ -1,0 +1,2969 @@
+---
+- curated_id: b1ae861d2d88ca390f93ca03310dc864
+  item_date: "2012-04-21 12:49:06"
+  title: Why Startups Need an API
+  url: https://tune.com/blog/startups-need-api/
+  domain: tune.com
+  image: ""
+- curated_id: fffb8274d3349903ee1d5ed724a5b9c9
+  item_date: "2015-02-17 00:00:00"
+  title: APImetrics gets Funding from Bain Capital Ventures
+  url: http://apimetrics.io/2015/02/17/apimetrics-gets-funding-bain-capital-ventures/
+  domain: apimetrics.io
+  image: ""
+- curated_id: 5187766de77f739fca11dcc7c29f1003
+  item_date: "2015-03-02 08:10:09"
+  title: Why API Monitoring Matters To Every Business
+  url: http://www.forbes.com/sites/danwoods/2015/02/27/why-api-monitoring-matters-to-every-business/
+  domain: www.forbes.com
+  image: ""
+- curated_id: 7fed16a197b443a0c62df4329c9280dd
+  item_date: "2015-03-10 18:34:16"
+  title: API Performance in a Consumer-Driven World
+  url: http://www2.smartbear.com/outbound-readyapi-consumer-performance-webinar-lp.html
+  domain: www2.smartbear.com
+  image: ""
+- curated_id: 990695379ee0879f53834b8b942c2edd
+  item_date: "2015-03-13 00:00:00"
+  title: Application Performance Management vs. API Performance Monitoring
+  url: http://apimetrics.io/2015/03/13/application-performance-management-vs-api-performance-monitoring/
+  domain: apimetrics.io
+  image: ""
+- curated_id: bff17294f1c117f5c0cfb977816bf299
+  item_date: "2015-03-23 00:00:00"
+  title: Machine Data for End-to-End IoT System Monitoring
+  url: https://dzone.com/articles/machine-data-end-end-iot
+  domain: dzone.com
+  image: ""
+- curated_id: 2038c0799161fad07937a87e78a27660
+  item_date: "2015-03-23 00:00:00"
+  title: Manage, monitor, and control all your IoT devices with Overlord
+  url: http://www.codeproject.com/Articles/888959/Manage-monitor-and-control-all-your-IoT-devices-wi
+  domain: www.codeproject.com
+  image: ""
+- curated_id: fbd51d421578f57f00bae5599c52f6af
+  item_date: "2015-03-25 00:00:00"
+  title: Simple Demo to Check Status of API Server
+  url: http://www.codeproject.com/Tips/890390/Simple-Demo-to-Check-Status-of-API-Server
+  domain: www.codeproject.com
+  image: ""
+- curated_id: 20cba9ce14a7e2129b0469f40e7ff3f3
+  item_date: "2015-03-25 00:00:00"
+  title: Resource monitoring solution
+  url: http://hackaday.com/2015/03/25/resource-monitoring-solution/
+  domain: hackaday.com
+  image: ""
+- curated_id: f4f33b943f7bd2c38468e0b85f302cd5
+  item_date: "2015-03-25 00:00:00"
+  title: Integrating Open Source Monitoring with Monitis
+  url: http://opensource.sys-con.com/node/2178585
+  domain: opensource.sys-con.com
+  image: ""
+- curated_id: e8e8dd957daca6e8af5db618d67b1213
+  item_date: "2015-04-02 00:00:00"
+  title: Tech Talks ? When APIs Need to Meet SLAs
+  url: http://apimetrics.io/2015/04/02/tech-talks-apis-need-meet-slas/
+  domain: apimetrics.io
+  image: ""
+- curated_id: 0e4ed16c3482f4527176357907999e57
+  item_date: "2015-04-06 10:28:00"
+  title: APImetrics Adds Support for SOAP APIs
+  url: http://www.programmableweb.com/news/apimetrics-adds-support-soap-apis/2015/04/06
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: c5f91b9e60ea03010f977cdf5198501f
+  item_date: "2015-04-07 00:00:00"
+  title: Added Support for SOAP APIs
+  url: http://apimetrics.io/2015/04/07/added-support-soap-apis/
+  domain: apimetrics.io
+  image: ""
+- curated_id: bd7ded0003c27014451777713cbadbb1
+  item_date: "2015-04-09 00:00:00"
+  title: Pager Duty Integration Enables One Stop Convenience for Alerting
+  url: http://blog.smartbear.com/web-performance/pager-duty-integration-enables-one-stop-convenience-for-alerting/
+  domain: blog.smartbear.com
+  image: ""
+- curated_id: 94f813b7946fd2cb65e5d394d573ee18
+  item_date: "2015-04-09 00:00:00"
+  title: 'Building Developer Tools For Developers: Scout Goes Open Source on Server
+    Side Monitoring'
+  url: https://www.twilio.com/blog/2015/04/building-developer-tools-for-developers-scout-goes-open-source-on-server-side-monitoring.html
+  domain: www.twilio.com
+  image: ""
+- curated_id: 1d501eac4a1b61252c2a27e590029366
+  item_date: "2015-04-14 00:00:00"
+  title: Why Up/Down Monitoring Isn?t Enough
+  url: http://blog.smartbear.com/transaction-monitoring/why-updown-monitoring-isnt-enough/
+  domain: blog.smartbear.com
+  image: ""
+- curated_id: 42bc14347264ade688e3042e7fbee87a
+  item_date: "2015-04-16 00:00:00"
+  title: 'Redesigning Server Monitoring: Configuring Alerts'
+  url: https://blog.serverdensity.com/making-usable-server-monitoring-alerts/
+  domain: blog.serverdensity.com
+  image: ""
+- curated_id: 373645f105c168486a50acb69e414b79
+  item_date: "2015-04-21 00:00:00"
+  title: 'Create Runscope Tests Instantly with New Import Test Feature: Support for
+    Swagger, Postman Collection and HAR Files'
+  url: http://blog.runscope.com/posts/new-import-feature-support-for-swagger-postman
+  domain: blog.runscope.com
+  image: ""
+- curated_id: 6166e1d51c8bc6ab2066b6ac961b0550
+  item_date: "2015-04-28 02:59:18"
+  title: Docker containers monitoring
+  url: http://blog.scalingo.com/post/117535770018/docker-containers-monitoring
+  domain: blog.scalingo.com
+  image: ""
+- curated_id: 0b1c68c8f95d1efc4dc39c461c3dcee5
+  item_date: "2015-04-29 00:00:00"
+  title: Monitoring and Service Discovery
+  url: http://blog.mandrill.com/monitoring-and-service-discovery.html
+  domain: blog.mandrill.com
+  image: ""
+- curated_id: 23634335cd08cf4ab83b5bb409881f83
+  item_date: "2015-05-01 00:00:00"
+  title: 'Reporting Just Got Automated: Save Time with the New Daily API Performance
+    Report'
+  url: http://blog.runscope.com/posts/api-performance-report
+  domain: blog.runscope.com
+  image: ""
+- curated_id: 583133b07f8745a627ed595d516e42c3
+  item_date: "2015-05-06 00:00:00"
+  title: 'Runscope Turns Two: 40,000 Developers Strong'
+  url: http://blog.runscope.com/posts/two-year-anniversary
+  domain: blog.runscope.com
+  image: ""
+- curated_id: e5f6571e7856da49c285a3fb9c2d077e
+  item_date: "2015-05-12 00:00:00"
+  title: Riding The New Wave With API Monitoring [Video]
+  url: http://blog.smartbear.com/iot-2/riding-the-new-wave-with-api-monitoring-video/
+  domain: blog.smartbear.com
+  image: ""
+- curated_id: 2e2838005b4036536215ebad6b10b414
+  item_date: "2015-05-14 00:00:00"
+  title: AppDynamics adds Docker container monitoring ? one week after New Relic did
+    that
+  url: http://venturebeat.com/2015/05/14/appdynamics-adds-docker-container-monitoring-one-week-after-new-relic-did-that/
+  domain: venturebeat.com
+  image: ""
+- curated_id: c330b2b6d6d3b3ca42f3bb0629c2a5e1
+  item_date: "2015-05-18 00:00:00"
+  title: Weaveworks Release ?Weave Scope? for Container and Microservice Monitoring
+  url: http://www.infoq.com/news/2015/05/weave-scope-container-monitoring
+  domain: www.infoq.com
+  image: ""
+- curated_id: 7a66b4a8f4dc2e3732c2129e374a2628
+  item_date: "2015-05-18 00:00:00"
+  title: API Performance Monitoring for the API Economy
+  url: http://apimetrics.io/2015/05/18/api-performance-monitoring-api-economy/
+  domain: apimetrics.io
+  image: ""
+- curated_id: d5039bea4fdc1159ba30e21d06fe9d3e
+  item_date: "2015-05-19 00:00:00"
+  title: Quickly start monitoring with our PHP API wrapper
+  url: https://blog.serverdensity.com/quickly-start-monitoring-with-our-php-api-wrapper/
+  domain: blog.serverdensity.com
+  image: ""
+- curated_id: 699293040ef58827dab5086c1220ebfd
+  item_date: "2015-05-20 00:00:00"
+  title: Remote Control and Monitoring for Tessel Servo
+  url: http://www.pubnub.com/blog/remote-control-and-monitoring-for-tessel-servo/
+  domain: www.pubnub.com
+  image: ""
+- curated_id: c03e97c187fcc3e6a2ef42731e749a78
+  item_date: "2015-05-20 00:00:00"
+  title: SmartBear Steps Up API Monitoring Capabilities in Latest AlertSite UXM Release
+  url: http://www.programmableweb.com/news/smartbear-steps-api-monitoring-capabilities-latest-alertsite-uxm-release/press-release/2015/05/20
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 1608e4fdd5924cdd423199aa5a641297
+  item_date: "2015-05-20 00:00:00"
+  title: How to provide real user monitoring for single-page applications
+  url: http://www.soasta.com/blog/angularjs-real-user-monitoring-single-page-applications/
+  domain: www.soasta.com
+  image: ""
+- curated_id: 8be2d1ac60d599104e5a466939f6ad9f
+  item_date: "2015-05-22 00:00:00"
+  title: 'Crash Avoidance: Stay Ahead of API Problems with API Performance Metrics
+    and Reports'
+  url: http://blog.runscope.com/posts/crash-avoidance-stay-ahead-of-api-problems-with-api-performance-metrics
+  domain: blog.runscope.com
+  image: ""
+- curated_id: c40e155a7b2c4498ebe9df959f7e125d
+  item_date: "2015-05-26 00:00:00"
+  title: Tools for Monitoring Elasticsearch Performance
+  url: https://qbox.io/blog/tools-for-monitoring-elasticsearch-performance
+  domain: qbox.io
+  image: ""
+- curated_id: 28024ebf84d75721743d01e25cd83414
+  item_date: "2015-05-28 00:00:00"
+  title: 'Azure Data Factory Updates: Monitoring and Management Enhancements'
+  url: http://azure.microsoft.com/blog/2015/05/28/azure-data-factory-updates-monitoring-and-management-enhancements/
+  domain: azure.microsoft.com
+  image: ""
+- curated_id: 6d6dabc9892a143b043bb1849b07aed0
+  item_date: "2015-05-28 00:00:00"
+  title: 'Guest Blog: Ensuring Your API Quality'
+  url: http://wso2.com/blogs/thesource/2015/05/guest-blog-ensuring-your-api-quality/
+  domain: wso2.com
+  image: ""
+- curated_id: b3918e49df8397b430a18372535041c3
+  item_date: "2015-06-01 00:00:00"
+  title: 'Around the World in One Click: Monitor Your APIs from 12 Global Locations'
+  url: http://blog.runscope.com/posts/monitor-your-apis-from-12-global-locations
+  domain: blog.runscope.com
+  image: ""
+- curated_id: 598cd27dfc9e4a5658ada10830378b09
+  item_date: "2015-06-06 22:24:39"
+  title: ""
+  url: http://alpha.apievangelist.com/2015/06/06/adding-api-science-monitors-to-my-master-stack-and-including-in-each-apisjson/
+  domain: alpha.apievangelist.com
+  image: ""
+- curated_id: ec487901d78b6b785e253f36a71f0008
+  item_date: "2015-06-09 00:00:00"
+  title: Use Runscope for Advanced Error Logging
+  url: http://blog.runscope.com/posts/use-runscope-for-advanced-error-logging
+  domain: blog.runscope.com
+  image: ""
+- curated_id: f55e4cb3416393ee6aa5bea433835c52
+  item_date: "2015-06-09 00:00:00"
+  title: Pingometer Keeps Your Uptime In The 9s With Twilio SMS
+  url: https://www.twilio.com/blog/2015/06/pingometer-keeps-your-uptime-in-the-9s-with-twilio-sms.html
+  domain: www.twilio.com
+  image: ""
+- curated_id: bce18fc5d9450847f5282eb8aec1ade9
+  item_date: "2015-06-21 00:00:00"
+  title: 'Monitoring Microservices and Containers: A Challenge by Adrian Cockcroft'
+  url: http://www.infoq.com/news/2015/06/monitoring-microservices
+  domain: www.infoq.com
+  image: ""
+- curated_id: 8bc98cfb1f22efe5e27570ac4d34a121
+  item_date: "2015-06-23 00:00:00"
+  title: Simplified API Monitoring for DevOps Teams
+  url: http://blog.smartbear.com/api-load-testing/simplified-api-monitoring-for-devops-teams/
+  domain: blog.smartbear.com
+  image: ""
+- curated_id: 465c77375002a0599af45915540d441a
+  item_date: "2015-06-23 00:00:00"
+  title: Apigee Launches API Monitoring Service
+  url: http://www.programmableweb.com/news/apigee-launches-api-monitoring-service/2015/06/23
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 3f8d17714e0344110d41bc6cecc4b1ae
+  item_date: "2015-07-02 00:00:00"
+  title: APImetrics Integrates with New Relic Insights
+  url: http://apimetrics.io/2015/07/02/apimetrics-integrates-with-new-relic-insights/
+  domain: apimetrics.io
+  image: ""
+- curated_id: 73fb3f3f3848d683e22f38147ec65645
+  item_date: "2015-07-02 00:00:00"
+  title: World?s Best API Monitoring  IoT Testing, Free for Everyone!
+  url: http://blog.smartbear.com/open-source/worlds-best-api-monitoring-iot-testing-free-for-everyone/
+  domain: blog.smartbear.com
+  image: ""
+- curated_id: 741840435f26db8d26c55e470d1ffaf5
+  item_date: "2015-07-02 00:00:00"
+  title: Updated UI for Report Editor, Workflows, and Deployments
+  url: http://apimetrics.io/2015/07/02/updated-ui-for-report-editor-workflows-and-deployments/
+  domain: apimetrics.io
+  image: ""
+- curated_id: a9ec081a37899d4036ec748153b7dde2
+  item_date: "2015-07-08 00:00:00"
+  title: 'API Health Report #1'
+  url: http://apimetrics.io/2015/07/08/api-health-report-1/
+  domain: apimetrics.io
+  image: ""
+- curated_id: 71f069a133dbe7ac923ad8cb613e704e
+  item_date: "2015-07-08 00:00:00"
+  title: Monitor RAML APIs with API Science
+  url: http://blogs.mulesoft.com/monitor-raml-apis-api-science/
+  domain: blogs.mulesoft.com
+  image: ""
+- curated_id: ff2f1e3f86ff658e0b558fc5c59932b8
+  item_date: "2015-07-10 00:00:00"
+  title: Site24x7 Launches Docker Monitoring
+  url: http://blogs.site24x7.com/2015/07/10/site24x7-docker-monitoring/
+  domain: blogs.site24x7.com
+  image: ""
+- curated_id: a4111ba44d96f7b59c101895d3d16780
+  item_date: "2015-07-10 00:00:00"
+  title: Self-Regulation and Why Third-Party Monitoring Matters
+  url: http://apimetrics.io/2015/07/10/self-regulation-and-why-third-party-monitoring-matters/
+  domain: apimetrics.io
+  image: ""
+- curated_id: 702d11a625e4577d22a7168ae22a7822
+  item_date: "2015-08-12 00:00:00"
+  title: New ? Monitor Your AWS Free Tier Usage
+  url: https://aws.amazon.com/blogs/aws/new-monitor-your-aws-free-tier-usage/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: becfa072e6f328b095ce23d00395a625
+  item_date: "2015-08-13 00:00:00"
+  title: Statuspage.io and Integrations
+  url: http://hoist.io/blog/statuspage-io-and-integrations/
+  domain: hoist.io
+  image: ""
+- curated_id: 26a30f386ca5211b50a4827d138d9be3
+  item_date: "2015-08-24 00:00:00"
+  title: API Changelog
+  url: http://blog.opencagedata.com/post/127499959403/api-changelog#_=_
+  domain: blog.opencagedata.com
+  image: ""
+- curated_id: e0a5546fc89b810c1141ef25cf8885ab
+  item_date: "2015-10-20 00:00:00"
+  title: 'Introducing Runscope Live Traffic Alerts: Catch Failed  Exceptional API
+    Transactions with Real-Time API Monitoring'
+  url: http://blog.runscope.com/posts/introducing-runscope-live-traffic-alerts-catch-failed-and-exceptional-api-transactions-with-real-time-api-monitoring
+  domain: blog.runscope.com
+  image: ""
+- curated_id: 74a531ef94411a4db3e3e673446a7a7b
+  item_date: "2015-10-21 00:00:00"
+  title: Runscope Launches Live Traffic Alerts API Monitoring Solution
+  url: http://www.programmableweb.com/news/runscope-launches-live-traffic-alerts-api-monitoring-solution/brief/2015/10/21
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: bf25008552e6eb6ddfdeafeac75eb92a
+  item_date: "2015-10-22 00:00:00"
+  title: Interview with Runscope on API Testing and Monitoring
+  url: https://www.infoq.com/news/2015/10/runscope-live-traffic-alerts
+  domain: www.infoq.com
+  image: ""
+- curated_id: ca766988e0c15b3a9d92451f30a0e6b0
+  item_date: "2015-11-05 00:00:00"
+  title: New Plugin for SmartBear Ready! API Integrates with Amazon API Gateway
+  url: http://www.programmableweb.com/news/new-plugin-smartbear-ready-api-integrates-amazon-api-gateway/announcement/2015/11/05
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 4ed47fd2ce534deaad3049e0a46430ae
+  item_date: "2015-11-05 00:00:00"
+  title: Bugsnag Announces Major Update to Error Monitoring Platform
+  url: http://www.programmableweb.com/news/bugsnag-announces-major-update-to-error-monitoring-platform/2015/11/05
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: ee047ae6a517e6fde11f2180aa222745
+  item_date: "2015-12-08 00:00:00"
+  title: Using the Runscope API to Dynamically Update Environment Variables
+  url: http://blog.runscope.com/posts/using-the-runscope-api-to-dynamically-update-environment-variables
+  domain: blog.runscope.com
+  image: ""
+- curated_id: ea079e3124f8b87e1376fcfcc36a072c
+  item_date: "2015-12-15 00:00:00"
+  title: Alert Your On-Call Team of Production API Failures  Anomalies with PagerDuty
+  url: http://blog.runscope.com/posts/alert-your-on-call-team-of-production-api-failures-and-anomalies-with-pagerduty
+  domain: blog.runscope.com
+  image: ""
+- curated_id: 40b86aee335c0863db9c23993b6fbe03
+  item_date: "2015-12-17 00:00:00"
+  title: AWS CloudTrail Update ? Turn on in All Regions  Use Multiple Trails
+  url: https://aws.amazon.com/blogs/aws/aws-cloudtrail-update-turn-on-in-all-regions-use-multiple-trails/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 7af6cf7f1d0dd99e43087c84b945645e
+  item_date: "2015-12-17 00:00:00"
+  title: Monitoring Container Engine with Google Cloud Monitoring
+  url: http://googlecloudplatform.blogspot.com/2015/12/monitoring-Container-Engine-with-Google-Cloud-Monitoring.html
+  domain: googlecloudplatform.blogspot.com
+  image: ""
+- curated_id: 1b323e66d3cfddb3373bbff40d13d9ac
+  item_date: "2015-12-18 00:00:00"
+  title: New ? Enhanced Monitoring for Amazon RDS (MySQL 5.6, MariaDB, and Aurora)
+  url: https://aws.amazon.com/blogs/aws/new-enhanced-monitoring-for-amazon-rds-mysql-5-6-mariadb-and-aurora/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: c4e9360c69b2457a6a9f451bed66a013
+  item_date: "2015-12-23 10:30:07"
+  title: Amazon EC2 Container Service Supports Additional CloudWatch Metrics
+  url: https://aws.amazon.com/about-aws/whats-new/2015/12/amazon-ec2-container-service-supports-additional-cloudwatch-metrics/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 67a5ee2b20c3d5b88e8d7c11160cbc07
+  item_date: "2016-01-07 00:00:00"
+  title: Using NGINX Logging for Application Performance Monitoring
+  url: https://www.nginx.com/blog/using-nginx-logging-for-application-performance-monitoring/
+  domain: www.nginx.com
+  image: ""
+- curated_id: 48e6d368d9b35ec5b4dd8bd444e6ae87
+  item_date: "2016-01-11 14:54:02"
+  title: 'Tutorial: Scaling Container Instances with CloudWatch Alarms - Amazon EC2
+    Container Service'
+  url: http://docs.aws.amazon.com/AmazonECS/latest/developerguide/cloudwatch_alarm_autoscaling.html
+  domain: docs.aws.amazon.com
+  image: ""
+- curated_id: 9cb66349b5cf08bad1506264dd90945a
+  item_date: "2016-01-19 00:00:00"
+  title: 'API Monitoring for API Management: The Ins  Outs'
+  url: http://blog.runscope.com/posts/api-monitoring-for-api-management
+  domain: blog.runscope.com
+  image: ""
+- curated_id: 1cdea574caea45b0eb9ec3614695f19b
+  item_date: "2016-01-27 00:00:00"
+  title: Manage and Monitor Apache Web Servers From Cloud
+  url: https://dzone.com/articles/manage-and-monitor-apache-web-servers-from-cloud
+  domain: dzone.com
+  image: ""
+- curated_id: 3482fd56c800764f6d8171a72be7e1f7
+  item_date: "2016-02-02 13:05:04"
+  title: API Cloud Uptime Dashboard
+  url: http://wso2.com/blogs/cloud/api-cloud-uptime-dashboard/
+  domain: wso2.com
+  image: ""
+- curated_id: 7cd2855d45e67c4879eb97e412e85dd9
+  item_date: "2016-02-06 00:00:00"
+  title: Introducing AWS CloudWatch Events
+  url: http://www.infoq.com/news/2016/02/AWS-CloudWatch-Events
+  domain: www.infoq.com
+  image: ""
+- curated_id: 0c64008dd2bf12115a42cc96e2a334a3
+  item_date: "2016-02-19 00:00:00"
+  title: 'Make the most of your HTTP check: best practice for optional settings.'
+  url: http://royal.pingdom.com/2016/02/19/make-the-most-of-your-http-check-best-practice-for-optional-settings/
+  domain: royal.pingdom.com
+  image: ""
+- curated_id: 5d87c117ece5b57f903d9a70d313ff3e
+  item_date: "2016-02-20 00:00:00"
+  title: Why DevOps needs Effective Monitoring
+  url: https://dzone.com/articles/why-devops-needs-effective-monitoring
+  domain: dzone.com
+  image: ""
+- curated_id: ba47f1b121d02b5aa3f67259242a43dd
+  item_date: "2016-02-27 00:00:00"
+  title: 'Interview: John Sheehan on Web API Quality'
+  url: http://www.infoq.com/interviews/sheehan-api-quality
+  domain: www.infoq.com
+  image: ""
+- curated_id: 45791b45a5b37f7d698ec89262d33f1b
+  item_date: "2016-02-29 00:00:00"
+  title: PagerDuty API v2 Is Now in Beta!
+  url: http://pagerduty.sys-con.com/node/3703696
+  domain: pagerduty.sys-con.com
+  image: ""
+- curated_id: e23a27e2c9f8ac93944b2c7c82cd374d
+  item_date: "2016-03-03 00:00:00"
+  title: 'Cap?n Webhook: Your monitoring just got even easier.'
+  url: http://royal.pingdom.com/2016/03/03/capn-webhook-your-monitoring-just-got-even-easier/
+  domain: royal.pingdom.com
+  image: ""
+- curated_id: 49baab160f31729964f35017db5348a3
+  item_date: "2016-03-07 00:00:00"
+  title: Connect Runscope with xMatters for Automated, Intelligent Communication About
+    API Incidents
+  url: http://blog.runscope.com/posts/connect-runscope-with-xmatters-for-automated-intelligent-communication-about-api-incidents
+  domain: blog.runscope.com
+  image: ""
+- curated_id: 2dc4566d3a6169b6273f48dc7d9a3c6f
+  item_date: "2016-03-09 00:00:00"
+  title: Using Enhanced RDS Monitoring with Datadog
+  url: https://aws.amazon.com/blogs/aws/using-enhanced-rds-monitoring-with-datadog/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: dbc19f5536a7c131cf411185682b1e38
+  item_date: "2016-03-10 00:00:00"
+  title: Launching a Pingdom community
+  url: http://royal.pingdom.com/2016/03/10/launching-a-pingdom-community/
+  domain: royal.pingdom.com
+  image: ""
+- curated_id: d219499930e07cf20ee294e89802418a
+  item_date: "2016-03-10 00:00:00"
+  title: Why You Should Be Monitoring Your APIs
+  url: http://blog.smartbear.com/api-monitoring/why-you-should-be-monitoring-your-apis/
+  domain: blog.smartbear.com
+  image: ""
+- curated_id: a77b8996b50e2e1e36cca871a7b4971e
+  item_date: "2016-03-17 00:00:00"
+  title: Monitoring meta-Monitoring
+  url: https://blog.serverdensity.com/meta-monitoring/
+  domain: blog.serverdensity.com
+  image: ""
+- curated_id: e74f0a4af530d87f4b8adf22377c66e3
+  item_date: "2016-03-17 00:00:00"
+  title: An Update on Monitoring NGINX with Amplify
+  url: https://www.nginx.com/blog/update-monitoring-nginx-with-amplify/
+  domain: www.nginx.com
+  image: ""
+- curated_id: cfc94e25fe65ee4a4a3a4db1e2c2e138
+  item_date: "2016-03-21 00:00:00"
+  title: New ? CloudWatch Metrics for Spot Fleets
+  url: https://aws.amazon.com/blogs/aws/new-cloudwatch-metrics-for-spot-fleets/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: f6bc33b8b6b87216e70e5c79378b3477
+  item_date: "2016-03-23 00:00:00"
+  title: 'Introducing Google Stackdriver: unified monitoring and logging for GCP and
+    AWS'
+  url: https://cloudplatform.googleblog.com/2016/03/Google-Stackdriver-integrated-monitoring-and-logging-for-hybrid-cloud.html
+  domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: 8584bb5044853f8af26647bbb623d226
+  item_date: "2016-03-29 00:00:00"
+  title: How to Build a Monitoring Application With the Google Cloud Vision API
+  url: http://www.programmableweb.com/news/how-to-build-monitoring-application-google-cloud-vision-api/how-to/2016/03/29
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 6933c4e5a2731a236a7fb4e2df3ea2ac
+  item_date: "2016-04-06 00:00:00"
+  title: 'Docker Cloud: Monitoring  Logging'
+  url: https://dzone.com/articles/docker-cloud-monitoring-logging
+  domain: dzone.com
+  image: ""
+- curated_id: c5e9c7ff06cfe670f24940fa62924aee
+  item_date: "2016-04-14 00:00:00"
+  title: Monitoring Docker Containers ? Docker Stats, cAdvisor, Universal Control
+    Plane
+  url: https://dzone.com/articles/monitoring-docker-containers-docker-stats-cadvisor
+  domain: dzone.com
+  image: ""
+- curated_id: 71f7d1baa6b76959992634bf0c5aa9d3
+  item_date: "2016-04-15 00:00:00"
+  title: ""
+  url: https://www.nginx.com/blog/monitoring-microservices-docker-containers-nginx-amplify/
+  domain: www.nginx.com
+  image: ""
+- curated_id: 2542ff63f547a150f3975f5521a8d0a2
+  item_date: "2016-04-19 00:00:00"
+  title: NGINX Amplify Monitors Microservices in Docker Containers
+  url: https://dzone.com/articles/nginx-amplify-monitors-microservices-in-docker-con
+  domain: dzone.com
+  image: ""
+- curated_id: 2e61c257cfef3853635a71f625f94b27
+  item_date: "2016-04-28 00:00:00"
+  title: Monitoring Kafka on Docker Cloud
+  url: https://dzone.com/articles/monitoring-kafka-on-docker-cloud-1
+  domain: dzone.com
+  image: ""
+- curated_id: 59bdfbf080e59224f1509ea67130549a
+  item_date: "2016-04-28 00:00:00"
+  title: How to Integrate PagerDuty for Real-Time Web Monitoring
+  url: http://in.pcmag.com/pagerduty/102919/feature/how-to-integrate-pagerduty-for-real-time-web-monit
+  domain: in.pcmag.com
+  image: ""
+- curated_id: ba9f4d5a772037ffb126477032a58dab
+  item_date: "2016-05-04 00:00:00"
+  title: Uptime monitoring is now live
+  url: https://watchful.li/news/uptime-monitoring-is-now-online.html
+  domain: watchful.li
+  image: ""
+- curated_id: c1097fe5eeaa04dac301d5931f6162c8
+  item_date: "2016-05-11 00:00:00"
+  title: Changes in Performance and Monitoring
+  url: https://dzone.com/articles/changes-in-performance-and-monitoring
+  domain: dzone.com
+  image: ""
+- curated_id: 270b5fcb1dd5934b7a13880cc121bfef
+  item_date: "2016-05-12 00:00:00"
+  title: Technical Solutions Used for Performance and Monitoring
+  url: https://dzone.com/articles/technical-solutions-used-for-performance-and-monit
+  domain: dzone.com
+  image: ""
+- curated_id: c476b990a8d3d33bf030d9d737d50c9f
+  item_date: "2016-05-13 00:00:00"
+  title: What is your API doing at 10pm?
+  url: http://apimetrics.io/2016/05/13/what-is-your-api-doing-at-10pm/
+  domain: apimetrics.io
+  image: ""
+- curated_id: 2cb1234dffe2e8f1c0804ed7903a0611
+  item_date: "2016-05-18 00:00:00"
+  title: Performance and Monitoring Solutions Directory
+  url: https://dzone.com/articles/performance-and-monitoring-solutions-directory
+  domain: dzone.com
+  image: ""
+- curated_id: 74218314e9f6a744cbe3f9910afe37ff
+  item_date: "2016-05-19 00:00:00"
+  title: Skills Developers Need To Optimize Performance and Facilitate Monitoring
+  url: https://dzone.com/articles/skills-developers-need-to-optimize-performance-and
+  domain: dzone.com
+  image: ""
+- curated_id: 46aec7b5c1a66e118cfbbd4a4ca61974
+  item_date: "2016-05-19 00:00:00"
+  title: 10 Top Things to Monitor in Amazon RDS
+  url: https://dzone.com/articles/10-top-things-to-monitor-in-amazon-rds
+  domain: dzone.com
+  image: ""
+- curated_id: 4325cf898842addd840f6ee31a82b28b
+  item_date: "2016-05-19 00:00:00"
+  title: Getting creative with Postmark?s status API
+  url: https://postmarkapp.com/blog/getting-creative-with-postmarks-status-api
+  domain: postmarkapp.com
+  image: ""
+- curated_id: 9490869e69721f039bd855c7152d768a
+  item_date: "2016-05-20 00:00:00"
+  title: Additional Considerations Regarding Performance and Monitoring
+  url: https://dzone.com/articles/additional-considerations-regarding-performance-an
+  domain: dzone.com
+  image: ""
+- curated_id: 5e3b2a8e12bf632ce8fb9090194ea70a
+  item_date: "2016-05-20 00:00:00"
+  title: 'Monitoring Microservice Applications: Introducing the Dynamic Graph'
+  url: https://dzone.com/articles/monitoring-microservice-applications-introducing-t
+  domain: dzone.com
+  image: ""
+- curated_id: bb1b80fd86bc10216aff3cb748c6f1ce
+  item_date: "2016-05-21 00:00:00"
+  title: 'OpsClarity: Monitoring Real-Time, Fast Data Applications'
+  url: https://dzone.com/articles/opsclarity-monitoring-real-time-fast-data-applicat
+  domain: dzone.com
+  image: ""
+- curated_id: d3a522ca6f41f74276d5583bd40ce042
+  item_date: "2016-05-23 00:00:00"
+  title: Pingup mentioned by TechCrunch in ?The rise of APIs?
+  url: http://blog.pingup.com/pingup-included-techcrunch-article-rise-apis/
+  domain: blog.pingup.com
+  image: ""
+- curated_id: c1f4532db5573e45023f9d5a0ea581a0
+  item_date: "2016-05-25 00:00:00"
+  title: LinkedIn open source monitoring system for Kafka
+  url: http://www.zdnet.com/article/linkedin-open-source-monitoring-system-for-kafka/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: 6fd382d5713d72e9439bd41cd07f0044
+  item_date: "2016-06-06 00:00:00"
+  title: Monitoring Stack for Distributed Systems
+  url: https://dzone.com/articles/monitoring-stack-for-distributed-systems
+  domain: dzone.com
+  image: ""
+- curated_id: f96c8ff3ecbf2032a28d95bcc70ea569
+  item_date: "2016-06-11 00:00:00"
+  title: The Art of Monitoring ? Intro to modern app and infrastructure metrics
+  url: https://www.amazon.com/gp/product/B01GU387MS/ref=as_li_ss_tl
+  domain: www.amazon.com
+  image: ""
+- curated_id: 775df821576d0bde4afcff9eaea8c42c
+  item_date: "2016-06-15 00:00:00"
+  title: 'Performance Monitoring: Real vs Headless Browsers'
+  url: https://dzone.com/articles/performance-monitoring-real-vs-headless-browsers
+  domain: dzone.com
+  image: ""
+- curated_id: e49199b0e2c4baea55a90c52a70a9ab9
+  item_date: "2016-06-16 00:00:00"
+  title: Two Percent
+  url: http://apimetrics.io/2016/06/16/the-two-percent/
+  domain: apimetrics.io
+  image: ""
+- curated_id: c1cd457bdc3e36d85fbc82e2e450027f
+  item_date: "2016-06-23 00:00:00"
+  title: Pandora FMS Integrates NGINX Plus Monitoring
+  url: https://www.nginx.com/blog/pandora-fms-integrates-nginx-plus-monitoring-2/
+  domain: www.nginx.com
+  image: ""
+- curated_id: f0dcaad507bae33701e95a9ccd315650
+  item_date: "2016-06-23 00:00:00"
+  title: Announcing pricing for Google Stackdriver
+  url: https://cloudplatform.googleblog.com/2016/06/announcing-pricing-for-Google-Stackdriver.html
+  domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: 65a5a9ee251d65326d4a88c189f32856
+  item_date: "2016-06-27 00:00:00"
+  title: Integrate Runscope API Tests into TeamCity Builds with New Plugin From MANGOPAY
+  url: http://blog.runscope.com/posts/integrate-runscope-api-tests-into-teamcity-builds-with-new-plugin-from-mangopay
+  domain: blog.runscope.com
+  image: ""
+- curated_id: e3b65bb05eca16c0343d4be73f272552
+  item_date: "2016-07-11 00:00:00"
+  title: These 7 Industries Need Continuous Server Monitoring. Are You In One of Them?
+  url: http://www.monitis.com/blog/2016/07/11/these-7-industries-need-continuous-server-monitoring-are-you-in-one-of-them
+  domain: www.monitis.com
+  image: ""
+- curated_id: 0a33fec95f9406e8991087bca42708ee
+  item_date: "2016-07-14 00:00:00"
+  title: Atlassian acquires StatusPage
+  url: https://techcrunch.com/2016/07/14/atlassian-acquires-statuspage/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 39b98bb9a2f24dd626f5fbfb16f2a88a
+  item_date: "2016-07-18 00:00:00"
+  title: Stackdriver Error Reporting has your back on App Engine, no setup required
+  url: https://cloudplatform.googleblog.com/2016/07/Stackdriver-Error-Reporting-has-your-back-on-App-Engine-no-setup-required.html
+  domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: a00186ee48add318c354b7ea554c0517
+  item_date: "2016-07-20 09:59:18"
+  title: Announcing New API Checks
+  url: http://rigor.com/blog/2016/07/announcing-new-api-checks
+  domain: rigor.com
+  image: ""
+- curated_id: 43d79e34973fb90a6ccf1658b9214bd4
+  item_date: "2016-07-21 00:00:00"
+  title: How to Monitor Microsoft IIS
+  url: https://blog.serverdensity.com/monitor-iis/
+  domain: blog.serverdensity.com
+  image: ""
+- curated_id: dc2ed3cdc72237110e8d126b2a379a92
+  item_date: "2016-07-26 00:00:00"
+  title: Open Source Docker Monitoring  Logging
+  url: https://dzone.com/articles/open-source-docker-monitoring-logging
+  domain: dzone.com
+  image: ""
+- curated_id: 7adae632768c27486705cb3ca39fd378
+  item_date: "2016-07-30 00:00:00"
+  title: 'How to Monitor Microservices: Openshift and Docker'
+  url: https://blog.openshift.com/how-to-monitor-microservices-openshift-and-docker-openshift-commons-briefing-45/
+  domain: blog.openshift.com
+  image: ""
+- curated_id: 33dcee9e4e2679648b1e9ede23b95dd4
+  item_date: "2016-08-01 00:00:00"
+  title: AppDynamics Releases Microservices IQ Monitoring Tool
+  url: https://dzone.com/articles/appdynamics-releases-microservices-iq-monitoring-t
+  domain: dzone.com
+  image: ""
+- curated_id: 8486e585f7d389839b8e7e95d5021730
+  item_date: "2016-08-01 13:45:01"
+  title: 'Tweet: Powerful new feature now available: remove sensitive data from API
+    test results before it is stored: https://t.co/HRfQkwoz9b'
+  url: https://twitter.com/Runscope/statuses/760214776358121472
+  domain: twitter.com
+  image: ""
+- curated_id: bf679a196dbce0a1be49c21c25cd0e87
+  item_date: "2016-08-03 00:00:00"
+  title: 'Monitoring Apache Spark: Why Is It Challenging?'
+  url: https://dzone.com/articles/monitoring-apache-spark-why-is-it-challenging-1
+  domain: dzone.com
+  image: ""
+- curated_id: f11a3f088a7c8f1d9fe0a5cde2fbe6e0
+  item_date: "2016-08-03 00:00:00"
+  title: The Business Case for TLS 1.2 for Monitoring Data Transactions
+  url: http://www.bmc.com/blogs/business-case-tls-1-2-monitoring-data-transactions/
+  domain: www.bmc.com
+  image: ""
+- curated_id: 086ccb5974450bc80f9080d9b5a0306c
+  item_date: "2016-08-03 00:00:00"
+  title: Using APM to Monitor Data-First Apps
+  url: https://dzone.com/articles/using-apm-to-monitor-data-first-apps
+  domain: dzone.com
+  image: ""
+- curated_id: b02555564daa316ef527d62a6d98ce87
+  item_date: "2016-08-03 00:00:00"
+  title: Vizceral Open Source
+  url: http://techblog.netflix.com/2016/08/vizceral-open-source.html
+  domain: techblog.netflix.com
+  image: ""
+- curated_id: b0d33fef58f3dd7af364b8f1b3d269a2
+  item_date: "2016-08-08 00:00:00"
+  title: Lessons Learned From One Year of Monitoring Single Page Applications
+  url: https://dzone.com/articles/lessons-learned-from-one-year-of-monitoring-single
+  domain: dzone.com
+  image: ""
+- curated_id: 0cd6301dda9b5c46f9a25c759f528942
+  item_date: "2016-08-09 00:00:00"
+  title: 'IT Monitoring: The Second Is the New Minute'
+  url: https://dzone.com/articles/it-monitoring-the-second-is-the-new-minute
+  domain: dzone.com
+  image: ""
+- curated_id: a00c793e8810c04d01781edeb54c1c5a
+  item_date: "2016-08-09 00:00:00"
+  title: Netsil launches public beta
+  url: https://medium.com/m/global-identity
+  domain: medium.com
+  image: ""
+- curated_id: 8916828ceddaea7aa44d4a5958fae158
+  item_date: "2016-08-12 00:00:00"
+  title: 'Monitoring Docker Containers: Getting Smart About Tracking Ephemeral Infrastructure'
+  url: https://dzone.com/articles/monitoring-docker-containers-getting-smart-about-t-1
+  domain: dzone.com
+  image: ""
+- curated_id: 5d3c729b5ee7c438e6d6d923720ec413
+  item_date: "2016-08-15 00:00:00"
+  title: CNCF Stabilizes Prometheus Monitoring API
+  url: http://containerjournal.com/2016/08/16/cncf-stabilizes-prometheus-monitoring-api/
+  domain: containerjournal.com
+  image: ""
+- curated_id: 3be218e293d7d5527c0745984353c8dd
+  item_date: "2016-08-16 00:00:00"
+  title: 3 Ways to Fortify Your APIs to Make Sure They?re Battle Ready
+  url: http://blog.smartbear.com/api-testing/fortify-apis-with-api-testing/
+  domain: blog.smartbear.com
+  image: ""
+- curated_id: bc7d4a7b9b7260575ce86d634aba6abb
+  item_date: "2016-08-16 00:00:00"
+  title: End to End Monitoring Tames the SDN Beast
+  url: https://gigaom.com/2016/08/16/end-to-end-monitoring-tames-the-sdn-beast/
+  domain: gigaom.com
+  image: ""
+- curated_id: 45ce380bea27f37e4130732a414ddcd6
+  item_date: "2016-08-17 00:00:00"
+  title: Maker of web monitoring software can be sued, says court
+  url: http://www.pcworld.com/article/3108582/maker-of-web-monitoring-software-can-be-sued-says-court.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
+- curated_id: 489182e1779d6a99611c3eb05a8ceef2
+  item_date: "2016-08-29 00:00:00"
+  title: SCADAware Introduces New Production Monitoring Product
+  url: http://www.remotemagazine.com/main/markets/scada/scadaware-introduces-new-production-monitoring-product/
+  domain: www.remotemagazine.com
+  image: ""
+- curated_id: 2c834c1d89e3bef75afa8ccb22640645
+  item_date: "2016-08-29 00:00:00"
+  title: Monitoring Docker Container Health
+  url: https://blog.newrelic.com/2016/08/24/docker-health-check-instruction/
+  domain: blog.newrelic.com
+  image: ""
+- curated_id: abda9d7fcf14b8dd197841718bf1e58c
+  item_date: "2016-08-30 00:00:00"
+  title: How to Use Amazon CloudWatch Events to Monitor Application Health
+  url: https://blogs.aws.amazon.com/security/post/TxLS5C1IKAYQPY/How-to-Use-Amazon-CloudWatch-Events-to-Monitor-Application-Health
+  domain: blogs.aws.amazon.com
+  image: ""
+- curated_id: f6cebbaf9d6aaf2f30aeba412c6e75a5
+  item_date: "2016-08-31 00:00:00"
+  title: The science of auto-discovery advances container monitoring
+  url: https://www.opsclarity.com/monitoring-docker-part-2/
+  domain: www.opsclarity.com
+  image: ""
+- curated_id: 5c36c6991675fcfca6294954d85b8deb
+  item_date: "2016-09-12 00:00:00"
+  title: Integrating API Monitoring with PagerDuty
+  url: https://www.apiscience.com/blog/integrating-api-monitoring-pagerduty/
+  domain: www.apiscience.com
+  image: ""
+- curated_id: 14349cf0e25beea70ee78290ce7c8c68
+  item_date: "2016-09-13 00:00:00"
+  title: Startup Focuses On Real-Time Security Monitoring Of Plant Networks
+  url: http://www.darkreading.com/cloud/startup-focuses-on-real-time-security-monitoring-of-plant-networks/d/d-id/1326887
+  domain: www.darkreading.com
+  image: ""
+- curated_id: 63fd6e7c2901fe639eb7e2d2da5a55c4
+  item_date: "2016-09-13 00:00:00"
+  title: PHP Monitoring
+  url: https://dzone.com/articles/php-monitoring-1
+  domain: dzone.com
+  image: ""
+- curated_id: 7b695cc31004538e8b46b7b2fb154d6e
+  item_date: "2016-09-13 00:00:00"
+  title: Monitoring Docker Containers with Elasticsearch and cAdvisor
+  url: https://blog.codeship.com/monitoring-docker-containers-with-elasticsearch-and-cadvisor/
+  domain: blog.codeship.com
+  image: ""
+- curated_id: b9fc6cefc478fc974753270b94e0ee65
+  item_date: "2016-09-14 00:00:00"
+  title: Monitoring Serverless Architectures, Microservices and Containerized Applications
+  url: https://www.opsclarity.com/monitoring-serverless-architectures-microservices-containerized-applications/
+  domain: www.opsclarity.com
+  image: ""
+- curated_id: edf2a9513c30ed7a7ba3e137162d9862
+  item_date: "2016-09-15 00:00:00"
+  title: 'Synthetic Monitoring: The Start of the Monitoring Journey'
+  url: http://devops.com/2016/09/15/synthetic-monitoring-the-start-of-the-monitoring-journey/
+  domain: devops.com
+  image: ""
+- curated_id: 25dacaed30c0eea697072d990c3b6db1
+  item_date: "2016-09-15 13:35:23"
+  title: Monitoring Distributed Systems
+  url: http://www.oreilly.com/webops-perf/free/monitoring-distributed-systems.csp
+  domain: www.oreilly.com
+  image: ""
+- curated_id: 0653ba01cda0c42a3dfd6a8263968d6f
+  item_date: "2016-09-17 00:00:00"
+  title: Monitoring Docker Containers with Elasticsearch and Cadvisor
+  url: https://dzone.com/articles/monitoring-docker-containers-with-elasticsearch-an
+  domain: dzone.com
+  image: ""
+- curated_id: d124a403def91b40bfadf3b7446e7423
+  item_date: "2016-09-26 00:00:00"
+  title: How to monitor Elasticsearch with Datadog
+  url: https://www.datadoghq.com/blog/monitor-elasticsearch-datadog/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: 593959e547ed6c92d50dca4ab6eab8c6
+  item_date: "2016-09-27 00:00:00"
+  title: Monitor your Azure Logic Apps with Datadog
+  url: https://www.datadoghq.com/blog/monitor-azure-logic-app-workflows-datadog/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: d111ec6aadddfc422c67643028174945
+  item_date: "2016-09-27 00:00:00"
+  title: REST API Inspector
+  url: https://restdb.io/blog#!posts/57ead5a12d15442d0000054a
+  domain: restdb.io
+  image: ""
+- curated_id: eb3962475f1a29a6c3589a28b3daecd0
+  item_date: "2016-09-27 00:00:00"
+  title: Microsoft Debuts Public Preview of Azure Monitoring
+  url: http://winbuzzer.com/2016/09/27/microsoft-debuts-public-preview-azure-monitoring-xcxwbn/
+  domain: winbuzzer.com
+  image: ""
+- curated_id: 9118df515b24bb8e51ae4d2dcfab0522
+  item_date: "2016-09-28 00:00:00"
+  title: 'Article: Traffic Data Monitoring Using IoT, Kafka and Spark Streaming'
+  url: https://www.infoq.com/articles/traffic-data-monitoring-iot-kafka-and-spark-streaming
+  domain: www.infoq.com
+  image: ""
+- curated_id: 0af5668762b0369f952c04c2bec8f0e7
+  item_date: "2016-09-28 00:00:00"
+  title: Monitor Azure Redis Cache with Datadog
+  url: https://www.datadoghq.com/blog/monitor-azure-redis-cache-datadog/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: 2fd7b67dc6d1668e608145c02887aa5f
+  item_date: "2016-09-29 00:00:00"
+  title: How to Monitor Network Activity When Your Infrastructure Lacks an Edge
+  url: https://dzone.com/articles/how-to-monitor-network-activity-when-your-infrastr
+  domain: dzone.com
+  image: ""
+- curated_id: d97479e5fb7e76c9e9a2c1aad3605f07
+  item_date: "2016-09-29 00:00:00"
+  title: Validating API Responses Using JavaScript
+  url: https://www.apiscience.com/blog/validate-apis-using-javascript/
+  domain: www.apiscience.com
+  image: ""
+- curated_id: 36e2b43d9a9ede19c9ae5859a9aaf66e
+  item_date: "2016-10-03 00:00:00"
+  title: Using JavaScript and Chai Asserts to Validate API Response Timing versus
+    Data Size
+  url: https://www.apiscience.com/blog/chai-javascript-assert-timing-validation/
+  domain: www.apiscience.com
+  image: ""
+- curated_id: 4b9ca7d3928ca061f38dd7a844883df8
+  item_date: "2016-10-03 00:00:00"
+  title: Introducing the all-new Site24x7 Alarms View ? Incident management made easy
+  url: http://blogs.site24x7.com/2016/10/03/introducing-site24x7-alarms-view/
+  domain: blogs.site24x7.com
+  image: ""
+- curated_id: 5426683e3636f5a576e6f936c921976a
+  item_date: "2016-10-03 12:06:45"
+  title: 'Tweet: API calls can fail in many different ways. How does your team detect
+    API failures? (Image by @realm) https://t.co/7tcrdHNVbG'
+  url: https://twitter.com/Runscope/statuses/783020481276317696
+  domain: twitter.com
+  image: ""
+- curated_id: 1ff978fdef877f637de75c176ed48366
+  item_date: "2016-10-03 12:16:04"
+  title: A Docker Container To Capture All Traffic From Host
+  url: http://jerrygamblin.com/2016/05/28/a-docker-container-to-capture-all-traffic-from-host/
+  domain: jerrygamblin.com
+  image: ""
+- curated_id: 68a25ff0447b9f7d0fb3936bd2017a72
+  item_date: "2016-10-05 09:25:47"
+  title: 'Meet Zipkin: A Tracer for Debugging Microservices'
+  url: http://thenewstack.io/meet-zipkin-tracer-debugging-microservices/
+  domain: thenewstack.io
+  image: ""
+- curated_id: 8d1a1a66e4de5c0c0c20be52bbc5553e
+  item_date: "2016-10-06 00:00:00"
+  title: Introduction to Docker Monitoring
+  url: https://dzone.com/refcardz/intro-to-docker-monitoring
+  domain: dzone.com
+  image: ""
+- curated_id: 928b849e95be76cb96d09143f4dcef0f
+  item_date: "2016-10-06 15:49:15"
+  title: ""
+  url: https://www.runscope.com/docs/api-testing/scripts/libraries
+  domain: www.runscope.com
+  image: ""
+- curated_id: 0d35f09f919d58c4a8ca389c00f66492
+  item_date: "2016-10-08 00:00:00"
+  title: Five Principles of Effective Microservices Monitoring
+  url: http://www.programmableweb.com/news/five-principles-effective-microservices-monitoring/elsewhere-web/2016/10/08
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 730392873b942027f484c770071290fe
+  item_date: "2016-10-10 00:00:00"
+  title: What Does it Mean to Monitor a Web API?
+  url: http://www.apiful.io/intro/2016/10/11/what-does-it-mean-to-monitor-an-api.html
+  domain: www.apiful.io
+  image: ""
+- curated_id: de1362177695128b135e2ba86f7d5e29
+  item_date: "2016-10-11 00:00:00"
+  title: Site24x7 Offers Powerful All-In-One Cloud Monitoring Service
+  url: http://www.wpmayor.com/site24x7-offers-powerful-one-cloud-monitoring-solution/
+  domain: www.wpmayor.com
+  image: ""
+- curated_id: 7a9143d00b4e8e5fdd94a3d3d11c4216
+  item_date: "2016-10-11 00:00:00"
+  title: Upgrade your issue tracking with JIRA and Datadog
+  url: https://www.datadoghq.com/blog/jira-issue-tracking/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: ad164305d3f379c4020f53d44ec10113
+  item_date: "2016-10-12 00:00:00"
+  title: LEGOs and modern network performance monitoring
+  url: http://blogs.ca.com/2016/10/12/legos-modern-network-performance-monitoring/
+  domain: blogs.ca.com
+  image: ""
+- curated_id: d77ca7556689c421b43aefcbf43a134e
+  item_date: "2016-10-17 00:00:00"
+  title: 'Introducing Veneur: high performance and global aggregation for Datadog'
+  url: https://stripe.com/blog/introducing-veneur-high-performance-and-global-aggregation-for-datadog
+  domain: stripe.com
+  image: ""
+- curated_id: 46f30c880467415102fc76a2a375b85f
+  item_date: "2016-10-17 11:10:23"
+  title: ""
+  url: https://janikarhunen.fi/monitoring-with-adminlabs.html#monitoring-with-adminlabs
+  domain: janikarhunen.fi
+  image: ""
+- curated_id: 858a0bba2565c72a687768f715ff47b2
+  item_date: "2016-10-20 00:00:00"
+  title: 'Presentation: Publish, Secure, and Monitor APIs with Cloud Foundry Route
+    Services'
+  url: https://www.infoq.com/presentations/api-cloud-foundry-route
+  domain: www.infoq.com
+  image: ""
+- curated_id: 2ef0825b29fcbb3d900712a623baf170
+  item_date: "2016-10-21 00:00:00"
+  title: Anomaly Detection and Machine Learning Applied to DevOps and Monitoring
+  url: https://www.opsclarity.com/anomaly-detection-machine-learning-applied-devops-monitoring/
+  domain: www.opsclarity.com
+  image: ""
+- curated_id: e999e20c3efd00922d7e2223beabcf88
+  item_date: "2016-11-01 00:00:00"
+  title: Amazon CloudWatch Update ? Extended Metrics Retention  User Interface Update
+  url: https://aws.amazon.com/blogs/aws/amazon-cloudwatch-update-extended-metrics-retention-user-interface-update/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: f07d56d6d7a0a6bf6658de7d1bb48de5
+  item_date: "2016-11-01 00:00:00"
+  title: Propane tank monitoring radio gets LP Gas Growth Summit launch
+  url: http://www.lpgasmagazine.com/propane-tank-monitoring-radio-gets-lp-gas-growth-summit-launch/
+  domain: www.lpgasmagazine.com
+  image: ""
+- curated_id: f4ae3102b7c182ccae62dcb23097c8e2
+  item_date: "2016-11-02 00:00:00"
+  title: Our transaction monitoring just got better
+  url: http://royal.pingdom.com/2016/11/02/transaction-monitoring-just-got-better/
+  domain: royal.pingdom.com
+  image: ""
+- curated_id: f2686fdcfb20da79598953a22ca6a614
+  item_date: "2016-11-04 00:00:00"
+  title: HTTP Benchmark and Pipelining
+  url: https://dzone.com/articles/http-benchmark-and-pipelining
+  domain: dzone.com
+  image: ""
+- curated_id: 0eaa21bf9fb7ce285a38865741d84299
+  item_date: "2016-11-04 00:00:00"
+  title: 'Datadog + New Relic: Monitor every layer of your stack'
+  url: https://www.datadoghq.com/blog/new-relic-apm-synthetics-monitoring/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: 2db0d34f117184a6f292a0f2a2928ed9
+  item_date: "2016-11-07 00:00:00"
+  title: New Relic extends monitoring to containers and micro service environments
+  url: https://techcrunch.com/2016/11/07/new-relic-extends-monitoring-to-containers-and-micro-service-environments/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 9904b1263f04c403d40b63b2d5626a6b
+  item_date: "2016-11-07 00:00:00"
+  title: Exploring your application?s latency profile using Stackdriver Trace
+  url: https://cloudplatform.googleblog.com/2016/11/exploring-your-applications-latency-profile-using-Stackdriver-Trace.html
+  domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: e5addebde4fd75c57e5cb7290396c863
+  item_date: "2016-11-10 00:00:00"
+  title: APImetrics Launches Single Number Score for API Health
+  url: http://www.programmableweb.com/news/apimetrics-launches-single-number-score-api-health/brief/2016/11/10
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: b8ae0d6efa5ccc2a725d871b7e2c0843
+  item_date: "2016-12-14 00:00:00"
+  title: Tools to Monitor and Visualize Microservices Architecture
+  url: http://www.programmableweb.com/news/tools-to-monitor-and-visualize-microservices-architecture/analysis/2016/12/14
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: c731c05889de5cfb3ca38efa8009a1eb
+  item_date: "2016-12-14 00:00:00"
+  title: New Postman Pro Features API Monitoring, Documentation Generation, and Collaboration
+    Tools
+  url: http://www.programmableweb.com/news/new-postman-pro-features-api-monitoring-documentation-generation-and-collaboration-tools/brief/2016/12/14
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 72a6e985cb7175bfa3795388073f726c
+  item_date: "2016-12-15 00:00:00"
+  title: "Building Your Own Monitoring Solution \u2013 A Look at openshift-tools"
+  url: https://blog.openshift.com/build-monitoring-solution-look-openshift-tools/
+  domain: blog.openshift.com
+  image: ""
+- curated_id: 6224a4c27e5b3bc394e03b85ab784b60
+  item_date: "2016-12-18 00:00:00"
+  title: 'Agent vs. agentless: Monitoring choices for diverse IT ops needs'
+  url: http://searchitoperations.techtarget.com/tip/Agent-vs-agentless-Monitoring-choices-for-diverse-IT-ops-needs
+  domain: searchitoperations.techtarget.com
+  image: ""
+- curated_id: 50bc9cb5ed19d9b9f1df3f87a67bdf79
+  item_date: "2016-12-27 00:00:00"
+  title: 'Stackdriver Trace + Zipkin: distributed tracing and performance analysis
+    for everyone'
+  url: https://cloudplatform.googleblog.com/2016/12/Stackdriver-Trace-Zipkin-distributed-tracing-and-performance-analysis-for-everyone.html
+  domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: 5b79e8d4f7cd6661bcf057a9023d4fa6
+  item_date: "2017-01-03 00:00:00"
+  title: New AL-500 LiDAR System from Acuity Technologies
+  url: http://www.pobonline.com/articles/100735-new-al-500-lidar-system-from-acuity-technologies
+  domain: www.pobonline.com
+  image: ""
+- curated_id: 62249419b5a97167f50eaaaad96f36b8
+  item_date: "2017-01-04 00:00:00"
+  title: 'CES 2017 preview: Announcing the 3rd generation FLIR ONE'
+  url: https://developer.flir.com/news-and-updates/ces-2017-preview-announcing-the-3rd-generation-flir-one/
+  domain: developer.flir.com
+  image: ""
+- curated_id: 059aac6de04fd6ed50a112fa699f7e3c
+  item_date: "2017-01-04 08:32:41"
+  title: The AL-500 Lidar is Small Enough for Fixed Installation, Comes with an API
+  url: http://www.spar3d.com/news/lidar/al-500-lidar-small-enough-fixed-installation-comes-api/
+  domain: www.spar3d.com
+  image: ""
+- curated_id: 524a2ca4a236c4e24f301ac4ffb165a5
+  item_date: "2017-01-05 00:00:00"
+  title: Prometheus and GitLab
+  url: https://about.gitlab.com/2017/01/05/prometheus-and-gitlab/
+  domain: about.gitlab.com
+  image: ""
+- curated_id: 8dbaa86e5524731666f3fdedea2a84b9
+  item_date: "2017-01-06 00:00:00"
+  title: 'Splunk and AWS: Monitoring  Metrics in a Serverless World'
+  url: http://blogs.splunk.com/2017/01/06/splunk-and-aws-monitoring-metrics-in-a-serverless-world/
+  domain: blogs.splunk.com
+  image: ""
+- curated_id: 3fbb863ed6f6bfe0e2db3952d50267ec
+  item_date: "2017-01-11 00:00:00"
+  title: Performance Predictions for 2017
+  url: http://blog.catchpoint.com/2017/01/11/performance-predictions-2017/
+  domain: blog.catchpoint.com
+  image: ""
+- curated_id: 83f63ec3986452c5822a8ce8c1587830
+  item_date: "2017-01-13 00:00:00"
+  title: Concerns About Performance and Monitoring
+  url: https://dzone.com/articles/concerns-about-performance-and-monitoring
+  domain: dzone.com
+  image: ""
+- curated_id: d926dc4d6a5c1d035f0a4b9c57748a7a
+  item_date: "2017-01-17 00:00:00"
+  title: Uppity Web Monitoring (Miscellaneous)
+  url: https://codecanyon.net/item/uppity-web-monitoring/19293286
+  domain: codecanyon.net
+  image: ""
+- curated_id: d5ae975ec96513ef813ee5fe118bbc32
+  item_date: "2017-01-30 00:00:00"
+  title: Well soon be requiring email validation to use API/Monitoring features. Validate
+    your email to avoid interruptions! https://t.co/ypbbRhuI6p
+  url: https://gtmetrix.com/#826175256196943872
+  domain: gtmetrix.com
+  image: ""
+- curated_id: ef2c47b69b6751c220d252007fec0f25
+  item_date: "2017-02-01 00:00:00"
+  title: Retrieving and Verifying API Science Parameters
+  url: https://www.apiscience.com/blog/retrieve-verify-api-parameters/
+  domain: www.apiscience.com
+  image: ""
+- curated_id: 76297a19af8e03fb0b40cd9915f13a54
+  item_date: "2017-02-08 00:00:00"
+  title: Website Monitoring and Regional Outages
+  url: https://www.apicasystem.com/blog/website-monitoring-regional-outages/
+  domain: www.apicasystem.com
+  image: ""
+- curated_id: c6af2d973b1df09eb91b6d2bfdb25637
+  item_date: "2017-02-15 00:00:00"
+  title: NOTIFY THOUSANDS WITH OPSGENIE!
+  url: https://blog.opsgenie.com/2017/02/notify-thousands-with-opsgenie
+  domain: blog.opsgenie.com
+  image: ""
+- curated_id: 888b32f733cf867560aa389c7ad42e9b
+  item_date: "2017-02-15 00:00:00"
+  title: APImetrics gets a fresh new look for 2017
+  url: http://apimetrics.io/2017/02/15/apimetrics-gets-fresh-new-look-2017/
+  domain: apimetrics.io
+  image: ""
+- curated_id: b68ace8e61ea5869e78d49cfa37df480
+  item_date: "2017-02-21 00:00:00"
+  title: "Passive DNS Monitoring \u2013 Why It\u2019s Important for Your IR Team"
+  url: https://www.redcanary.com/blog/passive-dns-monitoring-your-ir-team-needs-it/
+  domain: www.redcanary.com
+  image: ""
+- curated_id: 83159c09a7b3634ed1bab1468c6f7b59
+  item_date: "2017-02-28 00:00:00"
+  title: Why You Need Next-Gen Performance Monitoring
+  url: https://dzone.com/articles/why-you-need-next-gen-performance-monitoring
+  domain: dzone.com
+  image: ""
+- curated_id: f0de4ca8cdd6b8fe1ea394353d5286b9
+  item_date: "2017-03-01 00:00:00"
+  title: New Relic Synthetics Monitoring Using Selenium
+  url: https://dzone.com/articles/new-relic-synthetics-monitoring-using-selenium
+  domain: dzone.com
+  image: ""
+- curated_id: 58475fa11edc392c335b39dc9b78fda8
+  item_date: "2017-03-02 00:00:00"
+  title: Monitoring the Hybrid Cloud Ecosystem
+  url: https://dzone.com/articles/monitoring-hybrid-cloud-ecosystem
+  domain: dzone.com
+  image: ""
+- curated_id: f0363137b006f76abf93e151269ff28f
+  item_date: "2017-03-04 00:00:00"
+  title: How to Monitor Azure App Services with Retrace
+  url: https://stackify.com/monitor-azure-app-services-retrace/
+  domain: stackify.com
+  image: ""
+- curated_id: 31940092093b8e47936f9fc18729e98b
+  item_date: "2017-03-09 00:00:00"
+  title: Developing and Implementing a Monitoring Strategy
+  url: https://www.apicasystem.com/blog/developing-implementing-monitoring-strategy/
+  domain: www.apicasystem.com
+  image: ""
+- curated_id: 1ce7c0ab7f69775bc626564cf485da7c
+  item_date: "2017-03-09 15:06:06"
+  title: "Tweet: Retry on Failure + Threshold Alerts: Optimize Your Team\u2019s API
+    Monitoring Notifications"
+  url: https://twitter.com/Runscope/statuses/839975613205250048
+  domain: twitter.com
+  image: ""
+- curated_id: 436f234d60f32c1c21fe879e7fbdae6a
+  item_date: "2017-03-10 00:00:00"
+  title: Monitor your AWS ECS platform with Convox and Datadog
+  url: https://www.datadoghq.com/blog/monitor-aws-ecs-convox-integration/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: c2e24293db71c36705a1091068142948
+  item_date: "2017-03-10 00:00:00"
+  title: Monitoring Google Compute Engine metrics
+  url: https://www.datadoghq.com/blog/monitoring-google-compute-engine-performance/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: df016f985a4f77b80c674eabee171264
+  item_date: "2017-03-10 00:00:00"
+  title: 'CloudCheckr + Datadog: Better rightsizing of cloud resources '
+  url: https://www.datadoghq.com/blog/rightsizing-cloudcheckr/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: 7e3abb4142c1505bc78cae0a1a88b98a
+  item_date: "2017-03-10 00:00:00"
+  title: Introducing new scaled algorithms for improved outlier detection
+  url: https://www.datadoghq.com/blog/scaling-outlier-algorithms/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: 800df2ac88b125a8ef61968c75096d15
+  item_date: "2017-03-10 00:00:00"
+  title: Monitor Amazon Kinesis Firehose performance
+  url: https://www.datadoghq.com/blog/kinesis-firehose/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: 05e0309b0c4fa11964e29d64e989e85b
+  item_date: "2017-03-10 00:00:00"
+  title: Monitor your Azure Event Hubs with Datadog
+  url: https://www.datadoghq.com/blog/monitor-your-azure-event-hubs-with-datadog/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: 2737ce1459070121788777310cd3b0f7
+  item_date: "2017-03-10 00:00:00"
+  title: Monitor Amazon Elasticsearch Service with Datadog
+  url: https://www.datadoghq.com/blog/monitor-amazon-elasticsearch-service/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: 697a0dc57e0ebecc477009c15b1547a9
+  item_date: "2017-03-10 00:00:00"
+  title: Introducing real-time monitoring for Pusher
+  url: https://www.datadoghq.com/blog/pusher-monitoring/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: c49369cdedf4e23a5026a046cfc9f60f
+  item_date: "2017-03-10 00:00:00"
+  title: How to monitor Google Compute Engine with Datadog
+  url: https://www.datadoghq.com/blog/monitor-google-compute-engine-with-datadog/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: 399a749eef667ec6797365ff60a2b8c7
+  item_date: "2017-03-10 00:00:00"
+  title: Monitor Jenkins jobs with Datadog
+  url: https://www.datadoghq.com/blog/monitor-jenkins-datadog/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: 143e2aabc2d932dc8cd1784c0cb5a5fd
+  item_date: "2017-03-10 00:00:00"
+  title: 'Datadog + SOC 2: Reaffirming our commitment to security'
+  url: https://www.datadoghq.com/blog/datadog-completes-soc2-audit/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: b1490d5325a647c67ed3c01eb5c9ceed
+  item_date: "2017-03-10 00:00:00"
+  title: How to collect Google Compute Engine metrics
+  url: https://www.datadoghq.com/blog/how-to-collect-gce-metrics/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: 87f0640413518472be898e48019fcdcc
+  item_date: "2017-03-14 00:00:00"
+  title: Introducing composite monitors
+  url: https://www.datadoghq.com/blog/composite-monitors/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: 2ee6fd953b5d390a2dfd0806481624b6
+  item_date: "2017-03-15 00:00:00"
+  title: Using New Relic to Monitor Applications on OpenShift
+  url: https://blog.openshift.com/using-new-relic-to-monitor-applications-on-openshift/
+  domain: blog.openshift.com
+  image: ""
+- curated_id: 37aabf49720f6933f1729e2169b602e8
+  item_date: "2017-03-18 00:00:00"
+  title: 5 Steps to MeteorJS Monitoring
+  url: https://dzone.com/articles/5-steps-to-meteorjs-monitoring-1
+  domain: dzone.com
+  image: ""
+- curated_id: 6830f17956dfd29a5f4067f2792bd1ef
+  item_date: "2017-03-21 00:00:00"
+  title: EC2 Run Command is Now a CloudWatch Events Target
+  url: https://aws.amazon.com/blogs/aws/ec2-run-command-is-now-a-cloudwatch-events-target/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: efb6207d2187388182c5edac2d9b8306
+  item_date: "2017-03-23 00:00:00"
+  title: Evaluating API Monitor Checks Using the API Science API
+  url: https://www.apiscience.com/blog/evaluating-api-monitor-checks-using-the-api-science-api/
+  domain: www.apiscience.com
+  image: ""
+- curated_id: 3c1712cc5a702e9b26fea644d02a2d17
+  item_date: "2017-03-24 00:00:00"
+  title: Using Google Sheets and Runscope to Run API Tests with Multiple Variable
+    Sets
+  url: https://blog.runscope.com/posts/using-google-sheets-and-runscope-to-run-api-tests-with-multiple-variable-sets
+  domain: blog.runscope.com
+  image: ""
+- curated_id: 1b861dcd4b7ace2eaf1057cfe4582213
+  item_date: "2017-04-04 00:00:00"
+  title: 'Introducing Monitoring: Insight into Your Infrastructure'
+  url: https://www.digitalocean.com/company/blog/introducing-monitoring/
+  domain: www.digitalocean.com
+  image: ""
+- curated_id: 8199d2a0a599e8a4567eb1f7bb508033
+  item_date: "2017-04-04 21:20:28"
+  title: Detecting Failed API Monitor Checks Using the API Science API
+  url: https://www.apiscience.com/blog/detecting-failed-api-monitor-checks/
+  domain: www.apiscience.com
+  image: ""
+- curated_id: 57b2c7650da72e6cd194ebc210f9baf5
+  item_date: "2017-04-05 00:00:00"
+  title: 'The Dreaded 418 Error: Monitoring HTCPCP Microservices in IoT Deployments'
+  url: https://dzone.com/articles/the-dreaded-418-error-monitoring-htcpcp-microservices-in-iot-deployments
+  domain: dzone.com
+  image: ""
+- curated_id: 82750b712e735dc14e1c006f0c290c60
+  item_date: "2017-04-05 00:00:00"
+  title: Auto-Publishing and Monitoring APIs With Spring Boot
+  url: https://dzone.com/articles/auto-publishing-amp-monitoring-apis-with-spring-bo
+  domain: dzone.com
+  image: ""
+- curated_id: d222e6a3a38f5be36535c9639a0580e6
+  item_date: "2017-04-06 00:00:00"
+  title: "CRFS releases new MATLAB\xAE Toolbox"
+  url: https://us.crfs.com/en/news/crfs-releases-new-matlab-toolbox/
+  domain: us.crfs.com
+  image: ""
+- curated_id: 0abc13f5e2615d80a148884fb150d941
+  item_date: "2017-04-07 00:00:00"
+  title: 'Census Data #API is Down'
+  url: http://apimetrics.io/2017/04/07/census-data-api-is-down/
+  domain: apimetrics.io
+  image: ""
+- curated_id: 648dbedb1ace68fe29784cc5e1d0e725
+  item_date: "2017-04-10 00:00:00"
+  title: "Five Things We\u2019ve Learned About Monitoring Containers And Their Orchestrators"
+  url: http://highscalability.com/blog/2017/4/10/five-things-weve-learned-about-monitoring-containers-and-the.html
+  domain: highscalability.com
+  image: ""
+- curated_id: 6df61c5a3f14d040fb7d4634ebc2e2f6
+  item_date: "2017-04-10 06:15:19"
+  title: 'Tweet: A ten-hour API outage is a pretty serious one. A bad day for the
+    US Census Bureau. https://t.co/eAoJXADWgG'
+  url: https://twitter.com/APImetricStats/statuses/851423347447672832
+  domain: twitter.com
+  image: ""
+- curated_id: 38c722844a10bec5cc8ca3090b05103c
+  item_date: "2017-04-10 12:01:10"
+  title: 'Tweet: The US #Census #APIs didnrsquo;t have a good March, coming in as
+    24th and 25th out of 26 US government APOIs we monitor. https://t.co/eAoJXADWgG'
+  url: https://twitter.com/APImetricStats/statuses/851510384339152897
+  domain: twitter.com
+  image: ""
+- curated_id: 38a5afefa6095999c41cada3cf90630d
+  item_date: "2017-04-10 15:05:12"
+  title: 'Tweet: #APImetrics saves you time on reporting issues that donrsquo;t appear
+    in internal logging systems. Find out more today.  https://t.co/72MZJXE1fa'
+  url: https://twitter.com/APImetricStats/statuses/851556698766573568
+  domain: twitter.com
+  image: ""
+- curated_id: f053419ab4d449c8ca393e6adf6cb745
+  item_date: "2017-04-11 09:45:35"
+  title: Push Postman Monitor results to your Keen Stream analytics
+  url: https://keen.io/docs/integrations/postman/
+  domain: keen.io
+  image: ""
+- curated_id: 6092f522e42207d902ca21cd2c7c6d4d
+  item_date: "2017-04-19 00:00:00"
+  title: Distributed tracing for Go
+  url: https://cloudplatform.googleblog.com/2017/04/distributed-tracing-for-Go.html
+  domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: 224f644cb483c8da80dc60bb6f26942e
+  item_date: "2017-04-19 00:00:00"
+  title: 'APImetrics Three-Year Study: More Than Half Of Existing APIs Have Problems
+    That Could Affect Customers [INFOGRAPHIC]'
+  url: http://apimetrics.io/2017/04/19/api-problems-infographic/
+  domain: apimetrics.io
+  image: ""
+- curated_id: 42bd15aaac4fd70dbb1d9fa34017e1f6
+  item_date: "2017-04-20 00:00:00"
+  title: Monitor Akka-based applications with Lightbend + Datadog
+  url: https://www.datadoghq.com/blog/monitor-lightbend/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: 7f488622f0d495ea69e8a22c30ef07a8
+  item_date: "2017-04-21 00:00:00"
+  title: Everything You Need to Know About the APImetrics CASC Score
+  url: http://apimetrics.io/2017/04/21/casc-score/
+  domain: apimetrics.io
+  image: ""
+- curated_id: dfa9fa717e162c56d228acf568422fb1
+  item_date: "2017-04-25 00:00:00"
+  title: "Amazon Inspector Update \u2013 Assessment Reporting, Proxy Support, and
+    More"
+  url: https://aws.amazon.com/blogs/aws/amazon-inspector-update-assessment-reporting-proxy-support-and-more/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: a249277383293201fc97bbdf9180d9e8
+  item_date: "2017-04-25 11:38:07"
+  title: 'Tweet: Yet another reason to make sure your API is up and running all the
+    time. https://t.co/HEyDzW1FnM'
+  url: https://twitter.com/APImetricStats/statuses/856940400807948289
+  domain: twitter.com
+  image: ""
+- curated_id: 463fc8fa742910ebed4616f50899d275
+  item_date: "2017-04-25 15:55:01"
+  title: APImetrics - API Metrics 2016 By The Numbers [INFOGRAPHIC] - APImetrics
+  url: http://apimetrics.io/2017/04/19/apimetrics-api-metrics-2016-numbers-infographic/
+  domain: apimetrics.io
+  image: ""
+- curated_id: 8242e26d41d8cdc63a3a4fdb186a0691
+  item_date: "2017-04-26 00:00:00"
+  title: 'Apache JMeter Functions: An Introduction'
+  url: https://dzone.com/articles/apache-jmeter-functions-an-introduction
+  domain: dzone.com
+  image: ""
+- curated_id: b08bf740ba6356056d2587a08f7bf350
+  item_date: "2017-04-27 00:00:00"
+  title: Better VM Rightsizing Recommendations with the Stackdriver Agent
+  url: https://cloudplatform.googleblog.com/2017/04/better-VM-Rightsizing-Recommendations-with-the-Stackdriver-Agent-.html
+  domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: e43eaf563e622d138c34db7ce366918d
+  item_date: "2017-04-27 00:00:00"
+  title: 5 Reasons Why Digital Experience Monitoring Is Mission Critical
+  url: http://royal.pingdom.com/2017/04/27/5-reasons-digital-experience-monitoring-mission-critical/
+  domain: royal.pingdom.com
+  image: ""
+- curated_id: f927b2802a42ccaf3a453b78d933d23e
+  item_date: "2017-04-27 10:30:15"
+  title: Continuous Integration with Codeship and Runscope API Tests
+  url: https://blog.runscope.com/posts/continuous-integration-with-runscope-api-tests-and-codeship-tutorial
+  domain: blog.runscope.com
+  image: ""
+- curated_id: 006be67920c91ea3ac2e8ad61339c036
+  item_date: "2017-04-27 13:58:01"
+  title: Are You Monitoring Your API Security?
+  url: http://apimetrics.io/2017/04/27/monitoring-api-security/
+  domain: apimetrics.io
+  image: ""
+- curated_id: ab73f8c8ccf16c607c216f112fc14668
+  item_date: "2017-04-27 14:06:09"
+  title: 'Tweet: Meet the Postman, @keen_io, and Elastic Beam teams! We#039;ll discuss
+    API monitoring and security. Reserve your spot: https://t.co/F1WvQKnDax'
+  url: https://twitter.com/postmanclient/statuses/857702429760081920
+  domain: twitter.com
+  image: ""
+- curated_id: d96a9f373776bbc55cdc9397dc38e54b
+  item_date: "2017-05-01 13:02:18"
+  title: |-
+    Tweet: Slow web response times == visitor abandons your site.
+
+    Slow API response times == visitor abandons your app. https://t.co/Zstlc98ESW
+  url: https://twitter.com/Runscope/statuses/859135914714550272
+  domain: twitter.com
+  image: ""
+- curated_id: 224fb5151132b441fd5a7cd8c0567503
+  item_date: "2017-05-01 14:12:14"
+  title: Anatomy of a Dying API
+  url: http://apimetrics.io/2017/05/01/anatomy-dying-api/
+  domain: apimetrics.io
+  image: ""
+- curated_id: sz+tB8pq15mq8YsF73m9QWRv2thg0IMoBqQqtUUdBd4=_15c0d1cfb00:138ab7c:6845a56
+  item_date: "2017-05-01 21:34:51"
+  title: Using Tags to Group API Monitors
+  url: https://www.apiscience.com/blog/?p=809
+  domain: www.apiscience.com
+  image: ""
+- curated_id: cbf133e9c8591650576c01739ecc5104
+  item_date: "2017-05-02 00:00:00"
+  title: Building a Steam Powered IoT API with Thingsboard
+  url: https://blog.runscope.com/posts/building-steam-powered-iot-api-thingsboard-raspberry-pi
+  domain: blog.runscope.com
+  image: ""
+- curated_id: 42d9ef150ee9d0ad6173b551ce61ef37
+  item_date: "2017-05-03 00:00:00"
+  title: Monitor Azure Storage with Datadog
+  url: https://www.datadoghq.com/blog/monitor-azure-storage-datadog/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: c6cf9ffaf5f6a9b34f322507944518d4
+  item_date: "2017-05-09 12:12:45"
+  title: 'Tweet: Types of API Calls Supported by APImetrics https://t.co/RL5cXGDjxz'
+  url: https://twitter.com/APImetricStats/statuses/862022546945957888
+  domain: twitter.com
+  image: ""
+- curated_id: c72e16e5ff45fc0deab48ebfc5efad8d
+  item_date: "2017-05-10 00:00:00"
+  title: New Problems in the Age of API Monitoring
+  url: http://api.apacciooutlook.com/cxoinsights/new-problems-in-the-age-of-api-monitoring-nwid-1997.html
+  domain: api.apacciooutlook.com
+  image: ""
+- curated_id: 4903f4ab9de677faa65670797008b5b4
+  item_date: "2017-05-10 10:04:11"
+  title: 'Tweet: Run #API calls from anywhere ndash; because location affects performance!
+    https://t.co/L5vAioetG7'
+  url: https://twitter.com/APImetricStats/statuses/862352578880962560
+  domain: twitter.com
+  image: ""
+- curated_id: e4bbda00e51da97260faecaaa1c56032
+  item_date: "2017-05-11 00:00:00"
+  title: Performance Monitoring with an Incident Response Orchestration System
+  url: http://blog.catchpoint.com/2017/05/11/performance-monitoring-incident-response-orchestration-system/
+  domain: blog.catchpoint.com
+  image: ""
+- curated_id: ctQxj818xbBhHEFyLu7YdnnqpJkfUeYDSZhAjGqqRko=_15c11149473:47e441:cfb784e9
+  item_date: "2017-05-16 04:39:34"
+  title: 4 Big API Questions that Every API Stakeholder Needs to Answer
+  url: http://apimetrics.io/?p=3188
+  domain: apimetrics.io
+  image: ""
+- curated_id: sz+tB8pq15mq8YsF73m9QWRv2thg0IMoBqQqtUUdBd4=_15c149cf661:94d33a:2ab7028
+  item_date: "2017-05-16 21:08:52"
+  title: Why You Should Never Shut Down Your API Servers (unless you absolutely have
+    to)
+  url: https://www.apiscience.com/blog/?p=824
+  domain: www.apiscience.com
+  image: ""
+- curated_id: 0FtxsXJpRJbNVTIbvXhK1ROY2yWLsHvAG9DgvYaXFac=_15c165a9052:bdf9f7:2ab7028
+  item_date: "2017-05-17 01:52:03"
+  title: Pingdom Announces New Server Monitoring Capability
+  url: http://royal.pingdom.com/?p=25500
+  domain: royal.pingdom.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15c22cec091:782886:1980c846
+  item_date: "2017-05-19 15:20:49"
+  title: "Monitoring API Performance with the New API Metrics Endpoint \u2014 Runscope
+    Blog"
+  url: https://blog.runscope.com/posts/monitoring-api-performance-new-api-metrics-endpoint
+  domain: blog.runscope.com
+  image: ""
+- curated_id: p9l1QRJSWsBdfQhLvEqI6rdgjdJrOWvtCS0GvuF9J1Q=_15c3944b875:25b621d:1980c846
+  item_date: "2017-05-24 00:01:10"
+  title: 'Digital Intelligence Platform Spring Launch: Health Map, AWS Integrations,
+    and Infrastructure SDK'
+  url: http://blog.newrelic.com/?p=37074
+  domain: blog.newrelic.com
+  image: ""
+- curated_id: p9l1QRJSWsBdfQhLvEqI6rdgjdJrOWvtCS0GvuF9J1Q=_15c3944b875:25b621e:1980c846
+  item_date: "2017-05-24 00:01:17"
+  title: 'Introducing Health Map: Innovative Visualization Integrates Our Application
+    and Infrastructure Monitoring Data'
+  url: http://blog.newrelic.com/?p=37051
+  domain: blog.newrelic.com
+  image: ""
+- curated_id: p9l1QRJSWsBdfQhLvEqI6rdgjdJrOWvtCS0GvuF9J1Q=_15c3944b875:25b621f:1980c846
+  item_date: "2017-05-24 00:01:18"
+  title: New Relic Infrastructure Adds 5 New Integrations With AWS
+  url: http://blog.newrelic.com/?p=37069
+  domain: blog.newrelic.com
+  image: ""
+- curated_id: p9l1QRJSWsBdfQhLvEqI6rdgjdJrOWvtCS0GvuF9J1Q=_15c411934f5:2d32c49:bb404dd5
+  item_date: "2017-05-25 12:32:59"
+  title: What It Really Takes to Monitor Cloud Apps and Infrastructure
+  url: http://blog.newrelic.com/?p=37142
+  domain: blog.newrelic.com
+  image: ""
+- curated_id: sz+tB8pq15mq8YsF73m9QWRv2thg0IMoBqQqtUUdBd4=_15c4372a3ce:35d31dc:cfb784e9
+  item_date: "2017-05-25 23:26:06"
+  title: Modifying Groups of API Monitors Using Tags
+  url: https://www.apiscience.com/blog/?p=836
+  domain: www.apiscience.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15c4867508d:3ce88cb:cfb784e9
+  item_date: "2017-05-26 22:33:57"
+  title: 'twilio/stashboard: An open'
+  url: https://github.com/twilio/stashboard
+  domain: github.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15c4d536a0b:3b6c34c:bb404dd5
+  item_date: "2017-05-27 21:31:05"
+  title: 'ks888/LambStatus: Serverless Status Page System'
+  url: https://github.com/ks888/LambStatus
+  domain: github.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15c5b9ce2c7:558bf7d:cfb784e9
+  item_date: "2017-05-30 15:35:15"
+  title: The 4 Golden Signals of API Health
+  url: http://info.netsil.com/golden-signals-monitoring
+  domain: info.netsil.com
+  image: ""
+- curated_id: sz+tB8pq15mq8YsF73m9QWRv2thg0IMoBqQqtUUdBd4=_15c5cfee260:4e1138f:bb404dd5
+  item_date: "2017-05-30 22:27:16"
+  title: "Integrating API Monitoring into Your Product\u2019s Operational Workflow"
+  url: https://www.apiscience.com/blog/?p=844
+  domain: www.apiscience.com
+  image: ""
+- curated_id: JautIPPkjriavsgWQ1Y6GTCV9xw4aqT1iWn47Afa0ms=_15c644bb85d:63344e1:cfb784e9
+  item_date: "2017-06-01 08:29:05"
+  title: Apache Spark Cluster Monitoring with Databricks and Datadog
+  url: https://databricks.com/?p=11067
+  domain: databricks.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15c69cac387:6c0b7a2:1980c846
+  item_date: "2017-06-02 10:05:02"
+  title: 'Test and monitor your API Gateway endpoints with Assertible : Assertible'
+  url: https://assertible.com/blog/test-and-monitor-your-api-gateway-endpoints-with-assertible
+  domain: assertible.com
+  image: ""
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_15c79ef5beb:7291287:bb404dd5
+  item_date: "2017-06-05 13:25:48"
+  title: 'New in Datadog: Search, filter, and find your monitors faster'
+  url: https://www.datadoghq.com/blog/manage-monitors/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15c7e6909bf:177:31944e30
+  item_date: "2017-06-06 10:10:30"
+  title: 'serverless/scope: Scope'
+  url: https://github.com/serverless/scope
+  domain: github.com
+  image: ""
+- curated_id: ctQxj818xbBhHEFyLu7YdnnqpJkfUeYDSZhAjGqqRko=_15c837526d2:5b1df5:e55a4d93
+  item_date: "2017-06-07 09:47:13"
+  title: Feature Updates
+  url: http://apimetrics.io/?p=3129
+  domain: apimetrics.io
+  image: ""
+- curated_id: P6ZHWlrPQ5ILOZ54yDX4aZ046+AnYBvjvT3DdNFTXhQ=_15c9d09b2d0:241f96f:d0168500
+  item_date: "2017-06-12 09:00:27"
+  title: How to Properly Monitor Elasticsearch
+  url: https://thenewstack.io/?p=2486942
+  domain: thenewstack.io
+  image: ""
+- curated_id: sz+tB8pq15mq8YsF73m9QWRv2thg0IMoBqQqtUUdBd4=_15ca53e2535:2ff65ce:d0168500
+  item_date: "2017-06-13 23:11:06"
+  title: What to Do when a Massive Cyber Attack Brings Down APIs
+  url: https://www.apiscience.com/blog/?p=850
+  domain: www.apiscience.com
+  image: ""
+- curated_id: ctQxj818xbBhHEFyLu7YdnnqpJkfUeYDSZhAjGqqRko=_15cab01e962:4cb969:4825a421
+  item_date: "2017-06-15 02:04:23"
+  title: What Are Your APIs Doing Right Now, In The Real World? API Integration And
+    Management
+  url: http://apimetrics.io/?p=3454
+  domain: apimetrics.io
+  image: ""
+- curated_id: PnsCeCZHX+4/ClAs+4RfYZZIy/r5B71hDqXev8oJLbQ=_15cb117d267:478e02:3aab93c7
+  item_date: "2017-06-15 08:06:29"
+  title: Six reasons to use RUM and Synthetic Monitoring together
+  url: https://blog.uptrends.com/?p=893
+  domain: blog.uptrends.com
+  image: ""
+- curated_id: c24X2gDoRR+DpWQZwQhYKpS0pfQ6Fe5ZPXToM855EG4=_15cae075414:8f0ec5:bb404dd5
+  item_date: "2017-06-15 16:12:14"
+  title: 'Status page examples: 10 status pages showcasing excellent customization
+    and design'
+  url: http://blog.statuspage.io/statuspage-examples
+  domain: blog.statuspage.io
+  image: ""
+- curated_id: c24X2gDoRR+DpWQZwQhYKpS0pfQ6Fe5ZPXToM855EG4=_15cae075414:8f0ec5:bb404dd5
+  item_date: "2017-06-15 16:12:14"
+  title: 'Status page examples: 10 status pages showcasing excellent customization
+    and design'
+  url: https://blog.statuspage.io/statuspage-examples
+  domain: blog.statuspage.io
+  image: ""
+- curated_id: ctQxj818xbBhHEFyLu7YdnnqpJkfUeYDSZhAjGqqRko=_15cb18c5d25:535d42:3aab93c7
+  item_date: "2017-06-16 08:35:19"
+  title: "Want To Monitor Internal APIs? It\u2019s As Easy as Raspberry Pi"
+  url: http://apimetrics.io/?p=3460
+  domain: apimetrics.io
+  image: ""
+- curated_id: rq6OKKgBiWVp88vsVvs1lxEDBZExs+csk5yWEsrvsaE=_15cc6a464e3:590693:5b78a817
+  item_date: "2017-06-20 09:35:02"
+  title: Stacked Graphs in Honeycomb!
+  url: https://honeycomb.io/blog/2017/06/stacked-graphs-in-honeycomb/
+  domain: honeycomb.io
+  image: ""
+- curated_id: sz+tB8pq15mq8YsF73m9QWRv2thg0IMoBqQqtUUdBd4=_15cc929f137:9392af:5b78a817
+  item_date: "2017-06-20 22:33:06"
+  title: "Monitoring Your API\u2019s Uptime Using the API Science API"
+  url: https://www.apiscience.com/blog/?p=864
+  domain: www.apiscience.com
+  image: ""
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_15ccb2013fb:cb6f48:517b1451
+  item_date: "2017-06-21 07:48:16"
+  title: Monitor IoT devices with Home Assistant and Datadog
+  url: https://www.datadoghq.com/blog/monitor-home-assistant/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: rq6OKKgBiWVp88vsVvs1lxEDBZExs+csk5yWEsrvsaE=_15cd214d392:1832162:517b1451
+  item_date: "2017-06-22 12:43:02"
+  title: 'Filtering in Context: Get Your Investigation On'
+  url: https://honeycomb.io/blog/2017/06/filtering-in-context-get-your-investigation-on/
+  domain: honeycomb.io
+  image: ""
+- curated_id: rq6OKKgBiWVp88vsVvs1lxEDBZExs+csk5yWEsrvsaE=_15ceb550939:341442d:fe3a8465
+  item_date: "2017-06-27 13:35:02"
+  title: Introducing Derived Columns
+  url: https://honeycomb.io/blog/2017/06/introducing-derived-columns/
+  domain: honeycomb.io
+  image: ""
+- curated_id: sz+tB8pq15mq8YsF73m9QWRv2thg0IMoBqQqtUUdBd4=_15cf26171bf:3dba8b0:fe3a8465
+  item_date: "2017-06-28 22:43:22"
+  title: "Monitoring Your API\u2019s Performance Using the API Science API"
+  url: https://www.apiscience.com/blog/?p=872
+  domain: www.apiscience.com
+  image: ""
+- curated_id: 9KT49fmuko1tn2wYTNISIGZ+1/Tns6mmobs0me9rgQ4=_15cf562e246:4bd7756:517b1451
+  item_date: "2017-06-29 09:45:04"
+  title: "Honeycomb\u2019s Charity Majors on operations engineering"
+  url: http://blog.intercom.com/?p=12967
+  domain: blog.intercom.com
+  image: ""
+- curated_id: ctQxj818xbBhHEFyLu7YdnnqpJkfUeYDSZhAjGqqRko=_15d08b091cf:64f9ce6:5b78a817
+  item_date: "2017-07-03 06:38:05"
+  title: 'API Monitoring: Getting The Measure Of It (But Not For The Sake Of Measurement)'
+  url: http://apimetrics.io/?p=3521
+  domain: apimetrics.io
+  image: ""
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_15d1376fee9:b3a4b9:bb404dd5
+  item_date: "2017-07-05 08:55:51"
+  title: Monitor AWS CodeDeploy with Datadog
+  url: https://www.datadoghq.com/blog/monitor-aws-codedeploy/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: 53UYdSIjaP6vd+2Bz1ivn3GdkSivxwzyAAG6WfdGv7o=_15d1a28527e:17bca45:1aa8479d
+  item_date: "2017-07-05 15:07:40"
+  title: StackState Monitoring for NGINX
+  url: https://www.nginx.com/?p=51626
+  domain: www.nginx.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15d18f33968:158988f:32bbcd87
+  item_date: "2017-07-06 10:00:00"
+  title: Introducing the Elastic Stack Monitoring Service
+  url: https://www.elastic.co/blog/introducing-the-elastic-stack-monitoring-service
+  domain: www.elastic.co
+  image: ""
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_15d196cfdfc:1687ff1:1aa8479d
+  item_date: "2017-07-06 12:42:39"
+  title: Monitoring the NYC subway system with Datadog
+  url: https://www.datadoghq.com/blog/monitor-mta-status/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: 7TEBlXSMajGkv/YSW3g1Klkey5yNzPysA89gpF/QOCo=_15d1c432afa:c2c821:80bfd069
+  item_date: "2017-07-06 20:14:26"
+  title: 'Docker Monitoring Explained: How to Monitor Containers and Microservices'
+  url: http://www.bmc.com/blogs/?p=10794
+  domain: www.bmc.com
+  image: ""
+- curated_id: p9l1QRJSWsBdfQhLvEqI6rdgjdJrOWvtCS0GvuF9J1Q=_15d1dea6bbe:2c4272:5b78a817
+  item_date: "2017-07-07 09:32:32"
+  title: New Relic Synthetics Adds 4 New Public Locations Around the World
+  url: http://blog.newrelic.com/?p=37788
+  domain: blog.newrelic.com
+  image: ""
+- curated_id: c24X2gDoRR+DpWQZwQhYKpS0pfQ6Fe5ZPXToM855EG4=_15d1ec4db23:42dbde:5b78a817
+  item_date: "2017-07-07 13:36:43"
+  title: Introducing double opt
+  url: https://blog.statuspage.io/introducing-double-opt-in
+  domain: blog.statuspage.io
+  image: ""
+- curated_id: c24X2gDoRR+DpWQZwQhYKpS0pfQ6Fe5ZPXToM855EG4=_15d1ec4db23:42dbde:5b78a817
+  item_date: "2017-07-07 13:36:43"
+  title: Introducing double opt
+  url: http://blog.statuspage.io/introducing-double-opt-in
+  domain: blog.statuspage.io
+  image: ""
+- curated_id: P6ZHWlrPQ5ILOZ54yDX4aZ046+AnYBvjvT3DdNFTXhQ=_15d2c9c4083:fcc7ca:32bbcd87
+  item_date: "2017-07-10 06:00:04"
+  title: "Open Source Leaders: Charity Majors\u2019 Mission to Monitor Microservices"
+  url: https://thenewstack.io/?p=2644295
+  domain: thenewstack.io
+  image: ""
+- curated_id: 4b5tCw5GvlXtruVS/z16h27znplNFRBntlQNEyTCvpo=_15d2d5bf60c:f4bea6:bb404dd5
+  item_date: "2017-07-10 09:00:31"
+  title: Using OpenTracing with Jaeger to collect Application Metrics in Kubernetes
+  url: https://developers.redhat.com/blog/?p=437078
+  domain: developers.redhat.com
+  image: ""
+- curated_id: p9l1QRJSWsBdfQhLvEqI6rdgjdJrOWvtCS0GvuF9J1Q=_15d2d9cd923:11b2c72:32bbcd87
+  item_date: "2017-07-10 10:46:50"
+  title: Company
+  url: http://blog.newrelic.com/?p=37816
+  domain: blog.newrelic.com
+  image: ""
+- curated_id: p9l1QRJSWsBdfQhLvEqI6rdgjdJrOWvtCS0GvuF9J1Q=_15d32c17360:1a4f6c1:4825a421
+  item_date: "2017-07-11 10:39:32"
+  title: 28 Things Your Dynamic Infrastructure Monitoring Solution Must Have
+  url: http://blog.newrelic.com/?p=37808
+  domain: blog.newrelic.com
+  image: ""
+- curated_id: q2q2EWvhwTr2G72+2bmzQ5IFpAlRi9P7s4CyaWlqDGs=_15d38280a44:51d3:ab1298eb
+  item_date: "2017-07-12 11:52:09"
+  title: Kubernetes Monitoring Needs Maps
+  url: https://medium.com/p/6ef673d840c7
+  domain: medium.com
+  image: ""
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_15d38f1d70e:1fde646:bb404dd5
+  item_date: "2017-07-12 15:35:59"
+  title: Introducing service
+  url: https://www.datadoghq.com/blog/apm-monitors/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15d3e6c69bb:c56d6:5577d05
+  item_date: "2017-07-13 09:55:25"
+  title: Let us bring to your attention Open Dashboard for Agricultural Monitoring
+  url: https://medium.com/p/750a206a805
+  domain: medium.com
+  image: ""
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_15d42495e2d:32a787f:32bbcd87
+  item_date: "2017-07-14 11:08:10"
+  title: 'New feature roundup: Integrations and data collection'
+  url: https://www.datadoghq.com/blog/feature-roundup-integrations/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_15d42495e2d:32a787e:32bbcd87
+  item_date: "2017-07-14 11:08:10"
+  title: 'New feature roundup: Alerting'
+  url: https://www.datadoghq.com/blog/feature-roundup-alerting/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: sz+tB8pq15mq8YsF73m9QWRv2thg0IMoBqQqtUUdBd4=_15d549f0bdf:4a1f420:32bbcd87
+  item_date: "2017-07-18 00:09:07"
+  title: Integrating Human Resources with API Monitoring
+  url: https://www.apiscience.com/blog/?p=879
+  domain: www.apiscience.com
+  image: ""
+- curated_id: b8MUi1LurnT/ncltqPDluAE6yfW7vSxJkRYu4OFrMPo=_15d5668aefe:443ec61:bb404dd5
+  item_date: "2017-07-18 06:00:36"
+  title: Bringing Deeper Monitoring to DevOps
+  url: https://www.pagerduty.com/?p=33446
+  domain: www.pagerduty.com
+  image: ""
+- curated_id: p9l1QRJSWsBdfQhLvEqI6rdgjdJrOWvtCS0GvuF9J1Q=_15d57570206:4eeae0f:4825a421
+  item_date: "2017-07-18 13:07:24"
+  title: Node Agent 2.0 API Comes to New Relic APM
+  url: http://blog.newrelic.com/?p=37919
+  domain: blog.newrelic.com
+  image: ""
+- curated_id: 0FtxsXJpRJbNVTIbvXhK1ROY2yWLsHvAG9DgvYaXFac=_15d5b1c8748:2d2c66:3bc2bd04
+  item_date: "2017-07-19 04:49:26"
+  title: Introducing Threshold Alerting for Uptime Checks!
+  url: http://royal.pingdom.com/?p=25533
+  domain: royal.pingdom.com
+  image: ""
+- curated_id: IHuXtj1Sw8u/8nv+MvQXpfVh/M6RDuyg5K7kxTzUbYM=_15d7de73605:2fceed9:9493fdce
+  item_date: "2017-07-24 23:00:34"
+  title: 'Emerging IoT Technologies: More to Monitor, More to Test Beyond the Device'
+  url: https://www.apicasystem.com/?p=20847
+  domain: www.apicasystem.com
+  image: ""
+- curated_id: 53UYdSIjaP6vd+2Bz1ivn3GdkSivxwzyAAG6WfdGv7o=_15d81cc9fa3:2c9328:7c429290
+  item_date: "2017-07-26 19:04:55"
+  title: Monitoring PHP Applications with NGINX Amplify
+  url: https://www.nginx.com/?p=52126
+  domain: www.nginx.com
+  image: ""
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_15d85bbe760:3c5fbd4:53d642ee
+  item_date: "2017-07-27 13:27:50"
+  title: Monitor AWS S3 with Datadog
+  url: https://www.datadoghq.com/blog/monitor-aws-s3/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: ctQxj818xbBhHEFyLu7YdnnqpJkfUeYDSZhAjGqqRko=_15d99464422:5510131:9493fdce
+  item_date: "2017-07-31 08:22:01"
+  title: Location Latency Mapping
+  url: http://apimetrics.io/?p=3572
+  domain: apimetrics.io
+  image: ""
+- curated_id: ctQxj818xbBhHEFyLu7YdnnqpJkfUeYDSZhAjGqqRko=_15d997d6e8f:15ed2ab:68e64fa8
+  item_date: "2017-07-31 09:27:33"
+  title: 'New Resource: Global HTTP bin network'
+  url: http://apimetrics.io/?p=3575
+  domain: apimetrics.io
+  image: ""
+- curated_id: p9l1QRJSWsBdfQhLvEqI6rdgjdJrOWvtCS0GvuF9J1Q=_15d9a3e169a:569eead:9493fdce
+  item_date: "2017-07-31 13:01:47"
+  title: 'NRQL + Dynamic Baselines: Introducing NRQL Baseline Alerts!'
+  url: http://blog.newrelic.com/?p=38207
+  domain: blog.newrelic.com
+  image: ""
+- curated_id: rq6OKKgBiWVp88vsVvs1lxEDBZExs+csk5yWEsrvsaE=_15d9ef04cd3:5369c9:218de7ce
+  item_date: "2017-07-31 17:00:00"
+  title: 'Event Foo: Building Better Events'
+  url: https://honeycomb.io/blog/2017/08/event-foo-building-better-events/
+  domain: honeycomb.io
+  image: ""
+- curated_id: q2q2EWvhwTr2G72+2bmzQ5IFpAlRi9P7s4CyaWlqDGs=_15d9ee32f6d:1beb00a:41b98b00
+  item_date: "2017-08-01 10:41:04"
+  title: 'Kubernetes Tutorial: Monitoring HTTP Service Health'
+  url: https://medium.com/p/1a7f532fcc5f
+  domain: medium.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15da07213a6:7b0d4d:bd5def64
+  item_date: "2017-08-01 17:50:48"
+  title: "ChAP: Chaos Automation Platform \u2013 Netflix TechBlog \u2013 Medium"
+  url: https://medium.com/netflix-techblog/chap-chaos-automation-platform-53e6d528371f
+  domain: medium.com
+  image: ""
+- curated_id: 7TEBlXSMajGkv/YSW3g1Klkey5yNzPysA89gpF/QOCo=_15dbb7b1451:1fbbf99:898d1914
+  item_date: "2017-08-06 18:40:50"
+  title: "Real User Monitoring vs Synthetic Monitoring: What\u2019s The Difference?"
+  url: http://www.bmc.com/blogs/?p=10981
+  domain: www.bmc.com
+  image: ""
+- curated_id: 0FtxsXJpRJbNVTIbvXhK1ROY2yWLsHvAG9DgvYaXFac=_15dc6f613f6:2e859f4:b8b2a437
+  item_date: "2017-08-09 05:21:29"
+  title: "Our Improved Page Speed Reports Now With Filmstrip And Timeline Metrics
+    \U0001F389"
+  url: http://royal.pingdom.com/?p=25603
+  domain: royal.pingdom.com
+  image: ""
+- curated_id: rxLnjiJudc56FbZKrZ0crrg2UUWdKV8knoKwhWKNfS4=_15dc7957c48:2fc2a36:ce556ce1
+  item_date: "2017-08-09 08:15:59"
+  title: Monitoring Your Asynchronous Python Web Applications Using Prometheus
+  url: https://blog.codeship.com/?p=5431
+  domain: blog.codeship.com
+  image: ""
+- curated_id: ZNdGxd8mL6LnFTOoULQQIrlbDWnbuOiTA42iRcwWCkA=_15dc7d64b84:48cdc:6c0c5382
+  item_date: "2017-08-09 09:00:28"
+  title: Metrics and Monitoring at Kloudless
+  url: http://blog.kloudless.com/?p=1577
+  domain: blog.kloudless.com
+  image: ""
+- curated_id: p9l1QRJSWsBdfQhLvEqI6rdgjdJrOWvtCS0GvuF9J1Q=_15dcdaa0eff:3931db3:ce556ce1
+  item_date: "2017-08-10 12:37:46"
+  title: How to Create a Server Overview Dashboard in New Relic Insights
+  url: http://blog.newrelic.com/?p=38352
+  domain: blog.newrelic.com
+  image: ""
+- curated_id: P6ZHWlrPQ5ILOZ54yDX4aZ046+AnYBvjvT3DdNFTXhQ=_15de6a552a0:50d061:9cc60c90
+  item_date: "2017-08-15 09:00:44"
+  title: 'Serverless: IOpipe Launches a Monitoring Tool for AWS Lambda'
+  url: https://thenewstack.io/?p=2874016
+  domain: thenewstack.io
+  image: ""
+- curated_id: b8MUi1LurnT/ncltqPDluAE6yfW7vSxJkRYu4OFrMPo=_15de75f127d:64afa9:218de7ce
+  item_date: "2017-08-15 12:00:57"
+  title: 'Now Available: Dynamic Notifications'
+  url: https://www.pagerduty.com/?p=34221
+  domain: www.pagerduty.com
+  image: ""
+- curated_id: rq6OKKgBiWVp88vsVvs1lxEDBZExs+csk5yWEsrvsaE=_15df125e1fa:da70c2:9cc60c90
+  item_date: "2017-08-16 17:00:00"
+  title: Announcing the Honeycomb AWS Elastic Load Balancer Integration
+  url: https://honeycomb.io/blog/2017/08/announcing-the-honeycomb-aws-elastic-load-balancer-integration/
+  domain: honeycomb.io
+  image: ""
+- curated_id: sz+tB8pq15mq8YsF73m9QWRv2thg0IMoBqQqtUUdBd4=_15deea4b476:99d6f4:9cc60c90
+  item_date: "2017-08-16 22:10:49"
+  title: 'Templates: Reusable Building Blocks for Complex API Monitoring'
+  url: https://www.apiscience.com/blog/?p=888
+  domain: www.apiscience.com
+  image: ""
+- curated_id: b8MUi1LurnT/ncltqPDluAE6yfW7vSxJkRYu4OFrMPo=_15df128cef7:dda4bd:bd5def64
+  item_date: "2017-08-17 06:00:24"
+  title: "Owning Incident Response: It\u2019s All About The Iterative Improvements"
+  url: https://www.pagerduty.com/?p=34349
+  domain: www.pagerduty.com
+  image: ""
+- curated_id: +iHpcF+MVmzqHdkw+fLKtN8U+Gs5PfZG9PfuVqz3Jqk=_15e05975edd:28a348b:218de7ce
+  item_date: "2017-08-21 09:00:11"
+  title: Monitoring DNS With Kentik Detect
+  url: http://www.kentik.com/?p=7530
+  domain: www.kentik.com
+  image: ""
+- curated_id: sz+tB8pq15mq8YsF73m9QWRv2thg0IMoBqQqtUUdBd4=_15e0dd5d033:34fc334:bd5def64
+  item_date: "2017-08-22 23:24:44"
+  title: 'Introduction: Javascript and Custom API Dashboards'
+  url: https://www.apiscience.com/blog/?p=903
+  domain: www.apiscience.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15e2a96defc:2ca07fe:feeb522d
+  item_date: "2017-08-28 11:56:36"
+  title: SCIM Provisioning with Lifecycle Management
+  url: https://developer.okta.com/standards/SCIM/index#test-your-scim-server
+  domain: developer.okta.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15e2a96defc:2ca07fd:feeb522d
+  item_date: "2017-08-28 11:56:36"
+  title: GitHub
+  url: https://github.com/HootsuiteApps/media-library-sample
+  domain: github.com
+  image: ""
+- curated_id: rq6OKKgBiWVp88vsVvs1lxEDBZExs+csk5yWEsrvsaE=_15e2ef72ad4:33166a3:feeb522d
+  item_date: "2017-08-28 17:00:00"
+  title: 'How Honeycomb Uses Honeycomb, Part 5: The Correlations Are Not What They
+    Seem'
+  url: https://honeycomb.io/blog/2017/08/how-honeycomb-uses-honeycomb-part-5-the-correlations-are-not-what-they-seem/
+  domain: honeycomb.io
+  image: ""
+- curated_id: IHuXtj1Sw8u/8nv+MvQXpfVh/M6RDuyg5K7kxTzUbYM=_15e808404af:4c7a96:64bea9a6
+  item_date: "2017-08-29 01:00:55"
+  title: 'Monitoring tools: A software rot watchdog'
+  url: https://www.apicasystems.com/?p=21553
+  domain: www.apicasystems.com
+  image: ""
+- curated_id: AaqLN7WNk2JdzURhcODOt/DCaKX68I7bKK7Kbjoxmdo=_15e2f34bd46:2b4f88:ed57ae85
+  item_date: "2017-08-29 11:12:53"
+  title: Sikka uses Postman Pro for continuous deployment and monitoring
+  url: http://blog.getpostman.com/?p=2974
+  domain: blog.getpostman.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_15e32649dfa:1857a:e457444
+  item_date: "2017-08-30 01:01:01"
+  title: Tips and tricks for logging and monitoring AWS Lambda functions
+  url: https://medium.com/p/885af6da29a5
+  domain: medium.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15e35c6f0bd:3d18605:feeb522d
+  item_date: "2017-08-30 17:25:03"
+  title: "Sikka uses Postman Pro for continuous deployment and monitoring \u2013 Postman
+    Blog"
+  url: http://blog.getpostman.com/2017/08/29/sikka-uses-postman-pro-for-continuous-deployment-and-monitoring/
+  domain: blog.getpostman.com
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_15e3906d06f:ad9e6:e457444
+  item_date: "2017-08-31 09:00:58"
+  title: "Google\u2019s Stackdriver monitoring service for GCP and AWS gets improved
+    logging features"
+  url: http://techcrunch.com/?p=1533794
+  domain: techcrunch.com
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_15e3f1ca232:396b1:81f6c248
+  item_date: "2017-09-01 13:23:12"
+  title: Monitor your AWS CodeBuilds via Lambda and Slack
+  url: https://medium.com/p/ae2c621f68f1
+  domain: medium.com
+  image: ""
+- curated_id: sz+tB8pq15mq8YsF73m9QWRv2thg0IMoBqQqtUUdBd4=_15e4b55a26a:29f5943:56b346f
+  item_date: "2017-09-03 22:12:39"
+  title: Using JavaScript and JQuery to Access API Monitor Data
+  url: https://www.apiscience.com/blog/?p=920
+  domain: www.apiscience.com
+  image: ""
+- curated_id: HtOfh97mKFupH+scuR/ebe1XsXJQ9qHY5fLu1UemHyY=_15e53028ee9:33ef578:ed57ae85
+  item_date: "2017-09-04 17:00:00"
+  title: Keeping an eye on our network
+  url: https://githubengineering.com/keeping-an-eye-on-our-network
+  domain: githubengineering.com
+  image: ""
+- curated_id: p9l1QRJSWsBdfQhLvEqI6rdgjdJrOWvtCS0GvuF9J1Q=_15e58573ebb:6bf1d3d:feeb522d
+  item_date: "2017-09-06 10:53:39"
+  title: New Relic Extends Role
+  url: http://blog.newrelic.com/?p=38837
+  domain: blog.newrelic.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15e5abd045c:a90467:9dbe7464
+  item_date: "2017-09-06 15:05:47"
+  title: "Twitter\u2019s Status Page Bug"
+  url: https://medium.com/p/353d98db7616
+  domain: medium.com
+  image: ""
+- curated_id: z81rhUic+YauVpgkAGxV9Vted6WQUOkti5KdfoIhiX8=_15e6426fda0:50789a4:56b346f
+  item_date: "2017-09-07 00:00:00"
+  title: 'Not All Threats Are Created Equal: Using Automation to Prioritize and Monitor
+    Digital Threats At Scale'
+  url: http://www.riskiq.com/blog/uncategorized/not-all-threats-are-created-equal-using-automation-to-prioritize-and-monitor-digital-threats-at-scale/
+  domain: www.riskiq.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15e5d5d5fc8:73bc649:feeb522d
+  item_date: "2017-09-07 10:15:19"
+  title: Monitor Your System with Metricbeat and Elastic Cloud
+  url: https://www.elastic.co/blog/ship-metrics-with-metricbeat-to-hosted-elasticsearch-elastic-cloud
+  domain: www.elastic.co
+  image: ""
+- curated_id: P6ZHWlrPQ5ILOZ54yDX4aZ046+AnYBvjvT3DdNFTXhQ=_15e5e99070c:4601876:ed57ae85
+  item_date: "2017-09-07 16:01:00"
+  title: PagerDuty Debuts Machine Learning Capabilities and Community Outreach
+  url: https://thenewstack.io/?p=3027488
+  domain: thenewstack.io
+  image: ""
+- curated_id: ctQxj818xbBhHEFyLu7YdnnqpJkfUeYDSZhAjGqqRko=_15e7212aa88:8ea64c9:feeb522d
+  item_date: "2017-09-11 10:41:11"
+  title: PSD2, APIs and Performance and Quality Monitoring
+  url: http://apimetrics.io/?p=3944
+  domain: apimetrics.io
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15e73449a61:9071cfc:feeb522d
+  item_date: "2017-09-11 16:08:37"
+  title: Build a Modern Operations Process with StatusPage
+  url: https://medium.com/p/d7244b8da18
+  domain: medium.com
+  image: ""
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_15e743408ed:b3c61:4cab23bc
+  item_date: "2017-09-11 20:48:40"
+  title: How to monitor Kubernetes + Docker with Datadog
+  url: https://www.datadoghq.com/blog/monitor-kubernetes-docker/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: p9l1QRJSWsBdfQhLvEqI6rdgjdJrOWvtCS0GvuF9J1Q=_15e7ae82c14:b3a42f:6ea86031
+  item_date: "2017-09-13 03:55:24"
+  title: New Relic Previews Distributed Tracing with Alignment to OpenTracing Standard
+  url: http://blog.newrelic.com/?p=38919
+  domain: blog.newrelic.com
+  image: ""
+- curated_id: P6ZHWlrPQ5ILOZ54yDX4aZ046+AnYBvjvT3DdNFTXhQ=_15e7b56bb12:bfa1d9:6ea86031
+  item_date: "2017-09-13 06:00:32"
+  title: StackPointCloud Augments Kubernetes with the Istio Service Mesh
+  url: https://thenewstack.io/?p=3060384
+  domain: thenewstack.io
+  image: ""
+- curated_id: sz+tB8pq15mq8YsF73m9QWRv2thg0IMoBqQqtUUdBd4=_15e9828fc78:24e20e0:64bea9a6
+  item_date: "2017-09-18 20:20:40"
+  title: Using JQuery and AJAX to Display API Data on a Web Page
+  url: https://www.apiscience.com/blog/?p=932
+  domain: www.apiscience.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15ea252c4ea:5562:803daed2
+  item_date: "2017-09-20 12:33:57"
+  title: Monitor Websites with Cheerio and DataFire
+  url: https://medium.com/p/2c5d3943133b
+  domain: medium.com
+  image: ""
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_15ea1a76068:33fd34c:64bea9a6
+  item_date: "2017-09-20 16:37:34"
+  title: How to monitor Lambda functions
+  url: https://www.datadoghq.com/blog/how-to-monitor-lambda-functions/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_15ea38ef236:8d40:c84bd0de
+  item_date: "2017-09-20 23:54:15"
+  title: "Build a \u201CServerless\u201D Ping Service + Status Page in 5 Steps with
+    StdLib Scheduled Tasks"
+  url: https://medium.com/p/6bdd164e67dc
+  domain: medium.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15eb6c47a74:f6541f:55eae650
+  item_date: "2017-09-24 12:34:25"
+  title: ActivityWatch and osquery
+  url: https://medium.com/p/a7b62817f895
+  domain: medium.com
+  image: ""
+- curated_id: ctQxj818xbBhHEFyLu7YdnnqpJkfUeYDSZhAjGqqRko=_15ebad1d0fd:1fd0674:e05f56c8
+  item_date: "2017-09-25 13:29:45"
+  title: "Trust But Verify\u2026"
+  url: http://apimetrics.io/?p=3975
+  domain: apimetrics.io
+  image: ""
+- curated_id: rq6OKKgBiWVp88vsVvs1lxEDBZExs+csk5yWEsrvsaE=_15ebf29b886:2733051:c84bd0de
+  item_date: "2017-09-25 17:00:00"
+  title: Istio, Envoy and Honeycomb
+  url: https://honeycomb.io/blog/2017/09/istio-envoy-and-honeycomb/
+  domain: honeycomb.io
+  image: ""
+- curated_id: ctQxj818xbBhHEFyLu7YdnnqpJkfUeYDSZhAjGqqRko=_15ec4a48abc:2f200d8:e05f56c8
+  item_date: "2017-09-27 11:16:11"
+  title: Why Measure Your API?
+  url: http://apimetrics.io/?p=4003
+  domain: apimetrics.io
+  image: ""
+- curated_id: ctQxj818xbBhHEFyLu7YdnnqpJkfUeYDSZhAjGqqRko=_15ec9b742c8:3742bc3:e05f56c8
+  item_date: "2017-09-28 11:04:27"
+  title: "Mini Case Study \u2013 When did it break?"
+  url: http://apimetrics.io/?p=4010
+  domain: apimetrics.io
+  image: ""
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_15eca023173:27946dc:feeb522d
+  item_date: "2017-09-28 12:41:34"
+  title: Introducing Live Container monitoring
+  url: https://www.datadoghq.com/blog/introducing-live-container-monitoring/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15ecb49973d:6d19f:cbb353b3
+  item_date: "2017-09-28 14:40:58"
+  title: 'Building mOps: The power of using Runscope to create automated system health
+    checks'
+  url: https://medium.com/p/d9746e5579a6
+  domain: medium.com
+  image: ""
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_15edeac8979:54d0593:c84bd0de
+  item_date: "2017-10-02 13:00:02"
+  title: 'Alerting 101: Status checks'
+  url: https://www.datadoghq.com/blog/alerting-101-status-checks/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: rq6OKKgBiWVp88vsVvs1lxEDBZExs+csk5yWEsrvsaE=_15ee369520c:5c04170:c84bd0de
+  item_date: "2017-10-02 17:00:00"
+  title: 'How Honeycomb Uses Honeycomb, Part 6: Instrumenting a Production Service'
+  url: https://honeycomb.io/blog/2017/10/how-honeycomb-uses-honeycomb-part-6-instrumenting-a-production-service/
+  domain: honeycomb.io
+  image: ""
+- curated_id: ctQxj818xbBhHEFyLu7YdnnqpJkfUeYDSZhAjGqqRko=_15ee3303221:5a56a50:e05f56c8
+  item_date: "2017-10-03 09:48:03"
+  title: Steady Improvement
+  url: http://apimetrics.io/?p=4026
+  domain: apimetrics.io
+  image: ""
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_15ee3d73c52:5cb1c55:c84bd0de
+  item_date: "2017-10-03 13:04:47"
+  title: Monitor Amazon's Application Load Balancer with Datadog
+  url: https://www.datadoghq.com/blog/monitor-application-load-balancer/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_15ee7b09aff:30860:9b8472f1
+  item_date: "2017-10-04 07:01:01"
+  title: How We Monitor AWS Lambda at OpsGenie with Thundra
+  url: https://medium.com/p/ba239fc17863
+  domain: medium.com
+  image: ""
+- curated_id: p9l1QRJSWsBdfQhLvEqI6rdgjdJrOWvtCS0GvuF9J1Q=_15ee8c11408:6b62b5:86e95007
+  item_date: "2017-10-04 11:56:09"
+  title: How to Find WordPress PHP Performance Bottlenecks with New Relic
+  url: http://blog.newrelic.com/?p=39264
+  domain: blog.newrelic.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_15ef74fd796:2ffb37:626ab4cd
+  item_date: "2017-10-06 12:48:12"
+  title: "Creating a Serverless Uptime Monitor & Getting Alerted by SMS \u2014 Lambda,
+    Zappa & Python"
+  url: https://medium.com/p/15c5fb31027
+  domain: medium.com
+  image: ""
+- curated_id: P6ZHWlrPQ5ILOZ54yDX4aZ046+AnYBvjvT3DdNFTXhQ=_15f06615a0c:104f703:9ac85644
+  item_date: "2017-10-10 06:00:24"
+  title: 'OpenTracing: An Open Standard for Distributed Tracing'
+  url: https://thenewstack.io/?p=3208110
+  domain: thenewstack.io
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_15f16b89b5a:5b0a17:aa3e42e1
+  item_date: "2017-10-11 06:12:27"
+  title: The Future of Microservices Monitoring & Instrumentation
+  url: https://medium.com/p/b86fc3f61c9c
+  domain: medium.com
+  image: ""
+- curated_id: rq6OKKgBiWVp88vsVvs1lxEDBZExs+csk5yWEsrvsaE=_15f0704496b:26815d4:3522b906
+  item_date: "2017-10-11 17:00:00"
+  title: Nylas Makes Their API buzz with Honeycomb
+  url: https://honeycomb.io/blog/2017/10/nylas-makes-their-api-buzz-with-honeycomb/
+  domain: honeycomb.io
+  image: ""
+- curated_id: rq6OKKgBiWVp88vsVvs1lxEDBZExs+csk5yWEsrvsaE=_15f3187692f:643d47b:4d363ef0
+  item_date: "2017-10-17 17:00:00"
+  title: Bitten by a Kafka Bug
+  url: https://honeycomb.io/blog/2017/10/bitten-by-a-kafka-bug---postmortem/
+  domain: honeycomb.io
+  image: ""
+- curated_id: rxLnjiJudc56FbZKrZ0crrg2UUWdKV8knoKwhWKNfS4=_15f304b2089:63209ff:3522b906
+  item_date: "2017-10-18 08:15:33"
+  title: Infrastructure Monitoring with TICK Stack
+  url: https://blog.codeship.com/?p=5664
+  domain: blog.codeship.com
+  image: ""
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_15f300f2f27:62b8fc4:3522b906
+  item_date: "2017-10-18 08:17:02"
+  title: How GovPredict monitors data quality issues with Datadog
+  url: https://www.datadoghq.com/blog/govpredict-datadog/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: rq6OKKgBiWVp88vsVvs1lxEDBZExs+csk5yWEsrvsaE=_15f4f4d28d1:77764e8:9ac85644
+  item_date: "2017-10-23 17:00:00"
+  title: 'Metrics: not the observability droids you''re looking for'
+  url: https://honeycomb.io/blog/2017/10/metrics-not-the-observability-droids-youre-looking-for/
+  domain: honeycomb.io
+  image: ""
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_15f4fb5f8e3:90a32bc:3522b906
+  item_date: "2017-10-24 11:47:26"
+  title: Monitor AWS Auto Scaling with Datadog
+  url: https://www.datadoghq.com/blog/monitor-aws-auto-scaling/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: rq6OKKgBiWVp88vsVvs1lxEDBZExs+csk5yWEsrvsaE=_15f73438e75:1927da3:3c0bb656
+  item_date: "2017-10-30 17:00:00"
+  title: Intercom &lt;3Honeycomb
+  url: https://honeycomb.io/blog/2017/10/intercom-3-honeycomb/
+  domain: honeycomb.io
+  image: ""
+- curated_id: p9l1QRJSWsBdfQhLvEqI6rdgjdJrOWvtCS0GvuF9J1Q=_15f97a6a28c:10e2b09:7157a206
+  item_date: "2017-11-07 10:01:02"
+  title: New Relic Brings Performance Dashboards to Quip Collaboration Platform
+  url: http://blog.newrelic.com/?p=39899
+  domain: blog.newrelic.com
+  image: ""
+- curated_id: p9l1QRJSWsBdfQhLvEqI6rdgjdJrOWvtCS0GvuF9J1Q=_15f9cc1ca02:5e4ad2:3c0bb656
+  item_date: "2017-11-08 09:48:27"
+  title: New Relic APM Now Supports Node 8
+  url: http://blog.newrelic.com/?p=39921
+  domain: blog.newrelic.com
+  image: ""
+- curated_id: q2q2EWvhwTr2G72+2bmzQ5IFpAlRi9P7s4CyaWlqDGs=_15f9cfebefc:24a2a98:aa3e42e1
+  item_date: "2017-11-08 10:57:39"
+  title: 'Kubernetes Monitoring: Service Dependencies with Maps and Traces'
+  url: https://medium.com/p/ec708bd14fbe
+  domain: medium.com
+  image: ""
+- curated_id: ctQxj818xbBhHEFyLu7YdnnqpJkfUeYDSZhAjGqqRko=_15fa1739f60:df7897:3c0bb656
+  item_date: "2017-11-09 07:21:31"
+  title: Zen and the Art of API Monitoring
+  url: http://apimetrics.io/?p=4075
+  domain: apimetrics.io
+  image: ""
+- curated_id: SaTlDHjs1v1b6dRdbPAyD0B37LAEmb50AnhEeoi/nCs=_15fb8ee3199:30a9622:7157a206
+  item_date: "2017-11-12 16:00:00"
+  title: 'Announcing LightStep: A New Approach for a New Software Paradigm'
+  url: http://lightstep.com/blog/launching-lightstep
+  domain: lightstep.com
+  image: ""
+- curated_id: rq6OKKgBiWVp88vsVvs1lxEDBZExs+csk5yWEsrvsaE=_15fbb881555:35e6215:3c0bb656
+  item_date: "2017-11-13 16:00:00"
+  title: Best Practices for Observability
+  url: https://honeycomb.io/blog/2017/11/best-practices-for-observability/
+  domain: honeycomb.io
+  image: ""
+- curated_id: IF5SUyRkajQQb6nKIFxqt/RpuCbAHZbg0rxIFu553CU=_15fc1736807:7cec2c:3c0bb656
+  item_date: "2017-11-13 16:46:22"
+  title: Kong Enterprise 0.29 is Released With Vitals Monitoring and Analytics Features
+  url: https://konghq.com/?p=6675
+  domain: konghq.com
+  image: ""
+- curated_id: p9l1QRJSWsBdfQhLvEqI6rdgjdJrOWvtCS0GvuF9J1Q=_15fc0742a38:5e94ca:541f3c40
+  item_date: "2017-11-15 08:12:21"
+  title: 'The AWS Cloud Keeps Getting Easier: Installing the New Relic Infrastructure
+    Agent with EC2 Systems Manager'
+  url: http://blog.newrelic.com/?p=39949
+  domain: blog.newrelic.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15fc096c996:4b0837:626ab4cd
+  item_date: "2017-11-15 08:41:24"
+  title: How We Differ from Runscope
+  url: https://medium.com/p/182e34f14850
+  domain: medium.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_15fd5c9cc5a:f2b956:d77c33d7
+  item_date: "2017-11-18 09:18:17"
+  title: GitLab Performance Monitoring with Grafana
+  url: https://medium.com/p/a2394848d071
+  domain: medium.com
+  image: ""
+- curated_id: p9l1QRJSWsBdfQhLvEqI6rdgjdJrOWvtCS0GvuF9J1Q=_15fe0b270fa:2da7a3f:3c0bb656
+  item_date: "2017-11-21 14:25:41"
+  title: 'AWS Lambda in Production: State of Serverless Report 2017'
+  url: http://blog.newrelic.com/?p=40176
+  domain: blog.newrelic.com
+  image: ""
+- curated_id: 9QOGTVP+u4vwJNHB7SlLr9mbA0Mmqrsw3WZp2GL3orY=_15fe40b3a25:33d9026:541f3c40
+  item_date: "2017-11-22 05:02:33"
+  title: Charity Majors on Observability and Understanding the Operational Ramifications
+    of a System
+  url: https://www.infoq.com/articles/charity-majors-observability-failure
+  domain: www.infoq.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15fefdbd5c9:44ffbe9:7157a206
+  item_date: "2017-11-23 15:55:51"
+  title: 'Canopy: an end'
+  url: https://blog.acolyer.org/2017/11/22/canopy-an-end-to-end-performance-tracing-and-analysis-system/amp/
+  domain: blog.acolyer.org
+  image: ""
+- curated_id: C3F90FsKoCDiHbSaXJU7AQJQ8cndB0yGWwGLZJDlWxM=_15ff030c4f9:45ca3b1:3c0bb656
+  item_date: "2017-11-24 14:36:58"
+  title: Using API Science to Monitor The Pulse of Your Own APIs and the Ones You
+    Call
+  url: https://www.programmableweb.com/news/using-api-science-to-monitor-pulse-your-own-apis-and-ones-you-call/review/2017/11/24
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 0FtxsXJpRJbNVTIbvXhK1ROY2yWLsHvAG9DgvYaXFac=_15ffcad30e7:5489c52:3c0bb656
+  item_date: "2017-11-27 00:00:56"
+  title: 'Introducing Visitor Insights: a New, Unified Digital Experience Monitoring
+    Solution'
+  url: http://royal.pingdom.com/?p=26563
+  domain: royal.pingdom.com
+  image: ""
+- curated_id: C3F90FsKoCDiHbSaXJU7AQJQ8cndB0yGWwGLZJDlWxM=_15ffffc263b:5bc9615:541f3c40
+  item_date: "2017-11-27 15:53:35"
+  title: Need to Monitor Your APIs? Take a Look at API Metrics
+  url: https://www.programmableweb.com/news/need-to-monitor-your-apis-take-look-api-metrics/review/2017/11/27
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: p9l1QRJSWsBdfQhLvEqI6rdgjdJrOWvtCS0GvuF9J1Q=_16008c62b4f:6c6d93:7157a206
+  item_date: "2017-11-29 09:09:33"
+  title: "Connecting Amazon\u2019s Alexa with New Relic"
+  url: http://blog.newrelic.com/?p=40210
+  domain: blog.newrelic.com
+  image: ""
+- curated_id: HKwklz9a1LBDBgbulnG916dFzLOZO3KlGWN+5YbUEE4=_1600d1ff7e8:d9d5fa:e597f5ed
+  item_date: "2017-11-30 04:50:07"
+  title: AWS Introduces Continuous Threat Monitoring, Detection Service
+  url: http://blog.executivebiz.com/2017/11/aws-introduces-continuous-threat-monitoring-detection-service/
+  domain: blog.executivebiz.com
+  image: ""
+- curated_id: P6ZHWlrPQ5ILOZ54yDX4aZ046+AnYBvjvT3DdNFTXhQ=_1600e887ced:10eb693:3c0bb656
+  item_date: "2017-11-30 12:00:36"
+  title: Give Developers an Advantage with Advanced Events and Data Monitoring
+  url: https://thenewstack.io/?p=3616197
+  domain: thenewstack.io
+  image: ""
+- curated_id: 9QOGTVP+u4vwJNHB7SlLr9mbA0Mmqrsw3WZp2GL3orY=_1600f4b5034:11eb3fa:7157a206
+  item_date: "2017-11-30 15:00:33"
+  title: What's New in MicroProfile 1.2
+  url: https://www.infoq.com/news/2017/11/whats-new-in-microprofile-1-2
+  domain: www.infoq.com
+  image: ""
+- curated_id: ctQxj818xbBhHEFyLu7YdnnqpJkfUeYDSZhAjGqqRko=_1600ffa99aa:129865a:e597f5ed
+  item_date: "2017-11-30 18:31:14"
+  title: Rankings for Business Critical APIs
+  url: http://apimetrics.io/?p=4149
+  domain: apimetrics.io
+  image: ""
+- curated_id: p9l1QRJSWsBdfQhLvEqI6rdgjdJrOWvtCS0GvuF9J1Q=_1602cf1b6e8:3ee54ed:7157a206
+  item_date: "2017-12-06 09:43:40"
+  title: The New Relic Infrastructure Apache Integration Is Now Available
+  url: http://blog.newrelic.com/?p=40562
+  domain: blog.newrelic.com
+  image: ""
+- curated_id: p9l1QRJSWsBdfQhLvEqI6rdgjdJrOWvtCS0GvuF9J1Q=_1603272efc0:7802a3:3c0bb656
+  item_date: "2017-12-07 11:27:24"
+  title: 'Observability and Instrumentation: What They Are and Why They Matter'
+  url: http://blog.newrelic.com/?p=40625
+  domain: blog.newrelic.com
+  image: ""
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_16032e09523:832f67:7157a206
+  item_date: "2017-12-07 13:27:47"
+  title: Introducing Live Process monitoring in Datadog
+  url: https://www.datadoghq.com/blog/live-process-monitoring/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: p9l1QRJSWsBdfQhLvEqI6rdgjdJrOWvtCS0GvuF9J1Q=_1602d6684dd:3ffef0f:e597f5ed
+  item_date: "2017-12-08 09:55:34"
+  title: Multi
+  url: http://blog.newrelic.com/?p=40353
+  domain: blog.newrelic.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_1603ac00003:14a126a:541f3c40
+  item_date: "2017-12-09 02:01:01"
+  title: Four System Monitoring Best Practices
+  url: https://dzone.com/articles/1888142
+  domain: dzone.com
+  image: ""
+- curated_id: rq6OKKgBiWVp88vsVvs1lxEDBZExs+csk5yWEsrvsaE=_1604b9721ee:2d9f5fe:541f3c40
+  item_date: "2017-12-11 16:00:00"
+  title: New Honeycomb Integrations for PostgreSQL
+  url: https://honeycomb.io/blog/2017/12/new-honeycomb-integrations-for-postgresql/
+  domain: honeycomb.io
+  image: ""
+- curated_id: PnsCeCZHX+4/ClAs+4RfYZZIy/r5B71hDqXev8oJLbQ=_16055ab2ba0:3f62a71:541f3c40
+  item_date: "2017-12-14 06:25:00"
+  title: Introducing Multi
+  url: https://blog.uptrends.com/?p=1068
+  domain: blog.uptrends.com
+  image: ""
+- curated_id: IQOZI3BDLIkJP5DDw7kwxbCWAc7Elam/7sSBACr4NjU=_1605b1b63d8:4857b48:7157a206
+  item_date: "2017-12-14 11:29:11"
+  title: The Blog Post on Monitoring an Apache Kafka Deployment to End Most Blog Posts
+  url: https://www.confluent.io/?p=9980
+  domain: www.confluent.io
+  image: ""
+- curated_id: P6ZHWlrPQ5ILOZ54yDX4aZ046+AnYBvjvT3DdNFTXhQ=_16059d9e2c0:45ff676:7157a206
+  item_date: "2017-12-15 03:00:03"
+  title: Ops Checklist for Monitoring Kubernetes at Scale
+  url: https://thenewstack.io/?p=3715424
+  domain: thenewstack.io
+  image: ""
+- curated_id: HKwklz9a1LBDBgbulnG916dFzLOZO3KlGWN+5YbUEE4=_1605b59ecf8:499ed3a:541f3c40
+  item_date: "2017-12-15 09:41:59"
+  title: Know Your Tool Options for API Testing and Monitoring
+  url: https://www.programmableweb.com/news/know-your-tool-options-api-testing-and-monitoring/review/2017/12/12
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_1605b9a0205:4943a4b:7157a206
+  item_date: "2017-12-15 11:01:32"
+  title: 'Kafkapocalypse: Monitoring Kafka Without Losing Your Mind'
+  url: https://dzone.com/articles/1903408
+  domain: dzone.com
+  image: ""
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_1605cba7e42:4ee4:3c0bb656
+  item_date: "2017-12-15 16:30:14"
+  title: Key metrics for PostgreSQL monitoring
+  url: https://www.datadoghq.com/blog/postgresql-monitoring/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_160639add58:8ad325:3c0bb656
+  item_date: "2017-12-16 22:01:02"
+  title: Monitoring and Observability
+  url: https://dzone.com/articles/1903662
+  domain: dzone.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_1606abe46e5:d0fb8:93434a1d
+  item_date: "2017-12-17 03:26:30"
+  title: MySQL Monitoring with Telegraf, InfluxDB & Grafana
+  url: https://medium.com/p/4489e6df0220
+  domain: medium.com
+  image: ""
+- curated_id: sz+tB8pq15mq8YsF73m9QWRv2thg0IMoBqQqtUUdBd4=_1606ce866e3:16dab1d:7157a206
+  item_date: "2017-12-18 15:52:31"
+  title: Creating Custom Consoles Using API Monitor Data
+  url: https://www.apiscience.com/blog/?p=946
+  domain: www.apiscience.com
+  image: ""
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_160713864de:1eebbda:3c0bb656
+  item_date: "2017-12-19 16:00:09"
+  title: How to monitor Google Kubernetes Engine with Datadog
+  url: https://www.datadoghq.com/blog/monitor-google-kubernetes-engine/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_1608ef5a284:1a478c2:3c0bb656
+  item_date: "2017-12-25 08:32:00"
+  title: "Introducing Merlin \u2014 A cross"
+  url: https://medium.com/@Ne0nd0g/introducing-merlin-645da3c635a
+  domain: medium.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_16091730ce8:1d2883f:541f3c40
+  item_date: "2017-12-25 22:01:03"
+  title: The 10 Commandments of Container
+  url: https://dzone.com/articles/1923100
+  domain: dzone.com
+  image: ""
+- curated_id: ooOcffrJqDvoDWmFXjEbnghV6Un+TylJFGXkbE4t20k=_160920e94bf:1602fcd:b64595cf
+  item_date: "2017-12-26 01:00:10"
+  title: "Monitoring Laravel\u2019s background queues in realtime using Pusher"
+  url: http://blog.pusher.com/?p=3870
+  domain: blog.pusher.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_160c5d69841:1429456:541f3c40
+  item_date: "2018-01-05 02:01:39"
+  title: Lambda Monitoring Comes to SignalFx
+  url: https://dzone.com/articles/1943973
+  domain: dzone.com
+  image: ""
+- curated_id: 53UYdSIjaP6vd+2Bz1ivn3GdkSivxwzyAAG6WfdGv7o=_160d9476d16:d8853:541f3c40
+  item_date: "2018-01-08 20:52:46"
+  title: Monitoring NGINX
+  url: https://www.nginx.com/?p=55530
+  domain: www.nginx.com
+  image: ""
+- curated_id: 8gWX9gjCXu6b2pD1eYQk9otwiJsMWRDfIpqRBziTqiI=_160e0db07ea:bec6bb:b64595cf
+  item_date: "2018-01-10 06:33:27"
+  title: Troubleshooting Monitoring
+  url: https://admin.dyn.com/?p=59477
+  domain: admin.dyn.com
+  image: ""
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_160e107a0ca:ecac82:7157a206
+  item_date: "2018-01-10 09:04:21"
+  title: How to monitor Amazon EC2 with Datadog
+  url: https://www.datadoghq.com/blog/monitoring-ec2-instances-with-datadog/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_160e107a0ca:ecac83:7157a206
+  item_date: "2018-01-10 09:04:21"
+  title: How to collect EC2 metrics
+  url: https://www.datadoghq.com/blog/collecting-ec2-metrics/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_160e107a0ca:ecac84:7157a206
+  item_date: "2018-01-10 09:04:21"
+  title: Key metrics for EC2 monitoring
+  url: https://www.datadoghq.com/blog/ec2-monitoring/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: p9l1QRJSWsBdfQhLvEqI6rdgjdJrOWvtCS0GvuF9J1Q=_160e11ad664:f05e12:541f3c40
+  item_date: "2018-01-10 09:20:16"
+  title: 'Now Available: The New Relic Infrastructure StatsD Integration'
+  url: http://blog.newrelic.com/?p=41002
+  domain: blog.newrelic.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_160e8c83107:1caa0d2:541f3c40
+  item_date: "2018-01-11 21:01:01"
+  title: AWS Monitoring Primer
+  url: https://dzone.com/articles/1967760
+  domain: dzone.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_161045888a0:45c3c95:541f3c40
+  item_date: "2018-01-17 05:34:00"
+  title: Health Check Response Format for HTTP APIs
+  url: https://inadarei.github.io/rfc-healthcheck/
+  domain: inadarei.github.io
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_16105f12b5d:5ef378:fe3e7618
+  item_date: "2018-01-17 13:05:44"
+  title: Real
+  url: https://medium.com/p/28175cff6e60
+  domain: medium.com
+  image: ""
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_1612de3d522:86c2aad:3c0bb656
+  item_date: "2018-01-25 07:16:01"
+  title: Key metrics for RabbitMQ monitoring
+  url: https://www.datadoghq.com/blog/rabbitmq-monitoring/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: ctQxj818xbBhHEFyLu7YdnnqpJkfUeYDSZhAjGqqRko=_16173814add:3f16b51:7157a206
+  item_date: "2018-02-07 19:19:43"
+  title: Major Feature Changes
+  url: http://apimetrics.io/?p=4209
+  domain: apimetrics.io
+  image: ""
+- curated_id: +QuXNY32CQYzE16SQ2izcWYcIemLFvQqdDmj8F09ZZM=_161775ebd95:45cd8a5:7157a206
+  item_date: "2018-02-08 00:00:00"
+  title: Serverless Health Status Dashboard
+  url: https://www.stackery.io/blog/serverless-health-status-dashboards
+  domain: www.stackery.io
+  image: ""
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_16177159cf3:4550f38:7157a206
+  item_date: "2018-02-08 12:22:40"
+  title: Monitor AWS Network Load Balancer with Datadog
+  url: https://www.datadoghq.com/blog/monitor-aws-network-load-balancer/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: ooOcffrJqDvoDWmFXjEbnghV6Un+TylJFGXkbE4t20k=_1617ae64c8e:11f0b3a:9e976e77
+  item_date: "2018-02-09 06:09:17"
+  title: Realtime API monitor using Go and Pusher
+  url: http://blog.pusher.com/?p=4093
+  domain: blog.pusher.com
+  image: ""
+- curated_id: ctQxj818xbBhHEFyLu7YdnnqpJkfUeYDSZhAjGqqRko=_16192aabbbc:6c9e411:7157a206
+  item_date: "2018-02-13 20:33:24"
+  title: Database Issues currently slowing reports
+  url: http://apimetrics.io/?p=4229
+  domain: apimetrics.io
+  image: ""
+- curated_id: p9l1QRJSWsBdfQhLvEqI6rdgjdJrOWvtCS0GvuF9J1Q=_161943025ca:7098c9d:541f3c40
+  item_date: "2018-02-14 03:55:19"
+  title: New Multi
+  url: http://blog.newrelic.com/?p=41507
+  domain: blog.newrelic.com
+  image: ""
+- curated_id: P6ZHWlrPQ5ILOZ54yDX4aZ046+AnYBvjvT3DdNFTXhQ=_16195fb53d1:72e68a6:3c0bb656
+  item_date: "2018-02-14 12:21:55"
+  title: 'The RED Method: A New Approach to Monitoring Microservices'
+  url: https://thenewstack.io/?p=4160850
+  domain: thenewstack.io
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_161a9c638f4:e522da:e66afc8b
+  item_date: "2018-02-18 08:36:33"
+  title: Almost free server monitoring with AWS Lambda
+  url: https://medium.com/p/2c23d70b4f5e
+  domain: medium.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_161af7aebe0:9688d45:3c0bb656
+  item_date: "2018-02-19 11:01:20"
+  title: 'How to integrate callstats.io REST API, Part 1: Signaling state changes'
+  url: https://medium.com/p/32baaf1f964b
+  domain: medium.com
+  image: ""
+- curated_id: rq6OKKgBiWVp88vsVvs1lxEDBZExs+csk5yWEsrvsaE=_161b442daf6:9de8c26:3c0bb656
+  item_date: "2018-02-19 16:00:00"
+  title: High Availability with the Honeycomb AWS Bundle
+  url: https://honeycomb.io/blog/2018/02/high-availability-with-the-honeycomb-aws-bundle/
+  domain: honeycomb.io
+  image: ""
+- curated_id: QV6/Uva03i0CdEvjejnoiX8zoQKE8cEYv/BARIZGfAs=_161b4bc065c:9d547fc:7157a206
+  item_date: "2018-02-20 11:14:28"
+  title: Monitoring Server
+  url: https://streamdata.io/?p=5475
+  domain: streamdata.io
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_161fad6eb6c:34ea62d:923c4a60
+  item_date: "2018-03-06 02:01:43"
+  title: Monitoring Microservices With Health Checks
+  url: https://dzone.com/articles/2096510
+  domain: dzone.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_16200ce13c8:3f2279a:9aea0a7d
+  item_date: "2018-03-07 06:01:41"
+  title: Playing With Node.js and the Runscope API on Glitch
+  url: https://dzone.com/articles/2096482
+  domain: dzone.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_162069475c9:122e92a:76251cdd
+  item_date: "2018-03-08 09:06:52"
+  title: Real
+  url: https://medium.com/p/4e57c4e80cac
+  domain: medium.com
+  image: ""
+- curated_id: p9l1QRJSWsBdfQhLvEqI6rdgjdJrOWvtCS0GvuF9J1Q=_16206acc846:482d53e:923c4a60
+  item_date: "2018-03-08 09:27:00"
+  title: Introducing the New Relic Emergency Response Force
+  url: http://blog.newrelic.com/?p=41821
+  domain: blog.newrelic.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_1620b9895af:42c91c:76251cdd
+  item_date: "2018-03-09 07:01:01"
+  title: 'Azure Monitor and Azure Log Analytics: When to Use Which'
+  url: https://dzone.com/articles/2105400
+  domain: dzone.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_1621aeea02a:e14967:bdf8aaf1
+  item_date: "2018-03-12 08:57:46"
+  title: Deployment of full
+  url: https://medium.com/p/6f38f6c57c55
+  domain: medium.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_16248794250:36afe3d:9f3b30f2
+  item_date: "2018-03-21 05:01:03"
+  title: Managing DNS Vendors with DNS Monitoring
+  url: https://dzone.com/articles/2126866
+  domain: dzone.com
+  image: ""
+- curated_id: 9QOGTVP+u4vwJNHB7SlLr9mbA0Mmqrsw3WZp2GL3orY=_16257c63e69:4d660a8:34f43e70
+  item_date: "2018-03-24 04:01:47"
+  title: Monitoring Microservices at Scale at Crisp
+  url: https://www.infoq.com/news/2018/03/monitoring-microservices-crisp
+  domain: www.infoq.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_16259c6949e:9d395e:bdf8aaf1
+  item_date: "2018-03-24 12:34:19"
+  title: AWS CloudWatch Monitoring with Grafana
+  url: https://medium.com/p/ace63e1ab507
+  domain: medium.com
+  image: ""
+- curated_id: sz+tB8pq15mq8YsF73m9QWRv2thg0IMoBqQqtUUdBd4=_1626ac2e788:65ff722:7d6c1c1c
+  item_date: "2018-03-27 20:43:55"
+  title: Configuring API Monitors for Specific Response Formats
+  url: https://www.apiscience.com/blog/?p=1028
+  domain: www.apiscience.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_1626c1aa867:67f265b:7d6c1c1c
+  item_date: "2018-03-28 02:02:41"
+  title: AWS CloudWatch Monitoring with Grafana
+  url: https://dzone.com/articles/2134206
+  domain: dzone.com
+  image: ""
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_16273b2840e:7440d1a:7d6c1c1c
+  item_date: "2018-03-29 14:38:21"
+  title: 'New in Datadog: Managing integrations via API calls'
+  url: https://www.datadoghq.com/blog/programmatically-manage-your-datadog-integrations/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: ctQxj818xbBhHEFyLu7YdnnqpJkfUeYDSZhAjGqqRko=_162780befff:7b3b933:34f43e70
+  item_date: "2018-03-30 10:35:30"
+  title: APImetrics + Your Passive Monitoring Stack
+  url: http://apimetrics.io/?p=4821
+  domain: apimetrics.io
+  image: ""
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_162786f0621:7af6ed5:7d6c1c1c
+  item_date: "2018-03-30 12:42:44"
+  title: Monitor AWS Fargate applications with Datadog
+  url: https://www.datadoghq.com/blog/monitor-aws-fargate/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: p9l1QRJSWsBdfQhLvEqI6rdgjdJrOWvtCS0GvuF9J1Q=_162918412d9:9e6f3ce:9f3b30f2
+  item_date: "2018-04-04 09:29:40"
+  title: Driving Operational Awareness With Incident Data
+  url: http://blog.newrelic.com/?p=42250
+  domain: blog.newrelic.com
+  image: ""
+- curated_id: 1pjjqu+svtKKsalLX16EuxgGP/j/+09bA6GvyDDsDYE=_162960d0127:a210b77:7d6c1c1c
+  item_date: "2018-04-05 06:29:45"
+  title: k6 loves Grafana
+  url: http://blog.loadimpact.com/k6-loves-grafana
+  domain: blog.loadimpact.com
+  image: ""
+- curated_id: ctQxj818xbBhHEFyLu7YdnnqpJkfUeYDSZhAjGqqRko=_162aa1e4da6:149efb4:9aea0a7d
+  item_date: "2018-04-09 03:53:17"
+  title: "Don\u2019t Trust That 200 OK! 200 OK Is Not Necessarily OK \u2013 At All"
+  url: http://apimetrics.io/?p=4912
+  domain: apimetrics.io
+  image: ""
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_162bb8f6868:10bf1d7:34f43e70
+  item_date: "2018-04-12 13:32:40"
+  title: PostgreSQL RDS monitoring with Datadog
+  url: https://www.datadoghq.com/blog/postgresql-rds-monitoring-datadog/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_162bb8f6868:10bf1d9:34f43e70
+  item_date: "2018-04-12 13:32:40"
+  title: Key metrics for AWS RDS PostgreSQL monitoring
+  url: https://www.datadoghq.com/blog/aws-rds-postgresql-monitoring/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_162d5af98da:61c975:76251cdd
+  item_date: "2018-04-17 10:59:14"
+  title: Sending GraphQL metrics to Datadog with Apollo Engine
+  url: https://medium.com/p/d7876b9dbcba
+  domain: medium.com
+  image: ""
+- curated_id: 53UYdSIjaP6vd+2Bz1ivn3GdkSivxwzyAAG6WfdGv7o=_1631910a36e:21368a3:11c251fd
+  item_date: "2018-04-30 16:56:05"
+  title: Transitioning to the New NGINX Plus API for Configuration and Monitoring
+  url: https://www.nginx.com/?p=56958
+  domain: www.nginx.com
+  image: ""
+- curated_id: 9QOGTVP+u4vwJNHB7SlLr9mbA0Mmqrsw3WZp2GL3orY=_163273684a4:ef0f12:5785ab88
+  item_date: "2018-05-03 10:49:22"
+  title: AlertSite Raises API Monitoring Bar by Providing Teams Unparalleled End
+  url: https://devops.com/alertsite-raises-api-monitoring-bar-by-providing-teams-unparalleled-end-to-end-visibility-into-api-health/
+  domain: devops.com
+  image: ""
+- curated_id: gok/N1aiGTOaio3XQiVmDps/etNkdYHQoJaEJNxzZOQ=_163c1bca6d4:415204c:2835af05
+  item_date: "2018-05-04 10:54:09"
+  title: Payara Server Administration and Monitoring API
+  url: https://www.programmableweb.com/api/payara-server-administration-and-monitoring
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_1632cebdceb:1844da2:5785ab88
+  item_date: "2018-05-04 13:50:45"
+  title: Custom SQL Server metrics for detailed monitoring
+  url: https://www.datadoghq.com/blog/sql-server-metrics/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_1632cebdceb:1844da4:5785ab88
+  item_date: "2018-05-04 13:50:45"
+  title: SQL Server monitoring tools
+  url: https://www.datadoghq.com/blog/sql-server-monitoring-tools/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_1632cebdceb:1844da5:5785ab88
+  item_date: "2018-05-04 13:50:45"
+  title: Key metrics for SQL Server monitoring
+  url: https://www.datadoghq.com/blog/sql-server-monitoring/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_1632cebdceb:1844da3:5785ab88
+  item_date: "2018-05-04 13:50:45"
+  title: Monitor SQL Server performance with Datadog
+  url: https://www.datadoghq.com/blog/sql-server-performance/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: UjG+CeLaqj27hMBI/WjhTGNNUNvP04IJdUFt2zsPBtQ=_16360ddcdb6:32cf19a:3dd877af
+  item_date: "2018-05-10 00:00:00"
+  title: 10+ API Monitoring Tools
+  url: https://nordicapis.com/?p=8409
+  domain: nordicapis.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_1635f7ab72f:cd12a:d63e3ae2
+  item_date: "2018-05-13 10:57:19"
+  title: auto
+  url: https://medium.com/p/a0a9675a1d98
+  domain: medium.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_16362367a05:3493c54:3dd877af
+  item_date: "2018-05-14 22:01:54"
+  title: 'Monitoring Kubernetes (Part 3): Kubernetes Troubleshooting Service Discovery'
+  url: https://dzone.com/articles/2208932
+  domain: dzone.com
+  image: ""
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_164432af3f4:29c8d4a:aa514a55
+  item_date: "2018-06-27 14:34:05"
+  title: Monitor Azure Kubernetes Service with Datadog
+  url: https://www.datadoghq.com/blog/announcing-aks/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: 9QOGTVP+u4vwJNHB7SlLr9mbA0Mmqrsw3WZp2GL3orY=_1645f9bfa75:5207738:386c987f
+  item_date: "2018-07-03 02:52:38"
+  title: Best practices for monitoring & testing APIs
+  url: http://www.softwaretestingnews.co.uk/best-practices-for-monitoring-testing-apis/
+  domain: www.softwaretestingnews.co.uk
+  image: ""
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_164807fabe6:815b650:aa514a55
+  item_date: "2018-07-09 12:23:28"
+  title: Announcing Go tracer v1.0.0
+  url: https://www.datadoghq.com/blog/go-tracer/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: AaqLN7WNk2JdzURhcODOt/DCaKX68I7bKK7Kbjoxmdo=_16484c20bba:87c7a95:386c987f
+  item_date: "2018-07-10 07:21:28"
+  title: Postman's API Monitoring is now available in 'Fun Size' Blocks
+  url: http://blog.getpostman.com/?p=4358
+  domain: blog.getpostman.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_164881b873c:8d055e7:386c987f
+  item_date: "2018-07-10 22:02:02"
+  title: Anypoint Monitoring in Mule
+  url: https://dzone.com/articles/2314589
+  domain: dzone.com
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_1648ed1e29a:3908ff1:19029e75
+  item_date: "2018-07-12 07:00:59"
+  title: Datadog launches Watchdog to help you monitor your cloud apps
+  url: https://techcrunch.com/?p=1671711
+  domain: techcrunch.com
+  image: ""
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_164f5d18565:573f84:4db7ac35
+  item_date: "2018-08-01 07:08:26"
+  title: IIS monitoring with Datadog
+  url: https://www.datadoghq.com/blog/iis-monitoring-datadog/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_16506370d07:1d956aa:6f86c10b
+  item_date: "2018-08-04 11:20:14"
+  title: Automate API monitoring with this open source software
+  url: https://medium.com/p/707cdb187eca
+  domain: medium.com
+  image: ""
+- curated_id: sz+tB8pq15mq8YsF73m9QWRv2thg0IMoBqQqtUUdBd4=_16527480ae9:4a0ed58:4c71e4fe
+  item_date: "2018-08-09 22:09:14"
+  title: "With APIs and Software Libraries, How Much Code Is Needed to Create Something
+    Immensely Useful? Not Much\u2026"
+  url: https://www.apiscience.com/blog/?p=1154
+  domain: www.apiscience.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_1657c187dcf:429b4c:4db7ac35
+  item_date: "2018-08-27 09:00:00"
+  title: Azure Cloud Monitoring with the Elastic Stack
+  url: https://www.elastic.co/blog/azure-cloud-monitoring-with-the-elastic-stack
+  domain: www.elastic.co
+  image: ""
+- curated_id: IF5SUyRkajQQb6nKIFxqt/RpuCbAHZbg0rxIFu553CU=_1658056c4de:9fbcd8:4c71e4fe
+  item_date: "2018-08-27 18:02:30"
+  title: "Enabling Tracing with Zipkin \u2013 Kong CE 0.14.1 Feature Highlight"
+  url: https://konghq.com/?p=7570
+  domain: konghq.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_1657ff7442b:96a003:4c71e4fe
+  item_date: "2018-08-28 02:02:04"
+  title: Unlocking the Power of Automatic Service Endpoint Monitoring
+  url: https://dzone.com/articles/2399514
+  domain: dzone.com
+  image: ""
+- curated_id: 0FtxsXJpRJbNVTIbvXhK1ROY2yWLsHvAG9DgvYaXFac=_16582b0c5b6:d2f968:4db7ac35
+  item_date: "2018-08-28 15:38:11"
+  title: Protect Your Sales Opportunities with SLOs and SLAs
+  url: https://royal.pingdom.com/?p=27340
+  domain: royal.pingdom.com
+  image: ""
+- curated_id: 9QOGTVP+u4vwJNHB7SlLr9mbA0Mmqrsw3WZp2GL3orY=_165864a2c21:4b0186:b99eedab
+  item_date: "2018-08-29 06:07:30"
+  title: How to monitor and detect a cloud API vulnerability
+  url: https://searchcloudsecurity.techtarget.com/tip/How-to-monitor-and-detect-a-cloud-API-vulnerability
+  domain: searchcloudsecurity.techtarget.com
+  image: ""
+- curated_id: ctQxj818xbBhHEFyLu7YdnnqpJkfUeYDSZhAjGqqRko=_1658690d836:542a1c:4c71e4fe
+  item_date: "2018-08-29 09:14:18"
+  title: "Monthly Dashboards \u2013 API Performance"
+  url: https://apimetrics.io/?p=5922
+  domain: apimetrics.io
+  image: ""
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_165ab7e2ed1:6b25a1:b99eedab
+  item_date: "2018-09-04 17:00:00"
+  title: Key metrics for AWS monitoring
+  url: https://www.datadoghq.com/blog/aws-monitoring/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_165b51ae4c9:5c627b:cf41b655
+  item_date: "2018-09-07 10:05:01"
+  title: Monitoring Kafka in Production
+  url: https://dzone.com/articles/2429193
+  domain: dzone.com
+  image: ""
+- curated_id: b8MUi1LurnT/ncltqPDluAE6yfW7vSxJkRYu4OFrMPo=_165ef007508:613ce9:4db7ac35
+  item_date: "2018-09-18 06:00:43"
+  title: Connect Insights to Real
+  url: https://www.pagerduty.com/?p=49456
+  domain: www.pagerduty.com
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_166244cbe9c:19e444:4eafa5b
+  item_date: "2018-09-28 10:39:46"
+  title: Automatic Tracing of your HTTP/S with IOpipe
+  url: https://medium.com/p/53e943c6f060
+  domain: medium.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_166256a43d0:16a61c4:f06daea
+  item_date: "2018-09-29 05:33:22"
+  title: How to Monitor Network requests in React Native
+  url: https://medium.com/p/1f2ca14b0676
+  domain: medium.com
+  image: ""
+- curated_id: ctQxj818xbBhHEFyLu7YdnnqpJkfUeYDSZhAjGqqRko=_16654a8d756:fcf374:f7a2ccea
+  item_date: "2018-10-08 09:46:07"
+  title: 'Online Banking: The Dream of Being the Amazon (or Facebook or Netfix) of
+    Money'
+  url: https://apimetrics.io/?p=5968
+  domain: apimetrics.io
+  image: ""
+- curated_id: pJGm905BokLVZr/Pl24sMpd19eFuxZ/tV9dx1EzrkgY=_166cf728a85:bb1af0:d42b93be
+  item_date: "2018-11-01 06:00:53"
+  title: Six pillars of monitoring automation
+  url: https://sdtimes.com/?p=33010
+  domain: sdtimes.com
+  image: ""
+...

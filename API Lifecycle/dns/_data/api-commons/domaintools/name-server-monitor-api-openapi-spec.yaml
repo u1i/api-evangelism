@@ -1,0 +1,47 @@
+swagger: "2.0"
+info:
+  title: Name Server Monitor API
+  description: Receive notification when there are new and/or deleted domains on a
+    given Domain Name Server
+  version: 1.0.0
+host: api.domaintools.com
+basePath: /v1
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /name-server-monitor/:
+    get:
+      summary: Name Server Monitor
+      description: Receive notification when there are new and/or deleted domains
+        on a given Domain Name Server
+      operationId: nameServerMonitor
+      parameters:
+      - in: query
+        name: days_back
+        description: Use this parameter in exceptional circumstances where you need
+          to search domain changes up to six days prior to the current date. Set the
+          value to an integer in the range of 1-6. (default 0)
+        type: string
+        format: string
+      - in: query
+        name: page
+        description: tIf the result set is larger than 1000 records for a given day,
+          request additional pages with this parameter. Set the value to an integer
+          up to a maximum of the returned page_count value. (default 1)
+        type: string
+        format: string
+      - in: query
+        name: query
+        description: The hostname of the Name Server you wish to query
+        type: string
+        format: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Name Server Monitor
+definitions: []

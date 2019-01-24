@@ -1,0 +1,44 @@
+swagger: "2.0"
+info:
+  title: Events API
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /api/v1/events:
+    post:
+      summary: Post an Event
+      description: '          This end point allows you to post events to the stream.
+        You can tag them, set priority and event aggregate them with other events.        '
+      operationId: post-an-event
+      parameters:
+      - type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Events
+  /api/v1/events/:event_id:
+    delete:
+      summary: Delete an Event
+      description: '          This end point allows you to delete an event.        '
+      operationId: delete-an-event
+      responses:
+        200:
+          description: OK
+      tags:
+      - Events
+    get:
+      summary: Get an Event
+      description: '          This end point allows you to query for event details.        '
+      operationId: get-an-event
+      responses:
+        200:
+          description: OK
+      tags:
+      - Events
+definitions: []

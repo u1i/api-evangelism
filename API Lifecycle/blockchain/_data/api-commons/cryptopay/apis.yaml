@@ -1,0 +1,23 @@
+name: Cryptopay
+description: Buy bitcoins in the UK and Europe and transfer them globally from your
+  bitcoin wallet without using a bank. Use Cryptopay debit card to easily withdraw
+  funds
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26505-developers-cryptopay-me.jpg
+tags:
+- Technology
+- Marketplace
+- Financial Services
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/cryptopay/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: https://developers.cryptopay.me
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

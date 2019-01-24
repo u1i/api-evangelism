@@ -1,0 +1,21 @@
+name: Scaphold
+description: Scaphold is a rich backend-as-a-service platform with a web interface
+  like Parse that exposes its API using the powerful GraphQL language.
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/scaphold-logo.png
+tags:
+- Database
+created: "2016-12-24"
+modified: "2016-12-24"
+url: https://raw.githubusercontent.com/api-evangelist/database/gh-pages/_data/api-commons/scaphold/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: https://scaphold.io
+- type: x-portal
+  url: https://scaphold.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

@@ -1,0 +1,1223 @@
+- slug: teamsupport
+  name: TeamSupport
+  description: >-
+    TeamSupport is a web based Customer Service & Help Desk application that is
+    all about helping your business provide exceptional customer support through
+    better collaboration and teamwork. Most help desk systems are best suited
+    for one-on-one communications with your customers and do not focus on the
+    big picture. TeamSupport is different, bringing visibility to everyone on
+    your team and enabling full collaboration to solve the underlying issues. We
+    strongly believe the best customer support experience is rooted in team
+    collaboration. With your staff working as a team, they can easily draw on
+    each other’s experience to get the best solution.
+  url: 'http://www.teamsupport.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/teamsupport'
+  blog: >-
+    http://www.teamsupport.com/collaborative-customer-helpdesk-support-software-blog/
+  blog_rss: 'http://www.teamsupport.com/feed/'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/494_logo.png
+  tags: 'Support,Support'
+- slug: aircall-slackbot
+  name: Aircall (Slackbot)
+  description: >-
+    Aircall lets you instantly get the phone numbers you need anywhere in the
+    world and distribute calls easily over your teams, wherever they are. Each
+    teammate can make, receive and follow-up on calls using the Aircall app of
+    his/her choice (for Mac, PC, mobile - no hard phone required!) Aircall
+    automatically connects all your account information to Slack: new calls,
+    availability of your users, state of your numbers...
+  url: 'http://help.aircall.io/knowledge_base/topics/slack-integration-1'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/AircallSlackbotAircallSlackbot.png
+  tags: 'Support,Productivity,Bots,Slack'
+- slug: guru-slackbot
+  name: Guru (Slackbot)
+  description: >-
+    Guru’s knowledge sharing solution ensures your team always has access to
+    expert-verified answers wherever they work, including Slack. &nbsp;No more
+    answering repetitive questions or searching through a sea of Slack
+    conversations to find the right answer, simply save your team knowledge in
+    Guru and use it without leaving Slack. When you are outside of Slack, our
+    browser extension ensures everything is 1 click away. &nbsp;Guru can also be
+    tied to apps like Salesforce, Desk.com or Zendesk so the right knowledge
+    gets contextually suggested to team members without having to search for it
+    or shoulder tap an expert. Common Uses for Guru: - Sales &amp; Customer
+    Success Enablement - provide your team with accurate playbook information;
+    including messaging &amp; positioning, case studies, objection handling,
+    competitive intel, product faq’s, etc.- Support Knowledge Base - provide
+    accurate product FAQ’s, Troubleshooting Guides, &amp; How To’s right at your
+    support agent’s fingertips.- Company Wiki
+  url: >-
+    https://blog.getguru.com/guru-integration-with-slack-2?utm_campaign=Slack%20Referrals&amp;utm_source=Referrals&amp;utm_term=Slack%20Directory
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/GuruSlackbotGuruSlackbot.png
+  tags: 'Support,Productivity,Bots,Slack'
+- slug: supported-source
+  name: Supported Source
+  description: >-
+    Supported Source let's you know who's using your software projects. If you
+    have an open source project, and would like to understand who your users
+    are, you should use Supported Source.
+  url: 'http://supportedsource.org/'
+  short_url: ''
+  twitter: ''
+  blog: 'http://supportedsource.org/blog'
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/supported-source.png
+  tags: 'Support,Open Source'
+- slug: xprt-slackbot
+  name: Xprt (Slackbot)
+  description: >-
+    Xprt provides instant tech support support for your team from within Slack.
+    Our experts have years of experience and can quickly address all your
+    questions. Describe your problem to our bot by typing: @xprt start chat, and
+    one of our experts will help you solve it in a matter of minutes.
+  url: 'http://www.xprt.io/slack'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/XprtSlackbotXprtSlackbot.png
+  tags: 'Support,Office,Productivity,Bots,Bots,Slack'
+- slug: desk.com
+  name: Desk.com
+  description: >-
+    Desk.com is a help desk solution focused on today's changing support
+    environment. &nbsp;An environment where customers are not only talking to
+    you, but also about you. Utilizing Desk.com's real-time agent interface
+    allows you to handle both traditional 1-to-1 communications as well as
+    monitor and respond to social media. Every customer communication is
+    actionable and reportable, allowing you to easily manage your support needs.
+  url: 'http://desk.com/'
+  short_url: ''
+  twitter: 'http://twitter.com/desk_dev'
+  blog: 'http://www.desk.com/blog/'
+  blog_rss: 'http://feeds.feedburner.com/deskdotcom'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/connector-salesforce-desk-logo.png
+  tags: 'Support,Help Desk,Support'
+- slug: uservoice
+  name: UserVoice
+  description: >-
+    UserVoice creates simple customer engagement tools that help companies
+    understand and interact with their customers more positively and build
+    customer relationships that last. UserVoice Feedback - a hosted tool for
+    gathering and prioritizing product ideas directly from a company’s
+    customers. UserVoice Helpdesk - a simple-to-use ticketing system that helps
+    companies solve more customer issues in less time. UserVoice Full Service -
+    a complete customer service solution that bundles Feedback and Helpdesk into
+    a single, easy-to-manage environment.
+  url: 'https://uservoice.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/uservoice'
+  blog: 'https://community.uservoice.com/blog/'
+  blog_rss: 'http://feeds.feedburner.com/UnderstandingYourCustomers'
+  github: 'https://github.com/uservoice'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/UserVoice_logo.png
+  tags: >-
+    Support,Feedback,Help Desk,Forums,Customer
+    service,Support,Forums,Support,Forum STack
+- slug: clubble.io-slackbot
+  name: Clubble.io (Slackbot)
+  description: >-
+    Clubble.io bridges the gap between your Slack team and your email-reliant
+    clients or partners. This integration allows you to receive emails &amp;
+    attachments in your channels and—most importantly—to reply directly from
+    Slack. Two different tools, one same conversation. Example uses include:
+    Send emails to your lawyer directly from your #legal channel.  Start a
+    hybrid Slack + email group with your Gmail-addict clients and exchange files
+    in and out of Slack.  Create a #mom-loves-gif channel and bring the
+    awesomeness of Slack + Giphy to your mom's inbox. Chat-paced conversations
+    are adapted for email users so that they don't feel spammed. Please note
+    that if you just need to receive emails, not reply, Slack’s official email
+    integration is here for you.
+  url: 'https://clubble.io/?ref=slack'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Clubble.ioSlackbotClubble.ioSlackbot.png
+  tags: 'Support,Projects,Bots,Slack'
+- slug: front-slackbot
+  name: Front (Slackbot)
+  description: >-
+    Front aggregates all your channels (email, Twitter, Facebook, phone, etc.)
+    in one place, so you can work on each task as a team. This Slack integration
+    lets you: - send messages from Front to a Slack #channel or @user -
+    automatically send notifications to Slack based on rules you define (“if
+    message contains ‘billing’ notify @jeff”)
+  url: 'http://faq.frontapp.com/11686-Integrations/how-to-setup-a-slack-integration'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/FrontSlackbotFrontSlackbot.png
+  tags: 'Support,Productivity,Bots,Slack'
+- slug: screenleap-slackbot
+  name: Screenleap (Slackbot)
+  description: >-
+    Screenleap allows you to share your screen instantly with other members of
+    your team. This integration is only available when using Slack in Chrome.
+    To start a screen share, enter /leap in any channel. You will be given a
+    link which you can post to your team members. They will be able to see your
+    screen by simply clicking on the link. Chrome is currently required to share
+    your screen, but viewing can be done from any device with a browser. The
+    integration is also not currently compatible with the Screenleap for Mac and
+    Screenleap for Windows apps.
+  url: 'http://www.screenleap.com/slack-integration'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ScreenleapSlackbotScreenleapSlackbot.png
+  tags: 'Support,Productivity,Bots,Slack'
+- slug: checkmarket-slackbot
+  name: CheckMarket (Slackbot)
+  description: "CheckMarket is a cloud-based survey software solution with over 10,000 users in 150 countries. Conduct beautiful surveys and polls and act on the results! Unlimited support and users, built-in text analysis, Notifications, API, mobile friendly, professional services, integrations, multilingual support, Net Promoter Score (NPS) reporting and follow-up.  This integration will allow you to: \_ 1. Post a survey or poll directly to a Slack channel. Include the first question of your survey directly in your message to increase your response rate. Example: How likely are you to recommend [Company] to a friend or colleague?from Not at all likely (0) to Extremely likely (10).  0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 Click above on the score you want to give …   2. Post a survey notification to a Slack channel automatically and in real-time when a respondent answers a survey and meets your criteria. &nbsp;For instance, get a Slack message if a respondent indicates that they are very unsatisfied. The message can include variables and a link to the respondent report. You can win back at-risk customers through coordinated customer follow-up.  3. Post a survey chart to a Slack channel. Share the results of a survey by posting a message including an image of a chart directly into a Slack channel."
+  url: 'https://www.checkmarket.com/kb/slack-surveys-polls-integration/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/CheckMarketSlackbotCheckMarketSlackbot.png
+  tags: 'Support,HR,Bots,Slack'
+- slug: caller-zen-slackbot
+  name: Caller Zen (Slackbot)
+  description: >-
+    Caller Zen helps your customer support team handle inbound phone calls and
+    SMS text messages. When your team creates a Caller Zen account, they receive
+    a custom phone number. &nbsp;This number can be called to, texted to, or
+    incorporated into an existing phone tree. When integrated with Slack through
+    the Add To Slack button, Caller Zen posts inbound calls and texts to your
+    support/ops channel. Caller Zen also allows your team to reply to customers'
+    text messages directly via Slack through a slash command.
+  url: 'https://www.callerzen.com/slack'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/CallerZenSlackbotCallerZenSlackbot.png
+  tags: 'Support,Bots,Slack'
+- slug: chatlio-slackbot
+  name: Chatlio (Slackbot)
+  description: >-
+    Chatlio is the first and best app to let you talk to your website visitors
+    and users directly from Slack.  Setup takes less than 1 minute and provides
+    you with a chat widget to put anywhere you want on your site.    Visitors to
+    your site then can instantly chat with you about pre-sales questions,
+    support issues, etc. while you and your team respond directly from Slack
+    without any additional tools to install or use.     Chatlio provides the
+    same great experience you already know from Slack.  Features include typing
+    indicators, emojis, code block highlighting, requesting screenshots,
+    identifying your visitors location, browser, and any other custom details
+    about your visitors you provide like email, name, etc. and many, many more.
+  url: 'https://chatlio.com'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ChatlioSlackbotChatlioSlackbot.png
+  tags: 'Support,Bots,Slack'
+- slug: happyfox-chat-slackbot
+  name: HappyFox Chat (Slackbot)
+  description: >-
+    HappyFox Chat is the next generation free live chat software for websites,
+    that will help you to provide the best customer support and convert more
+    sales. Built on a high performance technology stack, HappyFox Chat offers an
+    amazing user experience and integrates with third party apps that you
+    already use.  It's free for up to 10 support agents and installs in less
+    than 2 minutes! &nbsp;With free Slack integration, you'll be able to accept
+    chat requests on your website, right from Slack and get notifications of all
+    chats going on.  Features: Concurrent chats, Canned responses, Chat
+    transfer, Free App integrations, Chat history, &nbsp;Amazing UI.
+  url: >-
+    https://support.happyfoxchat.com/kb/article/329-enable-integration-with-slack
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/HappyFoxChatSlackbotHappyFoxChatSlackbot.png
+  tags: 'Support,Bots,Slack'
+- slug: hipmob-slackbot
+  name: Hipmob (Slackbot)
+  description: >-
+    Hipmob provides hosted live chat and in-app support and feedback for mobile
+    applications. Hipmob&#039;s Slack integration allows Slack to receive
+    notifications when new chats are initiated in Hipmob with a link to the
+    specific chat so users can monitor a Slack room and respond promptly. Talk
+    to your users; make them happy!
+  url: 'http://hipmob.com/documentation/integrations/slack.html'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/HipmobSlackbotHipmobSlackbot.png
+  tags: 'Support,Bots,Slack'
+- slug: linkedchat-slackbot
+  name: LinkedChat (Slackbot)
+  description: >-
+    Live chat with your website visitors from Slack. A better way to talk with
+    your online customers. Help desk tool based entirely on Slack.No additional
+    software. Unlimited agents.Visitors of your site can instantly chat with you
+    about pre-sales questions, support issues, etc. while you and your team
+    respond directly from Slack without any additional tools to install or use.
+    Just copy and paste small code into your website and you will be able to
+    reply to your visitors directly from Slack.
+  url: >-
+    https://linked.chat/?utm_source=slack&amp;utm_medium=referral&amp;utm_campaign=slack_app_directory
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/LinkedChatSlackbotLinkedChatSlackbot.png
+  tags: 'Support,Bots,Slack'
+- slug: live-chat-slackbot
+  name: Live Chat (Slackbot)
+  description: >-
+    Live Chat by Social Intents lets you chat with website visitors right from
+    Slack. &nbsp; Convert your visitors to customers and sales by engaging them
+    right from your web page. &nbsp; All conversations happen right in Slack so
+    there’s no need for any additional software or apps to download.
+    &nbsp;Answer chats from your desktop and mobile phone with ease! Live Chat
+    gives you total control on the colors, text, and questions you ask as
+    visitors enter the chat. &nbsp;Set up your entire team in about 30 seconds!
+  url: 'http://www.socialintents.com/slack-live-chat.jsp'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/LiveChatSlackbotLiveChatSlackbot.png
+  tags: 'Support,Bots,Slack'
+- slug: prudio-slackbot
+  name: Prudio (Slackbot)
+  description: >-
+    Using our chat widget, your customers can talk with you using any device.
+    You can use it to provide support, answer questions or concerns on
+    e-commerce transactions and much more. No need to change your workflow — use
+    Slack's mobile, desktop, and web apps to get started instantly. Interact
+    with your potential customers online using your existing tool and work
+    methods. Copy one line of code to your website and start engaging your
+    customers. Be proactive and increase your customer happiness.
+  url: 'http://www.prudio.com'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/PrudioSlackbotPrudioSlackbot.png
+  tags: 'Support,Bots,Slack'
+- slug: ramen-slackbot
+  name: Ramen (Slackbot)
+  description: >-
+    Ramen is a product for web businesses to better understand who is using
+    their product, ask them highly-targeted in-app questions based on user
+    behavior, analyze the results across different user segments, and provide a
+    better and faster way for product teams to get the data they need to build a
+    successful product. The integration allows your team to receive updates in a
+    Slack channel when a user answers a question and when a new user signs up.
+  url: 'https://ramen.is/blog/slack-integration/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/RamenSlackbotRamenSlackbot.png
+  tags: 'Support,Bots,Slack'
+- slug: sameroom-slackbot
+  name: Sameroom (Slackbot)
+  description: >-
+    Sameroom provides real-time interoperability between Slack and other chat
+    systems. There are three main ways of using Sameroom: 1.
+    sameroom.io/open-a-tube — Connect channels or private groups to other teams
+    (e.g., on Skype)2. sameroom.io/create-a-portal — Share your Slack channel
+    with another team via URL3. sameroom.io/attend — Use Slack for customer
+    support: respond to tweets, Intercom messages, etc. For more recipes and
+    information, see the Sameroom blog, Frequently Asked Questions, and
+    Limitations.
+  url: 'https://sameroom.io/open-a-tube'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/SameroomSlackbotSameroomSlackbot.png
+  tags: 'Support,Bots,Slack'
+- slug: slaask-slackbot
+  name: Slaask (Slackbot)
+  description: >-
+    Slaask is the first customer chat tool that is 100% integrated into Slack.
+    With Slaask, you no longer need to use a separate customer chat tool outside
+    of Slack.Finally, your customer chat tool is fully integrated into Slack.
+    While reducing friction within your company operations, leverage Slack's
+    features for your customers (search engine, fully native apps for iOS and
+    Android...). Slaask is for forward-thinking small and medium size businesses
+    who believe in the all your tools in one place Slack vision. Slaask.Less
+    tabs. Better reactivity. More conversions.
+  url: 'https://slaask.com/documentations'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/SlaaskSlackbotSlaaskSlackbot.png
+  tags: 'Support,Bots,Slack'
+- slug: smooz-slackbot
+  name: Smooz (Slackbot)
+  description: >-
+    Your clients are on Slack, you're on Slack, why use anything else? Smooz is
+    the simplest way to connect with clients and partners. Whether you're an
+    agency looking to connect with clients, a core team coordinating with a
+    local team, or just for fun, Smooz is here to help you connect in a more
+    convenient way. Smooz lets you create a dedicated channel between two Slack
+    teams. It's incredibly easy to set up: 1) Click Add to Slack to get your
+    personal link. 2) Share it privately with the team(s) you want to invite, or
+    embed a public button in your web page3) They click on Add to Slack. That's
+    it! Smooz will create a dedicated channel in each team, in which you can
+    chat with the other team, as well as send files. Both teams can invite as
+    many users as they want in their channel, rename it, or make it private.
+    Forget about - asking your users to join as single-channel users - asking
+    your client to invite you and your team in their Slack- creating a joint
+    Slack just to discuss a project with a partner.  Smooz is the simplest way
+    to connect with clients and partners.
+  url: 'http://www.smooz.io'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/SmoozSlackbotSmoozSlackbot.png
+  tags: 'Support,Bots,Slack'
+- slug: talkus-slackbot
+  name: Talkus (Slackbot)
+  description: >-
+    With Talkus, Slack becomes the place for your team to communicate with
+    customers, personally, on your website by live chat or by email, phone or
+    SMS. Talkus is the most powerful help desk entirely based on Slack. Increase
+    visitor conversion, user retention, engagement and create happy customers in
+    a snap. Your users see a beautiful chat window on your website: all their
+    chat messages are piled in your Talkus channel in your own Slack. With
+    simple Slack commands, you can assign them to your team, take screenshots
+    for your users and invite your expert teammates to the discussion, in
+    addition to all the cool Slack features (auto-completion, emojis, etc).
+    Talkus also automatically performs a user satisfaction survey when you close
+    tickets and remembers all you need to know about your customers. You don't
+    need another complicated and expensive app to help your online customers:
+    install, customize the look and display of Talkus and invite teammates in a
+    few seconds, and start making your users happy. For more details, visit
+    http://talkus.io and talk to us!
+  url: 'http://talkus.io'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/TalkusSlackbotTalkusSlackbot.png
+  tags: 'Support,Bots,Slack'
+- slug: yodel-slackbot
+  name: Yodel (Slackbot)
+  description: >-
+    Our Yodel bot lives in your Slack channels and announces calls. - Answer the
+    calls directly from Slack and talk via the web browser or mobile phone.-
+    Dial out with the /yodel slash command.- Invite others in Slack to the
+    calls.- Share calls via the Yodel link inside and outside of Slack. Finally,
+    you can share not only GIFs but also calls!
+  url: 'http://help.yodel.io/knowledge_base/topics/first-steps-1'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/YodelSlackbotYodelSlackbot.png
+  tags: 'Support,Bots,Slack'
+- slug: mailclark-slackbot
+  name: MailClark (Slackbot)
+  description: >-
+    MailClark is the email bot of your team. He allows you to both send and
+    receive emails &amp; attachments directly in Slack.   Team inboxes &amp;
+    help deskssupport@, jobs@ or sales@your.team, reply to inquiries directly
+    from your channels with MailClark's Front mode.   Email groupsYour clients
+    won't use Slack? With MailClark's Group mode, invite them as email members:
+    Slack for your team, emails for them, everybody's :)   Send emails whenever
+    you needStop switching between Slack and Gmail or Outlook, email your lawyer
+    directly from #legal. His answer will automatically come up in Slack.
+  url: 'https://mailclark.ai/backdoor?ref=slack'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/MailClarkSlackbotMailClarkSlackbot.png
+  tags: 'Support,Bots,Bots,Slack'
+- slug: intercom
+  name: Intercom
+  description: >-
+    Intercom is a fundamentally new way for internet businesses to communicate
+    with customers, personally, at scale. It's a customer communication platform
+    with a suite of integrated products for every team&mdash;including sales,
+    marketing, product, and support. Our products enable targeted communication
+    with customers on your website, inside your web and mobile apps, and by
+    email.
+  url: 'https://www.intercom.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/intercomdevs'
+  blog: 'https://blog.intercom.com/'
+  blog_rss: 'http://feeds.feedburner.com/insideintercom'
+  github: 'https://github.com/intercom'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/intercom-logo.png
+  tags: 'Support,Communication,Communications'
+- slug: workbot-slackbot
+  name: Workbot (Slackbot)
+  description: >-
+    Workbot from Workato lets you talk to your apps and take actions on them
+    without leaving Slack. Top features: Get better app notifications. Cut down
+    on app notification spam via intelligent filters and workflows. &nbsp;E.g:
+    based on the type or a threshold number of trouble tickets Take actions
+    across 100+ apps. Eg: create tickets in github, update account info in
+    Salesforce Get 360 degree view of customers across all your apps  Get
+    instant stats and trends across all your apps. Get charts on demand or get
+    them on a schedule. &nbsp;Eg: funnels from Mixpanel, invoice history from
+    QuickBooks or order history from Salesforce.  Workato also lets you easily
+    personalize your Workbot commands or create brand new ones for your
+    business.  Supported apps: Docusign, Eventbrite, Expensify, Github, Intacct,
+    Intercom, JIRA, Mailchimp, Marketo, Mixpanel, Pipedrive, QuickBooks,
+    Salesforce, ServiceNow, Stripe, SurveyMonkey, Xero, Zendesk &amp; 100+ more.
+    Join hundreds of Workbot customers getting more our of their apps and
+    Slack.  For more information, go to www.workbot.com or contact us at
+    workbot-info@workato.com.
+  url: 'https://www.workato.com/workbot-slack'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/WorkbotSlackbotWorkbotSlackbot.png
+  tags: 'Support,Brilliant Bots,Productivity,Bots,Slack'
+- slug: brand24-slackbot
+  name: Brand24 (Slackbot)
+  description: >-
+    Get access to online mentions about your brand or product directly from
+    Slack so that you don’t miss anything. Hook up your project to Slack to make
+    teamwork easier and more effective - discuss mentions, make group decisions
+    and assign tasks. We’ve got you covered!
+  url: 'https://brand24.net/integrations/slack#install'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Brand24SlackbotBrand24Slackbot.png
+  tags: 'Support,Bots,Slack'
+- slug: chatra-slackbot
+  name: Chatra (Slackbot)
+  description: >-
+    Chatra is a modern live chat platform that can be embedded on your website
+    or web app. Talk to your users and visitors in real time to increase sales,
+    collect feedback and boost customer satisfaction. This integration posts
+    incoming chat notifications, chat transcripts and offline messages to
+    channels in Slack. Incoming chat notifications can be posted in a different
+    channel from transcripts and offline messages.
+  url: 'https://chatra.io/help/integrations/slack'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ChatraSlackbotChatraSlackbot.png
+  tags: 'Support,Bots,Slack'
+- slug: delighted-slackbot
+  name: Delighted (Slackbot)
+  description: >-
+    Delighted is the fastest and easiest way to gather actionable feedback from
+    your customers, and with our Slack integration you can ensure everyone on
+    your team sees feedback from customers as it happens. Your Delighted
+    feedback can be sent to any of your Slack channels. &nbsp;Set up rules to
+    send feedback about your app to an #engineering channel, or Promoters to a
+    #testimonial channel. You can also turn on a daily summary that will post a
+    summary of your NPS and previous day's activity to a channel of your choice.
+    Features:* Send Delighted feedback into Slack channels in real time. * Send
+    feedback from Promoters, Passives, or Detractors to any channel* Send
+    feedback from any Trend to any channel* Choose from any existing channel or
+    create a new channel* Simple setup process
+  url: 'https://delighted.com/guides/integrations/slack'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/DelightedSlackbotDelightedSlackbot.png
+  tags: 'Support,Bots,Slack'
+- slug: desk.com-slackbot
+  name: Desk.com (Slackbot)
+  description: >-
+    Desk.com, the industry leading customer service application for fast growing
+    companies.
+  url: >-
+    https://support.desk.com/customer/portal/articles/1792871-integrate-slack-with-desk-com
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Desk.comSlackbotDesk.comSlackbot.png
+  tags: 'Support,Bots,Slack'
+- slug: enchant-slackbot
+  name: Enchant (Slackbot)
+  description: >-
+    Enchant is a help desk solution that makes your customer communication
+    process simpler, faster and more personal.  This integration will post
+    notifications to a channel in Slack when ticket activity occurs within
+    Enchant.
+  url: ''
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/EnchantSlackbotEnchantSlackbot.png
+  tags: 'Support,Bots,Slack'
+- slug: groove-slackbot
+  name: Groove (Slackbot)
+  description: >-
+    The Groove integration will send notifications of incoming tickets (and a
+    variety of other notification preferences) right into your Slack team&#039;s
+    own Groove Channel. You can use these notifications to collaborate with your
+    team in real time about customer questions without even leaving your chat
+    room.
+  url: >-
+    https://help.groovehq.com/knowledge_base/topics/setting-up-your-slack-integration
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/GrooveSlackbotGrooveSlackbot.png
+  tags: 'Support,Bots,Slack'
+- slug: madkudu-slackbot
+  name: MadKudu (Slackbot)
+  description: >-
+    The MadKudu App is a great way for your sales team to get notified when
+    something important happened or needs to be done. For example, it lets you
+    know when a high potential value customer signed up. Or when a customer
+    became engaged enough that it is a good time to reach out and close.
+  url: 'http://docs.madkudu.com/integrations/slack/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/MadKuduSlackbotMadKuduSlackbot.png
+  tags: 'Support,Bots,Slack'
+- slug: promoter-slackbot
+  name: Promoter (Slackbot)
+  description: >-
+    Promoter.io is a premium SaaS-based NPS (Net Promoter Score) solution that
+    helps companies reduce churn and improve customer growth by identifying and
+    engaging with their biggest promoters and detractors. This integration will
+    post realtime scores and feedback into any of your Slack channels and will
+    also display the customer's profile. Clicking on the entry will directly
+    link you to follow-up within the Promoter.io app. Features:   Quick and easy
+    setup   Display customer feedback across teams (sales, marketing, customer
+    success, operations, engineering, etc.)   Post realtime feedback and scores
+    to any existing or new Slack channel
+  url: 'https://promoter.groovehq.com/knowledge_base/topics/slack-2'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/PromoterSlackbotPromoterSlackbot.png
+  tags: 'Support,Bots,Slack'
+- slug: reamaze-slackbot
+  name: Reamaze (Slackbot)
+  description: >-
+    If you use Slack, you&rsquo;re probably accustomed to managing just about
+    everything related to your team&rsquo;s digital workflow through it. Google
+    documents, git commits, project management, etc. That&rsquo;s the beauty of
+    an integrated workflow. In case you&rsquo;ve been looking for another
+    fitting piece to the puzzle, look no further: Reamaze now integrates with
+    Slack to bring customer support to your team&rsquo;s channels.
+  url: 'http://blog.reamaze.com/2014/04/24/slack-customer-support/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ReamazeSlackbotReamazeSlackbot.png
+  tags: 'Support,Bots,Slack'
+- slug: satismeter-slackbot
+  name: SatisMeter (Slackbot)
+  description: >-
+    SatisMeter is a feedback platform that collects NPS and customer feedback
+    directly inside mobile and web apps based on specific usage patterns. With
+    SatisMeter you can reduce churn by proactively solving customer issues,
+    validate product priorities based on your customers' feedback and measure
+    and track satisfaction of your customers. Connect SatisMeter to Slack and
+    see your customer feedback in real-time in your Slack channel.
+  url: 'https://satismeter.com/slack'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/SatisMeterSlackbotSatisMeterSlackbot.png
+  tags: 'Support,Bots,Slack'
+- slug: twitter-slackbot
+  name: Twitter (Slackbot)
+  description: >-
+    Twitter is a social network and microblogging service where users post
+    140-character messages called &quot;tweets&quot; to their followers.  This
+    integration will allow you to:  * Automatically expand pasted Twitter URLs,
+    displaying the full tweet and attached media  * Automatically post tweets to
+    a channel that are sent to/from a Twitter account of your choice
+  url: ''
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/TwitterSlackbotTwitterSlackbot.png
+  tags: 'Support,Bots,Slack'
+- slug: userlike-slackbot
+  name: Userlike (Slackbot)
+  description: >-
+    Userlike is a customizable chat platform that can be embedded on your
+    website. Chat live with website visitors to deliver feedback and support
+    instantly.  This integration will post notifications to a channel in Slack
+    when a chat is started or an offline message is received.
+  url: ''
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/UserlikeSlackbotUserlikeSlackbot.png
+  tags: 'Support,Bots,Slack'
+- slug: zendesk-slackbot
+  name: Zendesk (Slackbot)
+  description: >-
+    Zendesk is web-based software to manage your team&#039;s help desk
+    ticketing, issue tracking, and customer service support.  This integration
+    allows your team to receive notifications when a help ticket is created,
+    updated to &quot;open&quot; or &quot;pending&quot;, solved, and closed.
+  url: ''
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ZendeskSlackbotZendeskSlackbot.png
+  tags: 'Support,Bots,Slack'
+- slug: help-scout
+  name: Help Scout
+  description: >-
+    Help Scout provides your team with a scalable help desk, while keeping the
+    customer experience simple and personalized. Customers won't have to create
+    an account or keep track of their ticket number because to them it works
+    just like email.  The customer experience is simple and training staff is
+    painless, but Help Scout still has all the powerful features you need to
+    provide great support at scale. With best in-class-reporting, an integrated
+    knowledge base, 50+ integrations and a robust API, Help Scout lets your team
+    focus on what really matters: your customers.
+  url: 'http://helpscout.net/'
+  short_url: ''
+  twitter: 'https://twitter.com/helpscout'
+  blog: 'https://www.helpscout.net/blog/'
+  blog_rss: 'https://www.helpscout.net/blog/feed/rss.xml'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/help-scout-logo.png
+  tags: Support
+- slug: mindtouch
+  name: MindTouch
+  description: >-
+    MindTouch offers cloud software that provides self-service customer
+    experiences that create product experts and improves marketing, sales and
+    support. MindTouch is a leading SaaS solution for customer
+    success/engagement management helping companies create smarter customers to
+    accelerate the sales cycle and drive product adoption. MindTouch transforms
+    the product and help content your company already produces into a customer
+    engagement channel.
+  url: 'http://developer.mindtouch.com/Deki_Wiki/API_Reference'
+  short_url: ''
+  twitter: 'https://twitter.com/mindtouch'
+  blog: 'http://www.mindtouch.com/blog/'
+  blog_rss: 'http://www.mindtouch.com/feed/'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/438_logo.png
+  tags: Support
+- slug: mite
+  name: mite
+  description: ''
+  url: 'http://mite.yo.lk/en/api/index.html'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/439_logo.png
+  tags: 'Office,Time tracking,Projects,Support,Customer Engagement'
+- slug: zendesk
+  name: Zendesk
+  description: >-
+    Zendesk provides an integrated on-demand helpdesk - customer support portal
+    solution based on the latest Web 2.0 technologies and design philosophies.
+    The product has an elegant, minimalist design implemented in Ruby on Rails
+    and provides seamless integration of the back-end helpdesk SaaS to a
+    company&rsquo;s online customer-facing web presence, including hosted
+    support email-ticket integration, online forums, RSS and widgets. &nbsp;
+    This is unusual, because most SaaS helpdesk solutions focus exclusively on
+    the backend helpdesk and treat the Web as an afterthought. &nbsp;
+  url: 'http://www.zendesk.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/zendesk'
+  blog: 'http://www.zendesk.com/blog'
+  blog_rss: 'http://www.zendesk.com/feed'
+  github: 'https://github.com/zendesk'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/283_logo.png
+  tags: 'Helpdesk,Interent,SaaS,Support,Support,Support,API LIfeycle,Reliability'
+- slug: usefulfeedback
+  name: UsefulFeedback
+  description: >-
+    UsefulFeedback is owned and managed by a team that have made a professional
+    habit out of helping organisations of all types to better manage complaints
+    and feedback. Our business is the coming together of two key areas of
+    expertise - software design and cloud architecture coupled with a deep
+    understanding of complaint management, as both a process and the practice of
+    consumer redress.
+  url: 'http://www.usefulfeedback.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/usefulfeedback'
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/useful-feedback-logo.png
+  tags: 'Feedback,Support'
+- slug: defense-logistics-agency-dla
+  name: Defense Logistics Agency (DLA)
+  description: ''
+  url: 'http://www.dla.mil'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: ''
+  tags: >-
+    Federal Government,Veterans,Law Enforcement,Navy,Military,Air
+    Force,Army,Acquisition,Dla,Logistics,Supply,Marines,Coast Guard,Troop
+    Support,Servicemembers
+- slug: deskero
+  name: Deskero
+  description: ''
+  url: 'http://www.deskero.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/deskerocare'
+  blog: 'http://blog.deskero.com/'
+  blog_rss: 'http://blog.deskero.com/feed/'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1956_logo.png
+  tags: 'Enterprise,Helpdesk,Support'
+- slug: azuqua-slackbot
+  name: Azuqua (Slackbot)
+  description: >-
+    The first time you add a Slack card to a FLO, you will need to set up a
+    configuration for that Channel. Setting up a configuration will allow you to
+    connect Azuqua your Slack account, save the data, and reuse that
+    configuration next time you build a FLO with this card. That way, you don't
+    have to sign in every time you want to build a FLO with this Channel. After
+    you've set up one configuration, you can choose to use that configuration
+    again, or set up a new one.&nbsp;
+  url: 'http://help.azuqua.com/help/article/link/slack-config'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/AzuquaSlackbotAzuquaSlackbot.png
+  tags: 'Developer Tools,Support,Projects,Bots,Slack'
+- slug: usersnap-slackbot
+  name: Usersnap (Slackbot)
+  description: >-
+    Connect Slack with the bug tracker from Usersnap  Get notified inside Slack
+    on every created screenshot &amp; bug report. Bug tracking with Slack made
+    easy.  Why connect Slack with Usersnap for bug tracking?  Bug tracking,
+    browser testing and issue tracking with the Slack integration from Usersnap
+    was never easier. Point and click issue reporting helps you to get browser
+    screenshots and additional information faster. No endless bug reporting for
+    your users ever again.  Learn more about integrating Slack with Usersnap
+    (https://usersnap.com/slack)
+  url: 'https://usersnap.com/slack'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/UsersnapSlackbotUsersnapSlackbot.png
+  tags: 'Developer Tools,Support,Projects,Bots,Slack'
+- slug: samanage-slackbot
+  name: Samanage (Slackbot)
+  description: >-
+    The Samanage Slack app enables integrating between Samanage and Slack for
+    receiving Samanage notifications on new incidents and SLA breaches in a
+    specific Slack channel. Samanage delivers 100% SaaS enterprise service desk
+    and IT asset management solutions that instantly offer extensive visibility
+    into every incident and every service request. Visibility into service
+    management is uniquely defined by Samanage through a highly intuitive
+    interface, rich reporting, real-time peer-to-peer benchmarking into
+    performance metrics, and actionable insights gathered from millions of
+    service requests. With this one-of-a-kind approach to visibility of
+    enterprise services, Samanage enables an unprecedented level of confidence
+    to IT service management. Shifting the value equation for how services are
+    delivered to the enterprise, Samanage is leading the next generation of ITSM
+    solutions. Samanage is a paid service. You are welcome to sign up for a free
+    14 day trial.
+  url: >-
+    https://community.samanage.com/samanage/topics/product-update-samanage-slack-integration
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/SamanageSlackbotSamanageSlackbot.png
+  tags: 'Developer Tools,Support,Office,Bots,Slack'
+- slug: appbot-slackbot
+  name: Appbot (Slackbot)
+  description: >-
+    Get app reviews for iOS, Mac, Google Play, Windows Phone and Amazon for all
+    countries straight to your Slack channel!  You can even reply directly to
+    Google Play reviews with a quick link to Google Play console. We make sense
+    of review data from the major mobile app stores by aggregating and analysing
+    customer sentiment about your apps, and those of your competitors.
+    Developers and Product Managers use Appbot to cut through the noise and
+    surface the reviews that are really important to their downloads and revenue
+    by:   easily identifying feature requests,   quickly surfacing bugs, and
+    tracking how users are feeling about their apps over time.
+  url: 'http://blog.appbot.co/slack-integration-post-app-reviews-to-slack/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/AppbotSlackbotAppbotSlackbot.png
+  tags: 'Developer Tools,Support,Bots,Slack'
+- slug: bell-apps-app-review-notification-slackbot
+  name: Bell Apps App Review Notification (Slackbot)
+  description: >-
+    Send App Store reviews to a specified channel of your Slack team. When
+    reviews are posted to App Store page, send notification to Slack
+    automatically. You can receive reviews of any AppStore App. So, for example,
+    you can check reviews of your competitors.
+  url: 'https://bell-apps.appspot.com/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/BellAppsAppReviewNotificationSlackbotBellAppsAppReviewNotificationSlackbot.png
+  tags: 'Developer Tools,Support,Bots,Slack'
+- slug: doctorsim-imei-lookup-slackbot
+  name: doctorSIM IMEI Lookup (Slackbot)
+  description: >-
+    Identify any phone based on its IMEI number!Check if it is blacklisted
+    against over 150 network operators from 57 countries!Obtain info regarding
+    the original phone operator! Available commands:  /whatphone Get specs on a
+    phone based on its IMEI/MEID  /isblacklisted Check whether a phone is
+    blacklisted  /isatt Did the phone originally come from AT&amp;T  /how Help
+    and list of more commands! Checks are FREE and UNLIMITED for phone spec and
+    AT&amp;T origin check. Checks for blacklisted lookups are limited initially
+    to 10 lookups. If you need additional lookups you can sign up for an account
+    here: https://pro.doctorsim.com/libpanel/alta/?lang=1. You can check pricing
+    and account balance with:  /pricing  /getbalance Happy Checking!
+  url: 'https://pro.doctorsim.com/libpanel/slack/?lang=1'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/doctorSIMIMEILookupSlackbotdoctorSIMIMEILookupSlackbot.png
+  tags: 'Developer Tools,Support,Bots,Slack'
+- slug: doorbell-slackbot
+  name: Doorbell (Slackbot)
+  description: >-
+    Easily gather in-app user feedback, on websites, iOS apps, and Android
+    apps.   Doorbell integrates with your favourite project management systems,
+    so you can easily create tasks in them based on user feedback. Integrations
+    include Pivotal Tracker, Trello, Sprint.ly, FogBugz, and several others.
+    Get notified instantly by email or in Slack when new feedback is received,
+    or when replies are sent.  Other features include automatic screenshots via
+    the JavaScript SDK, sending and receiving attachments, sentiment analysis of
+    feedback, and more!
+  url: 'http://blog.doorbell.io/post/134792037115/slack-integration'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/DoorbellSlackbotDoorbellSlackbot.png
+  tags: 'Developer Tools,Support,Bots,Slack'
+- slug: help-scout-slackbot
+  name: Help Scout (Slackbot)
+  description: >-
+    Help Scout is a simple, scalable help desk solution for small businesses to
+    manage customer support. This integration allows your team to receive
+    notifications when a conversation is created, assigned, updated, replied to,
+    and deleted.
+  url: 'https://slack.com/apps/A0F81R6CX-help-scout'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/HelpScoutSlackbotHelpScoutSlackbot.png
+  tags: 'Developer Tools,Support,Bots,Slack'
+- slug: launchkit-slackbot
+  name: LaunchKit (Slackbot)
+  description: >-
+    Automatically finds and posts reviews from the App Store for your app for
+    the entire team to see. Automatically imports and beautifully formats App
+    Store sales reports so you know how many downloads you get every day.
+  url: 'https://launchkit.io/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/LaunchKitSlackbotLaunchKitSlackbot.png
+  tags: 'Developer Tools,Support,Bots,Slack'
+- slug: pulseway-slackbot
+  name: Pulseway (Slackbot)
+  description: >-
+    This application allows your team to receive all Pulseway notifications, so
+    that you can stay on top of what’s happening with your systems.
+  url: 'https://www.pulseway.com/slack'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/PulsewaySlackbotPulsewaySlackbot.png
+  tags: 'Developer Tools,Support,Bots,Slack'
+- slug: smooch-slackbot
+  name: Smooch (Slackbot)
+  description: >-
+    Speak to your customers directly from Slack  Manage your customer
+    relationships entirely in Slack  Allow your entire team to completely manage
+    communication with your customers without leaving Slack. Smooch also
+    automatically manages and archives the conversation channels it creates to
+    keep your team’s Slack neat &amp; tidy. Mom would approve.  1. When a user
+    reaches out to you, Smooch will alert a channel you specify to let you know
+    a user needs help.  2. This alert will take you to a channel that’s specific
+    to the user who’s speaking to you.  3. Consult and collaborate with your
+    teammates, then reply with a simple /sk command.  Your replies are instantly
+    delivered to the user’s phone and look just like a text message would.
+  url: 'http://docs.smooch.io/ios/#slack'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/SmoochSlackbotSmoochSlackbot.png
+  tags: 'Developer Tools,Support,Bots,Slack'
+- slug: texturner-slackbot
+  name: TexTurner (Slackbot)
+  description: >-
+    TexTurner is The Human Translation Bot for Slack. TexTurner removes the
+    bottlenecks that slow down translation jobs. Real native speakers translate
+    your words into context and humanize your job, be it an email, ad copy,
+    strings for an app, or even an investor deck. Whatever it is, you'll have it
+    translated in 3-30 minutes by a Human. You and your team will never be lost
+    in translation again. Note: Clicking the Add-to-Slack button will create a
+    TexTurner account using the email address you've saved in Slack.
+  url: 'http://texturner.com'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/TexTurnerSlackbotTexTurnerSlackbot.png
+  tags: 'Developer Tools,Support,Bots,Slack'
+- slug: mineful
+  name: Mineful
+  description: >-
+    Mineful automates customer retention for online businesses. With automated
+    actions based on customers intelligence, we help retailers and mobile apps
+    retain more customers and increase repeat purchases. With Mineful, data
+    integration is easy. Currently we leverage the API of Shopify and Yahoo! and
+    plan to add more soon. Clients also upload data using our well documented
+    API.
+  url: 'http://mineful.com'
+  short_url: ''
+  twitter: 'https://twitter.com/mineful'
+  blog: 'http://www.mineful.com/blog/'
+  blog_rss: 'http://feeds2.feedburner.com/mineful'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/851_logo.jpg
+  tags: 'Customer service,Enterprise,Surveys,Support,Automation'
+- slug: freshdesk
+  name: Freshdesk
+  description: "Freshdesk is a cloud-based customer support platform that was founded with the mission of enabling companies of all sizes to provide great customer service. \_Our goal is simple: make it easy for brands to talk to their customers and make it easy for users to get in touch with businesses."
+  url: 'http://www.freshdesk.com'
+  short_url: ''
+  twitter: 'https://twitter.com/freshdesk'
+  blog: 'http://blog.freshdesk.com'
+  blog_rss: 'http://feeds.feedburner.com/freshdesk/eaHJ'
+  github: 'https://github.com/freshdesk'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo-freshdesk.png
+  tags: 'CRM,Customer service,Enterprise,Helpdesk,Support,Support'
+- slug: nicereply
+  name: Nicereply
+  description: >-
+    Nicereply was born in summer of 2010 as a spin of from WebSupport, an
+    European hosting company. Our mission is to help companies to provide an
+    outstanding customer service. We believe, that a great customer care have a
+    direct positive effect on improvement of business performance. Whether it’s
+    a startup, e-commerce or international corporation, we’ve helped hundreds of
+    companies of all sizes since our start.
+  url: 'http://www.nicereply.com'
+  short_url: ''
+  twitter: 'https://twitter.com/#!/nice_reply'
+  blog: 'http://blog.nicereply.com'
+  blog_rss: 'http://blog.nicereply.com/feed/'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/627_logo.jpg
+  tags: 'Support,Support'
+- slug: liveperson
+  name: LivePerson
+  description: >-
+    LivePerson (http://www.liveperson.com/) is the market leader in real-time
+    intelligent customer engagement. Our mission is to help companies create
+    deeper connections with their customers, and our investment in real-time
+    analytics, metrics and a world-class hosted platform makes this possible at
+    scale. From the largest global enterprises to one-person businesses, our
+    8,500 customers trust us to deliver increased sales conversions, higher
+    order values and lower support costs. We are headquartered in New York
+    City.   Whatever your business or organization, large or small, LivePerson
+    online engagement solutions have been developed to foster productive
+    interaction with your website visitors, and achieve and exceed your
+    objectives. Whether your goal is to attract and convert visitors, boost
+    average order or add-on business, share information with your constituents,
+    provide state-of-the-art services, lower your costs — or to achieve a
+    combination of these results and more — we stand ready to help.
+  url: 'http://liveperson.com'
+  short_url: ''
+  twitter: 'https://twitter.com/LivePerson'
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/liveperson'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/364_logo.png
+  tags: 'Chat,Chat,Liveperson,Chat,Visit,Support'
+- slug: get-satisfaction
+  name: Get Satisfaction
+  description: >-
+    Get Satisfaction is the community platform that helps companies create
+    engaging customer experiences by fostering online conversations about their
+    products and services at every stage of the lifecycle. Get Satisfaction
+    powers 70,000 active customer communities hosting more than 35 million
+    consumers each month. From its inception in 2007, Get Satisfaction has been
+    focused on building an intuitive, easy to use community platform that is
+    designed to bring resolution to consumers; is highly discoverable by search
+    engines and is implemented quickly and easily.
+  url: 'http://getsatisfaction.com'
+  short_url: ''
+  twitter: 'https://twitter.com/getsatisfaction'
+  blog: 'http://blog.getsatisfaction.com/'
+  blog_rss: 'http://blog.getsatisfaction.com/feed/'
+  github: 'https://github.com/satisfaction'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/get_satisfaction_logo.png
+  tags: 'Building Block,Support,Forums'
+- slug: helpshift-sdk
+  name: Helpshift SDK
+  description: ''
+  url: 'http://www.helpshift.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/helpshiftSDK'
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/helpshift'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1423_logo.jpg
+  tags: 'Answers,CRM,Mobile,Social,Help Desk,Support'

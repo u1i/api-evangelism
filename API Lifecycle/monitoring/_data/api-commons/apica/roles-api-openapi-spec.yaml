@@ -1,0 +1,22 @@
+swagger: "2.0"
+info:
+  title: Roles API
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  '/roles ':
+    ' get ':
+      summary: Get Roles
+      description: Return user rolesttt
+      operationId: ""
+      responses:
+        200:
+          description: OK
+      tags:
+      - Roles
+definitions: []

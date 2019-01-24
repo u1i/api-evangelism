@@ -1,0 +1,53 @@
+swagger: "2.0"
+info:
+  title: Operation Dashboard API
+  description: The Operation Dashboard API.
+  version: 1.0.0
+host: www.site24x7.com.
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /operations_dashboards:
+    get:
+      summary: List Operations Dashboards
+      description: List of all Operations Dashboards.
+      operationId: list-operations-dashboards
+      responses:
+        200:
+          description: OK
+      tags:
+      - Operation Dashboards
+    post:
+      summary: Create Operations Dashboard
+      description: Create a new Operations Dashboard
+      operationId: create-operations-dashboard
+      parameters:
+      - in: path
+        name: display_namen        n        n            requiredn            Display
+          name for the Operations Dashboard.n        n    n    n        n        layout_typen        n        n            requiredn            Layout
+          to be used for the Operations Dashboa
+      responses:
+        200:
+          description: OK
+      tags:
+      - Operation Dashboards
+  /operations_dashboards/{dashboard_id}:
+    put:
+      summary: Update Operations Dashboard
+      description: Update the configuration of an existing Operations Dashboard.
+      operationId: update-operations-dashboard
+      parameters:
+      - in: path
+        name: display_namen        n        n            requiredn            Display
+          name for the Operations Dashboard.n        n    n    n        n        layout_typen        n        n            requiredn            Layout
+          to be used for the Operations Dashboa
+      responses:
+        200:
+          description: OK
+      tags:
+      - Operation Dashboards
+definitions: []

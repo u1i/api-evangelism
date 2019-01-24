@@ -1,0 +1,22 @@
+name: Coin ATM Radar
+description: Find Bitcoin ATM locations easily with our Bitcoin ATM Map. For many
+  Bitcoin machines online rates are available.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26504-coinatmradar-com.jpg
+tags:
+- Technology
+- Marketplace
+- internet
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/coin-atm-radar/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: https://coinatmradar.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

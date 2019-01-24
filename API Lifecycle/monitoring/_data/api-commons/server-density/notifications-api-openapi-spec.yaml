@@ -1,0 +1,88 @@
+swagger: "2.0"
+info:
+  title: Notifications API
+  description: The Notifications API.
+  version: 1.0.0
+host: api.serverdensity.io.
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /notifications:
+    get:
+      summary: List notifications
+      description: List notifications for a given time range, optionally filtered
+        by type (sms_notification, email_notification, phone_notification, or push_notification).
+      operationId: list-notifications-for-a-given-time-range-optionally-filtered-by-type-sms-notification-email-notific
+      parameters:
+      - in: query
+        name: filter
+        description: Return notification of this type only.
+      - in: query
+        name: include[]
+        description: Array of additional details to include.
+      - in: query
+        name: No Name
+      - in: query
+        name: since
+        description: The start of the date range over which you want to search. The
+          time element is optional.
+      - in: query
+        name: until
+        description: The end of the date range over which you want to search. This
+          should be in the same format as since. The size of the date range must be
+          less than 3 months.
+      responses:
+        200:
+          description: OK
+      tags:
+      - Notifications
+    x-description:
+      summary: L
+      description: L
+      operationId: L
+      responses:
+        200:
+          description: OK
+      tags:
+      - Notifications
+  /notifications/recipients:
+    "":
+      summary: Creating a recipient
+      description: Create recipients for your alert notifications
+      operationId: creating-a-recipient
+      parameters:
+      - in: body
+        name: channel
+        description: Channel name for chat integrations
+        schema:
+          $ref: '#/definitions/holder'
+      - in: body
+        name: name
+        description: The name of your notification integration
+        schema:
+          $ref: '#/definitions/holder'
+      - in: body
+        name: token
+        description: Your integration API token
+        schema:
+          $ref: '#/definitions/holder'
+      - in: body
+        name: type
+        description: The type of notification integration
+        schema:
+          $ref: '#/definitions/holder'
+      - in: body
+        name: url
+        description: URL for webhook integrations
+        schema:
+          $ref: '#/definitions/holder'
+      responses:
+        200:
+          description: OK
+      tags:
+      - Metrics
+definitions: []

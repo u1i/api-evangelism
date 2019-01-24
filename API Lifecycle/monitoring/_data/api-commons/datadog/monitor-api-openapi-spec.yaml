@@ -1,0 +1,284 @@
+swagger: "2.0"
+info:
+  title: Monitor API
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /api/v1/monitor:
+    get:
+      summary: Get all monitor details
+      description: ""
+      operationId: get-all-monitor-details
+      parameters:
+      - type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Monitors
+    post:
+      summary: Create a monitor
+      description: 'Default: <code>None</code>'
+      operationId: create-a-monitor
+      parameters:
+      - type: string
+      - in: query
+        name: '#'
+        description: ' an integer or decimal number used to set then              threshold'
+        type: string
+      - in: query
+        name: change_aggr
+        description: ' change, pct_change'
+        type: string
+      - in: query
+        name: check
+        description: ' name of the check, e.g. datadog.agent.up'
+        type: string
+      - in: query
+        name: count
+        description: ' must be at &gt;= your max threshold (definedn              in
+          the options). e.g. if you want to notify on 1n              critical, 3
+          ok and 2 warn statuses count should be 3.'
+        type: string
+      - in: query
+        name: escalation_message
+        description: ' a message to include with an              re-notification.
+          Supports the @username notification we allown              elsewhere. Not
+          applicable if renotify_interval isn              None.n              Default:
+          Nonen'
+        type: string
+      - in: query
+        name: event
+        description: ', the event query string:n                n                  nstring_query
+          free text query to match against event title and text.'
+        type: string
+      - in: query
+        name: event alert
+        type: string
+      - in: query
+        name: excluded_tags
+        description: ' exluded event tags (comma-separated).'
+        type: string
+      - in: query
+        name: host
+        description: ' event reporting host (comma-separated).'
+        type: string
+      - in: query
+        name: include_tags
+        description: ' a boolean indicating whethern              notifications from
+          this monitor will automatically insert itsn              triggering tags
+          into the title.n              Default: Truen              Examples:nn                nn                  True:n                      [Triggered
+          on {host:h1}] Monitor Titlen'
+        type: string
+      - in: query
+        name: key
+        description: ' a key in key:value tag syntax; defines an              separate
+          alert for each tag in the group (multi-alert)'
+        type: string
+      - in: query
+        name: last
+        description: ' the timeframe to roll up the counts. Examples: 60s, 4h. Supported
+          timeframes: s, m, h and d.'
+        type: string
+      - in: query
+        name: locked
+        description: ' a boolean indicating whether changes ton              to this
+          monitor should be restricted to the creator or admins.n              Default:
+          Falsen'
+        type: string
+      - in: query
+        name: metric alert
+        type: string
+      - in: query
+        name: notify_audit
+        description: ' a boolean indicating whether taggedn              users will
+          be notified on changes to this monitor.n              Default: Falsen'
+        type: string
+      - in: query
+        name: notify_no_data
+        description: ' a boolean indicating whether thisn              monitor will
+          notify when data stops reporting.n              Default: falsen'
+        type: string
+      - in: query
+        name: no_data_timeframe
+        description: ' the number of minutes before an              monitor will notify
+          when data stops reporting. Must be at leastn              2x the monitor
+          timeframe for metric alerts or 2 minutes forn              service checks.n              Default:
+          2x timeframe for metric alerts, 2 minutes forn              service checksn'
+        type: string
+      - in: query
+        name: operator
+        description: ' &lt;, &lt;=, &gt;, &gt;=, ==, or !='
+        type: string
+      - in: query
+        name: priority
+        description: ' event priorities (comma-separated). Valid options: low, normal,
+          all.'
+        type: string
+      - in: query
+        name: renotify_interval
+        description: ' the number of minutes aftern              the last notification
+          before a monitor will re-notify on then              current status. It
+          will only re-notify if its not resolved.n              Default: Nonen'
+        type: string
+      - in: query
+        name: require_full_window
+        description: ' a boolean indicating whethern              this monitor needs
+          a full window of data before its evaluated. Wen              highly recommend
+          you set this to False for sparsen              metrics, otherwise some evaluations
+          will be skipped.n              Default: True for on average, at all times
+          andn              in total aggregation. False otherwise.n'
+        type: string
+      - in: query
+        name: role:db
+        description: ' for a short time:n                      {role:db: 1412798116}n'
+        type: string
+      - in: query
+        name: rollup
+        description: ' the stats rollup method. count is the only supported method
+          now.'
+        type: string
+      - in: query
+        name: service check
+        type: string
+      - in: query
+        name: silenced
+        description: ' dictionary of scopes to timestamps orn              None. Each
+          scope will be muted until the given POSIXn              timestamp or forever
+          if the value is None.n              Default: Nonen              Examples:nn                nn                  To
+          mute the alert completely:n                      {*: None}n'
+        type: string
+      - in: query
+        name: sources
+        description: ' event sources (comma-separated).'
+        type: string
+      - in: query
+        name: space_aggr
+        description: ' avg, sum, min, or max'
+        type: string
+      - in: query
+        name: status
+        description: ' event statuses (comma-separated). Valid options: error, warn,
+          and info.'
+        type: string
+      - in: query
+        name: tags
+        description: ' one or more tags (comma-separated), or *'
+        type: string
+      - in: query
+        name: thresholds
+        description: ' a dictionary of thresholds by thresholdn              type.
+          Currently we have two threshold types for metric alerts:n              critical
+          and warning. Critical is defined in the query, but cann              also
+          be specified in this option. Warning threshold can only ben              specified
+          using the thresholds option.n              Example: {critical: 90, warning:
+          80}n              '
+        type: string
+      - in: query
+        name: timeout_h
+        description: ' the number of hours of the monitor notn              reporting
+          data before it will automatically resolve from an              triggered
+          state.n              Default: Nonen'
+        type: string
+      - in: query
+        name: timeshift
+        description: ' #m_ago (5, 10, 15, or 30),n              #h_ago (1, 2, or 4),
+          or 1d_ago'
+        type: string
+      - in: query
+        name: time_aggr
+        description: ' avg, sum, max, min'
+        type: string
+      - in: query
+        name: 'time_aggr(time_window):space_aggr:metric{tags} [by {key}] operator
+          #'
+        description: n            n              ntime_aggr avg, sum, max, min, change,
+          or pct_change
+        type: string
+      - in: query
+        name: time_window
+        description: ' last_#m (5, 10, 15, or 30),n              last_#h (1, 2, or
+          4), or last_1d'
+        type: string
+      - in: query
+        name: '[Triggered] Monitor Title'
+        description: "n"
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Monitors
+  /api/v1/monitor/:monitor_id:
+    delete:
+      summary: Delete a monitor
+      description: ""
+      operationId: delete-a-monitor
+      responses:
+        200:
+          description: OK
+      tags:
+      - Monitors
+    get:
+      summary: Get a monitor's details
+      description: ""
+      operationId: get-a-monitors-details
+      parameters:
+      - type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Monitors
+    put:
+      summary: Edit a monitor
+      description: ""
+      operationId: edit-a-monitor
+      parameters:
+      - type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Monitors
+  /api/v1/monitor/:monitor_id/mute:
+    post:
+      summary: Mute a monitor
+      description: ""
+      operationId: mute-a-monitor
+      parameters:
+      - type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Monitors
+  /api/v1/monitor/mute_all:
+    post:
+      summary: Mute all monitors
+      description: '        Muting will prevent all monitors from notifying through
+        email and posts        to the event stream. State changes will only be visible
+        by checking        the alert page.        '
+      operationId: mute-all-monitors
+      responses:
+        200:
+          description: OK
+      tags:
+      - Monitors
+  /api/v1/monitor/unmute_all:
+    post:
+      summary: Unmute all monitors
+      description: '        Disables muting all monitors. Throws an error if mute
+        all was        not enabled previously.        '
+      operationId: unmute-all-monitors
+      responses:
+        200:
+          description: OK
+      tags:
+      - Monitors
+definitions: []

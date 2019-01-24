@@ -1,0 +1,365 @@
+---
+- slug: 3scale_ws_api_for_java
+  name: 3scale_ws_api_for_java
+  description: 3scale integration plugin for Java applications. 3scale is an API Infrastructure
+    service which handl
+  url: https://github.com/3scale/3scale_ws_api_for_java
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Management, Management Clients
+- slug: 3scale_ws_api_for_nodejs
+  name: 3scale_ws_api_for_nodejs
+  description: 3scale is an API Infrastructure service which handles API Keys, Rate
+    Limiting, Analytics, Billing Pa
+  url: https://github.com/3scale/3scale_ws_api_for_nodejs
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Management, Management Clients
+- slug: 3scale_ws_api_for_perl
+  name: 3scale_ws_api_for_perl
+  description: 3scale integration plugin for Perl applications
+  url: https://github.com/3scale/3scale_ws_api_for_perl
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Management, Management Clients
+- slug: 3scale_ws_api_for_php
+  name: 3scale_ws_api_for_php
+  description: 3scale integration plugin for PHP applications. 3scale is an API Infrastructure
+    service which handle
+  url: https://github.com/3scale/3scale_ws_api_for_php
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Management, Management Clients
+- slug: 3scale_ws_api_for_python
+  name: 3scale_ws_api_for_python
+  description: 3scale integration plugin for Python applications. 3scale is an API
+    Infrastructure service which han
+  url: https://github.com/3scale/3scale_ws_api_for_python
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Management, Management Clients
+- slug: 3scale_ws_api_for_ruby
+  name: 3scale_ws_api_for_ruby
+  description: 3scale integration plugin for Ruby/Ruby on Rails applications. 3scale
+    is an API Infrastructure servi
+  url: https://github.com/3scale/3scale_ws_api_for_ruby
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Management, Management Clients
+- slug: hello.js
+  name: hello.js
+  description: A Javascript RESTFUL API library for connecting with OAuth2 services,
+    such as Google+ API, Facebook Graph and Windows Live Connect
+  url: https://github.com/MrSwitch/hello.js
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: OAuth,Authentication,Clients
+- slug: pawswaggerimporter
+  name: Paw-SwaggerImporter
+  description: A Paw Extension to import Swagger Collections.
+  url: https://github.com/luckymarmot/Paw-SwaggerImporter/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Swagger Github Search,Clients,Swagger
+- slug: pyswagger
+  name: pyswagger
+  description: A Swagger client in python, which is type-safe, dynamic, spec-compliant
+  url: https://github.com/mission-liao/pyswagger/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Swagger Github Search,Clients,Swagger,Python,OAI
+- slug: bravado
+  name: bravado
+  description: Bravado is a python client library for Swagger 2.0 services
+  url: https://github.com/Yelp/bravado/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Clients,Python,Swagger,OAI
+- slug: newmandocker
+  name: newman-docker
+  description: Docker images for Newman Collection Runner
+  url: https://github.com/postmanlabs/newman-docker
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Containers,Command Line Interface,Clients
+- slug: dotnetauth
+  name: DotNetAuth
+  description: DotNetAuth is a consumer only implementation for both OAuth 1.0a and
+    OAuth 2.0. This library is designed with extensibility in mind. So you developers
+    can easily customize it to add support for any OAuth provider, even if the provider
+    is not strictly following the OAuth rules and guidelines.
+  url: https://bitbucket.org/samnaseri/dotnetauth/wiki/Home
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/DotNetAuth-Logo.png
+  tags: OAuth,OAuth Developer,.NET,Swagger,Clients
+- slug: dotnetopenauth
+  name: DotNetOpenAuth
+  description: DotNetOpenAuth a consumer and service provider implementation for OAuth
+    1.0 and 1.0a for .NET, written in C#. It has built-in support for hmac-SHA1, rsa-SHA1,
+    and plaintext signature methods with extensibility to add others. It also includes
+    the OpenID+OAuth extension. It works for asp.NET as well as non-ASP.NET services,
+    and works in partial trust shared hosting environments.
+  url: http://dotnetopenauth.net/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/DotNetOpenAuth-logo.png
+  tags: .NET,OAuth,OAuth Provider,Swagger,Clients
+- slug: javascriptsdk
+  name: javascript-sdk
+  description: DreamFactory Javascript SDK built with Swagger-JS
+  url: https://github.com/dreamfactorysoftware/javascript-sdk/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Swagger Github Search,Swagger,Clients,JavaScript
+- slug: eclipse-rest-client
+  name: Eclipse REST Client
+  description: Feature rich rest client for developers to play with RESTful web services.
+    It can be used to test any URL for following HTTP methods GET, POST, PUT, DELETE,
+    HEAD, OPTIONS, and TRACE.
+  url: https://marketplace.eclipse.org/content/rest-client
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/eclipse-800x188.png
+  tags: IDE,Clients
+- slug: httpbin
+  name: httpbin
+  description: HTTP Request & Response Service, written in Python + Flask.
+  url: https://github.com/Runscope/httpbin
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Clients
+- slug: hurl
+  name: Hurl
+  description: Hurl makes HTTP requests. Enter a URL, set some headers, view the response,
+    then share it with others. Perfect for demoing and debugging APIs.
+  url: http://www.hurl.it/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tools/hurl-logo.png
+  tags: Clients,Debugging
+- slug: newman
+  name: newman
+  description: Newman is a command-line collection runner for Postman
+  url: https://github.com/postmanlabs/newman
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Command Line Interface,Clients
+- slug: postman--rest-client-for-chrome
+  name: Postman - REST Client for Chrome
+  description: Postman helps you be more efficient while working with APIs. Postman
+    is a scratch-your-own-itch project. The need for it arose. Postman helps you be
+    more efficient while working with APIs. Postman is a scratch-your-own-itch project.
+    The need for it arose while one of the developers was creating an API for his
+    project. After looking around for a number of tools, nothing felt just right.
+    The primary features added initially were a history of sent requests and collections.
+    A number of other features have been added since then.&nbsp;
+  url: https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm?hl=en
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/postman-rest-client.png
+  tags: Clients,Chrome
+- slug: postman
+  name: Postman
+  description: Postman helps you be more efficient while working with APIs. Postman
+    is a scratch-your-own-itch project. The need for it arose&hellip; Postman helps
+    you be more efficient while working with APIs. Postman is a scratch-your-own-itch
+    project. The need for it arose while one of the developers was creating an API
+    for his project. After looking around for a number of tools, nothing felt just
+    right. The primary features added initially were a history of sent requests and
+    collections. A number of other features have been added since then.
+  url: https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tools/postman-rest-client-logo.png
+  tags: Clients
+- slug: project-reacall
+  name: Project ReaCall
+  description: Project&nbsp;ReaCall&nbsp;combines&nbsp;React.js&nbsp;and&nbsp;Swagger&nbsp;to
+    make it easier for API providers to develop and evolve API Client SDKs (ACS).
+  url: https://bitbucket.org/jdubray/reacall/src
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: ""
+  tags: Swagger,Clients,SDK
+- slug: requestbin
+  name: RequestBin
+  description: RequestBin lets you create a URL that will collect requests made to
+    it, then let you inspect them in a human-friendly way. Use RequestBin to see what
+    your HTTP client is sending or to look at webhook requests.
+  url: http://requestb.in/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tools/requestbin-logo.png
+  tags: Webhooks,Clients,Webhook Tool
+- slug: rest-console
+  name: REST Console
+  description: REST Console is an HTTP Request Visualizer and Constructor tool, helps
+    developers build, debug and test RESTful APIs.
+  url: https://restconsole.com
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/REST-Console.png
+  tags: Clients,HTTP,Chrome
+- slug: restsharp
+  name: RestSharp
+  description: Simple REST and HTTP API Client for .NET
+  url: https://github.com/restsharp/RestSharp
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Clients
+- slug: paw-api-blueprint-generator
+  name: Paw API Blueprint Generator
+  description: Paw extension providing support to export API Blueprint as a code generator,
+    allowing for you to publish API definitions from the web API client tooling.
+  url: https://github.com/apiaryio/Paw-APIBlueprintGenerator/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/paw-api-client.png
+  tags: Clients,API Blueprint,Definitions,Generator
+- slug: pawpostmanimporter
+  name: Paw Postman Importer
+  description: A Paw Extension to import Postman Collections.
+  url: https://github.com/luckymarmot/Paw-PostmanImporter
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/paw-api-client.png
+  tags: Definitions,Clients
+- slug: localtunnel
+  name: localtunnel
+  description: The easiest way to share localhost web servers to the rest of the world.
+  url: http://progrium.com/localtunnel/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tools/localtunnel-logo.png
+  tags: Clients
+- slug: pawpostmanenvironmentimporter
+  name: Paw to Postman Environment Importer
+  description: A Paw Extension to import Postman Environments.
+  url: https://github.com/luckymarmot/Paw-PostmanEnvironmentImporter
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/paw-api-client.png
+  tags: Clients,Definitions
+- slug: pawwadlimporter
+  name: Paw WADL Importer
+  description: Paw Extension to import WADL definitions.
+  url: https://paw.cloud/extensions/WADLImporter
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/paw-api-client.png
+  tags: Definitions,Clients
+- slug: raml2postman
+  name: raml2postman
+  description: Coverts RAML specs to Postman Collections (v1 of the collection format)
+  url: https://github.com/postmanlabs/raml2postman
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Definitions,Conversion,Clients
+...

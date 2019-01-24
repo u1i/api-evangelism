@@ -1,0 +1,93 @@
+swagger: "2.0"
+info:
+  title: Tokens API
+  description: The Tokens API.
+  version: 1.0.0
+host: api.serverdensity.io.
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /tokens:
+    "":
+      summary: Getting a token via the API
+      description: If you need to generate tokens programmatically, you can request
+        a token through the API with your username and password. All future requests
+        can then be performed using the returned token.If the user generating the
+        token has Multi Factor Authentication enabled, you cannot use this method
+        and must create the token via the web UI.
+      operationId: getting-a-token-via-the-api
+      parameters:
+      - in: body
+        name: accountName
+        description: The Server Density account that the user is a member of e.g.
+          if you log in at example.serverdensity.io your accountName is example
+        schema:
+          $ref: '#/definitions/holder'
+      - in: body
+        name: password
+        description: The token will be associated with this password
+        schema:
+          $ref: '#/definitions/holder'
+      - in: body
+        name: tokenName
+        description: The name of the token, displayed in the UI
+        schema:
+          $ref: '#/definitions/holder'
+      - in: body
+        name: username
+        description: The token will be associated with this username
+        schema:
+          $ref: '#/definitions/holder'
+      responses:
+        200:
+          description: OK
+      tags:
+      - Tokens
+  /tokens/:
+    "":
+      summary: Create a token
+      description: ""
+      operationId: create-a-token
+      parameters:
+      - in: query
+        name: token
+        description: Your API token
+        type: string
+      - in: query
+        name: tokenName
+        description: The name of your new token
+        type: string
+      - in: body
+        name: tokenName
+        description: The name of your new token
+        schema:
+          $ref: '#/definitions/holder'
+      responses:
+        200:
+          description: OK
+      tags:
+      - Tokens
+  /tokens/tokenId:
+    "":
+      summary: Delete a token
+      description: ""
+      operationId: delete-a-token
+      parameters:
+      - in: query
+        name: token
+        description: Your API token
+        type: string
+      - in: query
+        name: tokenId
+        description: The token you wish to delete.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Tokens
+definitions: []

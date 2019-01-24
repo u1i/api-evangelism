@@ -1,0 +1,62 @@
+swagger: "2.0"
+info:
+  title: Dashboard API
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /api/v1/dash:
+    get:
+      summary: Get all Timeboards
+      description: Fetch all of your timeboards definitions.
+      operationId: get-all-timeboards
+      responses:
+        200:
+          description: OK
+      tags:
+      - Timeboards
+    post:
+      summary: Create a Timeboard
+      description: ""
+      operationId: create-a-timeboard
+      parameters:
+      - type: string
+      - in: query
+        name: '{requests: [{q: system.cpu.idle{*} by {host}}'
+        description: 'n                n              n            '
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Timeboards
+  /api/v1/dash/:dash_id:
+    delete:
+      summary: Delete a Timeboard
+      description: Delete an existing timeboard.
+      operationId: delete-a-timeboard
+      responses:
+        200:
+          description: OK
+      tags:
+      - Timeboards
+    put:
+      summary: Update a Timeboard
+      description: ""
+      operationId: update-a-timeboard
+      parameters:
+      - type: string
+      - in: query
+        name: '{requests: [{q: system.cpu.idle{*} by {host}}'
+        description: 'n                n              n            '
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Timeboards
+definitions: []

@@ -1,0 +1,265 @@
+swagger: "2.0"
+info:
+  title: SaaS Registration
+  description: Register SaaS applications and customers, and manage their associations
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /config-saas-registration/v1/applications/{?contractId}:
+    get:
+      summary: List Applications
+      description: ""
+      operationId: configsaasregistrationv1applicationscontractid
+      parameters:
+      - in: String
+        name: contractId
+        description: such as A-1234
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    post:
+      summary: Create a New Application
+      description: ""
+      operationId: configsaasregistrationv1applicationscontractid
+      parameters:
+      - in: String
+        name: contractId
+        description: such as A-1234
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-saas-registration/v1/applications/{surrogateId}/{?contractId}:
+    delete:
+      summary: Remove an Application
+      description: ""
+      operationId: configsaasregistrationv1applicationssurrogateidcontractid
+      parameters:
+      - in: String
+        name: contractId
+        description: such as A-1234
+        type: string
+      - in: Integer
+        name: surrogateId
+        description: such as 123
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    get:
+      summary: Get an Application
+      description: ""
+      operationId: configsaasregistrationv1applicationssurrogateidcontractid
+      parameters:
+      - in: String
+        name: contractId
+        description: such as A-1234
+        type: string
+      - in: Integer
+        name: surrogateId
+        description: such as 123
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    put:
+      summary: Modify an Application
+      description: ""
+      operationId: configsaasregistrationv1applicationssurrogateidcontractid
+      parameters:
+      - in: String
+        name: contractId
+        description: such as A-1234
+        type: string
+      - in: Integer
+        name: surrogateId
+        description: such as 123
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-saas-registration/v1/customers/{?contractId}:
+    get:
+      summary: List Customers
+      description: ""
+      operationId: configsaasregistrationv1customerscontractid
+      parameters:
+      - in: String
+        name: contractId
+        description: such as A-1234
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    post:
+      summary: Create a New Customer
+      description: ""
+      operationId: configsaasregistrationv1customerscontractid
+      parameters:
+      - in: String
+        name: contractId
+        description: such as A-1234
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-saas-registration/v1/customers/{surrogateId}/{?contractId}:
+    delete:
+      summary: Remove a Customer
+      description: ""
+      operationId: configsaasregistrationv1customerssurrogateidcontractid
+      parameters:
+      - in: String
+        name: contractId
+        description: such as A-1234
+        type: string
+      - in: Integer
+        name: surrogateId
+        description: such as 456
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    get:
+      summary: Get a Customer
+      description: ""
+      operationId: configsaasregistrationv1customerssurrogateidcontractid
+      parameters:
+      - in: String
+        name: contractId
+        description: such as A-1234
+        type: string
+      - in: Integer
+        name: surrogateId
+        description: such as 456
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    put:
+      summary: Modify a Customer
+      description: ""
+      operationId: configsaasregistrationv1customerssurrogateidcontractid
+      parameters:
+      - in: String
+        name: contractId
+        description: such as A-1234
+        type: string
+      - in: Integer
+        name: surrogateId
+        description: such as 456
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-saas-registration/v1/pairs/{?contractId}:
+    get:
+      summary: List Pairs
+      description: ""
+      operationId: configsaasregistrationv1pairscontractid
+      parameters:
+      - in: String
+        name: contractId
+        description: such as A-1234
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    post:
+      summary: Create a New Pair
+      description: ""
+      operationId: configsaasregistrationv1pairscontractid
+      parameters:
+      - in: String
+        name: contractId
+        description: such as A-1234
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-saas-registration/v1/pairs/{surrogateId}/{?contractId}:
+    delete:
+      summary: Remove a Pair
+      description: ""
+      operationId: configsaasregistrationv1pairssurrogateidcontractid
+      parameters:
+      - in: String
+        name: contractId
+        description: such as A-1234
+        type: string
+      - in: Integer
+        name: surrogateId
+        description: such as 123
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    get:
+      summary: Get a Pair
+      description: ""
+      operationId: configsaasregistrationv1pairssurrogateidcontractid
+      parameters:
+      - in: String
+        name: contractId
+        description: such as A-1234
+        type: string
+      - in: Integer
+        name: surrogateId
+        description: such as 123
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    put:
+      summary: Modify a Pair
+      description: ""
+      operationId: configsaasregistrationv1pairssurrogateidcontractid
+      parameters:
+      - in: String
+        name: contractId
+        description: such as A-1234
+        type: string
+      - in: Integer
+        name: surrogateId
+        description: such as 123
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

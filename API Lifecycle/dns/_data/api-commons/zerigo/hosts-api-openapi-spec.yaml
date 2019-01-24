@@ -1,0 +1,146 @@
+swagger: "2.0"
+info:
+  title: No Title
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /api/1.1/hosts/12345678.xml:
+    get:
+      summary: Get a host
+      description: 'Get a host | Hosts | REST API v1.1 | Managed DNS Documentation
+        | Support | Zerigott    try{Typekit.load();}catch(e){}ttttttt    var _gaq
+        = _gaq || [];    _gaq.push([_setAccount, UA-34435825-1]);    _gaq.push([_trackPageview]);    (function()
+        {      var ga = document.createElement(script); ga.type = text/javascript;
+        ga.async = true;      ga.src = (https: == document.location.protocol ? https://ssl
+        : http://www) + .google-analytics.com/ga.js;      var s = document.getElementsByTagName(script)[0];
+        s.parentNode.insertBefore(ga, s);    })();    ttttttttt tttttttttttttttServices:tttttCloud
+        VPSManaged DNSWatchdogtttttttttttttttttttBlogSupportContact UsLogintttttttttttttttt  tt      tttt  ttt  ttt         Solutions
+        by   ttttt  tttttttt    t  Accounts/BillingDNSServersWatchdog        REST
+        API v1.1 - Managed DNS        Hosts - Get a host          REST API v1.1            Introduction
+        and Overview                      Zones                                                            Overview
+        and Fields                                                                              List
+        all zones                                                                              Count
+        all zones                                                                              Get
+        a zone                                                                              Get
+        stats for a zone                                                                              Get
+        a blank zone                                                                              Create
+        a zone                                                                              Update
+        a zone                                                                              Delete
+        a zone                                                                    Hosts                                                            Overview
+        and Fields                                                                              List
+        hosts                                                                              Count
+        all hosts                                                                              Get
+        a host                                                                              Get
+        a blank host                                                                              Create
+        a host                                                                              Update
+        a host                                                                              Delete
+        a host                                                                    Zone
+        templates                                                            Overview
+        and Fields                                                                              List
+        all templates                                                                              Count
+        all templates                                                                              Get
+        a template                                                                              Get
+        a blank template                                                                              Create
+        a template                                                                              Update
+        a template                                                                              Delete
+        a template                                                                    Host
+        templates                                                            Overview
+        and Fields                                                                              List
+        host templates                                                                              Count
+        all host templates                                                                              Get
+        a host template                                                                              Get
+        a blank host template                                                                              Create
+        a host template                                                                              Update
+        a host template                                                                              Delete
+        a host template                                                                    Tools                                                            Overview
+        and Fields                                                                              Get
+        the current public IPv4                                                                              Get
+        the current public IPv6                                                                              Get
+        the current public IP                                                                Single
+        page version          All Managed DNS API versions              Request      Example                GET
+        /api/1.1/hosts/12345678.xml                  Response          Example body                &lt;host&gt;  &lt;created-at
+        type=&quot;datetime&quot;&gt;2008-12-07T02:51:13Z&lt;/created-at&gt;  &lt;data&gt;172.16.16.1&lt;/data&gt;  &lt;fqdn&gt;example.com&lt;/fqdn&gt;  &lt;host-type&gt;A&lt;/host-type&gt;  &lt;hostname
+        nil=&quot;true&quot;/&gt;  &lt;id type=&quot;integer&quot;&gt;23456789&lt;/id&gt;  &lt;notes
+        nil=&quot;true&quot;/&gt;  &lt;priority type=&quot;integer&quot; nil=&quot;true&quot;/&gt;  &lt;ttl
+        type=&quot;integer&quot; nil=&quot;true&quot;/&gt;  &lt;updated-at type=&quot;datetime&quot;&gt;2008-12-07T02:51:13Z&lt;/updated-at&gt;  &lt;zone-id
+        type=&quot;integer&quot;&gt;12345678&lt;/zone-id&gt;&lt;/host&gt;                            ttttttttCloud
+        VPStttttttOverviewttttFeaturesttttSpecsttttFAQ/SupportttttttttCloud VPS APIttttCloud
+        VPS Support DocumentationttttttttttDNStttttttPlans and PricingttttFeaturesttttSpecsttttFAQ/SupportttttManaged
+        DNS APIttttDNS Support DocumentationttttttttttWatchdogtttttttOverviewttttFeaturesttttSpecsttttFAQ/SupportttttttttWatchdog
+        Support DocumentationttttttttttSupportttt        LoginttttSupport DocsttttContact
+        UsttttAccounts and BillingttttTerms of ServicettttService Level Agreements'
+      operationId: get-a-host
+      responses:
+        200:
+          description: OK
+      tags:
+      - Hosts
+  /api/1.1/hosts/23456789.xml:
+    delete:
+      summary: Delete a host
+      description: Status 200 on success.
+      operationId: delete-a-host
+      responses:
+        200:
+          description: OK
+      tags:
+      - Hosts
+    put:
+      summary: Update a host
+      description: Status 200 on success.Status 422 on validation error.
+      operationId: update-a-host
+      responses:
+        200:
+          description: OK
+      tags:
+      - Hosts
+  /api/1.1/zones/12345678/hosts.xml:
+    get:
+      summary: List hosts
+      description: 'This API method has two uses:'
+      operationId: list-hosts
+      responses:
+        200:
+          description: OK
+      tags:
+      - Hosts
+    post:
+      summary: Create a host
+      description: hostname, priority, and ttl may be left out entirely if their value
+        is nil.
+      operationId: create-a-host
+      responses:
+        200:
+          description: OK
+      tags:
+      - Hosts
+  header:
+    x-query-count:
+      summary: Count all hosts
+      description: This is the total number of hosts available for the specified zone.
+        It is the same result as provided in the X-Query-Count header in the Managed
+        DNS &#8594; List hosts API method.
+      operationId: count-all-hosts
+      responses:
+        200:
+          description: OK
+      tags:
+      - Hosts
+  will:
+    zone_id:
+      summary: Get a blank host
+      description: This response may be useful to obtain a blank host, suitable for
+        use as a template or retrieving default values for included fields. zone_id
+        will be populated only if provided.
+      operationId: get-a-blank-host
+      responses:
+        200:
+          description: OK
+      tags:
+      - Hosts
+definitions: []

@@ -1,0 +1,42 @@
+swagger: "2.0"
+info:
+  title: Checks Port API
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  '/checks/port ':
+    ' post ':
+      summary: Checks Port
+      description: ttttCreates a new Port check.ttt
+      operationId: -checks-port-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checks Port
+  '/checks/port/locations ':
+    ' get ':
+      summary: Checks Port Locations
+      description: ttttGets a list of all locations that are available for Port checks.ttt
+      operationId: -checks-port-locations-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checks Port
+  '/checks/port/{checkId} ':
+    ' put ':
+      summary: Checks Port {checkId}
+      description: ttttUpdates a Port check.ttt
+      operationId: -checks-port-checkid-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checks Port
+definitions: []

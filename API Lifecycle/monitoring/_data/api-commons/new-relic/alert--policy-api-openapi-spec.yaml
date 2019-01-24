@@ -1,0 +1,89 @@
+swagger: "2.0"
+info:
+  title: Alert Policy API
+  description: The Alert Policy API.
+  version: 1.0.0
+host: api.newrelic.com
+basePath: /
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /v2/alerts_policy_channels.{format}:
+    delete:
+      summary: Delete
+      description: '<p>This API endpoint deletes Alerts policy/channel associations.</p><p>Note:
+        <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/rest-api-key>Admin
+        Useru2019s API Key</a> is required.</p><p>See our documentation for a discussion
+        on <a href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/rest-api-calls-new-relic-alerts#policy-channels-delete>deleting
+        notification channels with policies</a>.</p>'
+      operationId: delete
+      parameters:
+      - in: query
+        name: channel_id
+        description: Channel ID
+        type: integer
+      - in: query
+        name: policy_id
+        description: Policy ID
+        type: integer
+      responses:
+        200:
+          description: OK
+      tags:
+      - Alert Policy
+    put:
+      summary: Update
+      description: '<p>This API endpoint updates policy/channel associations.</p><p>Note:
+        <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/rest-api-key>Admin
+        Useru2019s API Key</a> is required.</p><p>See our documentation for a discussion
+        on <a href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/rest-api-calls-new-relic-alerts#policy-channels-update>updating
+        notification channels with policies</a>.</p>'
+      operationId: update
+      parameters:
+      - in: query
+        name: channel_ids
+        description: Channel IDs
+        type: list
+      - in: query
+        name: policy_id
+        description: Policy ID
+        type: integer
+      responses:
+        200:
+          description: OK
+      tags:
+      - Alert Policy
+definitions:
+  "":
+    properties:
+      policy:
+        description: This is a default description.
+        type: DELETE
+      id:
+        description: This is a default description.
+        type: DELETE
+      channel_ids:
+        description: This is a default description.
+        type: DELETE
+      channel:
+        description: This is a default description.
+        type: DELETE
+      name:
+        description: This is a default description.
+        type: DELETE
+      type:
+        description: This is a default description.
+        type: DELETE
+      configuration:
+        description: This is a default description.
+        type: DELETE
+      links:
+        description: This is a default description.
+        type: DELETE
+      policy_ids:
+        description: This is a default description.
+        type: DELETE

@@ -1,0 +1,66 @@
+swagger: "2.0"
+info:
+  title: CloudFlare Railgun connections for a Zone API
+  description: The API for managing CloudFlare Railgun connections for a Zone
+  termsOfService: https://www.cloudflare.com/terms/
+  version: 1.0.0
+host: api.cloudflare.com
+basePath: /client/v4
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /zones/:zone_identifier/railguns:
+    get:
+      summary: A list of available Railguns the zone can use
+      description: A list of available Railguns the zone can use
+      operationId: cloudflare-railgun-connections-for-a-zone-api
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /zones/:zone_identifier/railguns/:identifier:
+    get:
+      summary: Details about a specific Railgun
+      description: Details about a specific Railgun
+      operationId: cloudflare-railgun-connections-for-a-zone-api
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    patch:
+      summary: Connect or disconnect a Railgun
+      description: Connect or disconnect a Railgun
+      operationId: cloudflare-railgun-connections-for-a-zone-api
+      parameters:
+      - in: query
+        name: connected
+        description: A flag indicating whether the given zone is connected to the
+          Railguntttttttttttttttrue
+      - in: header
+        name: X-AUTH-EMAIL
+        description: Email address associated with your account
+      - in: header
+        name: X-AUTH-KEY
+        description: API key generated on the My Account page
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /zones/:zone_identifier/railguns/:identifier/diagnose:
+    get:
+      summary: Test Railgun connection to the Zone
+      description: Test Railgun connection to the Zone
+      operationId: cloudflare-railgun-connections-for-a-zone-api
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

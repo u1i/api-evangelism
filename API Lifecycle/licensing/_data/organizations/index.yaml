@@ -1,0 +1,140 @@
+- slug: the-defensive-patent-license-dpl
+  name: The Defensive Patent License (DPL)
+  description: >-
+    The Defensive Patent License (DPL) is a new legal mechanism to protect
+    innovators by networking patents into powerful, mutually-beneficial legal
+    shields that are 100% committed to defending innovation &ndash; no bullies,
+    trolls, or other leeches allowed. It also helps prevent these actors from
+    patenting open technologies and pulling them out of public use. It's a way
+    for patents to be used for good, and support innovators instead of
+    threatening them.
+  url: 'http://defensivepatentlicense.org/'
+  short_url: ''
+  twitter: ''
+  blog: 'http://defensivepatentlicense.org/blog/'
+  blog_rss: 'http://defensivepatentlicense.org/blog/feed'
+  github: 'https://github.com/defensivepatent'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/defensive-patent-license.jpeg
+  tags: 'Patents,Licensing'
+- slug: apache-foundation
+  name: Apache Foundation
+  description: >-
+    Provides support for the Apache Community of open-source software projects,
+    which provide software products for the public good.
+  url: 'http://www.apache.org/'
+  short_url: ''
+  twitter: 'https://twitter.com/theasf'
+  blog: 'https://blogs.apache.org/foundation/'
+  blog_rss: 'https://blogs.apache.org/foundation/feed/entries/rss'
+  github: 'https://github.com/apache'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/asf_logo.png
+  tags: 'Licensing,Open Source'
+- slug: open-source-initiative
+  name: Open Source Initiative
+  description: >-
+    The Open Source Initiative (OSI) is a California public benefit corporation,
+    with 501(c)3 tax-exempt status, founded in 1998. We are also actively
+    involved in Open Source community-building, education, and public advocacy
+    to promote awareness and the importance of non-proprietary software. OSI
+    Board members frequently travel the world to attend Open Source conferences
+    and events, meet with open source developers and users, and to discuss with
+    executives from the public and private sectors about how Open Source
+    technologies, licenses, and models of development can provide economic and
+    strategic advantages.
+  url: 'https://opensource.org/'
+  short_url: ''
+  twitter: 'https://twitter.com/OpenSourceOrg'
+  blog: 'https://opensource.org/news'
+  blog_rss: 'https://opensource.org/news.xml'
+  github: 'https://github.com/OpenSourceOrg'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/open-source-initiative.png
+  tags: 'Licensing,Open Source'
+- slug: gnu
+  name: GNU
+  description: >-
+    GNU is an operating system that is&nbsp;free software&mdash;that is, it
+    respects users' freedom. The development of GNU made it possible to use a
+    computer without software that would trample your freedom.
+  url: 'http://www.gnu.org/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/gnu-logo.png
+  tags: Licensing
+- slug: creative-commons
+  name: Creative Commons
+  description: >-
+    Creative Commons (CC) is an American non-profit organization devoted to
+    expanding the range of creative works available for others to build upon
+    legally and to share.[2] The organization has released several
+    copyright-licenses known as Creative Commons licenses free of charge to the
+    public.&nbsp;
+  url: 'https://creativecommons.org/'
+  short_url: ''
+  twitter: 'https://twitter.com/creativecommons'
+  blog: 'https://creativecommons.org/blog/'
+  blog_rss: 'https://creativecommons.org/feed/'
+  github: 'https://github.com/creativecommons'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/512px-CC-logo.svg.png
+  tags: 'Legal,Copyright,Licensing'
+- slug: google-apps-admin-sdk
+  name: Google Apps Admin SDK
+  description: >-
+    Administer domain resources, create reports, and manage subscriptions. Use
+    the Directory API to create and manage users and groups for a domain, along
+    with their aliases. Programmatically access the functionality found at the
+    Admin console Organization and users tab. Use the Reports API to gain
+    insights on Content with Google Drive activity reports. Audit administrator
+    actions. Generate customer and user usage reports.
+  url: 'https://developers.google.com/admin-sdk/'
+  short_url: ''
+  twitter: ''
+  blog: 'https://gsuite-developers.googleblog.com/search/label/Admin%20SDK'
+  blog_rss: 'https://gsuite-developers.googleblog.com/feeds/posts/default?alt=rss'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/nexusae0_icon2.png
+  tags: 'Google APIs,Applications,Documents,Licensing,SDK,Monetization,Reseller'
+- slug: open-data-commons
+  name: Open Data Commons
+  description: >-
+    Open Data Commons exists to provide legal solutions for open data. In March
+    2008 it launched the first ever open data license: the Public Domain
+    Dedication and License (PDDL). Open Data Commons is an Open Knowledge
+    Foundation project run by its Advisory Council and like the Foundation is a
+    not-for-profit effort working for the benefit of the general open knowledge
+    community.
+  url: 'http://opendatacommons.org/'
+  short_url: ''
+  twitter: 'https://twitter.com/opendatacommons'
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/open-data-commons.png
+  tags: 'Data,Licensing'
+- slug: api-commons
+  name: API Commons
+  description: >-
+    Provide a simple and transparent mechanism for the copyright free sharing
+    and collaborative design of API specifications, interfaces and data models.
+    Web APIs are fast becoming a critical technology to enable integration
+    between service providers and consumers on the Internet, both in business
+    and public spheres. As the number of APIs increases, so does the potential
+    for innovation in terms of applications on top of these APIs.
+  url: 'http://apicommons.org/'
+  short_url: ''
+  twitter: 'https://twitter.com/apicommons'
+  blog: 'http://apicommons.org/blog/'
+  blog_rss: 'http://feeds.feedburner.com/apicommons/eOLA'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-commons-logo.png
+  tags: 'Copyright,Licensing'

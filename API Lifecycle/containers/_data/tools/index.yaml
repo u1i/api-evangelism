@@ -1,0 +1,250 @@
+- slug: dockeraglio
+  name: docker-aglio
+  description: >-
+    (API Blueprint) Dockerfile for running Aglio -
+    https://github.com/danielgtaylor/aglio
+  url: 'https://github.com/davidonlaptop/docker-aglio/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Docker,Containers,Documentation,API Blueprint'
+- slug: dnsserver
+  name: dnsserver
+  description: A small DNS service for communicating A and SRV records.
+  url: 'https://github.com/docker/dnsserver'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'DNS,Containers'
+- slug: dockerpy
+  name: docker-py
+  description: An API client for docker written in Python
+  url: 'https://github.com/docker/docker-py'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Containers,SDK'
+- slug: entropy
+  name: Entropy
+  description: An entropy and failure injection management API for Docker platforms.
+  url: 'https://github.com/buildertools/entropy'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/buildertools/'
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Containers,Testing,Performance,General'
+- slug: glotrun
+  name: glot-run
+  description: API for running code inside docker containers
+  url: 'https://github.com/prasmussen/glot-run'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Containers,Deployment'
+- slug: dockercloudcli
+  name: dockercloud-cli
+  description: CLI for Docker Cloud
+  url: 'https://github.com/docker/dockercloud-cli'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Containers,Command Line Interface'
+- slug: dockercontinuousdeployment
+  name: docker-continuous-deployment
+  description: continuous deployment of a microservices application with Docker
+  url: 'https://github.com/francescou/docker-continuous-deployment'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Containers,Deployment,Microservices'
+- slug: compose
+  name: Compose
+  description: Define and run multi-container applications with Docker
+  url: 'https://github.com/docker/compose'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Containers
+- slug: docker
+  name: Docker
+  description: Docker - the open-source application container engine
+  url: 'https://github.com/docker/docker'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Containers
+- slug: arangodbdocker
+  name: arangodb-docker
+  description: Docker container for ArangoDB
+  url: 'https://github.com/arangodb/arangodb-docker'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Containers,Database'
+- slug: newmandocker
+  name: newman-docker
+  description: Docker images for Newman Collection Runner
+  url: 'https://github.com/postmanlabs/newman-docker'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Containers,Command Line Interface,Clients'
+- slug: dockerneo4j
+  name: docker-neo4j
+  description: Docker Images for the Neo4j Graph Database
+  url: 'https://github.com/neo4j/docker-neo4j'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Containers,Database,GraphQL'
+- slug: dockermysqltmpfs
+  name: docker-mysql-tmpfs
+  description: Docker mysql on tmpfs
+  url: 'https://github.com/3scale/docker-mysql-tmpfs'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Deployment,Database,Containers,MySQL'
+- slug: flocker
+  name: Flocker
+  description: >-
+    Flocker is an open-source Container Data Volume Manager for your Dockerized
+    applications. By providing tools for data migrations, Flocker gives ops
+    teams the tools they need to run containerized stateful services like
+    databases in production. Unlike a Docker data volume which is tied to a
+    single server, a Flocker data volume, called a dataset, is portable and can
+    be used with any container, no matter where that container is running.
+  url: 'https://github.com/ClusterHQ/flocker'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: ''
+  tags: Containers
+- slug: gluuengine
+  name: gluu-engine
+  description: Gluu Server Docker Edition REST API
+  url: 'https://github.com/GluuFederation/gluu-engine'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Containers,Deployment'
+- slug: dockergateway
+  name: Docker Gateway
+  description: 3scale gateway in docker
+  url: 'https://github.com/3scale/docker-gateway'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Containers,Management'
+- slug: dockerjsonserver
+  name: docker-json-server
+  description: 'JSON Server docker image, REST API mocking based on plain JSON'
+  url: 'https://github.com/clue/docker-json-server'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Virtualization,Containers'
+- slug: kubernetes
+  name: kubernetes
+  description: Micro on Kubernetes
+  url: 'https://github.com/micro/kubernetes'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Containers,Deployment,Microservices'
+- slug: kubernetes
+  name: kubernetes
+  description: Production-Grade Container Scheduling and Management
+  url: 'https://github.com/kubernetes/kubernetes'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Orchestration,Containers'
+- slug: dockerredis
+  name: docker-redis
+  description: Simplest Redis in docker (with persistence)
+  url: 'https://github.com/3scale/docker-redis'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Deployment,Database,Containers'
+- slug: distribution
+  name: Distribution
+  description: 'The Docker toolset to pack, ship, store, and deliver content'
+  url: 'https://github.com/docker/distribution'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Containers
+- slug: kitematic
+  name: Kitematic
+  description: Visual Docker Container Management on Mac & Windows
+  url: 'https://github.com/docker/kitematic'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Containers

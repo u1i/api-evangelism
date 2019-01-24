@@ -1,0 +1,1555 @@
+---
+- curated_id: dbd9cfefa893fc693d9005df158272a6
+  item_date: "2015-03-19 00:00:00"
+  title: Leverage the power of log data to drive operational and business decisions
+    through Google Cloud Logging
+  url: https://cloudplatform.googleblog.com/2015/03/leverage-the-power-of-log-data-to-drive-operational-and-business-decisions-through-Google-Cloud-Logging.html
+  domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: 76fcb76f0cd69c01e84f9dcb454a389b
+  item_date: "2015-04-21 00:00:00"
+  title: 'The log: The lifeblood of your data pipeline'
+  url: http://radar.oreilly.com/2015/04/the-log-the-lifeblood-of-your-data-pipeline.html
+  domain: radar.oreilly.com
+  image: ""
+- curated_id: b2933bd1500af995bc162690c3eb9857
+  item_date: "2015-04-21 00:00:00"
+  title: Why Elasticsearch is Suitable for Application Log Analytics
+  url: http://java.dzone.com/articles/why-elasticsearch-suitable-0
+  domain: java.dzone.com
+  image: ""
+- curated_id: 5154804c725862825235e88c6780bbe7
+  item_date: "2015-04-30 00:00:00"
+  title: Take your logs data to new places with streaming export to Cloud Pub/Sub
+  url: http://googlecloudplatform.blogspot.com/2015/04/Take-your-logs-data-to-new-places-with-streaming-export-to-Cloud-Pub-Sub.html
+  domain: googlecloudplatform.blogspot.com
+  image: ""
+- curated_id: 7f3b5193722c4347ca0316fbbb77d2f9
+  item_date: "2015-06-18 00:00:00"
+  title: Newest NLog Improves Exception Logging, Adds JSON/Zip support
+  url: http://www.infoq.com/news/2015/06/nlog4
+  domain: www.infoq.com
+  image: ""
+- curated_id: 258a0594dbd5990c368d8cee3e1bb7e2
+  item_date: "2015-06-22 00:00:00"
+  title: Near Real-Time Log Streaming and Analysis with Google Cloud Platform  Logentries
+  url: http://googlecloudplatform.blogspot.com/2015/06/Real-Time-Log-Streaming-and-Analysis-with-Google-Cloud-Platform-Logentries.html
+  domain: googlecloudplatform.blogspot.com
+  image: ""
+- curated_id: e8befdd57ca94ace4195b06e4462431b
+  item_date: "2015-07-08 00:00:00"
+  title: Making Logs Awesome - Elasticsearch in the Cloud using Docker
+  url: http://jamesthom.as/blog/2015/07/08/making-logs-awesome-with-elasticsearch-and-docker/
+  domain: jamesthom.as
+  image: ""
+- curated_id: c41586dc1d942880c3ed78d9625434db
+  item_date: "2015-09-02 00:00:00"
+  title: Amazon S3 Update ? CloudTrail Integration
+  url: https://aws.amazon.com/blogs/aws/amazon-s3-update-cloudtrail-integration/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: c71d848cb6097642ff1408e30dc14113
+  item_date: "2015-09-25 00:00:00"
+  title: 'Building DistributedLog: Twitter?s high-performance replicated log service'
+  url: https://blog.twitter.com/2015/building-distributedlog-twitter-s-high-performance-replicated-log-service
+  domain: blog.twitter.com
+  image: ""
+- curated_id: 38e5bf266dccd77714ffdbbb601332e9
+  item_date: "2015-11-24 00:00:00"
+  title: Processing logs at scale using Cloud Dataflow
+  url: http://googlecloudplatform.blogspot.com/2015/11/processing-logs-at-scale-using-Cloud-Dataflow.html
+  domain: googlecloudplatform.blogspot.com
+  image: ""
+- curated_id: 6ef8c376b2d1798f6f6e1969db1e67b9
+  item_date: "2015-12-17 00:00:00"
+  title: Cloud Audit Logs to help you with audit and compliance needs
+  url: http://googlecloudplatform.blogspot.com/2015/12/cloud-audit-logs-to-help-you-with-audit.html
+  domain: googlecloudplatform.blogspot.com
+  image: ""
+- curated_id: aed543cde39edd47304775bf492cc0cf
+  item_date: "2015-12-22 00:00:00"
+  title: Stream any log file to Slack using curl
+  url: http://blog.getpostman.com/2015/12/23/stream-any-log-file-to-slack-using-curl/
+  domain: blog.getpostman.com
+  image: ""
+- curated_id: 67a5ee2b20c3d5b88e8d7c11160cbc07
+  item_date: "2016-01-07 00:00:00"
+  title: Using NGINX Logging for Application Performance Monitoring
+  url: https://www.nginx.com/blog/using-nginx-logging-for-application-performance-monitoring/
+  domain: www.nginx.com
+  image: ""
+- curated_id: 6797e52f64ef2a4349b75d0941057941
+  item_date: "2016-01-10 00:00:00"
+  title: A Simple Remote Logging Platform
+  url: http://www.codeproject.com/Articles/1055185/A-Simple-Remote-Logging-Platform
+  domain: www.codeproject.com
+  image: ""
+- curated_id: deefe911623d3e439a9ea657e069c5e0
+  item_date: "2016-01-14 00:00:00"
+  title: Docker Unveils New Ecosystem Technology Partners for Log Management
+  url: http://www.infoq.com/news/2016/01/docker-partners-log-management
+  domain: www.infoq.com
+  image: ""
+- curated_id: f51c97b4129e741e2b32b2935f026e49
+  item_date: "2016-01-21 00:00:00"
+  title: 10 Best Practices for Log Management and Analytics
+  url: https://dzone.com/articles/10-best-practices-for-log-management-and-analytics-1
+  domain: dzone.com
+  image: ""
+- curated_id: 0fea6f410ff35b5ceeecf26206cffe9d
+  item_date: "2016-01-22 07:04:11"
+  title: 'Using Logs for Security  Compliance: Part 1'
+  url: https://blog.logentries.com/2016/01/using-logs-for-security-compliance-part-1/
+  domain: blog.logentries.com
+  image: ""
+- curated_id: 8cb14e86e86d236fe05704f0454ef43a
+  item_date: "2016-01-25 00:00:00"
+  title: Using Filebeat to Send ElasticSearch Logs to Logsene
+  url: https://dzone.com/articles/using-filebeat-to-send-elasticsearch-logs-to-logse-1
+  domain: dzone.com
+  image: ""
+- curated_id: 9fa59170b4172d1ea384787023af03c5
+  item_date: "2016-01-29 00:00:00"
+  title: How to Monitor Logs With Loggly Live Tail and Datadog
+  url: https://dzone.com/articles/how-to-monitor-logs-with-loggly-live-tail-and-data
+  domain: dzone.com
+  image: ""
+- curated_id: b023ca084b5ec5f5a93369955518363f
+  item_date: "2016-02-13 00:00:00"
+  title: Considering the Explosive Growth of Log Analytics
+  url: https://dzone.com/articles/considering-the-explosive-growth-of-log-analytics
+  domain: dzone.com
+  image: ""
+- curated_id: 9493102302921a27ad14e68d3b82339d
+  item_date: "2016-02-17 00:00:00"
+  title: 'Presentation: Logging Makes Perfect - Real-world Monitoring and Visualizations'
+  url: http://www.infoq.com/presentations/forter
+  domain: www.infoq.com
+  image: ""
+- curated_id: 047b90db23bbe30971d422eb81e0e046
+  item_date: "2016-02-18 00:00:00"
+  title: Logging Levels Demystified
+  url: https://dzone.com/articles/logging-levels-demystified
+  domain: dzone.com
+  image: ""
+- curated_id: c999a91a718d41daeb29b290f6e30d5d
+  item_date: "2016-03-02 00:00:00"
+  title: 'Log Analytics Tools: Open Source vs. Commercial'
+  url: https://dzone.com/articles/log-analytics-tools-open-source-vs-commercial
+  domain: dzone.com
+  image: ""
+- curated_id: 5268707efb29495da46ae34aa03fe99b
+  item_date: "2016-03-04 00:00:00"
+  title: Communication Logs
+  url: http://www.infobip.com/en/engineering/communication-logs
+  domain: www.infobip.com
+  image: ""
+- curated_id: fc936309ff7be58d02246a5f3014b09e
+  item_date: "2016-03-07 00:00:00"
+  title: Logging From Sonos Speakers With a Webhook
+  url: https://dzone.com/articles/logging-from-sonos-speakers-with-a-webhook-1
+  domain: dzone.com
+  image: ""
+- curated_id: ff52ee3f171ccb4a07bf8f8f685393fc
+  item_date: "2016-03-09 00:00:00"
+  title: Structured Logging
+  url: https://dzone.com/articles/structured-logging-1
+  domain: dzone.com
+  image: ""
+- curated_id: 94d08d29133adb73ffd07f98e663b5aa
+  item_date: "2016-03-10 00:00:00"
+  title: 7 Rules for Using Log Data Effectively in a Retrospective
+  url: https://dzone.com/articles/7-rules-for-using-log-data-effectively-in-a-retros
+  domain: dzone.com
+  image: ""
+- curated_id: 6b27b6df2a11e29d664f8cca93b7e0a5
+  item_date: "2016-03-10 00:00:00"
+  title: How to Detect and Analyze DDOS Attacks Using Log Analysis
+  url: https://dzone.com/articles/how-to-detect-and-analyze-ddos-attacks-using-log-a
+  domain: dzone.com
+  image: ""
+- curated_id: cf1b92756a20e3162d01576d575597aa
+  item_date: "2016-03-13 00:00:00"
+  title: Logging Yourself to Death
+  url: https://dzone.com/articles/logging-yourself-to-death
+  domain: dzone.com
+  image: ""
+- curated_id: d4de29897300086c3e855758e821e91b
+  item_date: "2016-03-19 00:00:00"
+  title: The Role of Log Files in Experiments
+  url: https://dzone.com/articles/the-role-of-log-files-in-experiments
+  domain: dzone.com
+  image: ""
+- curated_id: f6bc33b8b6b87216e70e5c79378b3477
+  item_date: "2016-03-23 00:00:00"
+  title: 'Introducing Google Stackdriver: unified monitoring and logging for GCP and
+    AWS'
+  url: https://cloudplatform.googleblog.com/2016/03/Google-Stackdriver-integrated-monitoring-and-logging-for-hybrid-cloud.html
+  domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: 9586132608c4c9d9f9480d360c7764f9
+  item_date: "2016-03-28 00:00:00"
+  title: The Role of Logs
+  url: https://dzone.com/articles/the-role-of-logs
+  domain: dzone.com
+  image: ""
+- curated_id: ec354b14efdaa3dff644a2cd2be0d32b
+  item_date: "2016-03-28 00:00:00"
+  title: How to Install Log Management Cluster
+  url: https://dzone.com/articles/how-to-install-log-management-cluster-for-free
+  domain: dzone.com
+  image: ""
+- curated_id: 9c02221aed42aef4fbc10d800fc92ed6
+  item_date: "2016-04-06 00:00:00"
+  title: The Benefit of Having an Enterprise Logging Policy
+  url: https://dzone.com/articles/the-benefit-of-having-an-enterprise-logging-policy
+  domain: dzone.com
+  image: ""
+- curated_id: 6933c4e5a2731a236a7fb4e2df3ea2ac
+  item_date: "2016-04-06 00:00:00"
+  title: 'Docker Cloud: Monitoring  Logging'
+  url: https://dzone.com/articles/docker-cloud-monitoring-logging
+  domain: dzone.com
+  image: ""
+- curated_id: a5ff996b5ee7d055895d5dc5e48e6207
+  item_date: "2016-04-09 00:00:00"
+  title: How To Create CLI To Announce Logged On User With Speech API (tts)
+  url: http://www.codeproject.com/Articles/1091301/How-To-Create-CLI-To-Announce-Logged-On-User-With
+  domain: www.codeproject.com
+  image: ""
+- curated_id: 05e3cefb4ef2d2af8f4a0cd90910b152
+  item_date: "2016-04-09 00:00:00"
+  title: Enterprise Library Logging in Azure Database
+  url: http://www.codeproject.com/Articles/1091316/Enterprise-Library-Logging-in-Azure-Database
+  domain: www.codeproject.com
+  image: ""
+- curated_id: 6f647898fd05c0f90b23a88546544ea9
+  item_date: "2016-04-11 00:00:00"
+  title: Sending Amazon CloudWatch Logs to Loggly With AWS Lambda
+  url: https://dzone.com/articles/sending-amazon-cloudwatch-logs-to-loggly-with-aws
+  domain: dzone.com
+  image: ""
+- curated_id: a0502574bdd1488642f6a959c6cafc27
+  item_date: "2016-04-12 00:00:00"
+  title: Sumo Logic Announces Industry?s First Machine Data Analytics Platform that
+    Unifies Logs and Metrics Data
+  url: https://dzone.com/articles/sumo-logic-announces-industrys-first-machine-data
+  domain: dzone.com
+  image: ""
+- curated_id: 2f2ddc643c99cbc280118c87911ed589
+  item_date: "2016-04-12 00:00:00"
+  title: Client Side Logging in JavaScript
+  url: https://dzone.com/articles/client-side-logging-in-javascript
+  domain: dzone.com
+  image: ""
+- curated_id: 05d454308436f1d86e83eded3caecf1c
+  item_date: "2016-04-28 00:00:00"
+  title: How to Ensure Self Describing Log Data Using Log4Net
+  url: https://dzone.com/articles/how-to-ensure-self-describing-log-data-using-log4n
+  domain: dzone.com
+  image: ""
+- curated_id: 21536f04a5c7710fda37873cf5057096
+  item_date: "2016-05-10 00:00:00"
+  title: Integrating the Logentries Javascript Library With React
+  url: https://dzone.com/articles/integrating-the-logentries-javascript-library-with
+  domain: dzone.com
+  image: ""
+- curated_id: 90b45256eec00ab5d8131a1e10325f5d
+  item_date: "2016-05-10 11:46:03"
+  title: 'GitHub - twitter/distributedlog: A high performance replicated log service.'
+  url: https://github.com/twitter/distributedlog
+  domain: github.com
+  image: ""
+- curated_id: 02dfc8f2253c08e9ebc9e36badf595f3
+  item_date: "2016-05-17 00:00:00"
+  title: Raspberry Pi, Logs and Iot ? Sending Pi Log and Sensor Data to Logentries
+  url: https://dzone.com/articles/raspberry-pi-logs-and-iot-sending-pi-log-and-senso
+  domain: dzone.com
+  image: ""
+- curated_id: cd029f16c0f0753380c1786ff0804a41
+  item_date: "2016-05-18 00:00:00"
+  title: A Query Language for Your Logs
+  url: https://dzone.com/articles/a-query-language-for-your-logs
+  domain: dzone.com
+  image: ""
+- curated_id: 764917302b5f11f2d2d5c08292c7b274
+  item_date: "2016-05-26 00:00:00"
+  title: How to Write Effective Logs for Remote Logging
+  url: https://dzone.com/articles/how-to-write-effective-logs-for-remote-logging
+  domain: dzone.com
+  image: ""
+- curated_id: ce2b800cd95b2a620de8e20949008aab
+  item_date: "2016-06-06 00:00:00"
+  title: Benchmarking Java Logging Frameworks
+  url: https://dzone.com/articles/benchmarking-java-logging-frameworks-1
+  domain: dzone.com
+  image: ""
+- curated_id: ca70f8249554c9c94ce1ba2b5971c5e9
+  item_date: "2016-06-14 00:00:00"
+  title: 'Python: How to Create an Exception Logging Decorator'
+  url: https://dzone.com/articles/python-how-to-create-an-exception-logging-decorato
+  domain: dzone.com
+  image: ""
+- curated_id: f55edc77d0f18853ef62b5919cfa4ea5
+  item_date: "2016-06-21 00:00:00"
+  title: Recording File Uploads With JMeter
+  url: https://dzone.com/articles/recording-file-uploads-with-jmeter
+  domain: dzone.com
+  image: ""
+- curated_id: 371018a9fbf1df0c6d68cf2d4ccc01ca
+  item_date: "2016-06-21 00:00:00"
+  title: Introducing the Field Guide for Docker Logging
+  url: https://dzone.com/articles/introducing-the-field-guide-for-docker-logging
+  domain: dzone.com
+  image: ""
+- curated_id: f0dcaad507bae33701e95a9ccd315650
+  item_date: "2016-06-23 00:00:00"
+  title: Announcing pricing for Google Stackdriver
+  url: https://cloudplatform.googleblog.com/2016/06/announcing-pricing-for-Google-Stackdriver.html
+  domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: c001f49ea8b836fd61ceef6f3ecaa559
+  item_date: "2016-07-07 00:00:00"
+  title: Understanding G1 GC Log Format
+  url: https://dzone.com/articles/understanding-g1-gc-log-format
+  domain: dzone.com
+  image: ""
+- curated_id: 69ccbf1a0f486c92b68369414c9b1386
+  item_date: "2016-07-10 00:00:00"
+  title: How Audit Logs Help Confirm and Correct Security Policy
+  url: https://dzone.com/articles/how-audit-logs-help-confirm-and-correct-security-p
+  domain: dzone.com
+  image: ""
+- curated_id: 21628aad3863c5facbdbf0f0f351f41f
+  item_date: "2016-07-10 00:00:00"
+  title: Four Tips for Logging Microservices
+  url: https://dzone.com/articles/four-tips-for-logging-microservices
+  domain: dzone.com
+  image: ""
+- curated_id: afc6011c64776ddaa3d041861e3fdd72
+  item_date: "2016-07-15 00:00:00"
+  title: Keep Your Code Clean While Logging
+  url: https://dzone.com/articles/keep-your-code-clean-while-logging
+  domain: dzone.com
+  image: ""
+- curated_id: 9ea0e722c94d697473d93a3a251db746
+  item_date: "2016-07-18 00:00:00"
+  title: Backup Log Checks and What They Can Tell You
+  url: https://dzone.com/articles/backup-log-checks-and-what-they-can-tell-you
+  domain: dzone.com
+  image: ""
+- curated_id: 33d4c2841f42149e905b42e6075f0ec4
+  item_date: "2016-07-18 10:14:30"
+  title: 'Tweet: Announcing improved audit logs experience in #Azure! Check out the
+    new UX capabilities: https://t.co/CS5sVjdTDb'
+  url: https://twitter.com/Azure/statuses/755088367981826048
+  domain: twitter.com
+  image: ""
+- curated_id: 314b62b7ec39d3b996d9d16c03f42e1d
+  item_date: "2016-07-25 00:00:00"
+  title: Custom Audit Log With Spring and Hibernate
+  url: https://dzone.com/articles/custom-audit-log-with-spring-and-hibernate
+  domain: dzone.com
+  image: ""
+- curated_id: 2273c62b028452a1d4dd99e8983b9931
+  item_date: "2016-07-26 00:00:00"
+  title: 'Network Security and CMDBs: Why Graph Visualization Is Essential'
+  url: https://dzone.com/articles/network-security-cmdbs-why-graph-visualization-is
+  domain: dzone.com
+  image: ""
+- curated_id: dc2ed3cdc72237110e8d126b2a379a92
+  item_date: "2016-07-26 00:00:00"
+  title: Open Source Docker Monitoring  Logging
+  url: https://dzone.com/articles/open-source-docker-monitoring-logging
+  domain: dzone.com
+  image: ""
+- curated_id: c026c045b78813a266735479785f5d5f
+  item_date: "2016-08-03 00:00:00"
+  title: 'Log Monitor: Multiple Patterns'
+  url: http://www.monitis.com/blog/2016/08/03/log-monitor-multiple-patterns
+  domain: www.monitis.com
+  image: ""
+- curated_id: 1ba2dceeb6fafcb08a65c9a6e6cd5838
+  item_date: "2016-08-07 00:00:00"
+  title: An Introduction to the Logentries Command Line Interface
+  url: https://dzone.com/articles/introduction-to-the-logentries-command-line-interf
+  domain: dzone.com
+  image: ""
+- curated_id: 1795b2744b5c3a668f100152a1009b8b
+  item_date: "2016-08-08 12:14:12"
+  title: The Benefit of Having an Enterprise Logging Policy
+  url: https://blog.logentries.com/2016/04/the-benefit-of-having-an-enterprise-logging-policy/
+  domain: blog.logentries.com
+  image: ""
+- curated_id: e12c199c63821048df463a8b3fbfdf5e
+  item_date: "2016-08-09 00:00:00"
+  title: Exporting Logentries Data With Leexportpy
+  url: https://dzone.com/articles/exporting-logentries-data-with-leexportpy
+  domain: dzone.com
+  image: ""
+- curated_id: fd4aaa526d37b9e995ee117a3c0914e3
+  item_date: "2016-08-09 00:00:00"
+  title: Distributed Logging in the Container Era (Part 1)
+  url: https://dzone.com/articles/distributed-logging-architecture-in-the-container
+  domain: dzone.com
+  image: ""
+- curated_id: 680a158256ec766706cebfaa39cd7eae
+  item_date: "2016-08-09 00:00:00"
+  title: 'New Feature: API Request Logs'
+  url: http://blog.backand.com/new-feature-api-request-logs/
+  domain: blog.backand.com
+  image: ""
+- curated_id: 68cd1f53bf26785c950ba91a673fe006
+  item_date: "2016-08-10 00:00:00"
+  title: Log API for Memory Databases
+  url: http://blog.datomic.com/2016/08/log-api-for-memory-databases.html
+  domain: blog.datomic.com
+  image: ""
+- curated_id: 55e6e891aad22f57d4b1e8a30f48f254
+  item_date: "2016-08-10 00:00:00"
+  title: Distributed Logging in the Container Era (Part 2)
+  url: https://dzone.com/articles/distributed-logging-in-the-container-era-part-2-1
+  domain: dzone.com
+  image: ""
+- curated_id: 2f328c55b6aab38dad083fe1f7fd2881
+  item_date: "2016-08-11 00:00:00"
+  title: Distributed Logging in the Container Era (Part 3)
+  url: https://dzone.com/articles/distributed-logging-in-the-container-era-part-3
+  domain: dzone.com
+  image: ""
+- curated_id: 07030b7359842e6c587af8abc07dba34
+  item_date: "2016-08-16 00:00:00"
+  title: Application Insights and Semantic Logging for Service Fabric Microservices
+  url: http://www.medic-consulting.com/2016/08/12/Application-Insights-and-Semantic-Logging-for-Service-Fabric-Microservices/
+  domain: www.medic-consulting.com
+  image: ""
+- curated_id: ecc156e656528d6561b4343d3091806f
+  item_date: "2016-08-16 00:00:00"
+  title: Sumo Logic Unified Logs and Metrics Now Generally Available
+  url: https://dzone.com/articles/sumo-logic-unified-logs-and-metrics-now-generally
+  domain: dzone.com
+  image: ""
+- curated_id: db413c4ad1dbd9cc981b8148af533e7b
+  item_date: "2016-08-19 00:00:00"
+  title: 'The Definitive Guide to AWS Log Analytics Using ELK: Part II'
+  url: https://dzone.com/articles/the-definitive-guide-to-aws-log-analytics-using-el-2
+  domain: dzone.com
+  image: ""
+- curated_id: 5021527f95c33b6ade1ac29bd24cdd1b
+  item_date: "2016-08-22 00:00:00"
+  title: Logging the Lights in Your Home
+  url: https://dzone.com/articles/logging-the-lights-in-your-home
+  domain: dzone.com
+  image: ""
+- curated_id: 674676981dc56483cd9be651b39cecb8
+  item_date: "2016-08-23 00:00:00"
+  title: The Art of Data Logging
+  url: http://thenewstack.io/art-data-logging/
+  domain: thenewstack.io
+  image: ""
+- curated_id: 0258747b1715cddb5db78647e20cf175
+  item_date: "2016-08-29 00:00:00"
+  title: Improvements to CloudWatch Logs  Dashboards
+  url: https://aws.amazon.com/blogs/aws/improvements-to-cloudwatch-logs-dashboards/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 0cde52dc87f234f58370f334b561b233
+  item_date: "2016-08-30 00:00:00"
+  title: Stackdriver Debugger now displays application logs to better troubleshoot
+    apps
+  url: https://cloudplatform.googleblog.com/2016/08/Stackdriver-Debugger-now-displays-application-logs-to-better-troubleshoot-apps.html
+  domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: e558336f5037f26465de8d0cacb4821a
+  item_date: "2016-08-30 00:00:00"
+  title: Enabling and Analyzing the Garbage Collection Log
+  url: https://dzone.com/articles/enabling-and-analysing-the-garbage-collection-log
+  domain: dzone.com
+  image: ""
+- curated_id: 6d2db2dda20f56ea0e4cc13f202ad886
+  item_date: "2016-09-02 00:00:00"
+  title: Audit Trail Dashboard with CloudBees Jenkins Analytics
+  url: https://www.cloudbees.com/blog/audit-trail-dashboard-cloudbees-jenkins-analytics
+  domain: www.cloudbees.com
+  image: ""
+- curated_id: 43542644ef203af593ea10e7a12b6bd1
+  item_date: "2016-09-06 00:00:00"
+  title: Updated Products ? Adafruit Assembled Data Logging shield for Arduino / Light
+    and temperature data-logger pack
+  url: https://blog.adafruit.com/2016/09/06/updated-products-adafruit-assembled-data-logging-shield-for-arduino-light-and-temperature-data-logger-pack/
+  domain: blog.adafruit.com
+  image: ""
+- curated_id: 984609277d8d83354e1d6695355a5ed3
+  item_date: "2016-09-07 00:00:00"
+  title: Using the HTTP OMS Data Collector API for real-world scenario?s?Part 2
+  url: https://blogs.technet.microsoft.com/stefan_stranger/2016/09/07/using-the-http-oms-data-collector-api-for-real-world-scenarios-part-2/
+  domain: blogs.technet.microsoft.com
+  image: ""
+- curated_id: 8095953727091e2883d64f6647a67218
+  item_date: "2016-09-07 08:01:26"
+  title: 'Tweet: Log Search Simplifiednbsp;https://t.co/MSQJyBSrMh @Rapid7 @logentries'
+  url: https://twitter.com/logentries/statuses/773536660390805504
+  domain: twitter.com
+  image: ""
+- curated_id: 0f6730288fd0d07000ba67fab13deda1
+  item_date: "2016-09-08 05:00:13"
+  title: 'Tweet: Get your work done even faster with the @Logentries REST API https://t.co/bhWNlwKHH3
+    #api #restapi https://t.co/tAgJ50kuZ2'
+  url: https://twitter.com/logentries/statuses/773853446508310528
+  domain: twitter.com
+  image: ""
+- curated_id: 694dd8339c8257e3b9b41392d4f7c36a
+  item_date: "2016-09-14 00:00:00"
+  title: 5 Logstash Alternatives
+  url: https://dzone.com/articles/5-logstash-alternatives-2
+  domain: dzone.com
+  image: ""
+- curated_id: 9ab4cc87f8e2b7cb3b19b37a3d1d0e4c
+  item_date: "2016-09-18 00:00:00"
+  title: Audit and Log Database DML Changes in PostgreSQL With Cyan Audit
+  url: https://dzone.com/articles/audit-log-database-changes-in-postgresql
+  domain: dzone.com
+  image: ""
+- curated_id: 96e7e4a5e1d58672654beb0070d8efe0
+  item_date: "2016-09-20 00:00:00"
+  title: Satcom Direct (SD) Acquires AircraftLogs, A Provider of Aviation Data Management
+    Solutions
+  url: http://airfax.com/blog/index.php/2016/09/20/satcom-direct-sd-acquires-aircraftlogs-a-provider-of-aviation-data-management-solutions/
+  domain: airfax.com
+  image: ""
+- curated_id: 527880b299381ee8a639759983195397
+  item_date: "2016-09-23 00:00:00"
+  title: Learning From 60k Customer Searches About Logging in JSON
+  url: https://dzone.com/articles/learning-from-60k-customer-searches-about-logging
+  domain: dzone.com
+  image: ""
+- curated_id: 980e7a1da7c63fce539451032259b7c9
+  item_date: "2016-09-28 00:00:00"
+  title: Rene Ritchie on Apple?s iMessage Metadata Logs
+  url: http://www.imore.com/imessage-metadata-and-law-enforcement-what-you-need-know
+  domain: www.imore.com
+  image: ""
+- curated_id: f91738bf9c508f71e8adaad35d02d791
+  item_date: "2016-10-02 00:00:00"
+  title: Logger for Log4Net
+  url: http://www.codeproject.com/Tips/1135742/Logger-for-Log-Net
+  domain: www.codeproject.com
+  image: ""
+- curated_id: 29bf824a12d75f3ad7c69c9e807d7cb4
+  item_date: "2016-10-04 00:00:00"
+  title: AWS Logstash Setup
+  url: https://ctovision.com/aws-logstash-setup/
+  domain: ctovision.com
+  image: ""
+- curated_id: 9aa126f6efd28f3728a3ab47ad262a57
+  item_date: "2016-10-05 00:00:00"
+  title: Navigate Faster With the New Finder
+  url: http://blog.papertrailapp.com/navigate-faster-with-finder/
+  domain: blog.papertrailapp.com
+  image: ""
+- curated_id: 3e7e317b9efc4b76249a2023c2285f0a
+  item_date: "2016-10-06 00:00:00"
+  title: 'NetFlash: Tracking Dropbox network traffic in real-time with Elasticsearch'
+  url: https://blogs.dropbox.com/tech/2016/10/netflash-tracking-dropbox-network-traffic-in-real-time-with-elasticsearch/
+  domain: blogs.dropbox.com
+  image: ""
+- curated_id: adc1d8b36b9950374b52960f21552e58
+  item_date: "2016-10-10 00:00:00"
+  title: Using Event and Log Data to Assure Security and Compliance
+  url: https://dzone.com/articles/using-event-and-log-data-to-assure-security-and-co
+  domain: dzone.com
+  image: ""
+- curated_id: 9accba31171c9c164915ffd273bec6f2
+  item_date: "2016-10-10 00:00:00"
+  title: Why We Built Our Log Analytics SaaS on AWS
+  url: https://dzone.com/articles/why-we-built-our-log-analytics-saas-on-aws
+  domain: dzone.com
+  image: ""
+- curated_id: a145cfcf0847484d66c424eb912e33b4
+  item_date: "2016-10-11 05:00:22"
+  title: Using Event and Log Data to Assure Security and Compliance
+  url: https://blog.logentries.com/2016/09/using-event-and-log-data-to-assure-security-and-compliance/
+  domain: blog.logentries.com
+  image: ""
+- curated_id: 88339b4c95b723f5c7524ae9e12456fd
+  item_date: "2016-10-13 06:01:00"
+  title: 'Logging #Mosquitto Server logs (from #RaspberryPi) to Logentries'
+  url: https://blog.logentries.com/2016/10/logging-mosquitto-server-logs-from-raspberry-pi-to-logentries/
+  domain: blog.logentries.com
+  image: ""
+- curated_id: 95a97c14d3cca08ff58435e4efe59605
+  item_date: "2016-10-17 00:00:00"
+  title: DreamFactory 2.3.1 includes Logstash and Redshift
+  url: http://blog.dreamfactory.com/dreamfactory-2.3.1-release
+  domain: blog.dreamfactory.com
+  image: ""
+- curated_id: 3742e460df8f89a996ab32cef25e44cf
+  item_date: "2016-10-18 00:00:00"
+  title: Amazon ECS Log Analysis (Part 1)
+  url: https://dzone.com/articles/amazon-ec2-container-service-ecs-log-analysis
+  domain: dzone.com
+  image: ""
+- curated_id: da95f246a4291596643da65866d38813
+  item_date: "2016-11-03 00:00:00"
+  title: Keeping Your Code Clean While Logging
+  url: https://dzone.com/articles/keeping-your-code-clean-while-logging
+  domain: dzone.com
+  image: ""
+- curated_id: c811918f055a8edb54d37b01d3a60630
+  item_date: "2016-11-07 00:00:00"
+  title: CloudWatch Update ? Jump From Metrics to Associated Logs
+  url: https://aws.amazon.com/blogs/aws/cloudwatch-update-jump-from-metrics-to-associated-logs/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: aec8f52620c2f7fcdf5da14effb39003
+  item_date: "2016-12-13 00:00:00"
+  title: Chop your logs with capped collections
+  url: https://restdb.io/blog
+  domain: restdb.io
+  image: ""
+- curated_id: d8d6b36abaf4eda8afce67e013bbc02d
+  item_date: "2016-12-14 00:00:00"
+  title: Log Destination IP will change December 20
+  url: http://blog.papertrailapp.com/log-destination-ip-will-change-december-20/
+  domain: blog.papertrailapp.com
+  image: ""
+- curated_id: e131d2073ee436448416214b7faff1b1
+  item_date: "2017-01-09 00:00:00"
+  title: Why Log Data is Important for Compliance
+  url: https://dzone.com/articles/why-log-data-is-important-for-compliance
+  domain: dzone.com
+  image: ""
+- curated_id: 5e7931c2fd23375b098339320d140a80
+  item_date: "2017-01-17 00:00:00"
+  title: Logging A Docker Environment With Portainer (Or Not)
+  url: https://dzone.com/articles/logging-a-docker-environment-with-portainer-or-not
+  domain: dzone.com
+  image: ""
+- curated_id: 1e8877a79974c9cf00178b36a4707387
+  item_date: "2017-01-18 00:00:00"
+  title: 'Google Cloud Audit Logging now available across the GCP stack '
+  url: https://cloudplatform.googleblog.com/2017/01/Google-Cloud-Audit-Logging-now-available-across-the-GCP-stack.html
+  domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: b92fdf3a05274e80dfb3f527d45822e9
+  item_date: "2017-01-19 00:00:00"
+  title: Google intros Audit Logging tool for its cloud services
+  url: http://siliconangle.com/blog/2017/01/19/google-intros-audit-logging-tool-cloud-services/
+  domain: siliconangle.com
+  image: ""
+- curated_id: c0571e3ef5d6476139dd164c9a44f2a3
+  item_date: "2017-01-22 00:00:00"
+  title: 4 server logs you need to know to troubleshoot failed ASP.NET requests
+  url: https://www.codeproject.com/Articles/1166782/server-logs-you-need-to-know-to-troubleshoot-faile
+  domain: www.codeproject.com
+  image: ""
+- curated_id: 3ca4058ad0ab849f78bf7644961dddf8
+  item_date: "2017-01-30 00:00:00"
+  title: Google Expands Audit Logging Capability to Majority of Cloud Services
+  url: https://www.infoq.com/news/2017/01/google-cloud-audit-logging
+  domain: www.infoq.com
+  image: ""
+- curated_id: cb217c04003ad19dfe7d2f5374535078
+  item_date: "2017-01-31 00:00:00"
+  title: DreamFactory 2.4.2 adds logging, SAML, and Azure AD
+  url: http://blog.dreamfactory.com/dreamfactory-2.4.2-release
+  domain: blog.dreamfactory.com
+  image: ""
+- curated_id: 54132187897fba990af788bf09a5e156
+  item_date: "2017-01-31 00:00:00"
+  title: What is structured logging and why developers need it
+  url: https://stackify.com/what-is-structured-logging-and-why-developers-need-it/
+  domain: stackify.com
+  image: ""
+- curated_id: 6407803ac5a9f6c31e7948e87c81969b
+  item_date: "2017-02-06 00:00:00"
+  title: DreamFactorys Smart Logging Service
+  url: http://blog.dreamfactory.com/dreamfactory-event-logging
+  domain: blog.dreamfactory.com
+  image: ""
+- curated_id: 839e76c5df58d381685b37055ee4ba3c
+  item_date: "2017-02-07 00:00:00"
+  title: Using Logs In Incident Response
+  url: https://blog.opsgenie.com/2017/02/using-logs-in-incident-response
+  domain: blog.opsgenie.com
+  image: ""
+- curated_id: 24d4ac56f95d1c25a97200690b238a52
+  item_date: "2017-02-13 00:00:00"
+  title: "Logging for Fun: Things You\u2019d Never Thought to Log"
+  url: https://dzone.com/articles/logging-for-fun-things-youd-never-thought-to-log
+  domain: dzone.com
+  image: ""
+- curated_id: d1fcba377689e371c699af20978f0aaf
+  item_date: "2017-02-13 00:00:00"
+  title: Top 7 Log Management Cloud Tools
+  url: https://dzone.com/articles/top-7-log-management-cloud-tools
+  domain: dzone.com
+  image: ""
+- curated_id: 253bc410432435ef8f5404961debb82d
+  item_date: "2017-02-16 00:00:00"
+  title: How to Ship Kibana Server Logs to Elasticsearch
+  url: https://dzone.com/articles/how-to-ship-kibana-server-logs-to-elasticsearch-1
+  domain: dzone.com
+  image: ""
+- curated_id: f7861b2b867f3e90ca2e24d1e10ffc7a
+  item_date: "2017-02-16 00:00:00"
+  title: 5 Data Storage Solutions for Better Log Management
+  url: https://dzone.com/articles/5-data-storages-for-better-log-management
+  domain: dzone.com
+  image: ""
+- curated_id: 02d02d4ae7daa354d4e8bf9e7d565b92
+  item_date: "2017-02-20 00:00:00"
+  title: Splunking Microsoft Azure Network Watcher Data
+  url: http://blogs.splunk.com/2017/02/20/splunking-microsoft-azure-network-watcher-data/
+  domain: blogs.splunk.com
+  image: ""
+- curated_id: 738b65eaa06647d0bfafcce74d349b5e
+  item_date: "2017-02-21 05:04:03"
+  title: 'Tweet: fbacchella/LogHub https://t.co/6lB474gblj by @github'
+  url: https://twitter.com/datawireio/statuses/834025895656558593
+  domain: twitter.com
+  image: ""
+- curated_id: f922730a09b8ef28d81a53757ca504d5
+  item_date: "2017-02-23 13:53:42"
+  title: 'Tweet: DreamFactory#039;s Smart Logging Service https://t.co/rTUho5rSp1
+    by @dfsoftwareinc https://t.co/DDLTC8NXaN'
+  url: https://twitter.com/dfsoftwareinc/statuses/834883960664653824
+  domain: twitter.com
+  image: ""
+- curated_id: 554f3b3a134f25b9b42abae977e1f9f4
+  item_date: "2017-02-24 00:00:00"
+  title: "Why Logs aren\u2019t Enough for Security"
+  url: https://dzone.com/articles/why-logs-arent-enough-fornbspsecurity
+  domain: dzone.com
+  image: ""
+- curated_id: 028823cefd6fe33523a319735095626b
+  item_date: "2017-03-02 00:00:00"
+  title: How Tinylog 1.2 Simplifies Your Logging
+  url: https://dzone.com/articles/how-tinylog-12-will-simplify-your-logging
+  domain: dzone.com
+  image: ""
+- curated_id: 35cd6d4beb1c58fb6ccdf8b8fe7baf2a
+  item_date: "2017-03-06 00:00:00"
+  title: Metrics and Tracking for Data Systems
+  url: https://www.indix.com/blog/developer/metrics-and-tracking-for-data-systems/
+  domain: www.indix.com
+  image: ""
+- curated_id: b69695db4505f28fe9ff5b18b55c84ac
+  item_date: "2017-03-21 10:29:12"
+  title: Log Analysis for System Troubleshooting.
+  url: https://blog.logentries.com/2017/03/log-analysis-for-system-troubleshooting/
+  domain: blog.logentries.com
+  image: ""
+- curated_id: f8fee4a3c5f69ef8f53b9a9751c22e12
+  item_date: "2017-04-04 00:00:00"
+  title: Collecting Log Analytics/OMS Data Across Subscriptions
+  url: https://dzone.com/articles/collecting-log-analyticsoms-data-across-subscriptions
+  domain: dzone.com
+  image: ""
+- curated_id: d04be0c7cea12e223ebc09df7780fc2d
+  item_date: "2017-04-10 00:00:00"
+  title: 'Docker Logging With the ELK Stack: Part I'
+  url: https://dzone.com/articles/docker-logging-with-the-elk-stack-part-i
+  domain: dzone.com
+  image: ""
+- curated_id: 38a5afefa6095999c41cada3cf90630d
+  item_date: "2017-04-10 15:05:12"
+  title: 'Tweet: #APImetrics saves you time on reporting issues that donrsquo;t appear
+    in internal logging systems. Find out more today.  https://t.co/72MZJXE1fa'
+  url: https://twitter.com/APImetricStats/statuses/851556698766573568
+  domain: twitter.com
+  image: ""
+- curated_id: 03e758003816774ce68c296b15551ae8
+  item_date: "2017-04-13 00:00:00"
+  title: Ship your Auth0 logs to Azure Log Analytics
+  url: https://auth0.com/blog/auth0-to-azure-log-analytics/
+  domain: auth0.com
+  image: ""
+- curated_id: ef652b4e54c86b1b516f9b1970466e5d
+  item_date: "2017-04-20 00:00:00"
+  title: Anti-DDoS Attack Protection With the ELK Stack
+  url: https://dzone.com/articles/anti-ddos-attack-protection-with-the-elk-stack
+  domain: dzone.com
+  image: ""
+- curated_id: 4012260962f4284fd505c605d462c682
+  item_date: "2017-04-24 08:10:25"
+  title: Redux Logging in Production
+  url: https://blog.logrocket.com/redux-logging-in-production-3b2a4816b713
+  domain: blog.logrocket.com
+  image: ""
+- curated_id: 78e41e22937c1af5260e187d2de6ecd9
+  item_date: "2017-04-28 00:00:00"
+  title: Advanced Git Log
+  url: https://dzone.com/articles/advanced-git-log
+  domain: dzone.com
+  image: ""
+- curated_id: 803a0a33965d49c593f9d73b0026b7d7
+  item_date: "2017-04-29 00:00:00"
+  title: Logs For A Toilet
+  url: http://hackaday.com/2017/04/29/logs-for-a-toilet/
+  domain: hackaday.com
+  image: ""
+- curated_id: 14e12e3e7b05000de7006b6991d56be6
+  item_date: "2017-05-01 00:00:00"
+  title: What is Structured Logging?
+  url: https://dzone.com/articles/what-is-structured-logging
+  domain: dzone.com
+  image: ""
+- curated_id: dde2b2a80d81e1bcc41a52309681f288
+  item_date: "2017-05-08 00:00:00"
+  title: Use Google Cloud Client Libraries to store files, save entities, and log
+    data
+  url: https://cloudplatform.googleblog.com/2017/05/use-Google-Cloud-Client-Libraries-to-store-files-save-entities-and-log-data.html
+  domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: 7d7dee99df3f1df159029c1e25f92ea5
+  item_date: "2017-05-10 00:00:00"
+  title: Centralized Log Management Reduces Server Costs by 33%
+  url: https://dzone.com/articles/centralized-log-management-reduces-server-costs-by
+  domain: dzone.com
+  image: ""
+- curated_id: ce6e1db9b1e24544cf4a0453f7e4635f
+  item_date: "2017-05-12 00:00:00"
+  title: 'Docker Logging 101: Best Practices, Analytics Tools, Tutorials, and More'
+  url: https://stackify.com/what-are-docker-logs/
+  domain: stackify.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15c43ace303:109f7:24c712f4
+  item_date: "2017-05-25 02:21:49"
+  title: Real
+  url: https://medium.com/p/21f67655f41e
+  domain: medium.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15c40938ed7:3197bd5:1980c846
+  item_date: "2017-05-25 09:05:24"
+  title: "A new way to debug your data models \u2013 The Event Log"
+  url: https://blog.keen.io/a-new-way-to-debug-your-data-models-b7bc49ccf97a
+  domain: blog.keen.io
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15c4b04825c:3ff91ba:1980c846
+  item_date: "2017-05-27 10:42:49"
+  title: "Don\u2019t Read Your Logs \u2013 Aditya Mukerjee \u2013 Medium"
+  url: https://medium.com/@chimeracoder/dont-read-your-logs-13586c790202
+  domain: medium.com
+  image: ""
+- curated_id: qQEZ7AvNCW5MO++95eG+wPiOBUdDkSnCTJkRZA9Z4ro=_15c5eb5b362:5a4dbd0:cfb784e9
+  item_date: "2017-05-31 06:30:20"
+  title: The Significance of Log Sources to Building Effective Intelligence
+  url: https://blogs.cisco.com/?p=223552
+  domain: blogs.cisco.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15c79128cb9:7e78d2e:cfb784e9
+  item_date: "2017-06-05 09:19:33"
+  title: 'Little Logstash Lessons: Handling Duplicates'
+  url: https://www.elastic.co/blog/logstash-lessons-handling-duplicates
+  domain: www.elastic.co
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15c9c088a86:26a9642:e55a4d93
+  item_date: "2017-06-12 04:15:37"
+  title: Analysing attacks on a WordPress XML
+  url: https://blog.appsecco.com/analysing-attacks-on-a-wordpress-xml-rpc-using-an-elk-stack-3bf25a7e36cc
+  domain: blog.appsecco.com
+  image: ""
+- curated_id: rxLnjiJudc56FbZKrZ0crrg2UUWdKV8knoKwhWKNfS4=_15cf46e7e29:4a11053:517b1451
+  item_date: "2017-06-29 08:15:45"
+  title: An Overview of the Logging Ecosystem in 2017
+  url: https://blog.codeship.com/?p=5239
+  domain: blog.codeship.com
+  image: ""
+- curated_id: 1pjjqu+svtKKsalLX16EuxgGP/j/+09bA6GvyDDsDYE=_15d126e6319:adc034:32bbcd87
+  item_date: "2017-07-05 04:00:00"
+  title: Understanding Performance Logs for Performance Tuning
+  url: http://blog.loadimpact.com/understanding-performance-logs-for-performance-tuning
+  domain: blog.loadimpact.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15d18f33968:158988d:32bbcd87
+  item_date: "2017-07-06 07:00:00"
+  title: Logstash 5.5.0 released
+  url: https://www.elastic.co/blog/logstash-5-5-0-released
+  domain: www.elastic.co
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_15d6a90f2fe:2d254:6c0c5382
+  item_date: "2017-07-21 14:28:54"
+  title: "Unveiling Amazon\u2019s hidden plans for AWS Lambda"
+  url: https://medium.com/p/cd4066aba8fc
+  domain: medium.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15d815faa8f:3594460:53d642ee
+  item_date: "2017-07-26 04:49:01"
+  title: 'Logstash Lines: Introducing modules'
+  url: https://www.elastic.co/blog/logstash-lines-2017-07-26
+  domain: www.elastic.co
+  image: ""
+- curated_id: /XjtS/+KqME3icyckpmbdVHPPb0c6JwmNPkOxVYaD0w=_15d7f692016:3177bb2:8fa6dd97
+  item_date: "2017-07-26 07:30:00"
+  title: "Bob Loblaw\u2019s Log Blog"
+  url: https://segment.com/blog/bob-loblaws-log-blog/
+  domain: segment.com
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_15d96089e40:c90732:41b98b00
+  item_date: "2017-07-30 17:23:39"
+  title: Tracking Activity with OpenWhisk Shell
+  url: https://medium.com/p/98e05106eb46
+  domain: medium.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15d98fc7efa:1516213:68e64fa8
+  item_date: "2017-07-31 03:03:39"
+  title: Enriching logs with Docker metadata using Filebeat
+  url: https://www.elastic.co/blog/enrich-docker-logs-with-filebeat
+  domain: www.elastic.co
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15d9f41043e:5e07cf:bd5def64
+  item_date: "2017-08-01 04:49:01"
+  title: 'Logstash Lines: Introducing a benchmarking tool for Logstash'
+  url: https://www.elastic.co/blog/logstash-lines-2017-08-01
+  domain: www.elastic.co
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_15dc25cfc1f:2c06d90:41b98b00
+  item_date: "2017-08-08 08:00:02"
+  title: Swarm kills the clutter, focuses on logging location
+  url: http://techcrunch.com/?p=1524566
+  domain: techcrunch.com
+  image: ""
+- curated_id: qQEZ7AvNCW5MO++95eG+wPiOBUdDkSnCTJkRZA9Z4ro=_15dc7644cf9:2f72a02:ce556ce1
+  item_date: "2017-08-09 07:23:15"
+  title: "Encrypted Traffic Analytics \u2013 Why Should You Care?"
+  url: https://blogs.cisco.com/?p=230471
+  domain: blogs.cisco.com
+  image: ""
+- curated_id: TCaFIfL0HZwQurPjgWf5KEdpgWQiaDHPDU1Kuiku6/8=_15dd4b851cc:10fb7b:9cc60c90
+  item_date: "2017-08-10 17:00:00"
+  title: Removing Android Log Messages
+  url: https://support.brightcove.com/removing-android-log-messages
+  domain: support.brightcove.com
+  image: ""
+- curated_id: oWwSZ9Xu4Zg49bpJDa0MWTMCyM67pScdNU+gxmUAZuo=_15dd6f88454:43f4b3:41b98b00
+  item_date: "2017-08-12 08:00:54"
+  title: Researchers report >4,000 apps that secretly record audio and steal logs
+  url: https://arstechnica.com/?p=1146257
+  domain: arstechnica.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15de1c7820c:107cbdd:b8b2a437
+  item_date: "2017-08-14 10:20:30"
+  title: Introducing Multiple Pipelines in Logstash
+  url: https://www.elastic.co/blog/logstash-multiple-pipelines
+  domain: www.elastic.co
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15de6b09a94:51d44a:9cc60c90
+  item_date: "2017-08-15 09:03:21"
+  title: 'Introducing Auditbeat: Ship Linux Audit Logs to Elasticsearch and More'
+  url: https://www.elastic.co/blog/introducing-auditbeat-ship-linux-audit-logs-to-elasticsearch
+  domain: www.elastic.co
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15e09f6aea2:2f26736:bd5def64
+  item_date: "2017-08-22 05:20:41"
+  title: 'Brewing in Beats: Monitor Kafka logs with Filebeat'
+  url: https://www.elastic.co/blog/brewing-in-beats-monitor-kafka-logs-with-filebeat
+  domain: www.elastic.co
+  image: ""
+- curated_id: 8WqmKMFd8K7u/NGOImR541mH0lptB+6TGihQtOQyTbs=_15e10099387:38451d9:218de7ce
+  item_date: "2017-08-23 02:48:00"
+  title: Without Logs, Did it Actually Happen? Logging Selenium Browser Testing on
+    CircleCI 2.0
+  url: https://circleci.com/blog/without-logs-did-it-actually-happen-logging-selenium-browser-testing-on-circleci-2-0/
+  domain: circleci.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_15e2efa2b29:694d2b:3e745506
+  item_date: "2017-08-29 10:11:38"
+  title: Trace/Monitor Chain of Microservice Logs in the Same Transaction
+  url: https://medium.com/p/f13420f2d42c
+  domain: medium.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_15e32649dfa:1857a:e457444
+  item_date: "2017-08-30 01:01:01"
+  title: Tips and tricks for logging and monitoring AWS Lambda functions
+  url: https://medium.com/p/885af6da29a5
+  domain: medium.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15e348707c9:b51b07:56b346f
+  item_date: "2017-08-30 04:49:01"
+  title: 'Logstash Lines: Java execution for filters/outputs'
+  url: https://www.elastic.co/blog/logstash-lines-2017-08-30
+  domain: www.elastic.co
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_15e37ac769e:89f49:e457444
+  item_date: "2017-08-31 02:43:08"
+  title: Query Fastly Logs using Amazon Athena
+  url: https://medium.com/p/f262bc58d27c
+  domain: medium.com
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_15e3906d06f:ad9e6:e457444
+  item_date: "2017-08-31 09:00:58"
+  title: "Google\u2019s Stackdriver monitoring service for GCP and AWS gets improved
+    logging features"
+  url: http://techcrunch.com/?p=1533794
+  domain: techcrunch.com
+  image: ""
+- curated_id: COy8McbBfVir67ZxD2FOclUkFmMTSIz3gIibngyQUqQ=_15e39398c3e:11b5390:ed57ae85
+  item_date: "2017-08-31 10:00:00"
+  title: 'LogDevice: a distributed data store for logs'
+  url: https://code.facebook.com/posts/357056558062811/logdevice-a-distributed-data-store-for-logs/?utm_source=codedot_rss_feed&utm_medium=rss&utm_campaign=RSS+Feed
+  domain: code.facebook.com
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_15e393ccc05:ede88b:3e745506
+  item_date: "2017-08-31 10:00:01"
+  title: Facebook to open source LogDevice for storing logs from distributed data
+    centers
+  url: http://techcrunch.com/?p=1534412
+  domain: techcrunch.com
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_15e5ca522db:2b8e18:9dbe7464
+  item_date: "2017-09-07 07:00:52"
+  title: Datadog acquires Logmatic.io to add log management to its cloud monitoring
+    platform
+  url: http://techcrunch.com/?p=1536923
+  domain: techcrunch.com
+  image: ""
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_15e5cbb30b4:44eaccb:56b346f
+  item_date: "2017-09-07 07:25:25"
+  title: Datadog acquires Logmatic.io
+  url: https://www.datadoghq.com/blog/datadog-acquires-logmatic-io/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: JA1HSQatpPXQxCQ4ABRR78b1Bv2C04PJrJczJ3cK8JA=_15e80c9afd7:53cbf0:64bea9a6
+  item_date: "2017-09-13 09:34:00"
+  title: China to Create Data Repository to Log Cyberattacks
+  url: https://www.darkreading.com/application-security/china-to-create-data-repository-to-log-cyberattacks/d/d-id/1329868
+  domain: www.darkreading.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15eb6c47a74:f6541f:55eae650
+  item_date: "2017-09-24 12:34:25"
+  title: ActivityWatch and osquery
+  url: https://medium.com/p/a7b62817f895
+  domain: medium.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15ec406d1bf:1df8051:feeb522d
+  item_date: "2017-09-26 06:02:10"
+  title: Centralized Pipeline Management in Logstash
+  url: https://www.elastic.co/blog/logstash-centralized-pipeline-management
+  domain: www.elastic.co
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15ebaea52c7:1fef1b2:e05f56c8
+  item_date: "2017-09-26 14:20:13"
+  title: Machine Learning for Nginx Logs
+  url: https://www.elastic.co/blog/machine-learning-for-nginx-logs
+  domain: www.elastic.co
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15ec406d1bf:1df8054:feeb522d
+  item_date: "2017-09-27 08:34:08"
+  title: 'Logstash Lines: More Bundled Plugins and Testing Improvements'
+  url: https://www.elastic.co/blog/logstash-lines-2017-09-27
+  domain: www.elastic.co
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15ec51e5d5b:30ded80:c84bd0de
+  item_date: "2017-09-27 13:49:46"
+  title: 'TLS for the Elastic Stack: Elasticsearch, Kibana, Beats, and Logstash'
+  url: https://www.elastic.co/blog/tls-elastic-stack-elasticsearch-kibana-logstash-filebeat
+  domain: www.elastic.co
+  image: ""
+- curated_id: rq6OKKgBiWVp88vsVvs1lxEDBZExs+csk5yWEsrvsaE=_15f2b454857:5a39f76:4d363ef0
+  item_date: "2017-10-16 17:00:00"
+  title: You Could Have Invented Structured Logging
+  url: https://honeycomb.io/blog/2017/10/you-could-have-invented-structured-logging/
+  domain: honeycomb.io
+  image: ""
+- curated_id: 53UYdSIjaP6vd+2Bz1ivn3GdkSivxwzyAAG6WfdGv7o=_15f47d559c5:6b7c628:9ac85644
+  item_date: "2017-10-22 22:55:09"
+  title: 'ModSecurity: Logging and debugging'
+  url: https://www.nginx.com/?p=54259
+  domain: www.nginx.com
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_15f59a14a77:32338c6:626ab4cd
+  item_date: "2017-10-26 10:01:01"
+  title: Cloud logging & Tailf.io
+  url: https://medium.com/p/ca28ec239f8a
+  domain: medium.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15f77c81487:536f19:541f3c40
+  item_date: "2017-10-31 08:34:08"
+  title: 'Logstash Lines: Experimenting With Bytecode Generation'
+  url: https://www.elastic.co/blog/logstash-lines-2017-10-31
+  domain: www.elastic.co
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_15f78467b5e:1c5f4db:aa3e42e1
+  item_date: "2017-11-01 08:50:03"
+  title: AWS Elasticsearch/Kibana for Serverless Log Aggregation
+  url: https://medium.com/p/124bb8af4696
+  domain: medium.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_15fc56e0ad5:516214:3c0bb656
+  item_date: "2017-11-16 07:02:27"
+  title: Monitoring Logstash Pipelines
+  url: https://dzone.com/articles/1834080
+  domain: dzone.com
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_15fd98a3f18:127242:1cefc59
+  item_date: "2017-11-20 05:06:27"
+  title: Scalyr scores $20M Series A for super
+  url: http://techcrunch.com/?p=1569318
+  domain: techcrunch.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_15fdd816866:288b7ae:541f3c40
+  item_date: "2017-11-20 22:01:31"
+  title: Publishing Spring Boot Logs to Azure Log Analytics
+  url: https://dzone.com/articles/1838128
+  domain: dzone.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_15fde0abe4d:298e2ab:541f3c40
+  item_date: "2017-11-21 02:01:48"
+  title: How to Check Log Files on a Server Without Logging Into the Server
+  url: https://dzone.com/articles/1844013
+  domain: dzone.com
+  image: ""
+- curated_id: Ongx+XoEktk2hoYVn7U6vPIEyXF9lh/C63+fKleo7+M=_15fdf08a776:1a9a54:1cefc59
+  item_date: "2017-11-21 06:43:25"
+  title: Extraction Logs are Now Available!
+  url: https://medium.com/p/3c08471cc8c4
+  domain: medium.com
+  image: ""
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_15fdf16c2d7:2b8e56e:541f3c40
+  item_date: "2017-11-21 06:58:51"
+  title: Introducing logs in Datadog
+  url: https://www.datadoghq.com/blog/announcing-logs/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_15ff70a4152:4d81036:3c0bb656
+  item_date: "2017-11-25 22:01:01"
+  title: Log File Too Big
+  url: https://dzone.com/articles/1841122
+  domain: dzone.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_1600018089b:161ee:3c0bb656
+  item_date: "2017-11-27 07:57:57"
+  title: Shipping Kubernetes Logs to Elasticsearch with Filebeat
+  url: https://www.elastic.co/blog/shipping-kubernetes-logs-to-elasticsearch-with-filebeat
+  domain: www.elastic.co
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_16006ee4ee9:2f9659:e597f5ed
+  item_date: "2017-11-29 00:01:01"
+  title: Log Unexpected Switch Options
+  url: https://dzone.com/articles/1852807
+  domain: dzone.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_16027c28092:35f6587:e597f5ed
+  item_date: "2017-12-05 09:01:01"
+  title: Nanosecond Precise Logging With Tinylog
+  url: https://dzone.com/articles/1866884
+  domain: dzone.com
+  image: ""
+- curated_id: IQOZI3BDLIkJP5DDw7kwxbCWAc7Elam/7sSBACr4NjU=_1603c9e08cd:17584e9:3c0bb656
+  item_date: "2017-12-08 07:10:13"
+  title: 'Handling GDPR: How does a log forget?'
+  url: https://www.confluent.io/?p=9860
+  domain: www.confluent.io
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_1603f4c9f7a:c0f981:9e976e77
+  item_date: "2017-12-09 23:21:12"
+  title: 'Serverless App: AWS CloudTrail Log Analytics using Amazon Elasticsearch
+    Service'
+  url: https://medium.com/p/f4612b2103c1
+  domain: medium.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_1604b590f60:2d643e3:3c0bb656
+  item_date: "2017-12-12 03:56:02"
+  title: Script Recovers Event Logs Doctored by NSA Hacking Tool
+  url: https://www.bleepingcomputer.com/news/security/script-recovers-event-logs-doctored-by-nsa-hacking-tool/
+  domain: www.bleepingcomputer.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_1604d6b575b:308c398:7157a206
+  item_date: "2017-12-12 07:34:08"
+  title: 'Logstash Lines: Update for December 12, 2017'
+  url: https://www.elastic.co/blog/logstash-lines-2017-12-07
+  domain: www.elastic.co
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_1604f6f5bee:3438167:541f3c40
+  item_date: "2017-12-13 02:02:49"
+  title: How to Configure JMeter Logging
+  url: https://dzone.com/articles/1897642
+  domain: dzone.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_16052134e6c:38ada4f:7157a206
+  item_date: "2017-12-13 09:00:00"
+  title: Logstash 6.1.0 Released
+  url: https://www.elastic.co/blog/logstash-6-1-0-released
+  domain: www.elastic.co
+  image: ""
+- curated_id: JautIPPkjriavsgWQ1Y6GTCV9xw4aqT1iWn47Afa0ms=_16055e189ec:3fcf9a2:541f3c40
+  item_date: "2017-12-14 08:24:13"
+  title: The Architecture of the Next CERN Accelerator Logging Service
+  url: https://databricks.com/?p=13791
+  domain: databricks.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_16059b68cf9:45be96a:7157a206
+  item_date: "2017-12-15 02:01:01"
+  title: Understanding Cloud Foundry Logging on IBM Cloud
+  url: https://dzone.com/articles/1879974
+  domain: dzone.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_16067c36830:e75213:541f3c40
+  item_date: "2017-12-17 17:45:01"
+  title: Analyze Database Audit Logs for Security and Compliance Using Amazon Redshift
+    Spectrum
+  url: https://aws.amazon.com/blogs/big-data/analyze-database-audit-logs-for-security-and-compliance-using-amazon-redshift-spectrum/?sc_channel=sm&sc_campaign=Big_Data_Blog&sc_publisher=TWITTER&sc_country=Global&sc_geo=GLOBAL&sc_outcome=awareness&trk=_TWITTER&sc_content=redshift-spectrum-blog-db-audit-logs-02&sc_category=Amazon_Redshift&linkId=46011465
+  domain: aws.amazon.com
+  image: ""
+- curated_id: rq6OKKgBiWVp88vsVvs1lxEDBZExs+csk5yWEsrvsaE=_1606fc3f135:1c54fd9:541f3c40
+  item_date: "2017-12-18 16:00:00"
+  title: New Custom Regex Log Ingestion
+  url: https://honeycomb.io/blog/2017/12/new-custom-regex-log-ingestion/
+  domain: honeycomb.io
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_1607f40e6c7:690e15:541f3c40
+  item_date: "2017-12-22 09:01:01"
+  title: 'Installing the ELK Stack on AWS: A Step'
+  url: https://dzone.com/articles/1919994
+  domain: dzone.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_160a6178acc:3cc800e:541f3c40
+  item_date: "2017-12-29 22:01:02"
+  title: Monitoring AWS Lambda Invocations With the ElLK Stack
+  url: https://dzone.com/articles/1934988
+  domain: dzone.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_160a6f34c87:3ce5093:7157a206
+  item_date: "2017-12-30 02:01:01"
+  title: 'Building a Distributed Log From Scratch, Part 1: Storage Mechanics'
+  url: https://dzone.com/articles/1935138
+  domain: dzone.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_160ad373d92:4470a75:7157a206
+  item_date: "2017-12-31 07:01:00"
+  title: What Goes Into Log Analysis?
+  url: https://dzone.com/articles/1937205
+  domain: dzone.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_160b6665172:505d2d2:3c0bb656
+  item_date: "2018-01-02 02:01:03"
+  title: 'Building a Distributed Log From Scratch, Part 2: Data Replication'
+  url: https://dzone.com/articles/1935141
+  domain: dzone.com
+  image: ""
+- curated_id: P6ZHWlrPQ5ILOZ54yDX4aZ046+AnYBvjvT3DdNFTXhQ=_160b748c69b:50d1228:7157a206
+  item_date: "2018-01-02 06:28:16"
+  title: How Log Analysis Can Bring Front
+  url: https://thenewstack.io/?p=3506698
+  domain: thenewstack.io
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_160e9e07a2b:1e439b1:7157a206
+  item_date: "2018-01-12 02:02:12"
+  title: Top 10 Docker Logging Gotchas
+  url: https://dzone.com/articles/1965291
+  domain: dzone.com
+  image: ""
+- curated_id: 7TEBlXSMajGkv/YSW3g1Klkey5yNzPysA89gpF/QOCo=_160fe90af2c:130f426:fe3e7618
+  item_date: "2018-01-16 02:19:43"
+  title: "SIEM vs. Log Management: What\u2019s the difference?"
+  url: http://www.bmc.com/blogs/?p=11740
+  domain: www.bmc.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_1619aae94f8:bdba3:c8ea36f9
+  item_date: "2018-01-21 05:44:59"
+  title: 'Part 1: Building a Centralized Logging Application'
+  url: https://medium.com/p/5a537033da0a
+  domain: medium.com
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_1611b565230:1f224bb:592649b9
+  item_date: "2018-01-21 16:48:15"
+  title: You need to use structured logging with AWS Lambda
+  url: https://medium.com/p/f3af9586d6a8
+  domain: medium.com
+  image: ""
+- curated_id: rq6OKKgBiWVp88vsVvs1lxEDBZExs+csk5yWEsrvsaE=_1617681dd7e:4456e29:7157a206
+  item_date: "2018-02-07 16:00:00"
+  title: Structured Logging and Your Team
+  url: https://honeycomb.io/blog/2018/02/structured-logging-and-your-team/
+  domain: honeycomb.io
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_1618a03d6de:48c68a:86e37f75
+  item_date: "2018-02-12 04:36:01"
+  title: 'Serverless App: AWS CloudTrail Log Analytics using Amazon Elasticsearch
+    Service'
+  url: https://medium.com/p/76ed8dfa064a
+  domain: medium.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_161b4f5bc63:1c6fe93:e66afc8b
+  item_date: "2018-02-20 10:26:53"
+  title: HTTP Request/Response Logging with Go
+  url: https://medium.com/p/9f82f20caed5
+  domain: medium.com
+  image: ""
+- curated_id: nAKpOabmpRp6ysP/78+2XCcgzE6USB54TMs/P6UrCkE=_161dccc053a:398b8:a077e55f
+  item_date: "2018-02-28 06:00:29"
+  title: The Power of Logging in Incident Response
+  url: https://blogs.cisco.com/?p=245668
+  domain: blogs.cisco.com
+  image: ""
+- curated_id: cokvuWXR6k4zx4cTNPY1nzhlJpqqTmN3HT0ihkkhjoM=_161e807d79e:1bf09d5:7c9981b6
+  item_date: "2018-03-01 16:00:00"
+  title: Introducing LogFeeder
+  url: https://engineeringblog.yelp.com/2018/03/introducing-logfeeder.html
+  domain: engineeringblog.yelp.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_161ed72daa1:392e82:76251cdd
+  item_date: "2018-03-02 13:56:32"
+  title: 'Tutorial: collecting and analyzing Docker container logs with Sumo Logic
+    (for free)'
+  url: https://medium.com/p/19dae730a8d5
+  domain: medium.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_1620b9895af:42c91b:76251cdd
+  item_date: "2018-03-09 06:02:25"
+  title: Logging Spring REST APIs
+  url: https://dzone.com/articles/2103175
+  domain: dzone.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_1620b9895af:42c91c:76251cdd
+  item_date: "2018-03-09 07:01:01"
+  title: 'Azure Monitor and Azure Log Analytics: When to Use Which'
+  url: https://dzone.com/articles/2105400
+  domain: dzone.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_1623282eea9:1857ebb:9f3b30f2
+  item_date: "2018-03-16 22:02:15"
+  title: 'Go Microservices, Part 10: Centralized Logging'
+  url: https://dzone.com/articles/2117735
+  domain: dzone.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_16259cb282b:9e81e:a077e55f
+  item_date: "2018-03-24 12:20:31"
+  title: Publish Custom Metrics to AWS CloudWatch
+  url: https://medium.com/p/18cb3bbff17c
+  domain: medium.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_162738b2e41:75dcf4d:9f3b30f2
+  item_date: "2018-03-29 12:54:21"
+  title: 'Logstash Lines: Improvements in filters and plugins'
+  url: https://www.elastic.co/blog/logstash-lines-improvements-in-filters-and-plugins
+  domain: www.elastic.co
+  image: ""
+- curated_id: eWu7VVyQziNGDYCNPrNyv5P/LGeod5mr5PXQh3MrqnI=_16277096eac:7990bc1:34f43e70
+  item_date: "2018-03-30 06:00:09"
+  title: Laravel Log Enhancer Package
+  url: https://laravel-news.com/laravel-log-enhancer-package
+  domain: laravel-news.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_16277ed5e52:7b06ac8:34f43e70
+  item_date: "2018-03-30 10:02:12"
+  title: Get Stats and Logs From a Container Using Docker Connector in Mule
+  url: https://dzone.com/articles/2139743
+  domain: dzone.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_162bb9128b6:1087aa6:7d6c1c1c
+  item_date: "2018-04-12 05:28:08"
+  title: 'Logstash Lines: Improved resilience in S3 input'
+  url: https://www.elastic.co/blog/logstash-lines-inproved-resilience-in-S3-input
+  domain: www.elastic.co
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_162d5af98da:61c975:76251cdd
+  item_date: "2018-04-17 10:59:14"
+  title: Sending GraphQL metrics to Datadog with Apollo Engine
+  url: https://medium.com/p/d7876b9dbcba
+  domain: medium.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_16306578837:8b4bc5:11c251fd
+  item_date: "2018-04-27 02:01:04"
+  title: 'Retrace Log Management: Logs, Errors and Code Level Performance'
+  url: https://dzone.com/articles/2189582
+  domain: dzone.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_1632d10a287:1812879:93d646dc
+  item_date: "2018-05-04 12:55:27"
+  title: 'Logstash Lines: Improvements to Plugins'
+  url: https://www.elastic.co/blog/logstash-lines-improvements-to-plugins
+  domain: www.elastic.co
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_1638d1b0550:73688f7:3dd877af
+  item_date: "2018-05-22 08:34:28"
+  title: A Practical Introduction to Logstash
+  url: https://www.elastic.co/blog/a-practical-introduction-to-logstash
+  domain: www.elastic.co
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_163dc77110d:695772f:7cfe07d6
+  item_date: "2018-06-07 02:50:08"
+  title: 'Logstash Lines:  Support for TCP and SNMPv1 in SNMP input plugin'
+  url: https://www.elastic.co/blog/logstash-lines-support-for-tcp-and-snmpv1-in-snmp-input-plugin
+  domain: www.elastic.co
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_16446d81bf3:2f8dcb4:aa514a55
+  item_date: "2018-06-27 09:00:00"
+  title: Get System Logs and Metrics into Elasticsearch with Beats System Modules
+  url: https://www.elastic.co/blog/get-system-logs-and-metrics-into-elasticsearch-with-beats-system-modules
+  domain: www.elastic.co
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_1644a54d96a:35a41f1:4e0f6129
+  item_date: "2018-06-28 22:05:01"
+  title: Using the ELK Stack for SIEM
+  url: https://dzone.com/articles/2286855
+  domain: dzone.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_1645eee2f86:51f6b9a:4e0f6129
+  item_date: "2018-07-02 22:08:00"
+  title: Obtain and Visualize Uniform Metrics, Logs, and Traces Across Microservices
+    Using Istio
+  url: https://dzone.com/articles/2298351
+  domain: dzone.com
+  image: ""
+- curated_id: 9QOGTVP+u4vwJNHB7SlLr9mbA0Mmqrsw3WZp2GL3orY=_1645f1ab6d8:515d0c8:aa514a55
+  item_date: "2018-07-03 00:23:30"
+  title: 'Log Monitoring and Analysis: Comparing ELK, Splunk and Graylog'
+  url: https://devops.com/log-monitoring-and-analysis-comparing-elk-splunk-and-graylog/
+  domain: devops.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_1647083d53e:16db94a:19029e75
+  item_date: "2018-07-03 12:21:48"
+  title: What I Talk About When I Talk About Logging
+  url: https://medium.com/p/36237fad7336
+  domain: medium.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_164911b6928:9c32014:aa514a55
+  item_date: "2018-07-12 09:00:00"
+  title: 'Monitoring Kubernetes and Docker Containers with Beats: Logs, Metrics, and
+    Metadata'
+  url: https://www.elastic.co/blog/monitoring-kubernetes-and-docker-containers-with-beats-logs-metrics-and-metadata
+  domain: www.elastic.co
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_16494c16e37:40c967e:b83afde1
+  item_date: "2018-07-13 10:47:39"
+  title: Navigate your AWS Lambda Logs from Amazon API Gateway Response Headers
+  url: https://medium.com/p/c78bd7f73715
+  domain: medium.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_164ae690864:c5ff755:386c987f
+  item_date: "2018-07-18 09:00:00"
+  title: Integrating Nagios Checks with Logstash
+  url: https://www.elastic.co/blog/integrating-nagios-checks-with-logstash
+  domain: www.elastic.co
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_164b7edcb5a:d2ebd83:4e0f6129
+  item_date: "2018-07-19 13:33:00"
+  title: 'Logstash Lines: Towards supporting NFS'
+  url: https://www.elastic.co/blog/logstash-lines-towards-supporting-nfs
+  domain: www.elastic.co
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_1651a374a64:418e4c:98eb396b
+  item_date: "2018-08-07 02:05:06"
+  title: 'Historical Log Analysis and SIEM Limitations: Part II'
+  url: https://medium.com/p/448c4be041d3
+  domain: medium.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_16519ec6717:371df60:4db7ac35
+  item_date: "2018-08-08 07:05:01"
+  title: Aggregated Audit Logging With Google Cloud and Python
+  url: https://dzone.com/articles/2372094
+  domain: dzone.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_16546c53816:74bf24a:6f86c10b
+  item_date: "2018-08-17 00:01:01"
+  title: 'MDC: A Better Way of Logging'
+  url: https://dzone.com/articles/2383985
+  domain: dzone.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_165486121fb:7539bef:4db7ac35
+  item_date: "2018-08-17 07:04:02"
+  title: Kubernetes Logging With Fluentd and Logz.io
+  url: https://dzone.com/articles/2385854
+  domain: dzone.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_1655781b3e9:86a710a:4db7ac35
+  item_date: "2018-08-20 06:02:01"
+  title: 'Serilog Tutorial for .NET Logging: 16 Best Practices and Tips'
+  url: https://dzone.com/articles/2390463
+  domain: dzone.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_16564218efe:9827e53:4db7ac35
+  item_date: "2018-08-22 09:00:00"
+  title: Elasticsearch Audit Trail and Log File Filter Policies Explained
+  url: https://www.elastic.co/blog/elasticsearch-audit-trail-and-log-file-filter-policies-explained
+  domain: www.elastic.co
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_1657be371b4:3d8a0e:4db7ac35
+  item_date: "2018-08-27 07:06:01"
+  title: Installing Logstash
+  url: https://dzone.com/articles/2404245
+  domain: dzone.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_1657c187dcf:429b4c:4db7ac35
+  item_date: "2018-08-27 09:00:00"
+  title: Azure Cloud Monitoring with the Elastic Stack
+  url: https://www.elastic.co/blog/azure-cloud-monitoring-with-the-elastic-stack
+  domain: www.elastic.co
+  image: ""
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_1658d2658db:eee9ba:4c71e4fe
+  item_date: "2018-08-29 17:00:00"
+  title: Collecting and monitoring Rails logs with Datadog
+  url: https://www.datadoghq.com/blog/managing-rails-logs-with-datadog/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: HKwklz9a1LBDBgbulnG916dFzLOZO3KlGWN+5YbUEE4=_1658b7e91cb:c1bea3:4db7ac35
+  item_date: "2018-08-30 08:26:05"
+  title: T&D Data Logger WebStorage Service Redesigned
+  url: http://www.qualityassurancemag.com/TandD-Data-Logger-WebStorage-Service-Redesigned.aspx
+  domain: www.qualityassurancemag.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_1658e71ff8d:132f6f:215b6325
+  item_date: "2018-08-30 22:06:02"
+  title: NLog vs. log4net vs. Serilog
+  url: https://dzone.com/articles/2407893
+  domain: dzone.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_16596adabe4:1a1437c:4db7ac35
+  item_date: "2018-08-31 12:41:18"
+  title: 'Logstash Lines: Improve CEF and Netflow codecs'
+  url: https://www.elastic.co/blog/logstash-lines-improve-cef-and-netflow-codecs
+  domain: www.elastic.co
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_16593992fc4:73dce0:d987d511
+  item_date: "2018-08-31 22:07:01"
+  title: Python Custom Logging Handler Example
+  url: https://dzone.com/articles/2417863
+  domain: dzone.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_165b287ad3d:1b4e19:4c71e4fe
+  item_date: "2018-09-06 22:10:02"
+  title: 'Logging and Monitoring Kubernetes Applications: Requirements and Recommended
+    Toolset'
+  url: https://dzone.com/articles/2429171
+  domain: dzone.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_165e813f478:cde3b6:bfb8468
+  item_date: "2018-09-17 06:30:46"
+  title: "Kubernetes Logging and Monitoring: The EFK Stack \u2014 Part 2: Elasticsearch
+    Configuration"
+  url: https://dzone.com/articles/2443125
+  domain: dzone.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_165ede1d631:47f94e:6f86c10b
+  item_date: "2018-09-18 10:01:02"
+  title: Query Store and Log Backups
+  url: https://dzone.com/articles/2453935
+  domain: dzone.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_1664cf07fb1:632417:d42b93be
+  item_date: "2018-10-06 22:05:02"
+  title: 4 Challenges In Kubernetes Log Transport
+  url: https://dzone.com/articles/2493396
+  domain: dzone.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_16670d270b4:724585:714e904c
+  item_date: "2018-10-13 11:34:52"
+  title: HTTP Logging and Go API Template Updates
+  url: https://medium.com/p/3afba5c9d3a6
+  domain: medium.com
+  image: ""
+- curated_id: +0rTje4/k1rqstbwhoJuYuIHvom8X6/YL5iXfAXcMuQ=_166af8306ec:ee8363:2e5c38bc
+  item_date: "2018-10-25 17:05:00"
+  title: Log File Analysis 101
+  url: https://moz.com/blog/log-file-analysis
+  domain: moz.com
+  image: ""
+- curated_id: QV6/Uva03i0CdEvjejnoiX8zoQKE8cEYv/BARIZGfAs=_166eed2fb8e:1f769a3:df8f4700
+  item_date: "2018-11-07 07:26:57"
+  title: Having A Strategy For Shipping Log Files Will Help Drive API Discovery
+  url: https://streamdata.io/?p=8475
+  domain: streamdata.io
+  image: ""
+...

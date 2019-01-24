@@ -1,0 +1,115 @@
+swagger: "2.0"
+info:
+  title: Plugins API
+  description: The Plugins API.
+  version: 1.0.0
+host: api.truesight.bmc.com
+basePath: /
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /v1/plugins:
+    get:
+      summary: Get all plugins
+      description: Gets all known plugin definitions
+      operationId: get-all-plugins
+      responses:
+        200:
+          description: OK
+      tags:
+      - Plugins
+  /v1/plugins/:plugin:
+    get:
+      summary: Get plugin
+      description: Gets a single plugin definition
+      operationId: get-plugin
+      parameters:
+      - in: query
+        name: pluginnName of plugin
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Plugins
+  /v1/plugins/:plugin/components:
+    get:
+      summary: Get plugin components
+      description: Finds the components associated with an installed plugin including
+        metrics and dashboards
+      operationId: get-plugin-components
+      responses:
+        200:
+          description: OK
+      tags:
+      - Plugins
+  /v1/plugins/installed:
+    get:
+      summary: Get installed plugins
+      description: Gets plugins that are installed for the project
+      operationId: get-installed-plugins
+      responses:
+        200:
+          description: OK
+      tags:
+      - Plugins
+  /v1/plugins/installed/:plugin:
+    delete:
+      summary: Uninstall plugin
+      description: Uninstalls a plugin and optionally removes related dashboard(s)
+        and metric(s).
+      operationId: uninstall-plugin
+      responses:
+        200:
+          description: OK
+      tags:
+      - Plugins
+    put:
+      summary: Install or update plugin
+      description: Installs a plugin
+      operationId: install-or-update-plugin
+      responses:
+        200:
+          description: OK
+      tags:
+      - Plugins
+  /v1/plugins/private/:plugin:
+    delete:
+      summary: Remove private plugin
+      description: Removes a private plugin from your account. Use this function after
+        adding a private plugin to make your privateplugin disappear from available
+        plugins in your settings.
+      operationId: remove-private-plugin
+      parameters:
+      - in: query
+        name: pluginnName of plugin to remove
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Plugins
+  /v1/plugins/private/:plugin/:org/:repo:
+    put:
+      summary: Add private plugin
+      description: Adds or updates a private plugin.A plugin exists as a repository
+        in Github.By adding a private plugin the plugin will appear on your settings
+        -&gt; plugins tab just like any other plugin whichcan then be installed and/or
+        added to a relay.If a private plugin has the same name as an existing plugin
+        it will override the existing plugin within your account.
+      operationId: add-private-plugin
+      parameters:
+      - in: query
+        name: pluginnName of the pluginnorgnGithub organization or user owning the
+          pluginnreponGithub repository name for plugin
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Plugins
+definitions: []

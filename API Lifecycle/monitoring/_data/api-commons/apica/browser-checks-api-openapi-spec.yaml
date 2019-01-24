@@ -1,0 +1,63 @@
+swagger: "2.0"
+info:
+  title: Browser Checks API
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  '/checks/browser ':
+    ' post ':
+      summary: Checks Browser
+      description: ttttCreates a new browser check.ttt
+      operationId: -checks-browser-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Browser
+  '/checks/browser/locations ':
+    ' get ':
+      summary: Checks Browser Locations
+      description: ttttGets a list of all locations that are available for browser
+        checks.ttt
+      operationId: -checks-browser-locations-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Browser
+  '/checks/browser/{checkId} ':
+    ' put ':
+      summary: Checks Browser {checkId}
+      description: ttttUpdates a browser check.ttt
+      operationId: -checks-browser-checkid-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Browser
+  '/checks/browser/{checkId}/results/urldata ':
+    ' post ':
+      summary: Checks Browser {checkId} Results URLdata
+      description: ttttGets browser check results in json format by result ids.ttt
+      operationId: -checks-browser-checkid-results-urldata-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Browser
+  '/checks/browser/{checkId}/results/{resultId}/urldata?format={format} ':
+    ' get ':
+      summary: Checks Browser {checkId} Results {resultId} URLdata?format={format}
+      description: ttttGets a file that contains browser check result data.ttt
+      operationId: -checks-browser-checkid-results-resultid-urldataformatformat-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Browser
+definitions: []

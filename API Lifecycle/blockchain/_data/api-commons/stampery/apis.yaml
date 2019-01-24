@@ -1,0 +1,23 @@
+name: Stampery
+description: We leverage blockchain technology to ensure existence, integrity and
+  attribution of communications, processes and data important to your organization.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26461-stampery-com.jpg
+tags:
+- Technology
+- SaaS
+- internet
+- Enterprise
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/stampery/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: https://stampery.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

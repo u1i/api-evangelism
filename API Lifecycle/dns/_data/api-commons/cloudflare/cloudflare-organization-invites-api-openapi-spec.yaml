@@ -1,0 +1,87 @@
+swagger: "2.0"
+info:
+  title: CloudFlare Organization Invites API
+  description: The API for managing CloudFlare Organization Invites
+  termsOfService: https://www.cloudflare.com/terms/
+  version: 1.0.0
+host: api.cloudflare.com
+basePath: /client/v4
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /organizations/:organization_identifier/invite/:identifier:
+    patch:
+      summary: Change the Roles of a Pending Invite
+      description: Change the Roles of a Pending Invite
+      operationId: cloudflare-organization-invites-api
+      parameters:
+      - in: query
+        name: roles
+        description: Array of Roles associated with the invited usertttttttttttttt[3536bcfad5faccb999b47003c79917fb]
+      - in: header
+        name: X-AUTH-EMAIL
+        description: Email address associated with your account
+      - in: header
+        name: X-AUTH-KEY
+        description: API key generated on the My Account page
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /organizations/:organization_identifier/invites:
+    get:
+      summary: List all invitations associated with an organization
+      description: List all invitations associated with an organization
+      operationId: cloudflare-organization-invites-api
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    post:
+      summary: Invite a User to become a Member of an Organization
+      description: Invite a User to become a Member of an Organization
+      operationId: cloudflare-organization-invites-api
+      parameters:
+      - in: query
+        name: invited_member_email
+        description: Email address of the user to be added to the Organizationttttttttttttttuser@example.com
+      - in: query
+        name: roles
+        description: Array of Roles associated with the invited usertttttttttttttt[{id:5a7805061c76ada191ed06f989cc3dac},{id:9a7806061c88ada191ed06f989cc3dac}]
+      - in: header
+        name: X-AUTH-EMAIL
+        description: Email address associated with your account
+      - in: header
+        name: X-AUTH-KEY
+        description: API key generated on the My Account page
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /organizations/:organization_identifier/invites/:identifier:
+    delete:
+      summary: Cancel an existing invitation
+      description: Cancel an existing invitation
+      operationId: cloudflare-organization-invites-api
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    get:
+      summary: Get the details of an invitation
+      description: Get the details of an invitation
+      operationId: cloudflare-organization-invites-api
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

@@ -1,0 +1,19 @@
+swagger: "2.0"
+info:
+  title: Google PageSpeed API
+  description: PageSpeed Insights is an open-source project started at Google to help
+    developers optimize their web pages by applying web performance best practices.
+    PageSpeed Insights started as an open-source browser extension, and is now available
+    via PageSpeed Insights and as an API.
+  termsOfService: https://developers.google.com/speed/libraries/terms
+  version: 1.0.0
+host: www.googleapis.com
+basePath: /pagespeedonline/v1
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths: []
+definitions: []

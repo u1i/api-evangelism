@@ -1,0 +1,43 @@
+swagger: "2.0"
+info:
+  title: No Title
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /groups/:group_uuid:
+    get:
+      summary: DNS Record Group Monitoring API
+      description: A DNS record group is a logical collection of DNS records. DNS
+        record groups can have a one-to-one correlation with zone files, but other
+        types of groupings are possible as well, such as grouping by service or customer.
+        See the DNS record groups page for more details.  The DNS Check API is used
+        to request data for either a specific record group, or all DNS record groups
+        owned by your account.
+      operationId: ""
+      parameters:
+      - in: query
+        name: api_key
+        description: The secret key thats used to authenticate the connecting application.
+          See the Generating an API Key page for details.
+        type: string
+        format: string
+      - in: query
+        name: group_uuid
+        description: The UUID of the DNS record group. When viewing a DNS record or
+          record group, this is the 36-character string that follows /tests/ in the
+          URL. This DNS record groups UUID is ea883d67-d9f6-45e3-b3a1-844dd1857824.
+          Specify a group_uuid of all to show information for all of your accounts
+          DNS record groups.
+        type: string
+        format: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - DNS
+definitions: []

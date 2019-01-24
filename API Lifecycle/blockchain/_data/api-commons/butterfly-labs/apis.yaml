@@ -1,0 +1,20 @@
+name: Butterfly Labs
+description: Butterfly Labs manufactures a line of high speed ASIC bitcoin miner and
+  encryption processors for use in bitcoin mining hardware and research, telecommunication
+  and security applications.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26425-butterfly-labs.jpg
+tags:
+- Technology
+- Enterprise
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/butterfly-labs/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common: []
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

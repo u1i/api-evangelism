@@ -1,0 +1,90 @@
+swagger: "2.0"
+info:
+  title: Alert Violation API
+  description: The Alert Violation API.
+  version: 1.0.0
+host: api.newrelic.com
+basePath: /
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /v2/alerts_violations.{format}:
+    get:
+      summary: List
+      description: <p>This API endpoint works with new Alerts on alerts.newrelic.com.</p><p>It
+        returns a list of the violations associated with your New Relic account.</p><p>See
+        our documentation for a discussion on <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/pagination-api-output
+        target=_blank>output pagination</a>.</p>
+      operationId: list
+      parameters:
+      - in: query
+        name: only_open
+        description: Filter by open violations
+        type: boolean
+      - in: query
+        name: page
+        description: Pagination index
+        type: integer
+      responses:
+        200:
+          description: OK
+      tags:
+      - Alert Violation
+definitions:
+  "":
+    properties:
+      violation:
+        description: This is a default description.
+        type: GET
+      id:
+        description: This is a default description.
+        type: GET
+      label:
+        description: This is a default description.
+        type: GET
+      duration:
+        description: This is a default description.
+        type: GET
+      policy_name:
+        description: This is a default description.
+        type: GET
+      condition_name:
+        description: This is a default description.
+        type: GET
+      priority:
+        description: This is a default description.
+        type: GET
+      opened_at:
+        description: This is a default description.
+        type: GET
+      closed_at:
+        description: This is a default description.
+        type: GET
+      entity:
+        description: This is a default description.
+        type: GET
+      links:
+        description: This is a default description.
+        type: GET
+      product:
+        description: This is a default description.
+        type: GET
+      type:
+        description: This is a default description.
+        type: GET
+      group_id:
+        description: This is a default description.
+        type: GET
+      name:
+        description: This is a default description.
+        type: GET
+      policy_id:
+        description: This is a default description.
+        type: GET
+      condition_id:
+        description: This is a default description.
+        type: GET

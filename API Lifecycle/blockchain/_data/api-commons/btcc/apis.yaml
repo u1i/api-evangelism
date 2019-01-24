@@ -1,0 +1,22 @@
+name: BTCC
+description: 'BTCC is a leading digital asset platform that offers exchanges, mining
+  pools, and mobile wallets.     Email: press@btcc.com.  Telegram: https://t.co/0BKZ7oTbub'
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26521-btcc.jpg
+tags:
+- Technology
+- internet
+- Enterprise
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/btcc/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: http://btcc.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

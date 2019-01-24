@@ -1,0 +1,13 @@
+- slug: githubchangeloggenerator
+  name: github-changelog-generator
+  description: >-
+    Automatically generate change log from your tags, issues, labels and pull
+    requests on GitHub.
+  url: 'https://github.com/skywinder/github-changelog-generator'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Change Log

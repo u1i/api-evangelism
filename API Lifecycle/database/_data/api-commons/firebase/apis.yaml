@@ -1,0 +1,22 @@
+name: Firebase
+description: We can use any Firebase Database URL as a REST endpoint. All we need
+  to do is append .json to the end of the URL and send a request from our favorite
+  HTTPS client.
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/firebase-logo.png
+tags:
+- Database
+created: "2016-12-24"
+modified: "2016-12-24"
+url: https://raw.githubusercontent.com/api-evangelist/database/gh-pages/_data/api-commons/firebase/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-blog
+  url: https://firebase.googleblog.com/
+- type: x-website
+  url: https://firebase.google.com/docs/reference/rest/database/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

@@ -1,0 +1,20 @@
+name: Crypto-Change.com
+description: Crypto-currency exchange / tradingr  Bitcoin, Litecoin, Novacoin
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1887-crypto-change.jpg
+tags:
+- Exchange
+- Currency
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/cryptochangecom/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: https://www.crypto-change.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

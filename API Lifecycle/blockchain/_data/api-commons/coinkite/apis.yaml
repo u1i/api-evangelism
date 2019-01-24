@@ -1,0 +1,29 @@
+name: Coinkite
+description: Get Your Secure Bitcoin Wallet https://coinkite.com/
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2087-coinkite.jpg
+tags:
+- Technology
+- SaaS
+- internet
+- Exchange
+- Currency
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/coinkite/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-blog
+  url: http://blog.coinkite.com/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/coinkite
+- type: x-twitter
+  url: https://twitter.com/CoinKite
+- type: x-website
+  url: https://coinkite.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

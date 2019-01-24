@@ -1,0 +1,24 @@
+name: bter.com
+description: 'Bter.com is a bitcoin exchange platform which supports bitcoin, BTC,
+  litecoin, LTC, FTC, feathercoin namecoin, ppcoin, terracoin, freicoin, NMC, TRC,
+  FRC, PPC trading. '
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1769-bter.jpg
+tags:
+- Technology
+- Shopping
+- Marketplace
+- Currency
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/btercom/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: https://bter.com/api
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

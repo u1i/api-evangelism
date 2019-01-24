@@ -1,0 +1,21 @@
+name: CoinWarz
+description: CoinWarz provides cryptocurrency mining profitability comparisons versus
+  Bitcoin mining, Bitcoin charts, cryptocurrency charts, and cryptocurrency mining
+  calculators.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26473-www-coinwarz-com.jpg
+tags:
+- Marketplace
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/coinwarz/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: https://www.coinwarz.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

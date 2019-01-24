@@ -1,0 +1,25 @@
+swagger: "2.0"
+info:
+  title: Query API
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /query:
+    get:
+      summary: Query time series points
+      description: '          This end point allows you to query for metrics from
+        any time period.        '
+      operationId: query-time-series-points
+      parameters:
+      - type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Query
+definitions: []

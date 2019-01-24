@@ -1,0 +1,16 @@
+---
+- slug: chorus.js
+  name: Chorus.js
+  description: Chorus.js offers a very simple way to orchestrate asynchronous and
+    synchronous APIs in Node applications stack. Our focus&nbsp;is on making chorus.js
+    super easy to learn and use everywhere, from an entry-level Raspberry Pi to the
+    most scalable PaaS, and anything in between.
+  url: http://www.chorusjs.com/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/chorus-js.png
+  tags: Aggregation
+...

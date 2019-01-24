@@ -1,0 +1,23 @@
+swagger: "2.0"
+info:
+  title: CIDR API
+  description: Managing IP Address and CIDR details.
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  cidr/:
+    get:
+      summary: IP and CIDR Queries
+      description: ""
+      operationId: cidr
+      responses:
+        200:
+          description: OK
+      tags:
+      - CIDR
+definitions: []

@@ -1,0 +1,26 @@
+swagger: "2.0"
+info:
+  title: CloudFlare User Billing Profile API
+  description: The API for managing CloudFlare User Billing Profile
+  termsOfService: https://www.cloudflare.com/terms/
+  version: 1.0.0
+host: api.cloudflare.com
+basePath: /client/v4
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /user/billing/profile:
+    get:
+      summary: Access your billing profile object
+      description: Access your billing profile object
+      operationId: cloudflare-user-billing-profile-api
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

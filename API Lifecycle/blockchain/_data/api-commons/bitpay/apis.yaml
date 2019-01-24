@@ -1,0 +1,24 @@
+name: BitPay
+description: Start accepting bitcoin, store and spend bitcoin securely, or get the
+  BitPay Card.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26496-bitpay.jpg
+tags:
+- Technology
+- Marketplace
+- Financial Services
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/bitpay/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: https://bitbay.net
+- type: x-website
+  url: http://bitpay.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

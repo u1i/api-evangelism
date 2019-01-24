@@ -1,0 +1,486 @@
+---
+- slug: apiant
+  name: APIANT
+  description: ""
+  url: https://apiant.com/
+  shorturl: ""
+  twitter: https://twitter.com/apiantinc
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/The_Cloud_Integration_and_Automation_Platform___APIANT.png
+  tags: Aggregation
+- slug: clickslide
+  name: Clickslide
+  description: A tool for Structuring, Mashing and Publishing any Web or Device API
+    as a generic JSON and XML API. @Datadipity automates a standard for web connected
+    objects.
+  url: http://clickslide.co/
+  shorturl: ""
+  twitter: https://twitter.com/Clickslide
+  blog: ""
+  blogrss: http://blog.clickslide.co/feed/
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/clickside-logo.jpg
+  tags: Aggregation
+- slug: cloudrail
+  name: CloudRail
+  description: CloudRail is the standard interface for the intelligent and interoperable
+    Internet of tomorrow. It is a universal API that works with any system and is
+    able to automatically adapt to new services due to an innovative learning method.
+    With CloudRail the Internet becomes one huge ecosystem where everything works
+    together immediately out of the box. Software developers only have to use a single
+    interface to access all services and thus can speed up the development process
+    rapidly. Service providers can finally create perfectly integrated solutions and
+    realize benefits from a huge developer ecosystem.
+  url: https://cloudrail.com/
+  shorturl: ""
+  twitter: https://twitter.com/CloudRail
+  blog: http://cloudrail.com/blog/
+  blogrss: http://cloudrail.com/feed/
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/CloudRail_Logo.png
+  tags: Aggregation
+- slug: deltacloud
+  name: Deltacloud
+  description: Deltacloud provides the API server and drivers necessary for connecting
+    to cloud providers. Deltacloud maintains&nbsp;long-term stability&nbsp;for scripts,
+    tools and applications and&nbsp;backward compatibility&nbsp;across different versions.
+    Using single API Deltacloud enables management of resources in different clouds.
+    Start an instance on an internal cloud, then with the same code start another
+    on EC2 or RHEV-M.
+  url: ""
+  shorturl: ""
+  twitter: https://twitter.com/pearsonplc
+  blog: ""
+  blogrss: ""
+  github: https://github.com/deltacloud
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/delta_cloud_small.jpg
+  tags: Aggregation
+- slug: storyteller.io
+  name: storyteller.io
+  description: The hardest part of working with APIs can be the differences between
+    them. We&rsquo;re cataloging &amp; normalizing these differences to keep you focused
+    on the data. In building our API catalog our mission has been to restore focus
+    on data, making it easy to explore and preview API resources. Actual integration
+    however is still another matter.
+  url: https://www.storyteller.io/
+  shorturl: ""
+  twitter: https://twitter.com/storytellerhq
+  blog: http://blog.storyteller.io/
+  blogrss: http://blog.storyteller.io/rss
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/storyteller-io-logo.png
+  tags: Aggregation
+- slug: treeline
+  name: Treeline
+  description: Treeline makes it easy to build custom, high-performance apps for Node.js.
+    It is designed for building practical, enterprise-grade backends in a matter of
+    hours - not months.
+  url: https://treeline.io/
+  shorturl: ""
+  twitter: https://twitter.com/TreelineHQ
+  blog: ""
+  blogrss: ""
+  github: https://github.com/treelinehq
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/treeline-logo.png
+  tags: Aggregation
+- slug: ""
+  name: BetterCloud
+  description: "At BetterCloud, each team member is instrumental in building products
+    that will profoundly impact how the modern workplace operates. The team has the
+    ownership to tackle big problems, innovate and take risks while working with great
+    people and cool technology. This is more than a job; this is a place to really
+    grow personally and professionally \u2014 all while having some fun."
+  url: https://www.bettercloud.com
+  shorturl: ""
+  twitter: https://twitter.com/bettercloud
+  blog: https://www.bettercloud.com/monitor/
+  blogrss: https://www.bettercloud.com/monitor/feed/
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bettercloud/bettercloud.png
+  tags: Aggregation
+- slug: adigami
+  name: Adigami
+  description: Adigami is a data integration and visualization company specializing
+    in digital media analytics. Their platform helps companies collect analytics data
+    from all digital media channels (search, display, mobile, web, email, etc.) and
+    bring it into a single data store. Many different data sources such as Google
+    Analytics, AdWords, Bing, Yahoo! APT!, and DoubleClick are supported. Clients
+    can also integrate their own specific data into the mix, enabling them to compare
+    internal metrics against standard digital media ones.
+  url: http://www.adigami.com
+  shorturl: ""
+  twitter: https://twitter.com/adigami
+  blog: http://www.adigami.com/blog/
+  blogrss: http://www.adigami.com/feed/
+  github: https://github.com/adigami
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/adigami-logo.png
+  tags: Aggregation,Analysis,API LIfeycle
+- slug: cloud-elements
+  name: Cloud Elements
+  description: Cloud Elements was built to simplify cloud application integrations
+    and enable application developers to deliver &ldquo;Cooperative Apps&rdquo;. We
+    use a &ldquo;one-to-many&rdquo; approach to connect your application with entire
+    categories of cloud applications, each through a single API. Our clients include
+    startups, SaaS vendors and departments of enterprises who want to provide their
+    customers with more integration options, faster and for a fraction of the cost.
+    Our awesome team is rapidly building connections to the most popular cloud applications
+    that your customers are using. After just one year in business, we were named
+    APEX Technology Startup of 2013. Cloud Elements is based in Denver, Colorado,
+    but our business reaches customers worldwide.
+  url: http://www.cloud-elements.com/
+  shorturl: ""
+  twitter: https://twitter.com/cloudelements
+  blog: http://www.cloud-elements.com/blog/
+  blogrss: http://www.cloud-elements.com/feed/
+  github: https://github.com/cloud-elements
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloud-elements-logo.png
+  tags: Aggregation,Cloud,Aggregation,Aggregation,API LIfeycle
+- slug: yodlee
+  name: Yodlee
+  description: Powered by the award-winning Yodlee platform, the Yodlee Interactive
+    financial cloud is an innovation delivery system for entrepreneurs, partners,
+    and developers to build the next generation of digital financial services, plus
+    any service or process that can be created, improved, or enhanced by streamlined
+    access to data, payments, and/or digital security.
+  url: http://www.yodlee.com/
+  shorturl: ""
+  twitter: https://twitter.com/Yodlee
+  blog: http://www.yodlee.com/yodlee-moneycenter-blog/
+  blogrss: http://www.yodlee.com/yodlee-moneycenter-blog/feed/
+  github: https://github.com/Yodlee
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/yodlee-logo.png
+  tags: Aggregation,Finance,Banking,Finance
+- slug: fedapi
+  name: FedAPI
+  description: Government data in easy to consume APIs. There is so much government
+    data across the internet, but it is difficult to make sense of it all. Budget
+    data, procurement data, acquisition data, you name it, it's out there on the web.
+    Our goal is to capture, correlate, and make data easily available to enterprise
+    and government application developers through easy to use APIs.
+  url: http://fedapi.com/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: https://github.com/fedapi
+  image: ""
+  tags: Aggregation,Imports
+- slug: cloudmagic
+  name: CloudMagic
+  description: CloudMagic is a search engine for all your personal data. It lets you
+    search across Gmail, Facebook, Twitter, Dropbox, Evernote, etc. through one simple
+    search box. Webyog creates innovative data management tools for thousands of customers
+    across 100+ countries, ranging from enterprises to small businesses and home users.
+  url: https://cloudmagic.com/
+  shorturl: ""
+  twitter: https://twitter.com/cloudmagic
+  blog: http://blog.cloudmagic.com/
+  blogrss: http://feeds.feedburner.com/CloudMagic
+  github: ""
+  image: ""
+  tags: Aggregation,Interoperability
+- slug: jolicloud
+  name: Jolicloud
+  description: Jolidrive is your personal space in the cloud. Jolidrive unifies all
+    your content from multiple services in one simple and beautiful interface accessible
+    from anywhere. Jolicloud is the most innovative platform to access our life online,
+    from computers to mobile.
+  url: http://www.jolicloud.com/
+  shorturl: ""
+  twitter: https://twitter.com/jolicloud
+  blog: http://www.jolicloud.com/blog/
+  blogrss: http://www.jolicloud.com/blog/feed/
+  github: https://github.com/jolicloud
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/jolicloud-logo.png
+  tags: Aggregation,Interoperability,iPaaS
+- slug: otixo
+  name: Otixo
+  description: Manage all your clouds from one login with Otixo. Connect services
+    like Dropbox, Box, SkyDrive, Google Docs, SugarSync, Picasa, CX, Amazon S3, FTP
+    sites and WebDav drives...all from one simple app.
+  url: http://otixo.com/
+  shorturl: ""
+  twitter: https://twitter.com/otixo
+  blog: http://blog.otixo.com/
+  blogrss: http://blog.otixo.com/feed/
+  github: https://github.com/otixo-hudson
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/otixo-logo.png
+  tags: Aggregation,Interoperability,iPaaS
+- slug: unifyle
+  name: Unifyle
+  description: Primadesk brings order to online life, enabling users to search, manage
+    and backup personal data from anywhere, whether it is from a personal computer,
+    tablet or smartphone. Primadesk was founded in 2009 by two entrepreneurs who recognized
+    the growing need for making Internet-based applications and online information
+    unified across applications seamlessly.&nbsp;
+  url: https://www.primadesk.com/
+  shorturl: ""
+  twitter: https://twitter.com/primadesk
+  blog: http://primadesk.wordpress.com/
+  blogrss: http://primadesk.wordpress.com/feed/
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/primadesk-logo.png
+  tags: Aggregation,Interoperability,iPaaS
+- slug: outbound
+  name: Outbound
+  description: Outbound is a automated messaging solution for product and marketing
+    folks. &nbsp;The platform enables you to deliver the content you need, using templates
+    for formatting and includion of customer data. &nbsp;The Outbound API allows you
+    to create deliver rules around events, and when the even triggers Outbound tells
+    your channel provider to deliver the customized message.
+  url: http://outbound.io/
+  shorturl: ""
+  twitter: https://twitter.com/OutboundIO
+  blog: http://blog.outbound.io/
+  blogrss: http://blog.outbound.io/rss
+  github: https://github.com/outboundio
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/outbound-logo.png
+  tags: Aggregation,Messaging,Aggregation
+- slug: bluemix.info
+  name: Bluemix.info
+  description: Bluemix.info is a news aggregator for IBM Bluemix developers and professionals
+    covering news about everything related to IBM's platform as a service, including
+    runtimes, services, events and much more. Bluemix.info reads information from
+    various sources via feeds. However curators need to approve content first before
+    it shows up on Bluemix.info. Curators can also add entries manually. Find out
+    why curation matters.
+  url: http://www.bluemix.info/
+  shorturl: ""
+  twitter: https://twitter.com/bluemixinfo
+  blog: ""
+  blogrss: http://www.bluemix.info/feed
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/bluemix-info.png
+  tags: Aggregation,News,Aggregation
+- slug: 46elks
+  name: 46elks
+  description: 46elks is a cloud communications platform, which makes it very easy
+    to integrate Voice, SMS &amp; MMS into your applications. No more high barriers,
+    just a simple HTTP API.
+  url: http://46elks.com/
+  shorturl: ""
+  twitter: https://twitter.com/46elks
+  blog: http://46elks.com/blog/
+  blogrss: http://feeds.feedburner.com/46elksBlog
+  github: https://github.com/46elks
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/46elks-horizontal.png
+  tags: Aggregation,Voice,SMS,MMS,Aggregation,Telco,Number allocation,Messaging,Automated
+    phone calls
+- slug: bipio
+  name: bipio
+  description: Bipio is an API for pipelining content feeds across many popular web
+    services and exposing them through public or private endpoints. This documentation
+    addresses some key concepts in getting you on your way to creating meaningful
+    content transformations with Bipio, including how to plug its components into
+    your own application.&nbsp;
+  url: https://bip.io/docs
+  shorturl: ""
+  twitter: https://twitter.com/bipioapp
+  blog: http://blog.bip.io/
+  blogrss: http://blog.bip.io/rss
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/bip_badge.png
+  tags: Application,Social,Aggregation,Interoperability,Automation,iPaaS
+- slug: one-diary
+  name: One Diary
+  description: One Diary is a service that allows you to share your work and personal
+    calendars with people that are important to you. Both work and family life are
+    requiring that they be more flexible in order to give their best to both. This
+    inevitably means scheduling challenges as they juggle the demands of both. Knowing
+    what their family is doing, and needs them to do, is fundamental if they are to
+    make informed scheduling decisions.
+  url: http://www.onediary.com/
+  shorturl: ""
+  twitter: https://twitter.com/onediaryapp
+  blog: http://www.onediary.com/blog
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/one-diary.png
+  tags: Calendars,Calendar,Aggregation
+- slug: filepicker
+  name: Filepicker
+  description: Here at Filepicker.io, we are building the products that help connect
+    the applications, services, and devices that people work with in their daily lives.
+    We believe that software should make your life easier by cooperating on your behalf
+    to help you get things done.
+  url: https://www.filestack.com
+  shorturl: ""
+  twitter: https://twitter.com/FilePicker
+  blog: https://blog.filestack.com/
+  blogrss: http://blog.filepicker.io/rss
+  github: https://github.com/Filepicker
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/filepicker-logo.png
+  tags: Cloud,Filesharing,Storage,Upload,JavaScript,Files,File Sharing,File Storage,File,Aggregation,Aggregation,Plans,Target
+- slug: kloudless
+  name: Kloudless
+  description: Kloudless provides a single API to connect with over 20 different cloud
+    storage services such as Box, Dropbox, Office 365 and more. Developers can save
+    time integrating their apps with cloud storage by using Kloudless's unified API.
+    Kloudless also adds in new functionality such as event notifications even if the
+    underlying API doesn't provide it, and provides UI tools such as a File Explorer
+    to simplify integration.
+  url: https://kloudless.com/
+  shorturl: ""
+  twitter: https://twitter.com/kloudless
+  blog: http://blog.kloudless.com/
+  blogrss: http://blog.kloudless.com/rss.xml
+  github: https://github.com/Kloudless
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/kloudless-logo.png
+  tags: Interoperability,iPaaS,Aggregation,Cloud Storage,Storage,Aggregation
+- slug: workato
+  name: Workato
+  description: Workato helps anyone create powerful, business critical integrations
+    between cloud apps in minutes. No IT. No developers required. At Workato we are
+    passionate about creating an enterprise grade, rich and secure service to integrate
+    your apps but with the soul of some of the most beloved consumer services by being
+    simple, fun, self-service, community based and inexpensive. Business users, yes,
+    those of you that sign up for or use cloud based applications can now also connect
+    them together using Workato.
+  url: https://www.workato.com/
+  shorturl: ""
+  twitter: https://twitter.com/workato
+  blog: http://blog.workato.com/
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/workato-logo.png
+  tags: iPaaS,Aggregation
+- slug: mulesoft
+  name: MuleSoft
+  description: A single graphical design environment for Anypoint Platform, Anypoint&trade;
+    Studio accelerates developer productivity with an easy on ramp for cloud and on-premises
+    integration and API development.
+  url: https://www.mulesoft.com/platform/enterprise-integration
+  shorturl: ""
+  twitter: https://twitter.com/MuleSoft
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mulesoft-logo.jpeg
+  tags: iPaaS,Aggregation,Clients
+- slug: apibond.com
+  name: apibond.com
+  description: APIBond is an API management platform that acts as a proxy where you
+    can validate, transform, secure, analyze and scale any existing API.
+  url: http://apibond.com/
+  shorturl: ""
+  twitter: https://twitter.com/apibond
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apibond-logo.png
+  tags: Monitoring,Aggregation,Testing
+- slug: datadog
+  name: DataDog
+  description: Datadog is a monitoring service that brings together metrics and events
+    from servers, databases, applications, tools and services to present a unified
+    view of the infrastructure. These capabilities are provided on a SaaS-based data
+    analytics platform that enables Dev and Ops teams to work collaboratively on the
+    infrastructure to avoid downtime, resolve performance problems, and ensure that
+    development and deployment cycles finish on time.
+  url: https://www.datadoghq.com/
+  shorturl: ""
+  twitter: https://twitter.com/datadoghq
+  blog: https://www.datadoghq.com/blog/
+  blogrss: https://www.datadoghq.com/feed/
+  github: https://github.com/datadog
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/datadog-logo.png
+  tags: Monitoring,Performance,Orchestration,Aggregation
+- slug: senddr
+  name: Senddr
+  description: Senddr is an invoice exchange that transfers invoices directly between
+    different accounting systems. Using Senddr, you can instantly transfer invoices
+    from your accounting system into that of your customer, reducing errors and helping
+    you get paid quicker. You can also use Senddr to receive invoices eliminating
+    time spent on data entry.
+  url: http://www.senddr.com/
+  shorturl: ""
+  twitter: https://twitter.com/senddirect
+  blog: http://blog.senddr.com/
+  blogrss: http://blog.senddr.com/syndication.axd?format=rss
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sendrr-logo.png
+  tags: Science,Billing,Aggregation,Invoicing
+- slug: segment
+  name: Segment
+  description: Segment.io lets you send your analytics data to any service you want,
+    without you having to integrate with each one individually.
+  url: https://segment.io/
+  shorturl: ""
+  twitter: https://twitter.com/segment
+  blog: https://segment.com/blog/
+  blogrss: https://segment.com/blog/atom.xml
+  github: https://github.com/segmentio
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/marketo-banner-segment-logo.png
+  tags: Aggregation,Analysis
+- slug: aftership
+  name: aftership
+  description: AfterShip API supports shipment tracking and notifications for over
+    100 couriers. Get the latest delivery results and notify customers of delivery
+    updates. Different from other tracking APIs - AfterShip tracks shipments every
+    30mins to 2hours - Tracking result format is unified across couriers - AfterShip
+    tag shipments with In transit', Out for delivery, Failed Attempt, Delivered and
+    Exception Users can choose to send out email, SMS notifications or receive updates
+    through webhook.
+  url: https://www.aftership.com/
+  shorturl: ""
+  twitter: https://twitter.com/aftership
+  blog: http://blog.aftership.com/
+  blogrss: ""
+  github: https://github.com/AfterShip
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aftership-logo.png
+  tags: Shipping,Aggregation,Target
+- slug: api2cart
+  name: API2Cart
+  description: Since 2001, MagneticOne has been an innovative software development
+    company providing full-cycle services for your eCommerce. MagneticOne products
+    help online merchants from the ends of the earth to make more revenue. Company
+    provides a number of eCommerce solutions for effective store management, SEO and
+    marketing automation, comparison shopping engines for eCommerce platforms. MagneticOne
+    company is an expert in software development offering a well-balanced blend of
+    technology skills, hand-on experience and passion to IT.
+  url: https://www.api2cart.com/
+  shorturl: ""
+  twitter: https://twitter.com/api2cart
+  blog: ""
+  blogrss: ""
+  github: https://github.com/api2cart
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-2-cart.png
+  tags: Shopping Cart,Commerce,Commerce,Aggregation,Target,Commerce
+- slug: refinder
+  name: Refinder
+  description: Refinder is the intelligent social software to collect and share information.
+    Work together with colleagues, partners and customers and connect to enterprise
+    systems. Refinder is based on open standards and the idea of the Semantic Web
+    and the Social Semantic Desktop.It works on desktops, mobiles, in the cloud and
+    on-premise. Plug-ins for enterprise systems and common desktop and online applications
+    are available.
+  url: http://www.getrefinder.com/about/content/developers
+  shorturl: ""
+  twitter: https://twitter.com/refinder
+  blog: https://www.getrefinder.com/about/blog
+  blogrss: https://www.getrefinder.com/about/blog/feed
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/refinder-logo.png
+  tags: Storage,Aggregation,Interoperability
+- slug: netlify
+  name: Netlify
+  description: Our mission is simple. We want to take modern static websites and apps
+    mainstream. Because the current web is a mess. Seriously though. Every week we
+    go to Hackernews and follow a broken link. 79% of all Wordpress sites are vulnerable
+    to known exploits, which alone represents 20% of all website. The emergence of
+    mobile means a lot of slow loading sites with towering bounce rates and loss of
+    business to follow. We should do better. We must actually. Because we can. Static
+    websites have always been faster, safer, simpler and cheaper. It&rsquo;s just
+    that browsers and shared hosting services weren&rsquo;t good enough, so there
+    were too many compromises.
+  url: https://www.netlify.com
+  shorturl: ""
+  twitter: https://twitter.com/Netlify
+  blog: https://www.netlify.com/blog/
+  blogrss: ""
+  github: https://github.com/netlify
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/netlify-logo.jpg
+  tags: Websites,Hacker Storytelling,Open Source,Review,Aggregation
+...

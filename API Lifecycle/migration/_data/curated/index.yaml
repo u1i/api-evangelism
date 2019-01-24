@@ -1,0 +1,485 @@
+---
+- curated_id: 290e3c57e035cf06b9afca1ccdca7656
+  item_date: "2015-06-03 07:01:57"
+  title: Migrate DataFlex and Btrieve Applications - Mertech.com
+  url: https://www.mertech.com/
+  domain: www.mertech.com
+  image: ""
+- curated_id: e70140bd3d491575e52162aa547c532e
+  item_date: "2015-06-05 00:00:00"
+  title: Smart Player to Brightcove Player Migration Guide
+  url: http://docs.brightcove.com/en/video-cloud/brightcove-player/guides/migration-guide.html
+  domain: docs.brightcove.com
+  image: ""
+- curated_id: d59fe9b5d748f9a6bed55493cd4d0893
+  item_date: "2015-06-16 00:00:00"
+  title: BitTitan Eliminates Barriers to Microsoft Office 365 Adoption for Universities
+  url: http://blog.bittitan.com/2015/06/16/bittitan-eliminates-barriers-to-microsoft-office-365-adoption-for-universities/
+  domain: blog.bittitan.com
+  image: ""
+- curated_id: 1d216ecdf0a507a35c39c7425b2296a2
+  item_date: "2015-06-18 00:00:00"
+  title: 'Article: The Cloud Migration Checklist'
+  url: http://www.infoq.com/articles/cloud-migration-checklist
+  domain: www.infoq.com
+  image: ""
+- curated_id: dcdb4f1f60f182dbce9df48c2904232f
+  item_date: "2015-06-21 00:00:00"
+  title: 'Avoiding cloudfall: A systematic approach to cloud migration'
+  url: https://18f.gsa.gov/2015/06/22/avoiding-cloudfall/
+  domain: 18f.gsa.gov
+  image: ""
+- curated_id: 107df36a90016cf697f1e08992e53e58
+  item_date: "2016-01-28 00:00:00"
+  title: Migration from Parse to Backendless
+  url: https://backendless.com/migration-from-parse-to-backendless/
+  domain: backendless.com
+  image: ""
+- curated_id: b11eb66fa76bd0d1a5ef3dad0edeaea1
+  item_date: "2016-02-03 00:00:00"
+  title: The Right Things to Think About Before Migrating from Parse
+  url: http://www.kinvey.com/blog/4424/the-right-things-to-think-about-before-migrating-from-parse
+  domain: www.kinvey.com
+  image: ""
+- curated_id: e64e8789c49a3e1c030e5b5fe85b27de
+  item_date: "2016-02-07 00:00:00"
+  title: Migrating Known
+  url: http://bavatuesdays.com/migrating-known/
+  domain: bavatuesdays.com
+  image: ""
+- curated_id: ba8ebeebaf6f8a48be8e46c08bd3e08b
+  item_date: "2016-03-11 00:00:00"
+  title: Microsoft launches OneNote importer tool for Evernote users
+  url: http://venturebeat.com/2016/03/11/microsoft-launches-onenote-importer-tool-for-evernote-users/
+  domain: venturebeat.com
+  image: ""
+- curated_id: 67fda89d0e795e7e1d1a9c5c88210d6b
+  item_date: "2016-03-15 00:00:00"
+  title: AWS Database Migration Service
+  url: https://aws.amazon.com/blogs/aws/aws-database-migration-service/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: e09c37b1b98cf5a3cf9e3151ad206543
+  item_date: "2016-03-16 00:00:00"
+  title: Amazon launches AWS Database Migration Service out of preview to all customers
+  url: http://venturebeat.com/2016/03/16/amazon-launches-aws-database-migration-service-out-of-preview-to-all-customers/
+  domain: venturebeat.com
+  image: ""
+- curated_id: b941d844f6ac08a42e11fe6d9f6a03a7
+  item_date: "2016-03-22 00:00:00"
+  title: Netflix Cloud Migration Complete
+  url: http://www.infoq.com/news/2016/03/Netflix-Cloud-Migration
+  domain: www.infoq.com
+  image: ""
+- curated_id: f104f20a42a236f1879c445c0c3710a2
+  item_date: "2016-03-26 00:00:00"
+  title: AWS Launches Relational Database Migration Service
+  url: http://www.infoq.com/news/2016/03/aws-database-migration-service
+  domain: www.infoq.com
+  image: ""
+- curated_id: 04435fc935b3ea221378bd704161b342
+  item_date: "2016-03-29 00:00:00"
+  title: BitTitan Launches Migration-as-a-Service to Create New Office 365 Revenue
+    for Partners
+  url: http://blog.bittitan.com/2016/03/29/bittitan-launches-migration-as-a-service-to-create-new-office-365-revenue-for-partners/
+  domain: blog.bittitan.com
+  image: ""
+- curated_id: f0afa22890ba4ae815a8de82208b9b66
+  item_date: "2016-05-12 00:00:00"
+  title: Feature Flagging to Mitigate Risk in Database Migration
+  url: https://dzone.com/articles/feature-flagging-to-mitigate-risk-in-database-migr
+  domain: dzone.com
+  image: ""
+- curated_id: 8730f7748ff97dd9b952d4e92d7e5d15
+  item_date: "2016-05-23 00:00:00"
+  title: Introducing Janrain Export Services
+  url: http://www.janrain.com/blog/introducing-janrain-export-services/
+  domain: www.janrain.com
+  image: ""
+- curated_id: 282dc3ba215162737405e8139f77a446
+  item_date: "2016-06-06 00:00:00"
+  title: Migration of Parse Apps to Red Hat Mobile Application Platform
+  url: https://dzone.com/articles/migration-of-parse-apps-to-red-hat-mobile-applicat
+  domain: dzone.com
+  image: ""
+- curated_id: 12032aef8668796f05e249ffbf55fc7f
+  item_date: "2016-06-14 00:00:00"
+  title: Export API and Access to IPTC IPTC-IIM and MS Project Metadata
+  url: http://www.groupdocs.com/blog/read-iptc-iim-ms-project-metadata-export-excel-dataset-csv
+  domain: www.groupdocs.com
+  image: ""
+- curated_id: 2d3afc6570041007f4d15ca90162a48b
+  item_date: "2016-06-16 00:00:00"
+  title: 'Introducing the Google Sheets API v4: Transferring data from a SQL database
+    to a Sheet'
+  url: https://developers.googleblog.com/2016/06/introducing-google-sheets-api-v4.html
+  domain: developers.googleblog.com
+  image: ""
+- curated_id: f05e6fb8b972b0243f1ffcd65e8d18fa
+  item_date: "2016-06-29 00:00:00"
+  title: Box launches Shuttle, aims to land data migration deals
+  url: http://www.zdnet.com/article/box-launches-shuttle-aims-to-land-data-migration-deals/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: 51843bf21dd36fc6ee341622045037c1
+  item_date: "2016-06-30 00:00:00"
+  title: How to transfer your Evernote notes to Apple Notes
+  url: http://www.businessinsider.com/how-to-transfer-evernote-notes-to-apple-notes-2016-6
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: ef6952b47c43f476b295d68d9fe2d453
+  item_date: "2016-06-30 00:00:00"
+  title: Replacing legacy data software with CloverETL
+  url: http://www.cloveretl.com/blog/replacing-legacy-data-software-cloveretl/
+  domain: www.cloveretl.com
+  image: ""
+- curated_id: e570901383a2e7030ef2991f0aff9169
+  item_date: "2016-07-06 00:00:00"
+  title: Android Dropbox API ? Upgrade from Version 1 to Version 2
+  url: https://cloudrail.com/android-dropbox-api-upgrade-version-1-version-2/
+  domain: cloudrail.com
+  image: ""
+- curated_id: cc384c91fc92067ca639f16b7a6be1cc
+  item_date: "2016-07-19 00:00:00"
+  title: SashiDo ? Migrate all Parse files to your own Amazon S3
+  url: https://mv.sashido.io
+  domain: mv.sashido.io
+  image: ""
+- curated_id: 74687ac874a3bea85767c760bfca651f
+  item_date: "2016-08-26 00:00:00"
+  title: Database Migration in Continuous Integration Processes
+  url: https://dzone.com/articles/flyway-db-migration-in-continuous-integration-proc
+  domain: dzone.com
+  image: ""
+- curated_id: 8a3ec3004f7b6af084c8ca884aed6895
+  item_date: "2016-11-01 00:00:00"
+  title: Announcing Expert Migration Services
+  url: http://www.activecampaign.com/blog/activecampaign-migration-services/
+  domain: www.activecampaign.com
+  image: ""
+- curated_id: a1f06e9b099feebba24597f4311b3309
+  item_date: "2017-01-05 00:00:00"
+  title: How to download your Flickr photo library and transfer it to Google Photos
+    or iCloud Photo library
+  url: http://www.macworld.com/article/3153944/photography/how-to-download-your-flickr-photo-library-and-transfer-it-to-google-photos-or-icloud-photo-library.html#tk.rss_all
+  domain: www.macworld.com
+  image: ""
+- curated_id: 71b05ba9670e87ca47d7a84ed1b12afd
+  item_date: "2017-02-03 00:00:00"
+  title: Migrating My WordPress Blog to AWS Lightsail
+  url: https://dzone.com/articles/migrating-my-wordpress-block-to-aws-lightsail
+  domain: dzone.com
+  image: ""
+- curated_id: 36ad4f123d05ae71b6d32960c82e20e7
+  item_date: "2017-02-04 17:18:02"
+  title: World Migration Map - Data Visualization by Metrocosm
+  url: http://metrocosm.com/global-migration-map.html
+  domain: metrocosm.com
+  image: ""
+- curated_id: 4d3c0ea47bde595f3cf7d59fa494868e
+  item_date: "2017-02-11 20:01:03"
+  title: 'Tweet: Learn how AWS Database Migration can help you migrate from a commercial
+    database into #AmazonAurora!hellip; https://t.co/9ah5Fu0fdS'
+  url: https://twitter.com/awscloud/statuses/830627754408308736
+  domain: twitter.com
+  image: ""
+- curated_id: a15247e4a7c040785858faa993e39de8
+  item_date: "2017-02-16 00:00:00"
+  title: 'RSA: Architecting a large-scale migration to AWS, securely'
+  url: http://www.xero.com/blog/2017/02/rsa-architecting-large-scale-migration-aws-securely/
+  domain: www.xero.com
+  image: ""
+- curated_id: c5618f38f2cab877e8966e6df9a36d38
+  item_date: "2017-02-21 00:00:00"
+  title: 'Migrating From Jenkins To Codeship: Notifications'
+  url: https://blog.codeship.com/migrating-jenkins-codeship-notifications/
+  domain: blog.codeship.com
+  image: ""
+- curated_id: 18549a4b40c381a11108dcbb4814c7e0
+  item_date: "2017-02-22 00:00:00"
+  title: 'Moving from SQL Server to Couchbase Part 2: Data Migration'
+  url: https://dzone.com/articles/moving-from-sql-server-to-couchbase-part-2-data-migration
+  domain: dzone.com
+  image: ""
+- curated_id: 844642faa535d09595495d799c67a082
+  item_date: "2017-03-03 00:00:00"
+  title: Amazons Snowmobile Transports 100PB of Data Using a Truck
+  url: //www.pcmag.com/news/350001/amazons-snowmobile-transports-100pb-of-data-using-a-truck
+  domain: www.pcmag.com
+  image: ""
+- curated_id: 98c9607b29874bec522e0349c82c29ec
+  item_date: "2017-03-07 00:00:00"
+  title: "AWS Database Migration Service \u2013 20,000 Migrations and Counting"
+  url: https://aws.amazon.com/blogs/aws/aws-database-migration-service-20000-migrations-and-counting/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: bf63d430db3554c184ccaf4f0e35647a
+  item_date: "2017-03-09 00:00:00"
+  title: How to move data with Compose Transporter - From database to disk
+  url: https://www.compose.com/articles/how-to-move-data-with-compose-transporter-from-database-to-disk/
+  domain: www.compose.com
+  image: ""
+- curated_id: 566c0ec13548a7a46e997cf548a07e99
+  item_date: "2017-03-11 01:00:11"
+  title: Learn how AWS and APN Partners can help streamline your migration to AWS.
+  url: https://aws.amazon.com/migration/featured-partner-solutions/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 43ea970ab4b4ebebeb64ee23e6e34d79
+  item_date: "2017-03-14 00:00:00"
+  title: How to move data with Transporter - from disk to database
+  url: https://www.compose.com/articles/how-to-move-data-with-transporter-from-disk-to-database/
+  domain: www.compose.com
+  image: ""
+- curated_id: a832fe1f0809f9fe7465a5f27cd906e8
+  item_date: "2017-03-16 00:00:00"
+  title: 'Migrating from Google Site Search to SearchBlox Cloud: In 3 simple steps'
+  url: https://www.searchblox.com/migrating-google-site-search-searchblox-cloud-3-simple-steps
+  domain: www.searchblox.com
+  image: ""
+- curated_id: 98abb6bac9bdc4dc5a6db5dbeac1a321
+  item_date: "2017-04-12 00:00:00"
+  title: Microsoft launches new tools to help enterprises move to its Azure cloud
+  url: https://techcrunch.com/2017/04/12/microsoft-launches-new-tools-to-help-enterprises-move-to-its-azure-cloud/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 672b4160d2dd7eb91177b541e6c5fa07
+  item_date: "2017-04-24 12:13:04"
+  title: 'Tweet: Load your data from MailChimp to Amazon Redshift https://t.co/5FSshLf2bl
+    #ETL #datawarehouse #marketing https://t.co/o3V9Gi3NBo'
+  url: https://twitter.com/APIrise/statuses/856586807429009408
+  domain: twitter.com
+  image: ""
+- curated_id: 22aa24f50e50ff0767692ccf62557bb8
+  item_date: "2017-04-26 00:00:00"
+  title: 3 challenges architecting a secure migration to AWS
+  url: http://www.xero.com/blog/2017/04/3-challenges-secure-migration-aws/
+  domain: www.xero.com
+  image: ""
+- curated_id: e53a5e2b1a7992561fdce5b2793b61c5
+  item_date: "2017-04-27 12:13:05"
+  title: 'Tweet: Your Customer Support data from Zendesk into your Redshift, MS SQL,
+    BigQuery or Postgres #datawarehousehellip; https://t.co/E6C6q3g5H3'
+  url: https://twitter.com/APIrise/statuses/857673976964939779
+  domain: twitter.com
+  image: ""
+- curated_id: 0234db6c11c48372cdd949e17c3486b5
+  item_date: "2017-04-28 00:00:00"
+  title: Secure Shipping of Physical Data Carriers to and from a Cloud Service Provider
+  url: http://resources.infosecinstitute.com/secure-shipping-physical-data-carriers-cloud-service-provider/
+  domain: resources.infosecinstitute.com
+  image: ""
+- curated_id: bb7996a6adf3b25eff7215a3e035713f
+  item_date: "2017-04-28 09:47:11"
+  title: 'Tweet: Push your data from Pipedrive to PostgreSQL https://t.co/sZD3CQSoUT
+    #ETL #datawarehouse #analytics https://t.co/2ic8ZodZPO'
+  url: https://twitter.com/APIrise/statuses/857999648484720642
+  domain: twitter.com
+  image: ""
+- curated_id: b1bcd34c9aa72117d191063626ad4faf
+  item_date: "2017-04-28 12:13:03"
+  title: 'Tweet: Import your data from Facebook Ads to Amazon Redshift https://t.co/aOUUg4pZxq
+    #FacebookAds #analytics https://t.co/xAOsWkxqQX'
+  url: https://twitter.com/APIrise/statuses/858036356253192192
+  domain: twitter.com
+  image: ""
+- curated_id: b4xX282kQ9FAxkxcTTl6litd4bsIad1WXC3AOIleGAM=_15c1d46dc04:7b14c5:452180c4
+  item_date: "2017-05-18 13:35:31"
+  title: Migrating Applications from OpenShift v2 to OpenShift 3
+  url: https://blog.openshift.com/?p=11323
+  domain: blog.openshift.com
+  image: ""
+- curated_id: nQDK/hRFOADw0JpnSfBL1cZFniqKdDqcr8viSWXuoP4=_15c5fc11871:5c31cd7:cfb784e9
+  item_date: "2017-05-30 17:00:00"
+  title: Vagrant Cloud Migration Announcement
+  url: https://www.hashicorp.com/blog/vagrant-cloud-migration-announcement/
+  domain: www.hashicorp.com
+  image: ""
+- curated_id: qhhWIcDYC9w26Atz2YPVGWlZ3ijpzn6VVyZmZhvr38o=_15c9c68e79f:232b31a:d0168500
+  item_date: "2017-06-12 06:01:37"
+  title: Introducing Our SendGrid Template Migration Tool
+  url: https://www.sparkpost.com/?p=21845
+  domain: www.sparkpost.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15caf521eb3:1880d1:32554199
+  item_date: "2017-06-15 17:59:47"
+  title: "Datafiniti Completes Phase Two of Elasticsearch Migration and Expands Query
+    Capabilities to\u2026"
+  url: https://medium.com/p/545d2d105df3
+  domain: medium.com
+  image: ""
+- curated_id: QAaDgMpT7DqGuD1Yj9LF2HDECuy1+1dE9pGubJkFSCw=_15ce411bbda:2f425bc:517b1451
+  item_date: "2017-06-26 04:00:55"
+  title: Measuring a Successful Cloud Migration
+  url: http://blog.rackspace.com/?p=43097
+  domain: blog.rackspace.com
+  image: ""
+- curated_id: QAaDgMpT7DqGuD1Yj9LF2HDECuy1+1dE9pGubJkFSCw=_15cee7d8bc6:3f5668c:5b78a817
+  item_date: "2017-06-28 04:30:50"
+  title: 'Private Cloud: An Easier Method for Migrating Existing Applications'
+  url: http://blog.rackspace.com/?p=43109
+  domain: blog.rackspace.com
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_15cf387b39c:4770842:5b78a817
+  item_date: "2017-06-29 03:38:08"
+  title: Cloud Development and Data Migration
+  url: https://medium.com/p/3f1b4a8ed8d
+  domain: medium.com
+  image: ""
+- curated_id: nQDK/hRFOADw0JpnSfBL1cZFniqKdDqcr8viSWXuoP4=_15cfadaf86b:53b5abc:5b78a817
+  item_date: "2017-06-29 17:00:00"
+  title: HashiCorp Vagrant Cloud Migration Completed
+  url: https://www.hashicorp.com/blog/vagrant-cloud-migration-completed/
+  domain: www.hashicorp.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15d10771c4d:7fbdb3:32bbcd87
+  item_date: "2017-07-04 18:45:32"
+  title: Migrate API from AWS S3 to Aliyun OSS
+  url: https://medium.com/p/640dd1e74201
+  domain: medium.com
+  image: ""
+- curated_id: b4xX282kQ9FAxkxcTTl6litd4bsIad1WXC3AOIleGAM=_15d3ede35b8:282c1e4:bb404dd5
+  item_date: "2017-07-13 19:10:17"
+  title: Migrating WordPress to OpenShift Online 3 Paid Tier
+  url: https://blog.openshift.com/?p=12584
+  domain: blog.openshift.com
+  image: ""
+- curated_id: 8gWX9gjCXu6b2pD1eYQk9otwiJsMWRDfIpqRBziTqiI=_15d5b37bcc1:52a61b:898d1914
+  item_date: "2017-07-19 06:56:06"
+  title: "Influencer: Don\u2019t Let These 5 Common Barriers Deter Your Cloud Migration"
+  url: https://admin.dyn.com/?p=57394
+  domain: admin.dyn.com
+  image: ""
+- curated_id: Ihfxwji+t22ShjrcAU9C1jjgW/GnKU96aASgOecQBk0=_15e078be484:163b261:41b98b00
+  item_date: "2017-07-31 08:30:15"
+  title: Migrating Existing Projects to Salesforce DX
+  url: http://developer.salesforce.com/blogs/developer-relations/?p=185921
+  domain: developer.salesforce.com
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_15dc39274ad:225bfe:6c0c5382
+  item_date: "2017-08-08 13:38:59"
+  title: "Why I\u2019m dumping Firebase for Web"
+  url: https://medium.com/p/cd64a78cb43e
+  domain: medium.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15e30663c3a:4e76e6:56b346f
+  item_date: "2017-08-29 09:52:26"
+  title: Tincup
+  url: https://tincup.io/
+  domain: tincup.io
+  image: ""
+- curated_id: QAaDgMpT7DqGuD1Yj9LF2HDECuy1+1dE9pGubJkFSCw=_15e615ab9ba:79a8a52:feeb522d
+  item_date: "2017-09-08 04:30:48"
+  title: Check Out Our Public Cloud Migration Cheat Sheet
+  url: http://blog.rackspace.com/?p=43524
+  domain: blog.rackspace.com
+  image: ""
+- curated_id: 5JqX9UICapOm9YXTnzKIgAA8+Hz1EIPzp0wutAgYmps=_15e7b26de1c:b9e596:6ea86031
+  item_date: "2017-09-13 04:49:08"
+  title: How to Perform Data Migration the Right Way
+  url: https://www.promptcloud.com/?p=35309
+  domain: www.promptcloud.com
+  image: ""
+- curated_id: QAaDgMpT7DqGuD1Yj9LF2HDECuy1+1dE9pGubJkFSCw=_15e85429c4d:c4fe4c:4cab23bc
+  item_date: "2017-09-15 04:00:03"
+  title: Follow This Step
+  url: http://blog.rackspace.com/?p=43536
+  domain: blog.rackspace.com
+  image: ""
+- curated_id: QAaDgMpT7DqGuD1Yj9LF2HDECuy1+1dE9pGubJkFSCw=_15ea9721a7c:927d49:e05f56c8
+  item_date: "2017-09-22 04:30:07"
+  title: 'Public Cloud Migration: Choose Your Path Carefully'
+  url: http://blog.rackspace.com/?p=43669
+  domain: blog.rackspace.com
+  image: ""
+- curated_id: COy8McbBfVir67ZxD2FOclUkFmMTSIz3gIibngyQUqQ=_15eba693ee6:f75a7d:feeb522d
+  item_date: "2017-09-25 11:14:54"
+  title: Migrating a database from InnoDB to MyRocks
+  url: https://code.facebook.com/posts/1478526992216557/migrating-a-database-from-innodb-to-myrocks/?utm_source=codedot_rss_feed&utm_medium=rss&utm_campaign=RSS+Feed
+  domain: code.facebook.com
+  image: ""
+- curated_id: QAaDgMpT7DqGuD1Yj9LF2HDECuy1+1dE9pGubJkFSCw=_15ee2def6d6:5b1c3a2:c84bd0de
+  item_date: "2017-10-03 08:26:49"
+  title: Successfully Migrating Your Database to AWS
+  url: http://blog.rackspace.com/?p=43807
+  domain: blog.rackspace.com
+  image: ""
+- curated_id: QAaDgMpT7DqGuD1Yj9LF2HDECuy1+1dE9pGubJkFSCw=_15ef19affbc:9a0e5d:3522b906
+  item_date: "2017-10-06 05:00:35"
+  title: "Enabling Epsilon\u2019s Seamless Migration to AWS"
+  url: http://blog.rackspace.com/?p=43725
+  domain: blog.rackspace.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_15ef22aaa28:98fbb1:ceb70d89
+  item_date: "2017-10-06 07:35:44"
+  title: "Dealing with Data Migrations on Multi Tenant \u2014 Laravel"
+  url: https://medium.com/p/71089b9a838f
+  domain: medium.com
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_15f6ec0ac56:f89bc8:aa3e42e1
+  item_date: "2017-10-30 12:27:19"
+  title: Adventures in Migrating to Serverless
+  url: https://medium.com/p/a63556b39042
+  domain: medium.com
+  image: ""
+- curated_id: b8MUi1LurnT/ncltqPDluAE6yfW7vSxJkRYu4OFrMPo=_160001f218a:1f2b5:541f3c40
+  item_date: "2017-11-27 09:20:10"
+  title: 4 Pitfalls to Avoid During a Cloud Migration
+  url: https://www.pagerduty.com/?p=38099
+  domain: www.pagerduty.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_16031d85091:616788:541f3c40
+  item_date: "2017-12-07 07:01:28"
+  title: How to Transfer a MySQL Database Between Two Servers
+  url: https://dzone.com/articles/1870677
+  domain: dzone.com
+  image: ""
+- curated_id: dnRmB76fym4hkmgsXBwtmLKNUV3FwG/JzTfREvhE440=_16066b220fa:ce12b0:3c0bb656
+  item_date: "2017-12-17 14:56:42"
+  title: Migration Data Portal
+  url: http://thegovlab.org/?p=22162
+  domain: thegovlab.org
+  image: ""
+- curated_id: dnRmB76fym4hkmgsXBwtmLKNUV3FwG/JzTfREvhE440=_162730cb31c:751caf1:9f3b30f2
+  item_date: "2018-03-29 11:32:42"
+  title: The Potential and Practice of Data Collaboratives for Migration
+  url: http://thegovlab.org/?p=22904
+  domain: thegovlab.org
+  image: ""
+- curated_id: dnRmB76fym4hkmgsXBwtmLKNUV3FwG/JzTfREvhE440=_1627343bf8b:739c948:7d6c1c1c
+  item_date: "2018-03-29 12:19:10"
+  title: Data Collaboration and Data Responsibility for Migration
+  url: http://thegovlab.org/?p=22905
+  domain: thegovlab.org
+  image: ""
+- curated_id: eiYqu9pYEY6oNfNbDCIlEyjIeZBmg40bxgcOD6MwVk0=_162e37a581f:3cb40:a077e55f
+  item_date: "2018-04-16 22:04:25"
+  title: "Moving Historical Helpdesk Data to Freshdesk Shouldn\u2019t be a Nightmare"
+  url: http://blog.freshdesk.com/?p=10887
+  domain: blog.freshdesk.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_1645f82825b:520134e:aa514a55
+  item_date: "2018-07-03 02:03:00"
+  title: 'GitLab: We''re Moving From Azure to Google Cloud Platform'
+  url: https://dzone.com/articles/2304292
+  domain: dzone.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_1647086f64c:170020:e8d3bdb3
+  item_date: "2018-07-05 14:14:27"
+  title: PostgreSQL RDS Creation/Migration in AWS
+  url: https://medium.com/p/cbae2901d460
+  domain: medium.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_164aca1012b:c2c0d57:386c987f
+  item_date: "2018-07-18 02:01:00"
+  title: "MongoShake \u2014 A MongoDB"
+  url: https://dzone.com/articles/2330186
+  domain: dzone.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_1651a3ebe88:38b2306:6f86c10b
+  item_date: "2018-08-08 07:59:01"
+  title: Database Migration for .Net Core Projects
+  url: https://dzone.com/articles/2371271
+  domain: dzone.com
+  image: ""
+...

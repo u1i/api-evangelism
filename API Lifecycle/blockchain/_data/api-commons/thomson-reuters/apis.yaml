@@ -1,0 +1,21 @@
+name: Thomson Reuters
+description: The intelligence, technology and human expertise you need to find trusted
+  answers. Thomson Reuters is The Answer Company.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26454-developers-thomsonreuters-com.jpg
+tags:
+- SaaS
+- Publishing
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/thomson-reuters/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: https://developers.thomsonreuters.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

@@ -1,0 +1,24 @@
+swagger: "2.0"
+info:
+  title: Tags API
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /api/v1/tags/hosts:
+    get:
+      summary: Get Tags
+      description: '          Return a mapping of tags to hosts for your whole infrastructure.        '
+      operationId: get-tags
+      parameters:
+      - type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Tags
+definitions: []

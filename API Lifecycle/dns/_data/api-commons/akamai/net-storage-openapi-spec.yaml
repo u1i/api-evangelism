@@ -1,0 +1,14 @@
+swagger: "2.0"
+info:
+  title: Net Storage
+  description: Manage NetStorage FileStore and ObjectStore files and directories.
+    A pre-OPEN API.
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths: []
+definitions: []

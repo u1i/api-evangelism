@@ -1,0 +1,192 @@
+swagger: "2.0"
+info:
+  title: Media Reports
+  description: Retrieve usage and quality metrics for the Media Delivery products
+    - Adaptive Media Delivery, Download Delivery, RTMP Media Delivery and Object Delivery.
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /media-reports/v1/adaptive-media-delivery/metrics:
+    get:
+      summary: List Adaptive Media Delivery Metrics
+      description: ""
+      operationId: mediareportsv1adaptivemediadeliverymetrics
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /media-reports/v1/download-delivery/dimensions:
+    get:
+      summary: List Download Delivery Dimensions
+      description: ""
+      operationId: mediareportsv1downloaddeliverydimensions
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /media-reports/v1/download-delivery/metrics:
+    get:
+      summary: List Download Delivery Metrics
+      description: ""
+      operationId: mediareportsv1downloaddeliverymetrics
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /media-reports/v1/media-services-live/http-ingest/metrics:
+    get:
+      summary: List HTTP Ingest Metrics
+      description: ""
+      operationId: mediareportsv1mediaserviceslivehttpingestmetrics
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /media-reports/v1/media-services-live/rtmp-ingest/dimensions:
+    get:
+      summary: List RTMP Ingest Dimensions
+      description: ""
+      operationId: mediareportsv1mediaserviceslivertmpingestdimensions
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /media-reports/v1/media-services-live/rtmp-ingest/metrics:
+    get:
+      summary: List RTMP Ingest Metrics
+      description: ""
+      operationId: mediareportsv1mediaserviceslivertmpingestmetrics
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /media-reports/v1/object-delivery/metrics:
+    get:
+      summary: List Object Delivery Metrics
+      description: ""
+      operationId: mediareportsv1objectdeliverymetrics
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /media-reports/v1/rtmp-media-delivery/metrics:
+    get:
+      summary: List RTMP Media Delivery Metrics
+      description: ""
+      operationId: mediareportsv1rtmpmediadeliverymetrics
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /media-reports/v1/wholesale-delivery/metrics:
+    get:
+      summary: List Wholesale Delivery Metrics
+      description: ""
+      operationId: mediareportsv1wholesaledeliverymetrics
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  filterParams:
+    get:
+      summary: Get Download Delivery Data
+      description: ""
+      operationId: filterparams
+      parameters:
+      - in: String
+        name: aggregation
+        description: 'The aggregation in which the data is required to be grouped.
+          It can be a number representing the aggregation in seconds or one of the
+          following values: day, week, month, or year.'
+        type: string
+      - in: String
+        name: cpcodes
+        description: Comma-separated CP codes for which the data is required.
+        type: string
+      - in: String
+        name: deliveryFormat
+        description: One of sp_hds, sp_hls, hls, smooth, others, or all for stream
+          packaging HDS, stream packaging HLS, HLS, microsoft smooth streaming, other
+          formats and all formats respectively.
+        type: string
+      - in: String
+        name: deliveryOption
+        description: 'One of the following values: http for non-secure traffic, ssl
+          for secure traffic (Shared Certificate), essl for secure traffic (Customer
+          Certificate), or all. This parameter can also be ignored to get the data
+          for all traffic options.'
+        type: string
+      - in: String
+        name: deliveryType
+        description: One of live, vod, or all.
+        type: string
+      - in: String
+        name: dimensions
+        description: Comma-separated IDs of required dimensions.
+        type: string
+      - in: String
+        name: endDate
+        description: The end date string in format mm/dd/yyyy:HH:MM. The time part
+          is optional and should be in 24 hours format.
+        type: string
+      - in: String
+        name: filterParams
+        description: The UTF&#8211;8 URL-encoded JSON string of the filter parameters
+          based on which the data is filtered.
+        type: string
+      - in: String
+        name: ipVersion
+        description: One of ipv4, ipv6, or all. This parameter can be ignored to get
+          the data for both IP versions.
+        type: string
+      - in: Number
+        name: limit
+        description: The number of rows to return. Its value should lie between 1
+          and 10000, inclusive. If not specified, 300 rows will be returned by default.
+        type: string
+      - in: String
+        name: metrics
+        description: Comma-separated IDs of required metrics.
+        type: string
+      - in: Number
+        name: offset
+        description: The offset of the row from which the data should start. This
+          parameter can be used along with limit to get batches of data. For instance,
+          if there are 1000 records in the result, 10 calls can be made with progressing
+          offset. That is, first call with limit=100 and offset=0, second call with
+          limit=100 and offset=100 so on and so forth.
+        type: string
+      - in: String
+        name: sortParams
+        description: The UTF&#8211;8 URL-encoded JSON string of the sort parameters
+          based on which the data is sorted.
+        type: string
+      - in: String
+        name: startDate
+        description: The start date string in format mm/dd/yyyy:HH:MM. The time part
+          is optional and should be in 24 hours format.
+        type: string
+      - in: String
+        name: streams
+        description: Comma-separated Stream IDs for which the data is required.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

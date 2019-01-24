@@ -1,0 +1,13 @@
+swagger: "2.0"
+info:
+  title: Uptrends Complete API
+  description: The Uptrends Complete API.
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths: []
+definitions: []

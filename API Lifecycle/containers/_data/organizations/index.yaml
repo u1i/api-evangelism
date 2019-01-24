@@ -1,0 +1,431 @@
+- slug: openshift-by-red-hat
+  name: OpenShift by Red Hat
+  description: >-
+    OpenShift is a cloud computing platform as a service product from Red Hat. A
+    version for private cloud is named OpenShift Enterprise. The software that
+    runs the service is open-sourced under the name OpenShift Origin, and is
+    available on GitHub. Developers can use Git to deploy web applications in
+    different languages on the platform. OpenShift also supports binary programs
+    that are web applications, so long as they can run on Red Hat Enterprise
+    Linux. This allows the use of arbitrary languages and frameworks. OpenShift
+    takes care of maintaining the services underlying the application and
+    scaling the application as needed.
+  url: 'https://www.openshift.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/openshift'
+  blog: 'https://blog.openshift.com/'
+  blog_rss: 'https://blog.openshift.com/feed/'
+  github: 'https://github.com/openshift'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/200px-OpenShift-LogoType.svg.png
+  tags: 'PaaS,Containers'
+- slug: codeship
+  name: Codeship
+  description: >-
+    Codeship is a hosted Continuous Delivery platform. It helps to release
+    software quickly, automatically and multiple times a day. It shortens the
+    development cycles thus reducing the risk of bugs and increasing innovation.
+    It helps software companies developing a better product faster by taking
+    care of the testing and release process. Managing your own continuous
+    deployment system takes time, specialized knowledge, custom solutions and
+    dedicated, on-premise infrastructure. Codeship automates software deployment
+    and all the necessary tasks involved with it.
+  url: 'https://codeship.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/codeship'
+  blog: 'https://blog.codeship.com/'
+  blog_rss: 'http://blog.codeship.com/feed/'
+  github: 'https://github.com/codeship'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/codeship-logo.png
+  tags: 'Orchestration,Containers'
+- slug: azure-container-service
+  name: Azure Container Service
+  description: >-
+    Azure Container Service optimizes the configuration of popular open-source
+    tools and technologies specifically for Azure. You get an open solution that
+    offers portability for both your containers and your application
+    configuration. You select the size, number of hosts, and choice of
+    orchestrator tools&mdash;Container Service handles everything else.
+  url: 'https://azure.microsoft.com/en-us/services/container-service/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-container-service.png
+  tags: 'Microsoft,Containers,Deployment'
+- slug: azure-container-registry
+  name: Azure Container Registry
+  description: >-
+    Azure Container Registry allows you to store images for all types of
+    container deployments including DC/OS, Docker Swarm, Kubernetes, and Azure
+    services such as App Service, Batch, Service Fabric, and others. Your DevOps
+    team can manage the configuration of apps isolated from the configuration of
+    the hosting environment.
+  url: 'https://azure.microsoft.com/en-us/services/container-registry/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-manage-containers.png
+  tags: 'Microsoft,Containers'
+- slug: werker
+  name: Werker
+  description: >-
+    Wercker is a continuous delivery platform focusing on changing the way
+    developers build and deploy their applications. This platform was built in
+    order to make developers' lives easier and enabling them to move fast and
+    make things.
+  url: 'http://wercker.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/wercker'
+  blog: 'http://blog.wercker.com/'
+  blog_rss: 'http://blog.wercker.com/rss.xml'
+  github: 'https://github.com/wercker'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/werker-logo.png
+  tags: 'Microservices,Orchestration,Containers,Command Line Interface'
+- slug: stackhut
+  name: nStack
+  description: >-
+    Deploy data-science models to the cloud and build workflows with databases,
+    APIs, and more.
+  url: 'http://nstack.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/nstackcom'
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/nstack/nstack'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/stackhut-logo.png
+  tags: 'Deployment,Serverless,Containers,Microservices'
+- slug: centurylink-labs
+  name: CenturyLink Labs
+  description: >-
+    CenturyLink is the third largest telecommunications company in the United
+    States and is recognized as a leader in the network services market by
+    technology industry analyst firms. The CenturyLink Innovations Lab is the
+    Research and Development arm of CenturyLink. The goal of the Innovations Lab
+    is to keep CenturyLink at the bleeding edge of technological innovation. The
+    main tenets of the Lab are:&nbsp;transparency, foresight and
+    pragmatism.&nbsp;
+  url: 'http://www.centurylinklabs.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/centurylinklabs'
+  blog: 'https://labs.ctl.io/blog/'
+  blog_rss: 'https://labs.ctl.io/feed/'
+  github: 'https://github.com/CenturyLinkLabs'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/CenturyLinkLabsLogo.png
+  tags: 'Containers,Research,Century Link Stack'
+- slug: docker
+  name: Docker
+  description: >-
+    Docker is an open platform for developers and sysadmins to build, ship, and
+    run distributed applications. Consisting of Docker Engine, a portable,
+    lightweight runtime and packaging tool, and Docker Hub, a cloud service for
+    sharing applications and automating workflows, Docker enables apps to be
+    quickly assembled from components and eliminates the friction between
+    development, QA, and production environments. As a result, IT can ship
+    faster and run the same app, unchanged, on laptops, data center VMs, and any
+    cloud.
+  url: 'https://www.docker.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/docker'
+  blog: 'http://blog.docker.com/'
+  blog_rss: 'http://blog.docker.com/feed/'
+  github: 'https://github.com/docker'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/docker.png
+  tags: 'Containers,My API Stack,Command Line Interface'
+- slug: tutum
+  name: Tutum
+  description: >-
+    Tutum lets developers easily manage and run lightweight, portable,
+    self-sufficient containers from any application. The same container that a
+    developer builds and tests on a laptop can run at scale in Tutum. Their
+    solution offers users the best capabilities and features of IaaS and PaaS,
+    without the shortcomings or disadvantages of either one.
+  url: 'https://www.tutum.co/'
+  short_url: ''
+  twitter: 'https://twitter.com/tutumcloud'
+  blog: 'http://blog.tutum.co/'
+  blog_rss: 'http://blog.tutum.co/feed/'
+  github: 'https://github.com/tutumcloud'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/tatum-logo.png
+  tags: 'Containers,Microservices,Orchestration,Command Line Interface'
+- slug: kubernetes
+  name: Kubernetes
+  description: >-
+    Manage a cluster of Linux containers as a single system to accelerate Dev
+    and simplify Ops. Kubernetes is an open source orchestration system for
+    Docker containers. It handles scheduling onto nodes in a compute cluster and
+    actively manages workloads to ensure that their state matches the users
+    declared intentions. Using the concepts of labels and pods, it groups the
+    containers which make up an application into logical units for easy
+    management and discovery.
+  url: 'http://kubernetes.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/kubernetesio'
+  blog: 'http://blog.kubernetes.io/'
+  blog_rss: 'http://blog.kubernetes.io/feeds/posts/default'
+  github: 'https://github.com/kubernetes'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/kubernetes-logo.png
+  tags: 'Containers,Google,Container'
+- slug: apache-karaf
+  name: Apache Karaf
+  description: >-
+    Karaf provides dual polymorphic container and application bootstrapping
+    paradigms to the Enterprise. Focus on your business code and application,
+    Karaf deals with the rest.
+  url: 'http://karaf.apache.org/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apache-karaf-logo.png
+  tags: 'Containers,Deployment,Open Source'
+- slug: google-cloud-container-builder
+  name: Google Cloud Container Builder
+  description: >-
+    Google Cloud Container Builder lets you create Docker container images from
+    application source code located in Google Cloud Storage. Container images
+    created by Container Builder are automatically stored in Google Container
+    Registry. You can deploy the container images you create on Google Container
+    Engine, Google Compute Engine, Google App Engine flexible environment or
+    other services where you can run applications from Docker containers.
+  url: 'https://cloud.google.com/container-builder/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/container-builder-lead.png
+  tags: 'Containers,Deployment,Google APIs'
+- slug: google-container-engine
+  name: Google Container Engine
+  description: >-
+    Google Container Engine is a powerful cluster manager and orchestration
+    system for running your Docker containers. Container Engine schedules your
+    containers into the cluster and manages them automatically based on
+    requirements you define (such as CPU and memory). It's built on the open
+    source Kubernetes system, giving you the flexibility to take advantage of
+    on-premises, hybrid, or public cloud infrastructure.
+  url: 'https://cloud.google.com/container-engine/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/docker-container.png
+  tags: 'Containers,Deployment,Google APIs'
+- slug: joyent
+  name: Joyent
+  description: >-
+    Joyent delivers container-native infrastructure, offering organizations
+    high-performance, yet simple public cloud and private cloud software
+    solutions for today&rsquo;s demanding real-time web and mobile applications.
+  url: 'https://www.joyent.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/joyent'
+  blog: 'https://www.joyent.com/blog'
+  blog_rss: 'https://www.joyent.com/blog/feed'
+  github: 'https://github.com/joyent'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/joyent.jpg
+  tags: 'Containers,Cloud Computing'
+- slug: clusterhq
+  name: ClusterHQ
+  description: >-
+    Cluster HQ's mission is to make enterprise class redundancy, scalability
+    &amp; business continuity available to every web hosting company in the
+    world. Cluster HQ provides global replication of websites, databases and
+    email and automatic scalability through live-migration. Its innovative new
+    form of hosting transforms commodity infrastructure into co-operative global
+    clusters, responding automatically to failures in seconds. This keeps
+    customers&rsquo; data safe and servers load-balanced, even in the face of a
+    total infrastructure melt-down. Cluster HQ fully embrace cloud thinking with
+    our always-on, horizontally scalable, software-HA distributed system,
+    running on commodity hardware and/or cloud infrastructure.
+  url: 'https://clusterhq.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/clusterhq'
+  blog: 'https://clusterhq.com/blog/'
+  blog_rss: 'https://clusterhq.com/?cat=1&feed=rss2'
+  github: 'https://github.com/ClusterHQ'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ClusterHQ_logo.jpg
+  tags: Containers
+- slug: coreos-linux
+  name: CoreOS Linux
+  description: >-
+    CoreOS is an open-source lightweight operating system based on the Linux
+    kernel and designed for providing infrastructure to clustered deployments,
+    while focusing on automation, ease of applications deployment, security,
+    reliability and scalability. As an operating system, CoreOS provides only
+    the minimal functionality required for deploying applications inside
+    software containers, together with built-in mechanisms for service discovery
+    and configuration sharing.
+  url: 'https://coreos.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/coreoslinux'
+  blog: 'https://coreos.com/blog/'
+  blog_rss: 'https://coreos.com/atom.xml'
+  github: 'https://github.com/coreos'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/coreos-wordmark-horiz-color.png
+  tags: Containers
+- slug: openvz-containers
+  name: OpenVZ Containers
+  description: >-
+    OpenVZ is container-based virtualization for Linux. OpenVZ creates multiple
+    secure, isolated Linux containers (otherwise known as VEs or VPSs) on a
+    single physical server enabling better server utilization and ensuring that
+    applications do not conflict. Each container performs and executes exactly
+    like a stand-alone server; a container can be rebooted independently and
+    have root access, users, IP addresses, memory, processes, files,
+    applications, system libraries and configuration files.&nbsp;
+  url: 'http://openvz.org/Main_Page'
+  short_url: ''
+  twitter: 'https://twitter.com/_openvz_'
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/500px-OpenVZ_complete_logo_vertical.png
+  tags: Containers
+- slug: panamax-project
+  name: Panamax Project
+  description: >-
+    An open-source project that makes deploying complex containerized apps as
+    easy as Drag-and-Drop. Panamax is a containerized app creator with an
+    open-source app marketplace hosted in GitHub. Panamax provides a friendly
+    interface for users of Docker, Fleet &amp; CoreOS. With Panamax, you can
+    easily create, share and deploy any containerized app no matter how complex
+    it might be.
+  url: 'http://panamax.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/panamax_io'
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/CenturyLinkLabs'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/panamax-logo.png
+  tags: Containers
+- slug: shipyard
+  name: Shipyard
+  description: >-
+    Built on the Docker cluster management toolkit Citadel, Shipyard gives you
+    the ability to manage Docker resources including containers, hosts and more.
+    Shipyard differs from other management applications in that it promotes
+    composability. At the core, Shipyard only manages Docker (containers, etc).
+    However, using Extension Images you can add functionality such as
+    application routing and load balancing, centralized logging, deployment and
+    more. You decide which components to use that fit your needs.
+  url: 'http://shipyard-project.com/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/shipyard'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/shipyard-logo.png
+  tags: Containers
+- slug: cloudify
+  name: Cloudify
+  description: >-
+    With Cloudify, you won&rsquo;t be locked into a specific cloud provider or
+    one type of cloud; deploy the same application in your own data center or on
+    the cloud of your choice using your favorite automation and configuration
+    management tools. Monitor, manage and scale your application with Cloudify,
+    whatever the topology or technology stack.
+  url: 'http://getcloudify.org/'
+  short_url: ''
+  twitter: 'https://twitter.com/CloudifySource'
+  blog: 'http://cloudify.co/blog/'
+  blog_rss: 'http://getcloudify.org/atom.xml'
+  github: 'https://github.com/CloudifySource'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudify-logo.png
+  tags: 'Cloud,Containers,Compute'
+- slug: aws-elastic-beanstalk
+  name: AWS Elastic Beanstalk
+  description: >-
+    AWS Elastic Beanstalk is an easy-to-use service for deploying and scaling
+    web applications and services developed with Java,&nbsp;.NET, PHP, Node.js,
+    Python, Ruby, Go, and&nbsp;Docker&nbsp;on familiar servers such as Apache,
+    Nginx, Passenger, and&nbsp;IIS. You can simply upload your code and Elastic
+    Beanstalk automatically handles the deployment, from capacity provisioning,
+    load balancing, auto-scaling to application health monitoring. At the same
+    time, you retain full control over the AWS resources powering your
+    application and can access the underlying resources at any time. There is no
+    additional charge for Elastic Beanstalk - you pay only for the AWS resources
+    needed to store and run your applications.
+  url: 'https://aws.amazon.com/elasticbeanstalk/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  tags: 'Amazon Web Services,Deployment,Containers'
+- slug: aws-ec2-container-registry-service
+  name: AWS EC2 Container Registry Service
+  description: >-
+    Amazon EC2 Container Registry (ECR) is a
+    fully-managed&nbsp;Docker&nbsp;container registry that makes it easy for
+    developers to store, manage, and deploy Docker container images. Amazon ECR
+    is integrated with&nbsp;Amazon EC2 Container Service (ECS), simplifying your
+    development to production workflow. Amazon ECR eliminates the need to
+    operate your own container repositories or worry about scaling the
+    underlying infrastructure. Amazon ECR hosts your images in a highly
+    available and scalable architecture, allowing you to reliably deploy
+    containers for your applications. Integration with AWS Identity and Access
+    Management (IAM) provides resource-level control of each repository. With
+    Amazon ECR, there are no upfront fees or commitments. You pay only for the
+    amount of data you store in your repositories and data transferred to the
+    Internet.
+  url: 'https://aws.amazon.com/ecr/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonECR.png
+  tags: 'Amazon Web Services,Containers,Discovery'
+- slug: aws-ec2-container-service
+  name: AWS EC2 Container Service
+  description: >-
+    Amazon EC2 Container Service (ECS) is a highly scalable, high performance
+    container management service that supports Docker containers and allows you
+    to easily run applications on a managed cluster of Amazon EC2 instances.
+    Amazon ECS eliminates the need for you to install, operate, and scale your
+    own cluster management infrastructure. With simple API calls, you can launch
+    and stop Docker-enabled applications, query the complete state of your
+    cluster, and access many familiar features like security groups, Elastic
+    Load Balancing, EBS volumes, and IAM roles. You can use Amazon ECS to
+    schedule the placement of containers across your cluster based on your
+    resource needs and availability requirements. You can also integrate your
+    own scheduler or third-party schedulers to meet business or application
+    specific requirements.
+  url: 'https://aws.amazon.com/ecs/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonECS.png
+  tags: 'Amazon Web Services,Containers,Deployment'

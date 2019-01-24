@@ -1,0 +1,62 @@
+swagger: "2.0"
+info:
+  title: No Title
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /buckets/{bucket_key}/tests/{test_id}/steps:
+    post:
+      summary: Adding Test Steps
+      description: 'Add steps to a test by POSTing a type-specific payload to the
+        Test Steps resource. There are several types of test steps available:'
+      operationId: adding-test-steps
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    put:
+      summary: Request Step
+      description: The POST body must be a JSON object. The following parameters can
+        be set on the request step, and these are formatted the same as the test detail
+        response output.
+      operationId: request-step
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /buckets/{bucket_key}/tests/{test_id}/steps/{step_id}:
+    delete:
+      summary: Delete Test Step
+      description: Delete a step from a test.
+      operationId: delete-test-step
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    get:
+      summary: Test Step Detail
+      description: Get the details of a single test step for a given API test.
+      operationId: test-step-detail
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    put:
+      summary: Modifying Test Steps
+      description: Update the details of a single test step for a given API test.
+      operationId: modifying-test-steps
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

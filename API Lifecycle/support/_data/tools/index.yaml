@@ -1,0 +1,35 @@
+- slug: flarum
+  name: flarum
+  description: Delightfully simple forum software.
+  url: 'https://github.com/flarum/flarum'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Support,Forums'
+- slug: nodebb
+  name: NodeBB
+  description: Node.js based forum software built for the modern web
+  url: 'https://github.com/NodeBB/NodeBB'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Forum,Support'
+- slug: question2answer
+  name: question2answer
+  description: >-
+    Question2Answer is a free and open source platform for Q&A sites, running on
+    PHP/MySQL.
+  url: 'https://github.com/q2a/question2answer'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Support,Question and Answer'

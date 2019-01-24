@@ -1,0 +1,171 @@
+- building_block_id: apache
+  type: Licensing
+  category: Server Code
+  name: Apache
+  description: >-
+    The Apache License is a free software license written by the Apache Software
+    Foundation (ASF). The Apache License requires preservation of the copyright
+    notice and disclaimer. Like other free software licenses, the license allows
+    the user of the software the freedom to use the software for any purpose, to
+    distribute it, to modify it, and to distribute modified versions of the
+    software, under the terms of the license, without concern for royalties. -
+    http://www.apache.org/licenses/LICENSE-2.0
+  image: ''
+  tags: Licensing
+- building_block_id: gpl
+  type: Licensing
+  category: Server Code
+  name: GPL
+  description: >-
+    The GNU General Public License (GNU GPL or GPL) is the most widely used[6]
+    free software license, which guarantees end users (individuals,
+    organizations, companies) the freedoms to run, study, share (copy), and
+    modify the software. Software that allows these rights is called free
+    software and, if the software is copylefted, requires those rights to be
+    retained. - http://www.gnu.org/licenses/gpl-3.0.en.html
+  image: ''
+  tags: Licensing
+- building_block_id: mit
+  type: Licensing
+  category: Server Code
+  name: MIT
+  description: >-
+    The MIT License is a free software license originating at the Massachusetts
+    Institute of Technology (MIT). It is a permissive free software license,
+    meaning that it permits reuse within proprietary software provided all
+    copies of the licensed software include a copy of the MIT License terms and
+    the copyright notice. - https://opensource.org/licenses/MIT
+  image: ''
+  tags: Licensing
+- building_block_id: public-domain-dedication-and-license-pddl
+  type: Licensing
+  category: Data
+  name: Public Domain Dedication and License (PDDL)
+  description: The PDDL places the data(base) in the public domain (waiving all rights).
+  image: ''
+  tags: Licensing
+- building_block_id: attribution-license-odcby
+  type: Licensing
+  category: Data
+  name: Attribution License (ODC-By)
+  description: >-
+    You are free to share, create, and adapt, as long as you attribute the data
+    source.
+  image: ''
+  tags: Licensing
+- building_block_id: open-database-license-odcodbl
+  type: Licensing
+  category: Data
+  name: Open Database License (ODC-ODbL)
+  description: >-
+    You are free to share, create, and adapt, as long as you attribute the data
+    source, share-aloe, and keep open.
+  image: ''
+  tags: Licensing
+- building_block_id: attribution-cc-by
+  type: Licensing
+  category: Content
+  name: Attribution (CC BY)
+  description: >-
+    This license lets others distribute, remix, tweak, and build upon your work,
+    even commercially, as long as they credit you for the original creation.
+    This is the most accommodating of licenses offered. -
+    http://creativecommons.org/licenses/by/4.0/
+  image: ''
+  tags: Licensing
+- building_block_id: attributionsharealike-cc-bysa
+  type: Licensing
+  category: Content
+  name: Attribution-ShareAlike (CC BY-SA)
+  description: >-
+    This license lets others remix, tweak, and build upon your work even for
+    commercial purposes, as long as they credit you and license their new
+    creations under the identical terms. This license is often compared to
+    copyleft free and open source software licenses. All new works based on
+    yours will carry the same license, so any derivatives will also allow
+    commercial use. - http://creativecommons.org/licenses/by-sa/4.0
+  image: ''
+  tags: Licensing
+- building_block_id: public-domain-cc0
+  type: Licensing
+  category: Content
+  name: Public Domain (CC0)
+  description: >-
+    Use this universal tool if you are a holder of copyright or database rights,
+    and you wish to waive all your interests in your work worldwide. -
+    https://creativecommons.org/about/cc0
+  image: ''
+  tags: Licensing
+- building_block_id: attribution--cc-by
+  type: Licensing
+  category: API
+  name: Attribution  (CC BY)
+  description: >-
+    This license lets others distribute, remix, tweak, and build upon your work,
+    even commercially, as long as they credit you for the original creation.
+    This is the most accommodating of licenses offered. -
+    http://creativecommons.org/licenses/by/4.0/
+  image: ''
+  tags: Licensing
+- building_block_id: attributionsharealike-cc-bysa
+  type: Licensing
+  category: API
+  name: Attribution-ShareAlike (CC BY-SA)
+  description: >-
+    This license lets others remix, tweak, and build upon your work even for
+    commercial purposes, as long as they credit you and license their new
+    creations under the identical terms. This license is often compared to
+    copyleft free and open source software licenses. All new works based on
+    yours will carry the same license, so any derivatives will also allow
+    commercial use.
+  image: ''
+  tags: Licensing
+- building_block_id: public-domain-cc0
+  type: Licensing
+  category: API
+  name: Public Domain (CC0)
+  description: >-
+    Use this universal tool if you are a holder of copyright or database rights,
+    and you wish to waive all your interests in your work worldwide. -
+    https://creativecommons.org/about/cc0
+  image: ''
+  tags: Licensing
+- building_block_id: apache
+  type: Licensing
+  category: Client Code
+  name: Apache
+  description: >-
+    The Apache License is a free software license written by the Apache Software
+    Foundation (ASF). The Apache License requires preservation of the copyright
+    notice and disclaimer. Like other free software licenses, the license allows
+    the user of the software the freedom to use the software for any purpose, to
+    distribute it, to modify it, and to distribute modified versions of the
+    software, under the terms of the license, without concern for royalties. -
+    http://www.apache.org/licenses/LICENSE-2.0
+  image: ''
+  tags: Licensing
+- building_block_id: gpl
+  type: Licensing
+  category: Client Code
+  name: GPL
+  description: >-
+    The GNU General Public License (GNU GPL or GPL) is the most widely used[6]
+    free software license, which guarantees end users (individuals,
+    organizations, companies) the freedoms to run, study, share (copy), and
+    modify the software. Software that allows these rights is called free
+    software and, if the software is copylefted, requires those rights to be
+    retained. - http://www.gnu.org/licenses/gpl-3.0.en.html
+  image: ''
+  tags: Licensing
+- building_block_id: mit
+  type: Licensing
+  category: Client Code
+  name: MIT
+  description: >-
+    The MIT License is a free software license originating at the Massachusetts
+    Institute of Technology (MIT). It is a permissive free software license,
+    meaning that it permits reuse within proprietary software provided all
+    copies of the licensed software include a copy of the MIT License terms and
+    the copyright notice. - https://opensource.org/licenses/MIT
+  image: ''
+  tags: Licensing

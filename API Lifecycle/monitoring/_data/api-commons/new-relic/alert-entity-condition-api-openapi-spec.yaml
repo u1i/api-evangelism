@@ -1,0 +1,120 @@
+swagger: "2.0"
+info:
+  title: Alert Entity Condition API
+  description: The Alert Entity Condition API.
+  version: 1.0.0
+host: api.newrelic.com
+basePath: /
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /v2/alerts_entity_conditions/{entity_id}.{format}:
+    delete:
+      summary: Remove
+      description: '<p>This API endpoint allows you to disassociate an entity with
+        a specified Alerts condition.</p><p>Note: <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/rest-api-key>Admin
+        Useru2019s API Key</a> is required.</p><p>Entity type options (Synthetics
+        is not yet supported):</p><pre><code>BrowserApplicationApplicationMobileApplicationServerKeyTransactionPlugin</code></pre>'
+      operationId: remove
+      parameters:
+      - in: query
+        name: condition_id
+        description: Alerts condition ID
+        type: integer
+      - in: path
+        name: entity_id
+        description: Entity id to remove
+        type: integer
+      - in: query
+        name: entity_type
+        description: Entity Type
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Alert Entity Condition
+    get:
+      summary: List
+      description: <p>This API endpoint allows you to list the Alerts conditions an
+        entity is part of.</p><p>Entity type options (Synthetics is not yet supported):</p><pre><code>BrowserApplicationApplicationMobileApplicationServerKeyTransactionPlugin</code></pre>
+      operationId: list
+      parameters:
+      - in: path
+        name: entity_id
+        description: Entity ID
+        type: integer
+      - in: query
+        name: entity_type
+        description: Entity Type
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Alert Entity Condition
+    put:
+      summary: Add
+      description: '<p>This API endpoint allows you to add an entity to a specified
+        Alerts condition.</p><p>Note: <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/rest-api-key>Admin
+        Useru2019s API Key</a> is required.<br />   Entity type options (Synthetics
+        is not yet supported):</p><pre><code>BrowserApplicationApplicationMobileApplicationServerKeyTransactionPlugin</code></pre>'
+      operationId: add
+      parameters:
+      - in: query
+        name: condition_id
+        description: Alerts condition ID
+        type: integer
+      - in: path
+        name: entity_id
+        description: Entity id to add
+        type: integer
+      - in: query
+        name: entity_type
+        description: Entity Type
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Alert Entity Condition
+definitions:
+  "":
+    properties:
+      condition:
+        description: This is a default description.
+        type: DELETE
+      id:
+        description: This is a default description.
+        type: DELETE
+      type:
+        description: This is a default description.
+        type: DELETE
+      name:
+        description: This is a default description.
+        type: DELETE
+      enabled:
+        description: This is a default description.
+        type: DELETE
+      entities:
+        description: This is a default description.
+        type: DELETE
+      metric:
+        description: This is a default description.
+        type: DELETE
+      runbook_url:
+        description: This is a default description.
+        type: DELETE
+      terms:
+        description: This is a default description.
+        type: DELETE
+      user_defined:
+        description: This is a default description.
+        type: DELETE
+      value_function:
+        description: This is a default description.
+        type: DELETE

@@ -1,0 +1,194 @@
+- slug: sdk-bridge
+  name: SDK Bridge
+  description: >-
+    SDK Bridge&nbsp;is a company that specializes in explaining technology
+    through documentation and software development kits. It provides a variety
+    of API-related services including:  API Documentation Sample code and
+    tutorials Highly technical copywriting Training sessions on how to use
+    software platforms Technology classes for youth  These services can be a
+    critical piece of delivering your API. SDK Bridge says that it is
+    a&nbsp;bridge between people and technology. So very true. SDK
+    Bridge&nbsp;provides a set of services that any business looking to deliver
+    an API should evaluate. Even though you many be able to generate your own
+    marketing materials, SDK and other supporting API documents, you may find
+    more value bring in an outside perspective to make sure you explain how your
+    API solves problems, adds value, and can be successfully integrated to
+    customers systems.
+  url: 'http://sdkbridge.com/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/SDKBridge-logo.gif
+  tags: 'SDK Bridge,Peter Gruenbaum,Jonathan Fingold,Building Block,Documentation'
+- slug: readme.io
+  name: ReadMe.io
+  description: >-
+    ReadMe is a developer hub for your startup or code. It's a completely
+    customizable and collaborative place for documentation, support, key
+    generation and more. Don't waste your precious time reimplementing a
+    dev.yourstartup.com. If you have an API, code library, or affiliate program,
+    documentation is hard. Users can't use your product without understanding
+    it, and most documentation on the Internet is lacking. The goal of ReadMe is
+    to make consuming APIs completely painless.
+  url: 'https://readme.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/readmeio'
+  blog: 'https://blog.readme.io/'
+  blog_rss: 'https://blog.readme.io/rss/'
+  github: 'https://github.com/readmeio'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/readme-io-logo.png
+  tags: 'Management,API LIfeycle,Documentation,Portal'
+- slug: apiembed
+  name: APIEmbed
+  description: >-
+    Auto-generated code snippets in many programming languages for your website,
+    blog or API documentation.
+  url: 'https://apiembed.com/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/APIembed.png
+  tags: 'Embeddable,Code,Documentation'
+- slug: atlassian-confluence
+  name: Atlassian Confluence
+  description: >-
+    Confluence is a wiki used by more than half of Fortune 100 companies to
+    connect people with the content and co-workers they need to get their jobs
+    done, faster. Connect your entire business in one place online to
+    collaborate and capture knowledge &ndash; create, share, and discuss your
+    documents, ideas, minutes, and projects.
+  url: 'https://www.atlassian.com/software/confluence'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/confluence_logo_landing.png
+  tags: 'Documentation,Teams,Code Management,Wiki,Portal'
+- slug: rest-united
+  name: REST United
+  description: >-
+    Our mission is to help REST API providers easily create SDKs in different
+    programming languages with easy-to-follow documentation and code samples
+    while software developers can effortlessly consume the REST API by following
+    the SDK installation instruction and using the code samples within minutes.
+  url: 'http://restunited.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/restunited'
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/rest-united.png
+  tags: 'Documentation,SDK,Testing,Debugging,API Management SDK'
+- slug: dexy
+  name: Dexy
+  description: >-
+    Dexy helps your code to speak for itself. Show off your code with beautiful
+    syntax highlighting. Write examples and Dexy will run them, inserting the
+    output into any document you wish. Everything is based on live code, so
+    updating is easy, syntax errors blow up on you, not your users, and typos
+    are a thing of the past. With Dexy's smart caching, your code is only
+    executed when it needs updating, saving you time while keeping your
+    documents robust.
+  url: 'http://dexy.it/'
+  short_url: ''
+  twitter: ''
+  blog: 'http://blog.dexy.it/'
+  blog_rss: 'http://blog.dexy.it/feed'
+  github: 'https://github.com/dexy'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Dexy-Logo.png
+  tags: 'Documentation,Management'
+- slug: api-docs
+  name: API Docs
+  description: >-
+    Hosted public API documentation for every OAS (Swagger) and RAML spec out
+    there.
+  url: 'https://api-docs.io/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/API_Docs.png
+  tags: Documentation
+- slug: apidox
+  name: Apidox
+  description: >-
+    Apidox is a free to use, open source application. Code released under the
+    MIT license. Contact, support and error reporting on GitHub.
+  url: 'http://apidox.net'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apidox-logo.png
+  tags: Documentation
+- slug: read-the-docs
+  name: Read the Docs
+  description: >-
+    Read the Docs hosts documentation, making it fully searchable and easy to
+    find. You can import your docs using any major version control system,
+    including Mercurial, Git, Subversion, and Bazaar. We support webhooks so
+    your docs get built when you commit code. There's also support for
+    versioning so you can build docs from tags and branches of your code in your
+    repository.
+  url: 'https://readthedocs.org/'
+  short_url: ''
+  twitter: 'https://twitter.com/readthedocs'
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/rtfd'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/readthedocs.png
+  tags: Documentation
+- slug: apiary
+  name: Apiary
+  description: >-
+    Apiary.io is a hosted suite of tools that help companies build web APIs
+    quickly, test and monitor them easily and document them effortlessly. It
+    provides API owners with necessary infrastructure and helps them build
+    relationship with their users. Core of the self-service solution is API
+    Blueprint, an efficient format for describing an API, aspiring to define new
+    gold standard for REST API development. The product uses this Blueprint to
+    streamline adoption of new services and simplify integration to other
+    systems.
+  url: 'https://apiary.io'
+  short_url: ''
+  twitter: 'https://twitter.com/apiaryio'
+  blog: 'http://blog.apiary.io/'
+  blog_rss: 'http://blog.apiary.io/feed.xml'
+  github: 'https://github.com/apiaryio'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apiary-logo.png
+  tags: 'Design,Virtualization,Virtualization,API LIfeycle,Documentation,Studio'
+- slug: gelato.io
+  name: Gelato.io
+  description: >-
+    Gelato.io is a tool for creating really great API Documentation and
+    Developer Portals. You can describe your API, import and sync with Swagger
+    or API Blueprint, write awesome guides (or get them written for you), have
+    your developers register and get updates when things change, get an
+    automatic API Explorer - everything a good Documentation Site needs and
+    more!
+  url: 'https://gelato.io/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/gelato-io-logo.png
+  tags: 'Design,Management,Documentation,Portal,interesting'

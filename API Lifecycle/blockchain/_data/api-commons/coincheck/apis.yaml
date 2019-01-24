@@ -1,0 +1,25 @@
+name: Coincheck
+description: Trading value No.1u203b1 The number of app users No.1u203b2u203b1 No.1
+  Bitcoin trade volume in Japan! According to jpbitcoin.com (May-November 2017 monthly
+  BTC spot trade volume)  u203b2 According to the research conducted by App Ape in
+  September 2017 (Sample sizeuff1a 50...
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26556-coincheck-com.jpg
+tags:
+- Technology
+- Mobile
+- Marketplace
+- internet
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/coincheck/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: https://coincheck.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

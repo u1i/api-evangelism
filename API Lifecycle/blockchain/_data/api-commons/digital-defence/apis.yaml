@@ -1,0 +1,23 @@
+name: Digital Defence
+description: 'The simplest data encryption you will ever use.   Digital Defence develops
+  world class data and device protection solutions for mobile devices. '
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26537-digital-defence.jpg
+tags:
+- Technology
+- SaaS
+- Mobile
+- Enterprise
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/digital-defence/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: http://digital-defence.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

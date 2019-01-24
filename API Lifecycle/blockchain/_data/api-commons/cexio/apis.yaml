@@ -1,0 +1,25 @@
+name: CEX.IO
+description: Established in London in 2013, the leading cryptocurrency exchange offers
+  Bitcoin, Bitcoin Cash, Bitcoin Gold, Ethereum, Zcash, Dash and other trading options,
+  provides 24/7 customer support, high level of security, and stable deposits and
+  withdrawals.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26516-cex-io.jpg
+tags:
+- Technology
+- Marketplace
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/cexio/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: http://bit2c.co.il
+- type: x-website
+  url: http://cex.io
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

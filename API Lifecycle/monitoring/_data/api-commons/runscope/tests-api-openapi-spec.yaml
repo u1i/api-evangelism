@@ -1,0 +1,60 @@
+swagger: "2.0"
+info:
+  title: Tests API
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /buckets/{bucket_key}/tests:
+    get:
+      summary: Test List
+      description: A list of all the tests for this bucket.
+      operationId: test-list
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    post:
+      summary: Creating Tests
+      description: Create one or more tests in this bucket.
+      operationId: creating-tests
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /buckets/{bucket_key}/tests/{test_id}:
+    delete:
+      summary: Deleting Tests
+      description: Delete a test, including all steps, schedules, test-specific environments
+        and results.
+      operationId: deleting-tests
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    get:
+      summary: Test Detail
+      description: Retrieve the details of a given test by ID.
+      operationId: test-detail
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    put:
+      summary: Starting a Test Run
+      description: To programmatically initiate a test run, use a Trigger URL.
+      operationId: starting-a-test-run
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

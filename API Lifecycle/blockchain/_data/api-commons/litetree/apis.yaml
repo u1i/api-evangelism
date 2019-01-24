@@ -1,0 +1,29 @@
+name: LiteTree
+description: ""
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/2047_logo.png
+tags:
+- Sweden
+- Exchange
+- Currency
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/litetree/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-blog
+  url: http://blog.litetree.com/
+- type: x-blog-rss-feed
+  url: http://blog.litetree.com/rss
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/litetree
+- type: x-twitter
+  url: https://twitter.com/LiteTree
+- type: x-website
+  url: http://litetree.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

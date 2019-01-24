@@ -1,0 +1,36 @@
+swagger: "2.0"
+info:
+  title: Customer API
+  description: For managing customers
+  version: "1.0"
+host: whois.arin.net
+basePath: /rest
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /customers:
+    get:
+      summary: Manage customers
+      description: ""
+      operationId: customers
+      parameters:
+      - in: query
+        name: handle
+        description: the handle of the customer
+        type: string
+        format: string
+      - in: query
+        name: name
+        description: the name of the customer
+        type: string
+        format: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Customers
+definitions: []

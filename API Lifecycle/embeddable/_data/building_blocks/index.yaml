@@ -1,0 +1,119 @@
+- building_block_id: language-support
+  type: Embeddable
+  category: Overview
+  name: Language Support
+  description: Providing support for multiple languages across embeddable elements.
+  image: ''
+  tags: Embeddable
+- building_block_id: css-control
+  type: Embeddable
+  category: Overview
+  name: CSS Control
+  description: Providing support over CSS elements for embeddable elements.
+  image: ''
+  tags: Embeddable
+- building_block_id: analytics
+  type: Embeddable
+  category: Overview
+  name: Analytics
+  description: Providing analytics as part of the embeddable tooling operations.
+  image: ''
+  tags: Embeddable
+- building_block_id: widgets
+  type: Embeddable
+  category: Embeddable Tools
+  name: Widgets
+  description: >-
+    Widgets are highly functional, API is driven​ JavaScript tools that provide
+    portable applications that can be embedded on any website or application.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-widget.png
+  tags: 'Management,API Management Embeddable,Embeddable'
+- building_block_id: buttons
+  type: Embeddable
+  category: Embeddable Tools
+  name: Buttons
+  description: >-
+    Buttons are shareable snippets of code that often share, syndicate or
+    trigger a variety of events that use APIs as their source.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-power-button.png
+  tags: 'Management,API Management Embeddable,Embeddable'
+- building_block_id: badges
+  type: Embeddable
+  category: Embeddable Tools
+  name: Badges
+  description: >-
+    Badges are common for displaying content and resources delivered via an API
+    and allow these assets to be embedded on any website or application.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-badges.png
+  tags: 'Management,API Management Embeddable,Embeddable'
+- building_block_id: bookmarklet
+  type: Embeddable
+  category: Embeddable Tools
+  name: Bookmarklet
+  description: >-
+    A bookmarklet that can be added to the toolbar of a browser, and quickly
+    push data to an API.
+  image: ''
+  tags: Embeddable
+- building_block_id: login-button
+  type: Embeddable
+  category: Embeddable Tools
+  name: Login Button
+  description: Providing a single click button for logging into system.
+  image: ''
+  tags: Embeddable
+- building_block_id: intents
+  type: Embeddable
+  category: Embeddable Tools
+  name: Intents
+  description: >-
+    providing the ability to easily make a single, or orchestrate several API
+    calls -- fulfilling a single intent.
+  image: ''
+  tags: Embeddable
+- building_block_id: widget-builder
+  type: Embeddable
+  category: Embed Engines
+  name: Widget Builder
+  description: >-
+    A widget builder provides a form that API consumers can use to configure a
+    predefined widget that is integrated with an API, allowing them to customize
+    and tailor the widget experience.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-embeddable.png
+  tags: 'Management,API Management Embeddable,Embeddable'
+- building_block_id: javascript-api
+  type: Embeddable
+  category: Embed Engines
+  name: JavaScript API
+  description: >-
+    A complete JavaScript API that developers can use to build and manage their
+    own JavaScript integrations with an APIs resources, beyond existing widgets.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-javascript-api.png
+  tags: 'Management,API Management Embeddable,Embeddable'
+- building_block_id: open-graph-protocol
+  type: Embeddable
+  category: Embed Formats
+  name: Open Graph Protocol
+  description: >-
+    The Open Graph protocol enables any web page to become a rich object in a
+    social graph, by embedding of simple tags in the pages header that describe
+    objects.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/open-graph-logo.png
+  tags: 'Embeddable,Facebook,Embeddable'
+- building_block_id: oembed
+  type: Embeddable
+  category: Embed Formats
+  name: oEmbed
+  description: >-
+    Format for allowing an embedded representation of a URL on third party sites
+    to display embedded content (such as photos or videos) when a user posts a
+    link to that resource.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/oembed-logo.png
+  tags: 'Embeddable,Embeddable'

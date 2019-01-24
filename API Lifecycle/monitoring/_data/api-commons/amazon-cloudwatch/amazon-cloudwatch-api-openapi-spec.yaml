@@ -1,0 +1,296 @@
+swagger: "2.0"
+info:
+  title: Amazon CloudWatch API
+  description: The Amazon CloudWatch API.
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  ?Action=DeleteAlarms&k=1:
+    get:
+      summary: DeleteAlarms
+      description: ""
+      operationId: deletealarms
+      parameters:
+      - in: query
+        name: DeleteAlarms
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  ?Action=DescribeAlarmHistory&k=1:
+    get:
+      summary: DescribeAlarmHistory
+      description: ""
+      operationId: describealarmhistory
+      parameters:
+      - in: query
+        name: DescribeAlarmHistory
+        type: string
+      - in: query
+        name: EndDate
+        type: string
+      - in: query
+        name: HistoryItemType
+        type: string
+      - in: query
+        name: MaxRecords
+        type: string
+      - in: query
+        name: NextToken
+        type: string
+      - in: query
+        name: StartDate
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  ?Action=DescribeAlarms&k=1:
+    get:
+      summary: DescribeAlarms
+      description: ""
+      operationId: describealarms
+      parameters:
+      - in: query
+        name: ActionPrefix
+        type: string
+      - in: query
+        name: AlarmNamePrefix
+        type: string
+      - in: query
+        name: DescribeAlarms
+        type: string
+      - in: query
+        name: MaxRecords
+        type: string
+      - in: query
+        name: NextToken
+        type: string
+      - in: query
+        name: StateValue
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  ?Action=DescribeAlarmsForMetric&k=1:
+    get:
+      summary: DescribeAlarmsForMetric
+      description: ""
+      operationId: describealarmsformetric
+      parameters:
+      - in: query
+        name: DescribeAlarmsForMetric
+        type: string
+      - in: query
+        name: Dimensions
+        type: string
+      - in: query
+        name: Namespace
+        type: string
+      - in: query
+        name: Period
+        type: string
+      - in: query
+        name: Statistic
+        type: string
+      - in: query
+        name: Unit
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  ?Action=DisableAlarmActions&k=1:
+    get:
+      summary: DisableAlarmActions
+      description: ""
+      operationId: disablealarmactions
+      parameters:
+      - in: query
+        name: DisableAlarmActions
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  ?Action=EnableAlarmActions&k=1:
+    get:
+      summary: EnableAlarmActions
+      description: ""
+      operationId: enablealarmactions
+      parameters:
+      - in: query
+        name: EnableAlarmActions
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  ?Action=GetMetricStatistics&k=1:
+    get:
+      summary: GetMetricStatistics
+      description: ""
+      operationId: getmetricstatistics
+      parameters:
+      - in: query
+        name: Dimensions
+        type: string
+      - in: query
+        name: EndTime
+        type: string
+      - in: query
+        name: GetMetricStatistics
+        type: string
+      - in: query
+        name: MetricName
+        type: string
+      - in: query
+        name: Period
+        type: string
+      - in: query
+        name: StartTime
+        type: string
+      - in: query
+        name: Statistics
+        type: string
+      - in: query
+        name: Unit
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  ?Action=ListMetrics&k=1:
+    get:
+      summary: ListMetrics
+      description: ""
+      operationId: listmetrics
+      parameters:
+      - in: query
+        name: Dimensions
+        type: string
+      - in: query
+        name: ListMetrics
+        type: string
+      - in: query
+        name: MetricName
+        type: string
+      - in: query
+        name: NextToken
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  ?Action=PutMetricAlarm&k=1:
+    get:
+      summary: PutMetricAlarm
+      description: ""
+      operationId: putmetricalarm
+      parameters:
+      - in: query
+        name: ActionsEnabled
+        type: string
+      - in: query
+        name: AlarmActions
+        type: string
+      - in: query
+        name: AlarmDescription
+        type: string
+      - in: query
+        name: ComparisonOperator
+        type: string
+      - in: query
+        name: Dimensions
+        type: string
+      - in: query
+        name: EvaluationPeriods
+        type: string
+      - in: query
+        name: InsufficientDataActions
+        type: string
+      - in: query
+        name: MetricName
+        type: string
+      - in: query
+        name: Namespace
+        type: string
+      - in: query
+        name: OKActions
+        type: string
+      - in: query
+        name: Period
+        type: string
+      - in: query
+        name: PutMetricAlarm
+        type: string
+      - in: query
+        name: Statistic
+        type: string
+      - in: query
+        name: Threshold
+        type: string
+      - in: query
+        name: Unit
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  ?Action=PutMetricData&k=1:
+    get:
+      summary: PutMetricData
+      description: ""
+      operationId: putmetricdata
+      parameters:
+      - in: query
+        name: MetricData
+        type: string
+      - in: query
+        name: PutMetricData
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  ?Action=SetAlarmState&k=1:
+    get:
+      summary: SetAlarmState
+      description: ""
+      operationId: setalarmstate
+      parameters:
+      - in: query
+        name: SetAlarmState
+        type: string
+      - in: query
+        name: StateReason
+        type: string
+      - in: query
+        name: StateReasonData
+        type: string
+      - in: query
+        name: StateValue
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

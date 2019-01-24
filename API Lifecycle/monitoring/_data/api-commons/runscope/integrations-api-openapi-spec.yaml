@@ -1,0 +1,26 @@
+swagger: "2.0"
+info:
+  title: Integrations API
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /teams/{teamId}/integrations:
+    get:
+      summary: Team integrations list
+      description: Returns a list of integrations configured for the team.
+      operationId: returns-a-list-of-integrations-configured-for-the-team
+      parameters:
+      - in: path
+        name: teamId
+        description: Unique identifier for team
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

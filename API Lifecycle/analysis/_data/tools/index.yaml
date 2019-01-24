@@ -1,0 +1,102 @@
+---
+- slug: googleanalytics
+  name: google-analytics
+  description: A command-line interface and Python API wrapper for Google Analytics.
+  url: https://github.com/debrouwere/google-analytics
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Command Line Interface,Analysis
+- slug: brubeck
+  name: brubeck
+  description: A Statsd-compatible metrics aggregator
+  url: https://github.com/github/brubeck
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Analysis
+- slug: apimetrics
+  name: APIMetrics
+  description: APimetrics is an API Monitoring solution for developers, enterprises
+    and anybody interested in tracking what is happening with the 3rd party APIs their
+    apps and services rely on. &nbsp;If you are a developer, apply now for early access.
+    &nbsp;If you are with a company that has an API, contact us to discuss private
+    monitoring services.
+  url: http://apimetrics.io/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/APImetrics-logo.png
+  tags: Metrics,Analysis
+- slug: opendnsfetchstats
+  name: opendns-fetchstats
+  description: Automatically fetch your OpenDNS Top Domains data
+  url: https://github.com/opendns/opendns-fetchstats
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: DNS,Analysis
+- slug: graphite
+  name: Graphite
+  description: Graphite is a highly scalable real-time graphing system. As a user,
+    you write an application that collects numeric time-series data that you are interested
+    in graphing, and send it to Graphite's processing backend, carbon, which stores
+    the data in Graphite's specialized database. The data can then be visualized through
+    graphite's web interfaces.
+  url: http://graphite.wikidot.com/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/graphite-logo.png
+  tags: Analysis,Statistics,Tracking,Metrics,Measurement
+- slug: piwik
+  name: piwik
+  description: Liberating Web Analytics. Star us on Github? +1. Piwik is the leading
+    open alternative to Google Analytics that gives you full control over your data.
+    Piwik lets you easily collect data from websites, apps & the IoT and visualise
+    this data and extract insights. Privacy is built-in. We love Pull Requests!
+  url: https://github.com/piwik/piwik
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Analysis
+- slug: analyticssplunkapp
+  name: analytics-splunk-app
+  description: Splunk App to gather insights from your Chef infrastructure via Chef
+    Analytics.
+  url: https://github.com/chef/analytics-splunk-app
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: Analysis,Orchestration
+- slug: dnssecanalysis
+  name: dnssec-analysis
+  description: tools for analyzing dnssec
+  url: https://github.com/dotse/dnssec-analysis
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  tags: DNS,Analysis
+...

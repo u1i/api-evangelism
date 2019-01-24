@@ -1,0 +1,22 @@
+name: Tux Exchange
+description: TUXexchange.com Is A New Cryptocurrency BTC/Altcoin Exchange!!  We offer
+  a blazing fast engine and interface that brings an enlightening experience to trading.   We
+  are a registered company operating in Canada   (With help from around the world.Thanks
+  ...
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26476-tux-exchange.jpg
+tags:
+- Technology
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/tux-exchange/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: https://tuxexchange.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

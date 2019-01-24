@@ -1,0 +1,33 @@
+- slug: jekyll
+  name: Jekyll
+  description: ':globe_with_meridians: Jekyll is a blog-aware, static site generator in Ruby'
+  url: 'https://github.com/jekyll/jekyll'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Communications,Blogging'
+- slug: letterpress
+  name: Letterpress
+  description: 'A minimal, Markdown based blogging system written in Python.'
+  url: 'https://github.com/an0/Letterpress'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Blogging,Communications'
+- slug: ghost
+  name: Ghost
+  description: Just a blogging platform
+  url: 'https://github.com/TryGhost/Ghost'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Blogging,Communications'

@@ -1,0 +1,22 @@
+name: Bitcoin Foundation
+description: Theu00a0Bitcoin Foundationu00a0is a nonprofit organization aiming to
+  make Bitcoin a globally accepted method of exchanging and storing value without
+  third parties.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26430-bitcoin-foundation.jpg
+tags:
+- Marketplace
+- internet
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/bitcoin-foundation/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: http://bitcoinfoundation.org
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

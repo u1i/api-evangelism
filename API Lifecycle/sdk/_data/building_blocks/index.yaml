@@ -1,0 +1,352 @@
+- building_block_id: overview
+  type: SDK
+  category: Overview
+  name: Overview
+  description: 'Providing a single page with overview of samples, libraries, or SDKs.'
+  image: ''
+  tags: SDK
+- building_block_id: beta
+  type: SDK
+  category: Overview
+  name: Beta
+  description: 'Provide a beta program as part of language, mobile, or platform SDKs.'
+  image: ''
+  tags: SDK
+- building_block_id: crash-reporting
+  type: SDK
+  category: Overview
+  name: Crash Reporting
+  description: >-
+    Provide tooling and services to assist with crash reporting within language,
+    mobile, or platform SDKs.
+  image: ''
+  tags: SDK
+- building_block_id: cold-fusion
+  type: SDK
+  category: Language Samples
+  name: Cold Fusion
+  description: >-
+    An simple sample, for a specific API, available in the ColdFusion
+    programming language, with consideration specifically tailored for the
+    language.
+  image: ''
+  tags: SDK
+- building_block_id: php
+  type: SDK
+  category: Language SDKs
+  name: PHP
+  description: >-
+    An SDK available in the PHP programming language, with consideration
+    specifically tailored for the language.
+  image: ''
+  tags: SDK
+- building_block_id: python
+  type: SDK
+  category: Language SDKs
+  name: Python
+  description: >-
+    An SDK available in the Python programming language, with consideration
+    specifically tailored for the language.
+  image: ''
+  tags: SDK
+- building_block_id: ruby
+  type: SDK
+  category: Language SDKs
+  name: Ruby
+  description: >-
+    An SDK available in the Ruby programming language, with consideration
+    specifically tailored for the language.
+  image: ''
+  tags: SDK
+- building_block_id: node.js
+  type: SDK
+  category: Language SDKs
+  name: Node.js
+  description: >-
+    An SDK available in the Node.js programming language, with consideration
+    specifically tailored for the language.
+  image: ''
+  tags: SDK
+- building_block_id: c-sharp
+  type: SDK
+  category: Language SDKs
+  name: C Sharp
+  description: >-
+    An SDK available in the C Sharp / C# programming language, with
+    consideration specifically tailored for the language.
+  image: ''
+  tags: SDK
+- building_block_id: java
+  type: SDK
+  category: Language SDKs
+  name: Java
+  description: >-
+    An SDK available in the Java programming language, with consideration
+    specifically tailored for the language.
+  image: ''
+  tags: SDK
+- building_block_id: go
+  type: SDK
+  category: Language SDKs
+  name: Go
+  description: >-
+    An SDK available in the Go programming language, with consideration
+    specifically tailored for the language.
+  image: ''
+  tags: SDK
+- building_block_id: scala
+  type: SDK
+  category: Language SDKs
+  name: Scala
+  description: >-
+    An SDK available in the Scala programming language, with consideration
+    specifically tailored for the language.
+  image: ''
+  tags: SDK
+- building_block_id: mobile-overview
+  type: SDK
+  category: Mobile Solutions
+  name: Mobile Overview
+  description: >-
+    An overview page, dedicated to mobile application development, giving equal
+    time to each platform, including iOS, Android, and Windows.
+  image: ''
+  tags: 'Management,SDK'
+- building_block_id: ios-sdk
+  type: SDK
+  category: Mobile Solutions
+  name: iOS SDK
+  description: >-
+    Providing mobile-focused SDKs for developers to build IOS mobile
+    applications on top of an API.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-iphone.png
+  tags: 'Management,SDK'
+- building_block_id: android-sdk
+  type: SDK
+  category: Mobile Solutions
+  name: Android SDK
+  description: >-
+    Providing mobile focused SDKs for developers to build Android mobile
+    applications on top of an API.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-android.jpg
+  tags: 'Management,SDK'
+- building_block_id: html5
+  type: SDK
+  category: Mobile Solutions
+  name: HTML5
+  description: >-
+    Providing mobile focused SDKs for developers to build HTML5 mobile
+    applications on top of an API.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-html5.png
+  tags: 'Management,SDK'
+- building_block_id: appery.io
+  type: SDK
+  category: Mobile Solutions
+  name: Appery.io
+  description: >-
+    Providing mobile focused SDKs for developers to build mobile applications on
+    top of an API, using Appery.io.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-appery.png
+  tags: 'Management,SDK'
+- building_block_id: windows-mobile-sdk
+  type: SDK
+  category: Mobile Solutions
+  name: Windows Mobile SDK
+  description: >-
+    Providing mobile focused SDKs for developers to build Windows mobile
+    applications on top of an API.
+  image: ''
+  tags: 'Management,SDK'
+- building_block_id: wordpress
+  type: SDK
+  category: Platform Development Kits (PDK)
+  name: Wordpress
+  description: >-
+    Providing ready to go WordPress integration, allowing developers, and
+    sometimes even non-developers to immediately put an API to use through their
+    WordPress site(s).
+  image: ''
+  tags: 'Management,SDK'
+- building_block_id: heroku
+  type: SDK
+  category: Platform Development Kits (PDK)
+  name: Heroku
+  description: >-
+    Providing ready to go Heroku integration, allowing developers, and sometimes
+    even non-developers to immediately put an API to use through their Heroku
+    platform account.
+  image: ''
+  tags: 'Management,SDK'
+- building_block_id: drupal
+  type: SDK
+  category: Platform Development Kits (PDK)
+  name: Drupal
+  description: >-
+    Providing ready to go Drupal integration, allowing developers, and sometimes
+    even non-developers to immediately put an API to use through their Drupal
+    site(s).
+  image: ''
+  tags: 'Management,SDK'
+- building_block_id: salesforce
+  type: SDK
+  category: Platform Development Kits (PDK)
+  name: SalesForce
+  description: >-
+    Providing ready to go SalesForce integration, allowing developers, and
+    sometimes even non-developers to immediately put an API to use through their
+    SalesForce account.
+  image: ''
+  tags: 'Management,SDK'
+- building_block_id: joomla
+  type: SDK
+  category: Platform Development Kits (PDK)
+  name: Joomla
+  description: >-
+    Providing ready to go Joomla integration, allowing developers, and sometimes
+    even non-developers to immediately put an API to use through their Joomla
+    account.
+  image: ''
+  tags: 'Management,SDK'
+- building_block_id: google-app-engine
+  type: SDK
+  category: Platform Development Kits (PDK)
+  name: Google App Engine
+  description: >-
+    Providing ready to go Google App Engine integration, allowing developers,
+    and sometimes even non-developers to immediately put an API to use through
+    the Google Cloud platform.
+  image: ''
+  tags: 'Management,SDK'
+- building_block_id: angular.js
+  type: SDK
+  category: Single Page Applications (SPA)
+  name: Angular.js
+  description: >-
+    Providing developers with AngularJS framework integration, allowing them to
+    build single page applications using API resources.
+  image: ''
+  tags: 'Management,SDK'
+- building_block_id: react.js
+  type: SDK
+  category: Single Page Applications (SPA)
+  name: React.js
+  description: >-
+    Providing developers with React.js framework integration, allowing them to
+    build single page applications using API resources.
+  image: ''
+  tags: SDK
+- building_block_id: chrome-extension
+  type: SDK
+  category: Browser Development Kits (BDK)
+  name: Chrome Extension
+  description: >-
+    Providing ready to go Google Chrome browser integration, allowing
+    developers, and sometimes even non-developers to immediately put an API to
+    use in their browser, with a Google Chrome extension.
+  image: ''
+  tags: 'Management,SDK'
+- building_block_id: firefox-addon
+  type: SDK
+  category: Browser Development Kits (BDK)
+  name: Firefox Add-On
+  description: >-
+    Providing ready to go Mozilla Firefox browser integration, allowing
+    developers, and sometimes even non-developers to immediately put an API to
+    use in their browser, with a Mozilla Firefox add-on.
+  image: ''
+  tags: 'Management,SDK'
+- building_block_id: advertising-development-kit-adk
+  type: SDK
+  category: Monetization Development Kit (MDK)
+  name: Advertising Development Kit (ADK)
+  description: >-
+    Providing a toolkit for integrating advertising opportunities directly into
+    language, mobile, and platform development kits.
+  image: ''
+  tags: SDK
+- building_block_id: list-sdk
+  type: SDK
+  category: Discovery
+  name: List SDK
+  description: >-
+    Are SDKs listed in an easy to find location, where developers can browse
+    them easily? A simple list goes a long way in making them found.
+  image: ''
+  tags: SDK
+- building_block_id: search-sdk
+  type: SDK
+  category: Discovery
+  name: Search SDK
+  description: >-
+    Is there the ability to search for SDKs, using a single index dedicated to
+    them, or possibly using Github's already available search mechanisms.
+  image: ''
+  tags: SDK
+- building_block_id: browse-sdk
+  type: SDK
+  category: Discovery
+  name: Browse SDK
+  description: >-
+    Is there a browseable directory of SDKs, that developers can use to find the
+    SDK that they need? Potentially giving more information than just a listing.
+  image: ''
+  tags: SDK
+- building_block_id: rating
+  type: SDK
+  category: Discovery
+  name: Rating
+  description: >-
+    Are SDKs rated, allowing for various quality considerations around their
+    value and usage in other API integrations, allowing developers to find the
+    best SDKs possible.
+  image: ''
+  tags: SDK
+- building_block_id: import-openapi-spec
+  type: SDK
+  category: Import / Export
+  name: Import OpenAPI Spec
+  description: >-
+    Allow for importing of API definitions using OpenAPI specification format,
+    for generation of SDKs.
+  image: ''
+  tags: SDK
+- building_block_id: import-raml
+  type: SDK
+  category: Import / Export
+  name: Import RAML
+  description: >-
+    Allow for importing of API definitions using RAML format, for generation of
+    SDKs.
+  image: ''
+  tags: SDK
+- building_block_id: import-api-blueprint
+  type: SDK
+  category: Import / Export
+  name: Import API Blueprint
+  description: >-
+    Allow for importing of API definitions using API Blueprint format, for
+    generation of SDKs.
+  image: ''
+  tags: SDK
+- building_block_id: import-wadl
+  type: SDK
+  category: Import / Export
+  name: Import WADL
+  description: >-
+    Allow for importing of API definitions using WADL format, for generation of
+    SDKs.
+  image: ''
+  tags: SDK
+- building_block_id: import-postman
+  type: SDK
+  category: Import / Export
+  name: Import Postman
+  description: >-
+    Allow for importing of API definitions using Postman format, for generation
+    of SDKs.
+  image: ''
+  tags: SDK

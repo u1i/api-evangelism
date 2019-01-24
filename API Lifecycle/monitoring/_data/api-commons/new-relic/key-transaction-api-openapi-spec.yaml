@@ -1,0 +1,120 @@
+swagger: "2.0"
+info:
+  title: Key Transaction API
+  description: The Key Transaction API.
+  version: 1.0.0
+host: api.newrelic.com
+basePath: /
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /v2/key_transactions.{format}:
+    get:
+      summary: List
+      description: <p>This API endpoint returns a <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/pagination-api-output
+        target=_blank>paginated</a> list of the key transactions associated with your
+        New Relic account.  The time range for summary data is the last 10 minutes.</p><p>Key
+        transactions can be filtered by their name or list of IDs.</p><p>See our documentation
+        for a discussion of <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/application-examples-v2/summary-data-examples-v2
+        target=_blank>summary data output</a>.</p>
+      operationId: list
+      parameters:
+      - in: query
+        name: filter[ids]
+        description: Filter by policy IDs
+        type: list
+      - in: query
+        name: filter[name]
+        description: Filter by name
+        type: string
+      - in: query
+        name: page
+        description: Pagination index
+        type: integer
+      responses:
+        200:
+          description: OK
+      tags:
+      - Key Transaction
+  /v2/key_transactions/{id}.{format}:
+    get:
+      summary: Show
+      description: <p>This endpoint returns a single key transaction, identified by
+        ID. The time range for summary data is the last 10 minutes.</p><p>See our
+        documentation for a discussion of <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/application-examples-v2/summary-data-examples-v2
+        target=_blank>summary data output</a>.</p>
+      operationId: show
+      parameters:
+      - in: path
+        name: id
+        description: Key transaction ID
+        type: integer
+      responses:
+        200:
+          description: OK
+      tags:
+      - Key Transaction
+definitions:
+  "":
+    properties:
+      key_transaction:
+        description: This is a default description.
+        type: GET
+      id:
+        description: This is a default description.
+        type: GET
+      name:
+        description: This is a default description.
+        type: GET
+      transaction_name:
+        description: This is a default description.
+        type: GET
+      health_status:
+        description: This is a default description.
+        type: GET
+      reporting:
+        description: This is a default description.
+        type: GET
+      last_reported_at:
+        description: This is a default description.
+        type: GET
+      application_summary:
+        description: This is a default description.
+        type: GET
+      end_user_summary:
+        description: This is a default description.
+        type: GET
+      links:
+        description: This is a default description.
+        type: GET
+      response_time:
+        description: This is a default description.
+        type: GET
+      throughput:
+        description: This is a default description.
+        type: GET
+      error_rate:
+        description: This is a default description.
+        type: GET
+      apdex_target:
+        description: This is a default description.
+        type: GET
+      apdex_score:
+        description: This is a default description.
+        type: GET
+      host_count:
+        description: This is a default description.
+        type: GET
+      instance_count:
+        description: This is a default description.
+        type: GET
+      concurrent_instance_count:
+        description: This is a default description.
+        type: GET
+      application:
+        description: This is a default description.
+        type: GET

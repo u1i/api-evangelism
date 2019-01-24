@@ -1,0 +1,248 @@
+swagger: "2.0"
+info:
+  title: Application Instance API
+  description: The Application Instance API.
+  version: 1.0.0
+host: api.newrelic.com
+basePath: /
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /v2/applications/{application_id}/instances.{format}:
+    get:
+      summary: List
+      description: <p>This API endpoint returns a <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/pagination-api-output
+        target=_blank>paginated</a> list of instances associated with the given application.
+        The time range for summary data is the last 10 minutes.</p><p>Application
+        instances can be filtered by hostname, or the list of application instance
+        IDs.</p><p>See our documentation for a discussion and examples ofusing <a
+        href=https://docs.newrelic.com/docs/apis/rest-api-v2/application-examples-v2/list-application-specific-server-host-instance-ids
+        target=_blank> filters </a>and <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/application-examples-v2/summary-data-examples-v2
+        target=_blank>summary data output</a>.</p>
+      operationId: list
+      parameters:
+      - in: path
+        name: application_id
+        description: Application ID
+        type: integer
+      - in: query
+        name: filter[hostname]
+        description: Filter by server hostname
+        type: string
+      - in: query
+        name: filter[ids]
+        description: Filter by application instance ids
+        type: list
+      - in: query
+        name: page
+        description: Pagination index
+        type: integer
+      responses:
+        200:
+          description: OK
+      tags:
+      - Application Instance
+  /v2/applications/{application_id}/instances/{id}.{format}:
+    get:
+      summary: Show
+      description: <p>This API endpoint returns a single application instance, identified
+        by ID. The time range for summary data is the last 10 minutes.</p><p>See our
+        documentation for a discussion of <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/application-examples-v2/summary-data-examples-v2
+        target=_blank>summary data output</a>.</p>
+      operationId: show
+      parameters:
+      - in: path
+        name: application_id
+        description: Application ID
+        type: integer
+      - in: path
+        name: id
+        description: Application instance ID
+        type: integer
+      responses:
+        200:
+          description: OK
+      tags:
+      - Application Instance
+  /v2/applications/{application_id}/instances/{instance_id}/metrics.{format}:
+    get:
+      summary: Metric Names
+      description: <p>Return a list of known metrics and their value names for the
+        given resource.</p><p>See our documentation for a discussionon <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/pagination-api-output
+        target=_blank> output pagination</a>and for examples of <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/new-relic-rest-api-v2-getting-started#examples
+        target=_blank>requesting and using metric values</a>.</p>
+      operationId: names
+      parameters:
+      - in: path
+        name: application_id
+        description: Application ID
+        type: integer
+      - in: query
+        name: cursor
+        description: Cursor for next page (replacing page param)
+        type: string
+      - in: path
+        name: instance_id
+        description: Application Instance ID
+        type: integer
+      - in: query
+        name: name
+        description: Filter metrics by name
+        type: string
+      - in: query
+        name: page
+        description: Pagination index (will be deprecated)
+        type: integer
+      responses:
+        200:
+          description: OK
+      tags:
+      - Application Instance
+  /v2/applications/{application_id}/instances/{instance_id}/metrics/data.{format}:
+    get:
+      summary: Metric Data
+      description: <p>This API endpoint returns a list of values for each of the requested
+        metrics. The list of available metricscan be returned using the Metric Name
+        API endpoint.</p><p>Metric data can be filtered by a number of parameters,
+        including multiple names and values, and by time range.Metric names and values
+        will be matched intelligently in the background.</p><p>You can also retrieve
+        a summarized data point across the entire time range selected by using the
+        summarizeparameter.</p><p>See our documentation for a discussion on <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/pagination-api-output
+        target=_blank>output pagination</a>, <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/extracting-metric-data
+        target=_blank> time range</a> related considerations, and for examples of
+        <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/new-relic-rest-api-v2-getting-started#examples
+        target=_blank>requesting and using metric values</a>.</p>
+      operationId: data
+      parameters:
+      - in: path
+        name: application_id
+        description: Application ID
+        type: integer
+      - in: query
+        name: from
+        description: Retrieve metrics after this time
+        type: time
+      - in: path
+        name: instance_id
+        description: Application Instance ID
+        type: integer
+      - in: query
+        name: names
+        description: Retrieve specific metrics by name
+        type: array
+      - in: query
+        name: period
+        description: Period of timeslices in seconds
+        type: integer
+      - in: query
+        name: raw
+        description: Return unformatted raw values
+        type: boolean
+      - in: query
+        name: summarize
+        description: Summarize the data
+        type: boolean
+      - in: query
+        name: to
+        description: Retrieve metrics before this time
+        type: time
+      - in: query
+        name: values
+        description: Retrieve specific metric values
+        type: array
+      responses:
+        200:
+          description: OK
+      tags:
+      - Application Instance
+definitions:
+  "":
+    properties:
+      application_instance:
+        description: This is a default description.
+        type: GET
+      id:
+        description: This is a default description.
+        type: GET
+      application_name:
+        description: This is a default description.
+        type: GET
+      host:
+        description: This is a default description.
+        type: GET
+      port:
+        description: This is a default description.
+        type: GET
+      language:
+        description: This is a default description.
+        type: GET
+      health_status:
+        description: This is a default description.
+        type: GET
+      application_summary:
+        description: This is a default description.
+        type: GET
+      end_user_summary:
+        description: This is a default description.
+        type: GET
+      links:
+        description: This is a default description.
+        type: GET
+      response_time:
+        description: This is a default description.
+        type: GET
+      throughput:
+        description: This is a default description.
+        type: GET
+      error_rate:
+        description: This is a default description.
+        type: GET
+      apdex_score:
+        description: This is a default description.
+        type: GET
+      instance_count:
+        description: This is a default description.
+        type: GET
+      application:
+        description: This is a default description.
+        type: GET
+      application_host:
+        description: This is a default description.
+        type: GET
+      server:
+        description: This is a default description.
+        type: GET
+      metric:
+        description: This is a default description.
+        type: GET
+      name:
+        description: This is a default description.
+        type: GET
+      values:
+        description: This is a default description.
+        type: GET
+      metric_data:
+        description: This is a default description.
+        type: GET
+      from:
+        description: This is a default description.
+        type: GET
+      to:
+        description: This is a default description.
+        type: GET
+      metrics_not_found:
+        description: This is a default description.
+        type: GET
+      metrics_found:
+        description: This is a default description.
+        type: GET
+      metrics:
+        description: This is a default description.
+        type: GET
+      timeslices:
+        description: This is a default description.
+        type: GET

@@ -1,0 +1,185 @@
+swagger: "2.0"
+info:
+  title: Teams API
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /teams:
+    get:
+      summary: List teams
+      description: List teams of your PagerDuty account, optionally filtered by a
+        search query.
+      operationId: list-teams-of-your-pagerduty-account-optionally-filtered-by-a-search-query
+      parameters:
+      - in: query
+        name: query
+        description: Filters the result, showing only the teams whose names or email
+          addresses match the query.
+      responses:
+        200:
+          description: OK
+      tags:
+      - Teams
+    post:
+      summary: Create a team
+      description: Create a new team.
+      operationId: create-a-new-team
+      parameters:
+      - in: body
+        name: team
+        description: The team to be created.
+        schema:
+          $ref: '#/definitions/holder'
+      responses:
+        200:
+          description: OK
+      tags:
+      - Teams
+    x-description:
+      summary: L
+      description: L
+      operationId: L
+      responses:
+        200:
+          description: OK
+      tags:
+      - Teams
+  /teams/{id}:
+    delete:
+      summary: Delete a team
+      description: Remove an existing team.
+      operationId: remove-an-existing-team
+      parameters:
+      - in: query
+        name: No Name
+      responses:
+        200:
+          description: OK
+      tags:
+      - Teams
+    get:
+      summary: Get a team
+      description: Get details about an existing team.
+      operationId: get-details-about-an-existing-team
+      parameters:
+      - in: query
+        name: No Name
+      responses:
+        200:
+          description: OK
+      tags:
+      - Teams
+    put:
+      summary: Update a team
+      description: Update an existing team.
+      operationId: update-an-existing-team
+      parameters:
+      - in: query
+        name: No Name
+      - in: body
+        name: team
+        description: The team to be updated.
+        schema:
+          $ref: '#/definitions/holder'
+      responses:
+        200:
+          description: OK
+      tags:
+      - Teams
+    x-description:
+      summary: M
+      description: M
+      operationId: M
+      responses:
+        200:
+          description: OK
+      tags:
+      - Teams
+  /teams/{id}/escalation_policies/{escalation_policy_id}:
+    delete:
+      summary: Remove an escalation policy from a team
+      description: Remove an escalation policy from a team.
+      operationId: remove-an-escalation-policy-from-a-team
+      parameters:
+      - in: query
+        name: No Name
+      responses:
+        200:
+          description: OK
+      tags:
+      - Team Escalation Policies
+    put:
+      summary: Add an escalation policy to a team
+      description: Add an escalation policy to a team.
+      operationId: add-an-escalation-policy-to-a-team
+      parameters:
+      - in: query
+        name: No Name
+      responses:
+        200:
+          description: OK
+      tags:
+      - Team Escalation Policies
+    x-description:
+      summary: M
+      description: M
+      operationId: M
+      responses:
+        200:
+          description: OK
+      tags:
+      - Team Escalation Policies
+  /teams/{id}/users/{user_id}:
+    delete:
+      summary: Remove a user from a team
+      description: Remove a user from a team.
+      operationId: remove-a-user-from-a-team
+      parameters:
+      - in: query
+        name: No Name
+      responses:
+        200:
+          description: OK
+      tags:
+      - Team Users
+    put:
+      summary: Add a user to a team
+      description: Add a user to a team.
+      operationId: add-a-user-to-a-team
+      parameters:
+      - in: query
+        name: No Name
+      responses:
+        200:
+          description: OK
+      tags:
+      - Team Users
+    x-description:
+      summary: M
+      description: M
+      operationId: M
+      responses:
+        200:
+          description: OK
+      tags:
+      - Team Users
+  /teams/{teamId}/people:
+    get:
+      summary: Teams Resource
+      description: List people and integrations associated with a given team.
+      operationId: list-people-and-integrations-associated-with-a-given-team
+      parameters:
+      - in: path
+        name: teamId
+        description: Unique identifier for team
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

@@ -1,0 +1,107 @@
+swagger: "2.0"
+info:
+  title: Users API
+  description: The Users API.
+  version: 1.0.0
+host: api.newrelic.com
+basePath: /
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /v2/users.{format}:
+    get:
+      summary: List
+      description: <p>Show a <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/pagination-api-output
+        target=_blank>paginated</a> list of all users.</p><p>Uers can be filtered
+        by their ids or email.</p>
+      operationId: list
+      parameters:
+      - in: query
+        name: filter[email]
+        description: Filter by user email
+        type: string
+      - in: query
+        name: filter[ids]
+        description: Filter by user IDs
+        type: list
+      - in: query
+        name: page
+        type: integer
+      responses:
+        200:
+          description: OK
+      tags:
+      - Users
+  /v2/users/{id}.{format}:
+    get:
+      summary: Show
+      description: <p>This API endpoint returns a single user, identified by ID.</p>
+      operationId: show
+      parameters:
+      - in: path
+        name: id
+        description: User ID
+        type: integer
+      responses:
+        200:
+          description: OK
+      tags:
+      - Users
+  /v2/users/{id}/reset_password.{format}:
+    post:
+      summary: Reset password
+      description: <p>This API endpoints reset the user password, identified by ID</p>
+      operationId: reset_password
+      parameters:
+      - in: path
+        name: id
+        description: User ID
+        type: integer
+      responses:
+        200:
+          description: OK
+      tags:
+      - Users
+definitions:
+  "":
+    properties:
+      internal_account:
+        description: This is a default description.
+        type: POST
+      id:
+        description: This is a default description.
+        type: POST
+      email:
+        description: This is a default description.
+        type: POST
+      first_name:
+        description: This is a default description.
+        type: POST
+      last_name:
+        description: This is a default description.
+        type: POST
+      state:
+        description: This is a default description.
+        type: POST
+      activation_code:
+        description: This is a default description.
+        type: POST
+      activated_at:
+        description: This is a default description.
+        type: POST
+      is_newrelic_admin:
+        description: This is a default description.
+        type: POST
+      time_zone:
+        description: This is a default description.
+        type: POST
+      salesforce_id:
+        description: This is a default description.
+        type: POST
+      default_account_id:
+        description: This is a default description.
+        type: POST

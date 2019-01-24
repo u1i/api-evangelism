@@ -1,0 +1,96 @@
+swagger: "2.0"
+info:
+  title: Checks Command API
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  '/checks/command ':
+    ' post ':
+      summary: Checks Command
+      description: ttttCreates a new Command check.ttt
+      operationId: -checks-command-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checks Command
+  '/checks/command-v2 ':
+    ' post ':
+      summary: Checks Command V2
+      description: ttttCreates a new Command check (version 2).ttt
+      operationId: -checks-command-v2-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checks Command
+  '/checks/command-v2/categories ':
+    ' get ':
+      summary: Checks Command V2 Categories
+      description: ttttGets a list of all command check (version 2) categories that
+        are available for you as customer.ttt
+      operationId: -checks-command-v2-categories-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checks Command
+  '/checks/command-v2/locations?protocol={protocol} ':
+    ' get ':
+      summary: Checks Command V2 Locations?protocol={protocol}
+      description: ttttGets a list of all locations that are available for Command
+        checks (version 2).ttt
+      operationId: -checks-command-v2-locationsprotocolprotocol-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checks Command
+  '/checks/command-v2/{checkId} ':
+    ' put ':
+      summary: Checks Command V2 {checkId}
+      description: ttttUpdates a command check (version 2).ttt
+      operationId: -checks-command-v2-checkid-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checks Command
+  '/checks/command/categories ':
+    ' get ':
+      summary: Checks Command Categories
+      description: ttttGets a list of all command check categories that are available
+        for you as customer.ttt
+      operationId: -checks-command-categories-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checks Command
+  '/checks/command/locations ':
+    ' get ':
+      summary: Checks Command Locations
+      description: ttttGets a list of all locations that are available for Command
+        checks.ttt
+      operationId: -checks-command-locations-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checks Command
+  '/checks/command/{checkId} ':
+    ' put ':
+      summary: Checks Command {checkId}
+      description: ttttUpdates a command check.ttt
+      operationId: -checks-command-checkid-
+      responses:
+        200:
+          description: OK
+      tags:
+      - Checks Command
+definitions: []

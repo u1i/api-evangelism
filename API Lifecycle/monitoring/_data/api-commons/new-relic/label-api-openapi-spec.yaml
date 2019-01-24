@@ -1,0 +1,104 @@
+swagger: "2.0"
+info:
+  title: Label API
+  description: The Label API.
+  version: 1.0.0
+host: api.newrelic.com
+basePath: /
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /v2/labels.{format}:
+    get:
+      summary: List
+      description: <p>This API endpoint returns a <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/pagination-api-output
+        target=_blank>paginated</a> list of the labels available for the account.</p>
+      operationId: list
+      parameters:
+      - in: query
+        name: page
+        description: Pagination index
+        type: integer
+      responses:
+        200:
+          description: OK
+      tags:
+      - Label
+    put:
+      summary: Create
+      description: <p>This API endpoint will create a new label with the provided
+        category and name.</p><p>Include the application and server IDs to which the
+        label should be applied in the corresponding arrays.You may omit the u201clinksu201d
+        or u201cserversu201d arrays, if not needed.</p><p>See our documentation for
+        a discussion on obtaining <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/application-examples-v2/listing-your-app-id-metric-data-v2
+        target=_blank>application</a> and <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/server-examples-v2/list-your-server-id-metric-data-v2
+        target=_blank>server</a> IDs.</p>
+      operationId: create
+      parameters:
+      - in: body
+        name: label
+        description: Label schema
+        schema:
+          $ref: '#/definitions/holder'
+      responses:
+        200:
+          description: OK
+      tags:
+      - Label
+  /v2/labels/{key}.{format}:
+    delete:
+      summary: Delete
+      description: <p>When applications are provided, this endpoint will remove those
+        applications from the label.</p><p>When no applications are provided, this
+        endpoint will remove the label.</p>
+      operationId: delete
+      parameters:
+      - in: path
+        name: key
+        description: 'Label key. Example: Language:Java'
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Label
+definitions:
+  "":
+    properties:
+      label:
+        description: This is a default description.
+        type: DELETE
+      key:
+        description: This is a default description.
+        type: DELETE
+      category:
+        description: This is a default description.
+        type: DELETE
+      name:
+        description: This is a default description.
+        type: DELETE
+      origins:
+        description: This is a default description.
+        type: DELETE
+      links:
+        description: This is a default description.
+        type: DELETE
+      apm:
+        description: This is a default description.
+        type: DELETE
+      synthetics:
+        description: This is a default description.
+        type: DELETE
+      agents:
+        description: This is a default description.
+        type: DELETE
+      applications:
+        description: This is a default description.
+        type: DELETE
+      servers:
+        description: This is a default description.
+        type: DELETE

@@ -1,0 +1,622 @@
+---
+- curated_id: b1ae861d2d88ca390f93ca03310dc864
+  item_date: "2012-04-21 12:49:06"
+  title: Why Startups Need an API
+  url: https://tune.com/blog/startups-need-api/
+  domain: tune.com
+  image: ""
+- curated_id: //bGBXb9zpoqn9ZtXDBIwPbpB514GWQuMBx1K5Y+otc=_15c6c9a84e3:3aa784:958c2c7c
+  item_date: "2017-04-21 05:20:11"
+  title: Accepting Github Webhooks with Socket
+  url: https://medium.com/p/201fe5d467de
+  domain: medium.com
+  image: ""
+- curated_id: 2GQkS/v7f+5hIIfsg1a8GI5x8NHiP3RcTT0oELR+xBY=_15c216d272b:65cf13:acd33476
+  item_date: "2017-05-19 02:23:00"
+  title: Serverless Webhooks with Auth0 Extend
+  url: https://auth0.com/blog/serverless-webhooks-with-auth0-extend
+  domain: auth0.com
+  image: ""
+- curated_id: 2GQkS/v7f+5hIIfsg1a8GI5x8NHiP3RcTT0oELR+xBY=_15c3b960b03:5ca53:24c712f4
+  item_date: "2017-05-24 03:00:00"
+  title: Connecting Intercom and Slack with a Serverless Webhook
+  url: https://auth0.com/blog/connecting-intercom-and-slack-with-a-serverless-webhook
+  domain: auth0.com
+  image: ""
+- curated_id: qhhWIcDYC9w26Atz2YPVGWlZ3ijpzn6VVyZmZhvr38o=_15c6c3b8dec:6f106ff:cfb784e9
+  item_date: "2017-06-02 06:20:40"
+  title: 'Product Announcement: Webhooks by Subaccount and Multiple Bounce Domains'
+  url: https://www.sparkpost.com/?p=21739
+  domain: www.sparkpost.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15c6b362edf:6df40fd:cfb784e9
+  item_date: "2017-06-02 16:46:18"
+  title: Webhook App
+  url: https://webhookapp.com/
+  domain: webhookapp.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_15c889d9e10:af8052:993c6c3f
+  item_date: "2017-06-08 09:50:50"
+  title: Taking advantage of Mailchimp web hooks
+  url: https://medium.com/p/90150257c602
+  domain: medium.com
+  image: ""
+- curated_id: p9l1QRJSWsBdfQhLvEqI6rdgjdJrOWvtCS0GvuF9J1Q=_15c88c1b06e:df1563:28ce9b86
+  item_date: "2017-06-08 10:30:03"
+  title: Integrating Machine Data Analytics in New Relic Insights via Sumo Logic Webhooks
+  url: http://blog.newrelic.com/?p=37284
+  domain: blog.newrelic.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_15ca7245478:af8053:993c6c3f
+  item_date: "2017-06-14 08:06:35"
+  title: Revoking JWTs
+  url: https://medium.com/p/f805c366c14b
+  domain: medium.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_15cb11ea6b8:af8054:993c6c3f
+  item_date: "2017-06-16 06:36:35"
+  title: All about Office 365 Webhooks
+  url: https://medium.com/p/a8e115ed997f
+  domain: medium.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_15cb5924100:af8055:993c6c3f
+  item_date: "2017-06-17 03:21:20"
+  title: Webhooks in WorkflowGen
+  url: https://medium.com/p/8f0c2fd2a43e
+  domain: medium.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_15cc275fb78:af8056:993c6c3f
+  item_date: "2017-06-19 15:25:31"
+  title: Step by step guide to consuming Webhooks with Rails Application
+  url: https://medium.com/p/3952acf15832
+  domain: medium.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_15cd9a06ae0:af8059:993c6c3f
+  item_date: "2017-06-24 03:23:08"
+  title: How to debug SharePoint Webhooks locally ?
+  url: https://medium.com/p/66f25e02654d
+  domain: medium.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_15cf79e14ea:456fc29:fe3a8465
+  item_date: "2017-06-29 02:22:01"
+  title: Automation using GitHub Events
+  url: https://medium.com/p/23d602617348
+  domain: medium.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_15d08e42e33:6553302:5b78a817
+  item_date: "2017-07-03 07:21:05"
+  title: Some thoughts on using AWS Lambda with Slack Webhooks
+  url: https://medium.com/p/16f7dc6d5ec0
+  domain: medium.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_15d1257d1f4:aaa3df:32bbcd87
+  item_date: "2017-07-05 02:35:41"
+  title: Validate Stripe webhooks with Symfony
+  url: https://medium.com/p/b355a500bbea
+  domain: medium.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_15d1c6da61a:1c487:50d1a44a
+  item_date: "2017-07-06 08:12:52"
+  title: How to connect Meteor with Slack?
+  url: https://medium.com/p/99b43d8757ab
+  domain: medium.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_15d27decdf7:a75d95:fcbc4223
+  item_date: "2017-07-09 08:00:16"
+  title: Push and Pull Webhooks Make Message Events API Easy
+  url: https://medium.com/p/db5096fc1930
+  domain: medium.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15d2f0c7dce:fa9ed:ab1298eb
+  item_date: "2017-07-10 09:16:52"
+  title: "Webhook vs API: What\u2019s the Difference?"
+  url: https://medium.com/p/8d41e6661652
+  domain: medium.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_15d379262c7:1dc19a4:bb404dd5
+  item_date: "2017-07-12 07:29:53"
+  title: Getting historical messages via webhooks
+  url: https://medium.com/p/6aaae11f3075
+  domain: medium.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15d5c887934:20fca6:53d642ee
+  item_date: "2017-07-19 13:26:26"
+  title: What are Hubspot webhooks and why are they useful?
+  url: https://medium.com/p/a0caed6d09b6
+  domain: medium.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_15d6faf5e53:6fb1e:6c0c5382
+  item_date: "2017-07-23 06:41:35"
+  title: wilt/07.22.2017
+  url: https://medium.com/p/dee48eb4817c
+  domain: medium.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15db46c1b40:11a020:6c0c5382
+  item_date: "2017-08-05 13:04:05"
+  title: Webhooks improved
+  url: https://medium.com/p/6b4a517256ac
+  domain: medium.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_15dc2c23a4f:2cbddfd:898d1914
+  item_date: "2017-08-08 09:51:33"
+  title: Working with Mailgun webhooks
+  url: https://medium.com/p/d705ba1b259f
+  domain: medium.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_15dc7d54d84:5b85eb:a2bf0478
+  item_date: "2017-08-09 09:30:17"
+  title: "Video 101 \u2014 Webhooks"
+  url: https://medium.com/p/d56ab2735018
+  domain: medium.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_15dd889c1f1:6375cb:41b98b00
+  item_date: "2017-08-12 15:21:31"
+  title: select last number of rows in spread sheet to return .
+  url: https://medium.com/p/8dc1236b6740
+  domain: medium.com
+  image: ""
+- curated_id: 2GQkS/v7f+5hIIfsg1a8GI5x8NHiP3RcTT0oELR+xBY=_15e0aa19a45:1b9a4e4:41b98b00
+  item_date: "2017-08-22 01:30:00"
+  title: For the Best Security, Think Beyond Webhooks
+  url: https://auth0.com/blog/for-the-best-security-think-beyond-webhooks
+  domain: auth0.com
+  image: ""
+- curated_id: ucOuA++J5fi/dT2D7XJ80WO5PS7K77HdZ2YlofTWggU=_15e0aaad16c:1baee7e:41b98b00
+  item_date: "2017-08-22 08:44:00"
+  title: 'Heroku Webhooks: Powering New Integrations and Real'
+  url: https://blog.heroku.com/heroku-webhooks
+  domain: blog.heroku.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_15e51666522:14159f:81f6c248
+  item_date: "2017-09-05 02:36:51"
+  title: Discover Webhook, the Prota OS app to make integrations
+  url: https://medium.com/p/336ed40e9279
+  domain: medium.com
+  image: ""
+- curated_id: 2GQkS/v7f+5hIIfsg1a8GI5x8NHiP3RcTT0oELR+xBY=_15e71c1902b:1ec6fca:9dbe7464
+  item_date: "2017-09-11 03:21:00"
+  title: Why is Serverless Extensibility better than Webhooks?
+  url: https://auth0.com/blog/why-is-serverless-extensibility-better-than-webhooks
+  domain: auth0.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15e718d2b80:8dd93a2:feeb522d
+  item_date: "2017-09-11 08:09:33"
+  title: 'Monolith to Microservice: Architecture Behind V2 Webhooks'
+  url: https://medium.com/p/27789c36ace9
+  domain: medium.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15e7279404b:6292ba2:56b346f
+  item_date: "2017-09-11 08:22:15"
+  title: GitHub
+  url: https://github.com/adnanh/webhook
+  domain: github.com
+  image: ""
+- curated_id: icBO+P+aEoV3pCdadbT8x6BUK1AMTX8T7+Cc4VBUEYQ=_15e87344761:f92c57:4cab23bc
+  item_date: "2017-09-15 07:57:32"
+  title: 'Mellifera 13: Export to MISP, Webhooks, API Keys & ES 5'
+  url: http://blog.thehive-project.org/?p=3309
+  domain: blog.thehive-project.org
+  image: ""
+- curated_id: UjG+CeLaqj27hMBI/WjhTGNNUNvP04IJdUFt2zsPBtQ=_15ea33db0bb:364aa7f:64bea9a6
+  item_date: "2017-09-21 00:00:00"
+  title: 'WebHooks vs WebSub: Which Is Better For Real'
+  url: http://nordicapis.com/?p=7166
+  domain: nordicapis.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_15eb8fea043:1cbc312:e05f56c8
+  item_date: "2017-09-24 07:38:15"
+  title: Automatic deployment on push to GitHub repository
+  url: https://medium.com/p/74190c87eee4
+  domain: medium.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15ecb49973d:6d19b:cbb353b3
+  item_date: "2017-09-28 10:12:16"
+  title: Stripe Webhooks
+  url: https://medium.com/p/dd2aed422837
+  domain: medium.com
+  image: ""
+- curated_id: 2GQkS/v7f+5hIIfsg1a8GI5x8NHiP3RcTT0oELR+xBY=_15ee8285710:3e4c3:9b8472f1
+  item_date: "2017-10-04 01:30:00"
+  title: 'Securing Webtasks Part 1: Shared Secret Authorization'
+  url: https://auth0.com/blog/securing-webtasks-part-1-shared-secret-authorization
+  domain: auth0.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_15efef3af8c:a54391:aa3e42e1
+  item_date: "2017-10-07 10:44:42"
+  title: By 2020, 50% of Managed APIs Projected to be Event
+  url: https://medium.com/p/88f7041ea6d8
+  domain: medium.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_15f06abe757:25eaf43:3522b906
+  item_date: "2017-10-10 05:26:59"
+  title: Web Hooks for Gitlab using PHP and Shell Scripts
+  url: https://medium.com/p/9a02a1526dc7
+  domain: medium.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15f12d6ba77:b367a:626ab4cd
+  item_date: "2017-10-12 08:31:01"
+  title: How We Empower Our Users With Webhooks and APIs
+  url: https://medium.com/p/8d469b9fcaac
+  domain: medium.com
+  image: ""
+- curated_id: eWu7VVyQziNGDYCNPrNyv5P/LGeod5mr5PXQh3MrqnI=_15f172afc7c:2a17fd2:9ac85644
+  item_date: "2017-10-13 10:21:18"
+  title: Protect your webhooks with Laravel Shield
+  url: https://laravel-news.com/laravel-shield
+  domain: laravel-news.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_15f4ccd0a42:2018820:626ab4cd
+  item_date: "2017-10-23 22:13:45"
+  title: "A beginner\u2019s guide to using webhooks"
+  url: https://medium.com/p/3d95018fabbc
+  domain: medium.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_15f4f8567ef:230877:8cbd7d4f
+  item_date: "2017-10-24 10:54:22"
+  title: Webhooks, Games API, and Video Retrieval API
+  url: https://medium.com/p/4d50f58e0c66
+  domain: medium.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_15f77795d8c:1b26be9:626ab4cd
+  item_date: "2017-11-01 05:06:01"
+  title: 5 Steps to Getting Started with Webhooks on UCL API
+  url: https://medium.com/p/481b2a81ac4f
+  domain: medium.com
+  image: ""
+- curated_id: 2GQkS/v7f+5hIIfsg1a8GI5x8NHiP3RcTT0oELR+xBY=_15fe051163a:1d3f6cd:1f4fc1eb
+  item_date: "2017-11-21 04:00:00"
+  title: 'Securing Webtasks Part 2: Using Middleware'
+  url: https://auth0.com/blog/securing-webtasks-part-2-using-middleware
+  domain: auth0.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_15fef644e89:304fa48:1f4fc1eb
+  item_date: "2017-11-24 10:57:26"
+  title: Webhook for you and me
+  url: https://medium.com/p/54b83f5e31d0
+  domain: medium.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_1601242f4ed:9f675:1cefc59
+  item_date: "2017-11-30 13:55:32"
+  title: Webhooks open beta is here!
+  url: https://medium.com/p/5b7881b455be
+  domain: medium.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_1601e7e9fc8:8863d:c8ea36f9
+  item_date: "2017-12-03 14:28:21"
+  title: Simple Mailgun Webhook handling in Java with Jersey
+  url: https://medium.com/p/d884059c3a06
+  domain: medium.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_1602d7fbbdb:d3a441:9e976e77
+  item_date: "2017-12-06 12:23:52"
+  title: Trigger workflows in Slack with webhooks
+  url: https://medium.com/p/4d5df4230c3
+  domain: medium.com
+  image: ""
+- curated_id: rxLnjiJudc56FbZKrZ0crrg2UUWdKV8knoKwhWKNfS4=_16031c7280f:5f2d25:541f3c40
+  item_date: "2017-12-07 08:15:46"
+  title: Chained Builds with Codeship API v2
+  url: https://blog.codeship.com/?p=5875
+  domain: blog.codeship.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_1603528ed31:11cf3:c8ea36f9
+  item_date: "2017-12-08 00:06:01"
+  title: "The #1 Problem with Webhooks in Data Integration, and How We\u2019ve Fixed
+    It"
+  url: https://medium.com/p/f5ea6cd5927b
+  domain: medium.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_160440940f9:10ba859:e66afc8b
+  item_date: "2017-12-10 21:25:43"
+  title: Getting Hooked on Xero with AWS Lambda
+  url: https://medium.com/p/9ed4075c5c23
+  domain: medium.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_16050e131cc:30955a:fe3e7618
+  item_date: "2017-12-13 09:17:02"
+  title: New Webhook and Clips API Endpoints Available Today
+  url: https://medium.com/p/76c113ac8d9a
+  domain: medium.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_160c27093a0:b8a951:b64595cf
+  item_date: "2018-01-04 10:30:44"
+  title: Custom integrations with outgoing webhooks
+  url: https://medium.com/p/c74160efc3f3
+  domain: medium.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_160ca985b7e:7a211:98c4d03d
+  item_date: "2018-01-06 00:31:09"
+  title: X
+  url: https://medium.com/p/8a929f50054a
+  domain: medium.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_16111a16320:15c3a7:ce0f9556
+  item_date: "2018-01-19 15:38:01"
+  title: Callbacks and Promises Living Together in API Harmony
+  url: https://medium.com/p/7ed26204538b
+  domain: medium.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_16112ce8b7a:5c9109b:7157a206
+  item_date: "2018-01-19 22:01:34"
+  title: 'Webhooks vs. Serverless: I Like Webhooks'
+  url: https://dzone.com/articles/1942349
+  domain: dzone.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_1616c4a32e9:24466:c8ea36f9
+  item_date: "2018-02-05 10:01:02"
+  title: Stop Using Servers to Handle Webhooks
+  url: https://medium.com/p/675d5dc926c0
+  domain: medium.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_1616cdaf1da:332152:e66afc8b
+  item_date: "2018-02-05 23:34:09"
+  title: Setting up Strava Webhooks
+  url: https://medium.com/p/e8b825329dc7
+  domain: medium.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_16179d6170c:4a67be7:3c0bb656
+  item_date: "2018-02-09 01:07:42"
+  title: "Don\u2019t call us, we\u2019ll call you: Sending webhooks with Rails"
+  url: https://medium.com/p/5775241d7eb
+  domain: medium.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_161ac4a12b3:f4dae:c8ea36f9
+  item_date: "2018-02-18 20:19:49"
+  title: How to make a Webhook for Dialogflow Fulfillment
+  url: https://medium.com/p/d02835cc50bf
+  domain: medium.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_161af0d55f5:949705d:7157a206
+  item_date: "2018-02-19 09:03:46"
+  title: Forge Post Deployment Webhooks
+  url: https://medium.com/p/bf0dc235437b
+  domain: medium.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_161edaac113:237d7eb:9aea0a7d
+  item_date: "2018-03-01 09:22:10"
+  title: Events are Everywhere where there are APIs
+  url: https://medium.com/p/60535f1dc042
+  domain: medium.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_1620b401e09:39903:a077e55f
+  item_date: "2018-03-09 06:52:52"
+  title: 71 seconds to build your free custom webhook (Illustrated step by step)
+  url: https://medium.com/p/7a09b9e240ba
+  domain: medium.com
+  image: ""
+- curated_id: //bGBXb9zpoqn9ZtXDBIwPbpB514GWQuMBx1K5Y+otc=_16257912101:7d202:a077e55f
+  item_date: "2018-03-24 03:32:30"
+  title: Socket is making Webhook Easier than Ever!
+  url: https://medium.com/p/8f1e4abb9de6
+  domain: medium.com
+  image: ""
+- curated_id: //bGBXb9zpoqn9ZtXDBIwPbpB514GWQuMBx1K5Y+otc=_16257ee3f9d:828e7:a077e55f
+  item_date: "2018-03-24 05:14:13"
+  title: 7 simple steps to integrate Intercom webhook via socket
+  url: https://medium.com/p/a412b3862c01
+  domain: medium.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_162775291eb:7b2cff1:9f3b30f2
+  item_date: "2018-03-30 07:04:38"
+  title: "Capturing Webhooks with Google Sheets \u2014 Runscope Blog"
+  url: https://blog.runscope.com/posts/tutorial-capturing-webhooks-with-google-sheets
+  domain: blog.runscope.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_1627fd9cefb:5ec924:bdf8aaf1
+  item_date: "2018-03-31 23:16:42"
+  title: What are Webhooks?
+  url: https://medium.com/p/b04ec2bf9ca2
+  domain: medium.com
+  image: ""
+- curated_id: 9QOGTVP+u4vwJNHB7SlLr9mbA0Mmqrsw3WZp2GL3orY=_163045d1df3:5ef5ad:11c251fd
+  item_date: "2018-04-11 14:44:58"
+  title: Meya Webhooks API
+  url: https://www.programmableweb.com/api/meya-webhooks
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 2GQkS/v7f+5hIIfsg1a8GI5x8NHiP3RcTT0oELR+xBY=_162e45c54d4:5266f6:76251cdd
+  item_date: "2018-04-20 05:00:00"
+  title: Webtask.io Migrating to Node 8
+  url: https://auth0.com/blog/webtask-dot-io-migrating-to-node-8
+  domain: auth0.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_1632e23f620:8b023:abeb7260
+  item_date: "2018-05-04 19:31:37"
+  title: Integrate Legacy System using SQL Dependency and Webhook
+  url: https://medium.com/p/efc8939a1653
+  domain: medium.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_1632ec49061:197a579:3dd877af
+  item_date: "2018-05-04 22:01:48"
+  title: Webhook Events Are Sign of a Maturing API Platform
+  url: https://dzone.com/articles/2199814
+  domain: dzone.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_16333b0bcba:4e114:d63e3ae2
+  item_date: "2018-05-05 21:23:28"
+  title: Sending Build Status Notification From Google Container Builder to Github
+  url: https://medium.com/p/8adb33abba80
+  domain: medium.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_1635f8ac045:da5140:abeb7260
+  item_date: "2018-05-14 07:31:01"
+  title: 'Advanced Github: Webhooks and Automation'
+  url: https://medium.com/p/952ee091778c
+  domain: medium.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_16454aa0c5f:b0104:e8d3bdb3
+  item_date: "2018-06-22 17:00:00"
+  title: Jenkins and github integration using webhooks
+  url: https://medium.com/p/d5bd8d3ca3c7
+  domain: medium.com
+  image: ""
+- curated_id: gok/N1aiGTOaio3XQiVmDps/etNkdYHQoJaEJNxzZOQ=_164c4423d9f:e17406d:4e0f6129
+  item_date: "2018-06-23 15:42:30"
+  title: ALICE Staff Webhooks API
+  url: https://www.programmableweb.com/api/alice-staff-webhooks
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_164302ca34d:e5e136:aa514a55
+  item_date: "2018-06-23 22:01:00"
+  title: Speeding Up Our Webhooks System 60x
+  url: https://dzone.com/articles/2286858
+  domain: dzone.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_16444ab048d:2c5182f:386c987f
+  item_date: "2018-06-27 21:25:51"
+  title: what is a webhook?
+  url: https://medium.com/p/3327b6e470e4
+  domain: medium.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_1644bbc5c51:2d2314:19029e75
+  item_date: "2018-06-29 06:29:51"
+  title: Triggering a Jenkins build automatically when a push to Bitbucket introduced
+  url: https://medium.com/p/b90dec12f893
+  domain: medium.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_164605904a7:545c452:4e0f6129
+  item_date: "2018-07-03 06:28:33"
+  title: New to webhooks? Start here.
+  url: https://medium.com/p/1827b07a3ffa
+  domain: medium.com
+  image: ""
+- curated_id: QV6/Uva03i0CdEvjejnoiX8zoQKE8cEYv/BARIZGfAs=_16484710416:876e553:aa514a55
+  item_date: "2018-07-10 06:35:42"
+  title: Webhook Event Types In Use With Digital Badge APIs
+  url: https://streamdata.io/?p=7583
+  domain: streamdata.io
+  image: ""
+- curated_id: QV6/Uva03i0CdEvjejnoiX8zoQKE8cEYv/BARIZGfAs=_16489d32c86:901363d:aa514a55
+  item_date: "2018-07-11 07:29:25"
+  title: API Event Types For Data Collection Forms
+  url: https://streamdata.io/?p=7587
+  domain: streamdata.io
+  image: ""
+- curated_id: QV6/Uva03i0CdEvjejnoiX8zoQKE8cEYv/BARIZGfAs=_16489eeb6d0:90443e1:aa514a55
+  item_date: "2018-07-11 07:52:34"
+  title: Searching For APIs With Webhooks Uncovers More Mature APIs
+  url: https://streamdata.io/?p=7593
+  domain: streamdata.io
+  image: ""
+- curated_id: QV6/Uva03i0CdEvjejnoiX8zoQKE8cEYv/BARIZGfAs=_1648ee31893:9868528:aa514a55
+  item_date: "2018-07-12 07:24:12"
+  title: Scheduling Serverless Data Streams Using AWS Lambda And Cloudwatch Events
+  url: https://streamdata.io/?p=7599
+  domain: streamdata.io
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_164a4191eb6:5523e2:e8d3bdb3
+  item_date: "2018-07-12 17:00:00"
+  title: What is a webhook and how to create one?
+  url: https://medium.com/p/f7057d2cc0a
+  domain: medium.com
+  image: ""
+- curated_id: QV6/Uva03i0CdEvjejnoiX8zoQKE8cEYv/BARIZGfAs=_164b8b5edfe:d6096af:386c987f
+  item_date: "2018-07-20 10:14:32"
+  title: Applying External Webhooks To Existing APIs Using AWS Lambda
+  url: https://streamdata.io/?p=7688
+  domain: streamdata.io
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_164bc29f26f:da5a528:aa514a55
+  item_date: "2018-07-21 02:05:00"
+  title: Setting Up Automation for Webhooks Testing
+  url: https://dzone.com/articles/2337596
+  domain: dzone.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_164bcc51e58:81de20:19029e75
+  item_date: "2018-07-21 05:16:31"
+  title: '[Ballerina] Event Notification via Webhooks'
+  url: https://medium.com/p/bc7cc63f4b6e
+  domain: medium.com
+  image: ""
+- curated_id: gok/N1aiGTOaio3XQiVmDps/etNkdYHQoJaEJNxzZOQ=_16576e55b2c:85040c:cf41b655
+  item_date: "2018-07-28 08:03:32"
+  title: Help Scout Mailbox Webhooks API
+  url: https://www.programmableweb.com/api/help-scout-mailbox-webhooks
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_164fb743251:10de710:b0312b22
+  item_date: "2018-08-02 09:24:12"
+  title: Add a webhook automatically to your app whenever
+  url: https://medium.com/p/856da39418cb
+  domain: medium.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_16567cb72bd:af8a47:d987d511
+  item_date: "2018-08-23 10:18:29"
+  title: 'Adobe I/O Events and Creative Cloud: Collaboration Workflows Just Got More
+    Collaborative'
+  url: https://medium.com/p/efefd581bbd2
+  domain: medium.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_1657cafab73:50777b:4db7ac35
+  item_date: "2018-08-27 01:47:48"
+  title: Verifying Shopify webhooks with NodeJS & Express
+  url: https://medium.com/p/ac7845c9e40a
+  domain: medium.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_165842bca21:1927ec:4c71e4fe
+  item_date: "2018-08-28 22:08:01"
+  title: RSS Feed to Google Chat Webhook Using Cloud Functions
+  url: https://dzone.com/articles/2404570
+  domain: dzone.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_1659a9c1783:d6de53:d987d511
+  item_date: "2018-09-02 07:07:23"
+  title: "Custom Notifications with Alert Manager\u2019s Webhook Receiver in Kubernetes"
+  url: https://medium.com/p/8e1152ba2c31
+  domain: medium.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_165a7ea88cd:1ce627b:215b6325
+  item_date: "2018-09-04 21:08:08"
+  title: "Solving Hubspot Webhooks\u2019 2 Second Rule"
+  url: https://medium.com/p/93893ca39cf5
+  domain: medium.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_165b3637f4e:2f477b:cf41b655
+  item_date: "2018-09-07 02:10:02"
+  title: Adding Authentication to Your HTTP Triggered Azure Functions
+  url: https://dzone.com/articles/2431867
+  domain: dzone.com
+  image: ""
+- curated_id: QV6/Uva03i0CdEvjejnoiX8zoQKE8cEYv/BARIZGfAs=_165b4436252:426cca:4c71e4fe
+  item_date: "2018-09-07 06:24:01"
+  title: The Potential Of Using Adobe I/O Event Webhooks To Collaborate
+  url: https://streamdata.io/?p=8000
+  domain: streamdata.io
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_1666dd299f6:49ddc5:3df421eb
+  item_date: "2018-10-13 07:26:19"
+  title: ChainRelay Webhooks API
+  url: https://medium.com/p/3ddfdd5c2299
+  domain: medium.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_166b176d127:11a397f:2e5c38bc
+  item_date: "2018-10-26 10:40:42"
+  title: "How to verify the authenticity of a GitHub App\u2019s webhook payload"
+  url: https://medium.com/p/8d63ccc81a24
+  domain: medium.com
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_166c38845ca:10f557:4eafa5b
+  item_date: "2018-10-29 22:52:58"
+  title: "Durable Function Recipe\u200A\u2014\u200AWebhooks Made Easy"
+  url: https://medium.com/p/4878b1972417
+  domain: medium.com
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_166e9adb4e8:1393687:f62093d7
+  item_date: "2018-11-06 07:39:26"
+  title: David,
+  url: https://medium.com/p/fe268b20a955
+  domain: medium.com
+  image: ""
+- curated_id: +QuXNY32CQYzE16SQ2izcWYcIemLFvQqdDmj8F09ZZM=_166f4495f5e:47ef46:d42b93be
+  item_date: "2018-11-08 00:00:00"
+  title: Webhooks Made Easy with Stackery
+  url: https://www.stackery.io/blog/webhooks
+  domain: www.stackery.io
+  image: ""
+- curated_id: Ig2aQnyYVIjq2oaSMaix0roooGsKkIoGnC0Z6stTiEo=_167035189f8:73744f:f62093d7
+  item_date: "2018-11-11 07:08:53"
+  title: Box Integrations Lessons Learned
+  url: https://medium.com/p/e700f83c3d69
+  domain: medium.com
+  image: ""
+...

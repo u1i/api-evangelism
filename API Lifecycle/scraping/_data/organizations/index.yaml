@@ -1,0 +1,649 @@
+- id: j4IZ7123jJRizWZrlp25UTDIvI3jm046Tgb1WpY1231aUMk117
+  name: AlchemyAPI
+  summary: The product of over 50 person years of engineering effort, AlchemyAPI is
+    a text mining platform providing the most comprehensive set of semantic analysis
+    capabilities in the natural language processing field. Used over 3 billion times
+    every month, AlchemyAPI enables customers to perform large-scale social media
+    monitoring, target advertisements more effectively, track influencers and sentiment
+    wit
+  details: The product of over 50 person years of engineering effort, AlchemyAPI is
+    a text mining platform providing the most comprehensive set of semantic analysis
+    capabilities in the natural language processing field. Used over 3 billion times
+    every month, AlchemyAPI enables customers to perform large-scale social media
+    monitoring, target advertisements more effectively, track influencers and sentiment
+    within the media, automate content aggregation and recommendation, make more accurate
+    stock trading decisions, enhance business and government intelligence systems,
+    and create smarter applications and services.
+  website: http://www.alchemyapi.com/
+  twitter: https://twitter.com/alchemyapi
+  github: https://github.com/AlchemyAPI
+  blog: http://blog.alchemyapi.com/
+  blogrss: http://blog.alchemyapi.com/rss.xml
+  logo: https://avatars.githubusercontent.com/u/4061718?v=3
+  logo_width: "175"
+  screenshot: https://avatars.githubusercontent.com/u/4061718?v=3
+  tags: Content,Content Analysis,Getting Started Example,Language,Machine Learning
+    Scraping,My API Stack,Scraping,Semantic Analysis,Stack Network
+  apis:
+  - api_id: 46tWtIBj04dZrkaRER123GS76NEJ3OXbiOB123T3i3I9s116o117
+    name: Alchemy Author Extraction API
+    slug: alchemy-author-extraction-api
+    website: ""
+    openapi-spec: http://theapistack.com/data/alchemyapi/alchemy-author-extraction-api-swagger.json
+    api-blueprint: http://theapistack.com/data/alchemyapi/alchemy-author-extraction-api.apib
+    postman: http://theapistack.com/data/alchemyapi/alchemy-author-extraction-api-postman.json
+    documentation: http://www.alchemyapi.com/api/author-extraction/
+    sdk-io: ""
+  - api_id: 0542ObdpXHX0Spcy2p1TrGw2eucpu7IR9H1jsOHMO54117
+    name: Alchemy Authors Extraction API
+    slug: alchemy-authors-extraction-api
+    website: ""
+    openapi-spec: http://theapistack.com/data/alchemyapi/alchemy-authors-extraction-api-swagger.json
+    api-blueprint: http://theapistack.com/data/alchemyapi/alchemy-authors-extraction-api.apib
+    postman: http://theapistack.com/data/alchemyapi/alchemy-authors-extraction-api-postman.json
+    documentation: http://www.alchemyapi.com/api/authors-extraction
+    sdk-io: ""
+  - api_id: lXkyVJ7lps85Y8oUWNKGZPIHQmx3oAIVh0DK9Va3Sz4117
+    name: Alchemy Combined Call API
+    slug: alchemy-combined-call-api
+    website: ""
+    openapi-spec: http://theapistack.com/data/alchemyapi/alchemy-combined-call-api-swagger.json
+    api-blueprint: http://theapistack.com/data/alchemyapi/alchemy-combined-call-api.apib
+    postman: http://theapistack.com/data/alchemyapi/alchemy-combined-call-api-postman.json
+    documentation: http://www.alchemyapi.com/api/combined-call
+    sdk-io: ""
+  - api_id: lsIJFL1DLFDY86igZe3h9b21167yODgKN9BqmEX123szDWg117
+    name: Alchemy Concept Tagging API
+    slug: alchemy-concept-tagging-api
+    website: ""
+    openapi-spec: http://theapistack.com/data/alchemyapi/alchemy-concept-tagging-api-swagger.json
+    api-blueprint: http://theapistack.com/data/alchemyapi/alchemy-concept-tagging-api.apib
+    postman: http://theapistack.com/data/alchemyapi/alchemy-concept-tagging-api-postman.json
+    documentation: http://www.alchemyapi.com/api/concept-tagging
+    sdk-io: ""
+  - api_id: ManlZ7fXoxljH7mNz809lYFDAYpgFtFCSeen8uao09I117
+    name: Alchemy Entity Extraction API
+    slug: alchemy-entity-extraction-api
+    website: ""
+    openapi-spec: http://theapistack.com/data/alchemyapi/alchemy-entity-extraction-api-swagger.json
+    api-blueprint: http://theapistack.com/data/alchemyapi/alchemy-entity-extraction-api.apib
+    postman: http://theapistack.com/data/alchemyapi/alchemy-entity-extraction-api-postman.json
+    documentation: http://www.alchemyapi.com/api/entity-extraction
+    sdk-io: ""
+  - api_id: 116HJWet3nF2b0oGFxUo2QWBvkN116IwLjEF4a5L0kuevsY117
+    name: Alchemy Face Detection API
+    slug: alchemy-face-detection-api
+    website: ""
+    openapi-spec: http://theapistack.com/data/alchemyapi/alchemy-face-detection-api-swagger.json
+    api-blueprint: http://theapistack.com/data/alchemyapi/alchemy-face-detection-api.apib
+    postman: http://theapistack.com/data/alchemyapi/alchemy-face-detection-api-postman.json
+    documentation: http://www.alchemyapi.com/api/face-detection
+    sdk-io: ""
+  - api_id: MYZ66L123rtiL0UQCdPxS2FO9m7c9O1SELQq17M4ETYh8117
+    name: Alchemy Feed Detection API
+    slug: alchemy-feed-detection-api
+    website: ""
+    openapi-spec: http://theapistack.com/data/alchemyapi/alchemy-feed-detection-api-swagger.json
+    api-blueprint: http://theapistack.com/data/alchemyapi/alchemy-feed-detection-api.apib
+    postman: http://theapistack.com/data/alchemyapi/alchemy-feed-detection-api-postman.json
+    documentation: http://www.alchemyapi.com/api/feed-detection
+    sdk-io: ""
+  - api_id: Co1DrI123ETwnQo6d3Ie8LG28OCyKW0qibtL8EfejQnIA117
+    name: Alchemy Image Link Extraction API
+    slug: alchemy-image-link-extraction-api
+    website: ""
+    openapi-spec: http://theapistack.com/data/alchemyapi/alchemy-image-link-extraction-api-swagger.json
+    api-blueprint: http://theapistack.com/data/alchemyapi/alchemy-image-link-extraction-api.apib
+    postman: http://theapistack.com/data/alchemyapi/alchemy-image-link-extraction-api-postman.json
+    documentation: http://www.alchemyapi.com/api/image-link-extraction
+    sdk-io: ""
+  - api_id: 8SrSg4vI526P8XUXQ7VoL9GIleyqtGtvdMRJZXH4V4o117
+    name: Alchemy Keyword and Term Extraction API
+    slug: alchemy-keyword-and-term-extraction-api
+    website: ""
+    openapi-spec: http://theapistack.com/data/alchemyapi/alchemy-keyword-and-term-extraction-api-swagger.json
+    api-blueprint: http://theapistack.com/data/alchemyapi/alchemy-keyword-and-term-extraction-api.apib
+    postman: http://theapistack.com/data/alchemyapi/alchemy-keyword-and-term-extraction-api-postman.json
+    documentation: http://www.alchemyapi.com/api/keyword-extraction/
+    sdk-io: ""
+  - api_id: OwbhyGvaGnis00bYIo5Y123b9eGzOvJNEV42tO2902Ymc117
+    name: Alchemy Language Detection API
+    slug: alchemy-language-detection-api
+    website: ""
+    openapi-spec: http://theapistack.com/data/alchemyapi/alchemy-language-detection-api-swagger.json
+    api-blueprint: http://theapistack.com/data/alchemyapi/alchemy-language-detection-api.apib
+    postman: http://theapistack.com/data/alchemyapi/alchemy-language-detection-api-postman.json
+    documentation: http://www.alchemyapi.com/api/language-detection
+    sdk-io: ""
+  - api_id: lZU89v9ThauOSHKn8I8wi123WOPzi6yc0nGrNIjq1162B1c117
+    name: Alchemy Microformats Parsing API
+    slug: alchemy-microformats-parsing-api
+    website: ""
+    openapi-spec: http://theapistack.com/data/alchemyapi/alchemy-microformats-parsing-api-swagger.json
+    api-blueprint: http://theapistack.com/data/alchemyapi/alchemy-microformats-parsing-api.apib
+    postman: http://theapistack.com/data/alchemyapi/alchemy-microformats-parsing-api-postman.json
+    documentation: http://www.alchemyapi.com/api/microformats-parsing
+    sdk-io: ""
+  - api_id: Orhw1QveZg123ti36FsWrXMx0116LWyuIuSKkHaW123IuHCG8117
+    name: Alchemy News API
+    slug: alchemy-news-api
+    website: ""
+    openapi-spec: http://theapistack.com/data/alchemyapi/alchemy-news-api-swagger.json
+    api-blueprint: http://theapistack.com/data/alchemyapi/alchemy-news-api.apib
+    postman: http://theapistack.com/data/alchemyapi/alchemy-news-api-postman.json
+    documentation: http://docs.alchemyapi.com/
+    sdk-io: ""
+  - api_id: 29fpaYa8HZtK8PcX153ONKdfXKZeO8WIBHKdo2HLvX4117
+    name: Alchemy Publication Date Extraction API
+    slug: alchemy-publication-date-extraction-api
+    website: ""
+    openapi-spec: http://theapistack.com/data/alchemyapi/alchemy-publication-date-extraction-api-swagger.json
+    api-blueprint: http://theapistack.com/data/alchemyapi/alchemy-publication-date-extraction-api.apib
+    postman: http://theapistack.com/data/alchemyapi/alchemy-publication-date-extraction-api-postman.json
+    documentation: http://www.alchemyapi.com/api/publication-date
+    sdk-io: ""
+  - api_id: pNWPiwGxuI2I8ZNpAzkQ9y123GBR9QCuWAPNbzUSByZcY117
+    name: Alchemy Relation Extraction API
+    slug: alchemy-relation-extraction-api
+    website: ""
+    openapi-spec: http://theapistack.com/data/alchemyapi/alchemy-relation-extraction-api-swagger.json
+    api-blueprint: http://theapistack.com/data/alchemyapi/alchemy-relation-extraction-api.apib
+    postman: http://theapistack.com/data/alchemyapi/alchemy-relation-extraction-api-postman.json
+    documentation: http://www.alchemyapi.com/api/relation-extraction
+    sdk-io: ""
+  - api_id: C123Bv8vqgs4aHJaC3kF1234O8mwl5vrph8ET7MMAEFX4iE117
+    name: Alchemy Sentiment Analysis API
+    slug: alchemy-sentiment-analysis-api
+    website: ""
+    openapi-spec: http://theapistack.com/data/alchemyapi/alchemy-sentiment-analysis-api-swagger.json
+    api-blueprint: http://theapistack.com/data/alchemyapi/alchemy-sentiment-analysis-api.apib
+    postman: http://theapistack.com/data/alchemyapi/alchemy-sentiment-analysis-api-postman.json
+    documentation: http://www.alchemyapi.com/api/sentiment-analysis
+    sdk-io: ""
+  - api_id: a2YaLB6RK0YlyLdDyuGzh1iBT116XsEiyAfxRklT04hEs117
+    name: Alchemy Taxonomy API
+    slug: alchemy-taxonomy-api
+    website: ""
+    openapi-spec: http://theapistack.com/data/alchemyapi/alchemy-taxonomy-api-swagger.json
+    api-blueprint: http://theapistack.com/data/alchemyapi/alchemy-taxonomy-api.apib
+    postman: http://theapistack.com/data/alchemyapi/alchemy-taxonomy-api-postman.json
+    documentation: http://www.alchemyapi.com/api/taxonomy
+    sdk-io: ""
+  - api_id: 116StqT6p5zYRo2yoyR6hOm9eq1JIAcMiuhipv151VQG0117
+    name: Alchemy Text Extraction API
+    slug: alchemy-text-extraction-api
+    website: ""
+    openapi-spec: http://theapistack.com/data/alchemyapi/alchemy-text-extraction-api-swagger.json
+    api-blueprint: http://theapistack.com/data/alchemyapi/alchemy-text-extraction-api.apib
+    postman: http://theapistack.com/data/alchemyapi/alchemy-text-extraction-api-postman.json
+    documentation: http://www.alchemyapi.com/api/text-extraction/
+    sdk-io: ""
+  - api_id: L116AAU1gmYPy5SKcIpUM9ee4x8pSB2L123116dO123PFIbB9rA117
+    name: Alchemy Text Extraction API
+    slug: alchemy-text-extraction-api
+    website: ""
+    openapi-spec: http://theapistack.com/data/alchemyapi/alchemy-raw-text-extraction-api-swagger.json
+    api-blueprint: http://theapistack.com/data/alchemyapi/alchemy-raw-text-extraction-api.apib
+    postman: http://theapistack.com/data/alchemyapi/alchemy-raw-text-extraction-api-postman.json
+    documentation: http://www.alchemyapi.com/api/text/urls.html#rtext
+    sdk-io: ""
+  - api_id: UaIY8UGoCtYZmQA5sVVuPeeYQfgRAc1KHWswhW2prXY117
+    name: Alchemy Title Extraction API
+    slug: alchemy-title-extraction-api
+    website: ""
+    openapi-spec: http://theapistack.com/data/alchemyapi/alchemy-title-extraction-api-swagger.json
+    api-blueprint: http://theapistack.com/data/alchemyapi/alchemy-title-extraction-api.apib
+    postman: http://theapistack.com/data/alchemyapi/alchemy-title-extraction-api-postman.json
+    documentation: http://www.alchemyapi.com/api/text/urls.html#title
+    sdk-io: ""
+- id: l8e5hEpQurGiboauh8nwASxNlh0TkGy67ux2U9UwJBM117
+  name: Apache Nutch
+  summary: 'Nutch is a well matured, production ready Web crawler. Nutch 1.x enables
+    fine grained configuration, relying on Apache Hadoop&trade; data structures, which
+    are great for batch processing. - See more at: http://nutch.apache.org/index.html#sthash.dehuG4St.dpuf'
+  details: 'Nutch is a well matured, production ready Web crawler. Nutch 1.x enables
+    fine grained configuration, relying on Apache Hadoop&trade; data structures, which
+    are great for batch processing. - See more at: http://nutch.apache.org/index.html#sthash.dehuG4St.dpuf'
+  website: http://nutch.apache.org/
+  twitter: ""
+  github: ""
+  blog: ""
+  blogrss: ""
+  logo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apache-nutch.jpg
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apache-nutch.jpg
+  tags: API Tool,Profiled,Scraping
+  apis: []
+- id: bfPQjC11697qYetgNxnngG116QNtvZygsuMcBopNLC1biYc117
+  name: Apifier
+  summary: Apify extracts data from websites, crawls lists of URLs and automates workflows
+    on the web. Turn any website into an API in a few minutes!
+  details: Apify extracts data from websites, crawls lists of URLs and automates workflows
+    on the web. Turn any website into an API in a few minutes!
+  website: https://www.apifier.com/
+  twitter: https://twitter.com/ApifierInfo
+  github: https://github.com/apifier
+  blog: https://blog.apifier.com/
+  blogrss: https://blog.apifier.com/feed
+  logo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20035-apifier.jpg
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20035-apifier.jpg
+  tags: API Service Provider,Profiled,SaaS,Scraping,Scraping Web Crawler,Technology,Web
+    Crawler
+  apis: []
+- id: 7UN1FDanryJWID123pjffep4KkyMQQ372123xI7ZSDMIRWc117
+  name: Aylien
+  summary: Text Analysis API | Natural Language Processing
+  details: Text Analysis API | Natural Language Processing
+  website: http://aylien.com/
+  twitter: https://twitter.com/_aylien
+  github: https://github.com/AYLIEN
+  blog: http://blog.aylien.com/
+  blogrss: http://blog.aylien.com/rss
+  logo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20034-aylien.jpg
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20034-aylien.jpg
+  tags: API Provider,Content,Enterprise,Machine Learning,Machine Learning Scraping,Profiled,SaaS,Scraping,Service
+    Level Agreement,Technology
+  apis: []
+- id: ijbKU6mz9doWRCtWgW1167LernEPVt116kt4N7s0anv0ZxY117
+  name: CommonCrawl
+  summary: CommonCrawl is a non-profit foundation dedicated to the open web.
+  details: CommonCrawl is a non-profit foundation dedicated to the open web.
+  website: http://commoncrawl.org/
+  twitter: https://twitter.com/CommonCrawl
+  github: https://github.com/commoncrawl
+  blog: http://commoncrawl.org/blog/
+  blogrss: http://commoncrawl.org/feed/
+  logo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1920-commoncrawl.jpg
+  logo_width: "175"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1920-commoncrawl.jpg
+  tags: API Provider,API Service Provider,internet,Profiled,Scraping,Scraping Web
+    Crawler,Search,Stack Network,Technology
+  apis: []
+- id: xpo7wBB7klI2MQ1i6Ysh1fOtDkzIn3ifkCsOWFr0C98117
+  name: ConvExtra
+  summary: Convextra allows you collect valuable data from internet and represents
+    it in easy-to-use CVS format for forther utilization.
+  details: Convextra allows you collect valuable data from internet and represents
+    it in easy-to-use CVS format for forther utilization.
+  website: http://convextra.com/
+  twitter: ""
+  github: ""
+  blog: ""
+  blogrss: ""
+  logo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/convextra-logo.png
+  logo_width: "175"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/convextra-logo.png
+  tags: Scraping,Scraping,Scraping Tools
+  apis: []
+- id: mfqb1EapbE123NklcPLDGpnMmODf9UEuberETiHKZ8PGk117
+  name: Dandelion API
+  summary: 'Semantic Text Analytics API: From text to actionable data: extract meaning
+    from unstructured text and put it in context with a simple API.'
+  details: 'Semantic Text Analytics API: From text to actionable data: extract meaning
+    from unstructured text and put it in context with a simple API.'
+  website: https://dandelion.eu
+  twitter: https://twitter.com/dandelionapi
+  github: ""
+  blog: http://blog.dandelion.eu/
+  blogrss: http://blog.dandelion.eu/feed/
+  logo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18951-dandelion-api.jpg
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18951-dandelion-api.jpg
+  tags: API Provider,Machine Learning,Machine Learning,Machine Learning Scraping,Profiled,SaaS,Scraping,Technology
+  apis: []
+- id: e1MIBnZ116nZYUdDPJw7WcqPZUjpRhV116bCRc3ChK6dU5o117
+  name: Diffbot
+  summary: Never write another web scraper. Diffbot automates web data extraction
+    from any website using AI, computer vision, &amp; machine learning.
+  details: Never write another web scraper. Diffbot automates web data extraction
+    from any website using AI, computer vision, &amp; machine learning.
+  website: http://www.diffbot.com/our-apis/follow/
+  twitter: https://twitter.com/diffbot
+  github: https://github.com/diffbot
+  blog: http://diffbot.com/blog
+  blogrss: http://www.diffbot.com/api/rss/www.diffbot.com/blog
+  logo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/181-diffbot.jpg
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/181-diffbot.jpg
+  tags: API Provider,API Service Provider,Content,Crawler,Extraction,internet,Machine
+    Learning,Machine Learning Scraping,Profiled,SaaS,Scraping,Stack Network,Technology
+  apis: []
+- id: MTxO6vfkLIG8Il01Z8R7k4mbOLJ5BuNo1166c1S3vJQM0117
+  name: Diggernaut
+  summary: Web scraping just became easy. Extract any website content and turn it
+    into data sets. No programming skills required. We also help larger accounts where
+    we can do custom programming to collect the data to perform business intelligence,
+    competitive pricing, market sentiment, and other forms of analysis.
+  details: Web scraping just became easy. Extract any website content and turn it
+    into data sets. No programming skills required. We also help larger accounts where
+    we can do custom programming to collect the data to perform business intelligence,
+    competitive pricing, market sentiment, and other forms of analysis.
+  website: https://www.diggernaut.com
+  twitter: https://twitter.com/diggernautcom
+  github: https://github.com/diggernaut
+  blog: https://www.diggernaut.com/blog/
+  blogrss: ""
+  logo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28731-www-diggernaut-com.jpg
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28731-www-diggernaut-com.jpg
+  tags: Enterprise,SaaS,Scraping
+  apis: []
+- id: 116cngjjHnMOVwN3y2WbOzpDZKC8ZGbwdFVxjAuQ5jZfk117
+  name: Embedly
+  summary: Extract allows you to mine important features within articles???so you
+    can use written content how you want to. Control colors, text, keywords, and entities
+    in any article on your site. Remove extraneous information. As you automate the
+    way you use articles, you???ll gain insight into your users??? preferences, helping
+    you serve them better.
+  details: Extract allows you to mine important features within articles???so you
+    can use written content how you want to. Control colors, text, keywords, and entities
+    in any article on your site. Remove extraneous information. As you automate the
+    way you use articles, you???ll gain insight into your users??? preferences, helping
+    you serve them better.
+  website: http://embed.ly/extract
+  twitter: https://twitter.com/embedly
+  github: https://github.com/embedly
+  blog: https://twitter.com/weogeostatus
+  blogrss: http://blog.embed.ly/rss
+  logo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/190-embedly.jpg
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/190-embedly.jpg
+  tags: API Service Provider,Embed,Embeddable,internet,Profiled,SaaS,Scraping,Scraping
+    Tools,Social,Stack Network,Technology
+  apis: []
+- id: EEnODjXajxcjsQh116sOxzps8tuivcJwFZQMEzikyy01164117
+  name: HPE Haven OnDemand
+  summary: Haven OnDemand is an API platform for building data rich applications using
+    text analysis, speech recognition, image analysis, indexing and search APIs.
+  details: Haven OnDemand is an API platform for building data rich applications using
+    text analysis, speech recognition, image analysis, indexing and search APIs.
+  website: https://www.havenondemand.com/
+  twitter: https://twitter.com/HavenOnDemand
+  github: https://github.com/HPE-Haven-OnDemand
+  blog: https://community.havenondemand.com/t5/Blog/bg-p/blog_iod
+  blogrss: https://community.havenondemand.com/etmmh37422/rss/boardmessages?board.id=blog_iod
+  logo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20037-hpe-haven-ondemand.jpg
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20037-hpe-haven-ondemand.jpg
+  tags: Enterprise,Machine Learning,Machine Learning Scraping,SaaS,Scraping,Technology
+  apis: []
+- id: XUErbjP88ZfBp116rbUveI1HXtZ30ZJ123R8di21QNsYFhE117
+  name: Import.io
+  summary: Import.io turns the web into a database, releasing the vast potential of
+    data trapped in websites. Allowing you to identify a website, select the data
+    and treat it as a table in your database. In effect transform the data into a
+    row and column format. You can then add more websites to your data set, the same
+    as adding more rows and query in real-time to access the data.
+  details: Import.io turns the web into a database, releasing the vast potential of
+    data trapped in websites. Allowing you to identify a website, select the data
+    and treat it as a table in your database. In effect transform the data into a
+    row and column format. You can then add more websites to your data set, the same
+    as adding more rows and query in real-time to access the data.
+  website: https://www.import.io/
+  twitter: https://twitter.com/importio
+  github: https://github.com/import-io
+  blog: http://blog.import.io/
+  blogrss: ""
+  logo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1728-import-io.jpg
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1728-import-io.jpg
+  tags: API Provider,API Service Provider,API United Kingdom,Profiled,SaaS,Scraping,Stack
+    Network,Technology
+  apis:
+  - api_id: 56QuxbLEd5BGpXFBPQM60BniEuiVQ8S4WQCW4PJBUaI117
+    name: import.io
+    slug: importio
+    website: http://docs.import.io/
+    openapi-spec: http://apistack.com/data/importio/importio-swagger.json
+    api-blueprint: ""
+    postman: ""
+    documentation: http://api.docs.import.io/
+    sdk-io: ""
+- id: I9v3123TcLMZSz1TjJy1M0Tq1r123bPEcN5tNrRNEj5UYyY117
+  name: link.fish
+  summary: Automatically get the information of the websites you are interested in
+    and work with it together with others in real-time. Depending on the page you
+    bookmark link.fish automatically extracts the data you actually care about. No
+    matter if bedrooms for apartments, rating of movies or the cook time of your favorite
+    recipe. Invite other people to your collection to work with them or make it public
+    fo
+  details: Automatically get the information of the websites you are interested in
+    and work with it together with others in real-time. Depending on the page you
+    bookmark link.fish automatically extracts the data you actually care about. No
+    matter if bedrooms for apartments, rating of movies or the cook time of your favorite
+    recipe. Invite other people to your collection to work with them or make it public
+    for everbody to see. All changes made will immediately be visible by everyone.
+  website: http://link.fish
+  twitter: https://twitter.com/linkfish_
+  github: https://github.com/link-fish
+  blog: ""
+  blogrss: ""
+  logo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/link-fish-logo.png
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/link-fish-logo.png
+  tags: API Provider,Content,Links,Profiled,Scraping
+  apis: []
+- id: 9A0N3ydnH9LtpXiDdJ99bn2tdslqYNrYaVwUnDgxqBc117
+  name: Moz
+  summary: Backed by the largest community of SEOs on the planet, Moz builds tools
+    that make SEO, inbound marketing, link building, and content marketing easy. Start
+    your free 30-day trial today!
+  details: Backed by the largest community of SEOs on the planet, Moz builds tools
+    that make SEO, inbound marketing, link building, and content marketing easy. Start
+    your free 30-day trial today!
+  website: https://moz.com
+  twitter: https://twitter.com/moz
+  github: https://github.com/seomoz
+  blog: https://moz.com/blog
+  blogrss: http://feedpress.me/mozblog
+  logo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18952-moz.jpg
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18952-moz.jpg
+  tags: internet,Links,Profiled,SaaS,Scraping,Scraping Web Crawler,Stack Network,Target,Technology,Web
+    Crawler
+  apis: []
+- id: e3P2R7C9S1pSMDGEkF1f4mfuZHinlsfMYULhi123oq9t4117
+  name: Mozenda
+  summary: Over 7 billion web pages harvested since 2007. trusted by thousands of
+    customers worldwide. Stellar account management and customer support.
+  details: Over 7 billion web pages harvested since 2007. trusted by thousands of
+    customers worldwide. Stellar account management and customer support.
+  website: http://www.mozenda.com
+  twitter: http://www.twitter.com/mozenda
+  github: ""
+  blog: http://www.mozenda.com/blog/
+  blogrss: http://www.mozenda.com/blog/?feed=rss2
+  logo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1919-mozenda.jpg
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1919-mozenda.jpg
+  tags: API Provider,Enterprise,Profiled,SaaS,Scraping,Scraping Tools,Technology
+  apis: []
+- id: PYmWU5HSQQM116JC4zHAMTjAINPrfAR05biUtacsBAk40117
+  name: ParseHub
+  summary: ParseHub is a free web scraping tool.              With our advanced web
+    scraper, extracting data is as easy as              clicking the data you need.
+  details: ParseHub is a free web scraping tool.              With our advanced web
+    scraper, extracting data is as easy as              clicking the data you need.
+  website: https://www.parsehub.com/
+  twitter: https://twitter.com/parsehub
+  github: https://github.com/parsehub
+  blog: https://blog.parsehub.com/
+  blogrss: https://blog.parsehub.com/rss/
+  logo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11394-parsehub.jpg
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11394-parsehub.jpg
+  tags: SaaS,Scraping,Scraping Tools,Stack Network,Technology
+  apis: []
+- id: hg1Eww04wZnHpZkkFnfiWatjmMe4uyDyuKIwK5O8sXU117
+  name: PromptCloud
+  summary: Our web scraping service helps companies get the data they want, the way
+    they need it. We use web crawling, web scraping and data extraction technologies
+    to deliver clean and ready-to-use data.
+  details: Our web scraping service helps companies get the data they want, the way
+    they need it. We use web crawling, web scraping and data extraction technologies
+    to deliver clean and ready-to-use data.
+  website: http://promptcloud.com/
+  twitter: https://twitter.com/promptcloud
+  github: https://github.com/promptcloud
+  blog: http://blog.promptcloud.com/
+  blogrss: http://blog.promptcloud.com/feeds/posts/default?alt=rss
+  logo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2511-promptcloud.jpg
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2511-promptcloud.jpg
+  tags: Enterprise,internet,SaaS,Scraping,Scraping,Scraping Web Crawler,Technology
+  apis: []
+- id: wfvCb32TJ116NZFvb9sjRoCfBRWi1169PBM0nkfTX1VqrxY117
+  name: Saplo
+  summary: Saplo uses innovative semantic technologies to analyze text in a way that
+    mimic how humans read and evaluate text. Saplo help organisations extract and
+    refine valuable information hidden in large text collections. Saplo have five
+    different services; Entity Tagging, Topic Tags, Related &amp; Similar Articles,
+    Contextual recognition and Sentiment Analysis.
+  details: Saplo uses innovative semantic technologies to analyze text in a way that
+    mimic how humans read and evaluate text. Saplo help organisations extract and
+    refine valuable information hidden in large text collections. Saplo have five
+    different services; Entity Tagging, Topic Tags, Related &amp; Similar Articles,
+    Contextual recognition and Sentiment Analysis.
+  website: http://saplo.com
+  twitter: https://twitter.com/saplo
+  github: https://github.com/saplo
+  blog: http://saplo.com/blog/
+  blogrss: http://feeds.feedburner.com/saplo/
+  logo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/469_logo.png
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/469_logo.png
+  tags: Content,Machine Learning Scraping,Scraping,Text Analysis
+  apis: []
+- id: ebExPoPKI2DkOvegkMZo5GNxrHgvIxHtlRpgp7W123MrU117
+  name: ScrapeLogo
+  summary: ScrapeLogo has been discovered and developed by Maintop Businesses, originally
+    only for internal purposes. It was coded as an independent service for several
+    Maintop&rsquo;s B2B projects. When requests from other companies multiplied, a
+    private beta version was launched too. We are now looking for the first beta testers,
+    who would like to show company logos on their websites and help us improve th
+  details: ScrapeLogo has been discovered and developed by Maintop Businesses, originally
+    only for internal purposes. It was coded as an independent service for several
+    Maintop&rsquo;s B2B projects. When requests from other companies multiplied, a
+    private beta version was launched too. We are now looking for the first beta testers,
+    who would like to show company logos on their websites and help us improve the
+    quality and precision of our algorithm.
+  website: http://scrapelogo.com/
+  twitter: ""
+  github: ""
+  blog: ""
+  blogrss: ""
+  logo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/scrape-logo.png
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/scrape-logo.png
+  tags: Logo,Scraping,Scraping Tools
+  apis: []
+- id: 6Le1161mnIbmPZsEin9sib1BFeKN3123116lXzUC116UkB7yIXQ117
+  name: ScraperWiki
+  summary: ScraperWiki the company is now called @sensiblecodeio. ScraperWiki the
+    product is https://t.co/k0MbgXFINE. Also try our other product https://t.co/gp7nY2c3w5.
+  details: ScraperWiki the company is now called @sensiblecodeio. ScraperWiki the
+    product is https://t.co/k0MbgXFINE. Also try our other product https://t.co/gp7nY2c3w5.
+  website: https://scraperwiki.com/
+  twitter: https://twitter.com/scraperwiki
+  github: https://github.com/scraperwiki
+  blog: https://blog.scraperwiki.com/blog/
+  blogrss: https://blog.scraperwiki.com/feed/
+  logo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/247-scraperwiki.jpg
+  logo_width: "175"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/247-scraperwiki.jpg
+  tags: Enterprise,internet,SaaS,Scraping,Technology
+  apis: []
+- id: AhgJfkSVZPmMS6NPweUtGPV1TRAlwXsdMMhkLO5WGls117
+  name: Scrapinghub
+  summary: Complete platform for turning web pages into useful data!
+  details: Complete platform for turning web pages into useful data!
+  website: http://scrapinghub.com/
+  twitter: https://twitter.com/ScrapingHub
+  github: https://github.com/scrapinghub
+  blog: http://blog.scrapinghub.com/
+  blogrss: http://blog.scrapinghub.com/feed/
+  logo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2509-scrapinghub.jpg
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2509-scrapinghub.jpg
+  tags: Enterprise,SaaS,Scraping,Scraping Tools,Scraping Web Crawler,Scrapinging,Technology
+  apis: []
+- id: xibs5GZKrb7f4Wxo7fprxosCKf5waPQQzALrtEVS9Ug117
+  name: Scrapy
+  summary: The most popular open source web scraping framework in Python.
+  details: The most popular open source web scraping framework in Python.
+  website: http://scrapy.org/
+  twitter: https://twitter.com/ScrapyProject
+  github: https://github.com/scrapy
+  blog: ""
+  blogrss: ""
+  logo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11435-scrapy.jpg
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11435-scrapy.jpg
+  tags: Harvesting,SaaS,Scraping,Scraping Tools,Stack Network,Technology
+  apis: []
+- id: Y116t5XSg116ojiBGLG6wmpV5116njLQ5IbHQMPd116v89SvDw4117
+  name: Screen Scraper
+  summary: Web Data Extraction
+  details: Web Data Extraction
+  website: http://screen-scraper.com/
+  twitter: ""
+  github: ""
+  blog: http://blog.screen-scraper.com/
+  blogrss: http://feeds.feedburner.com/screen-scrapeable
+  logo: https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-butterfly.png
+  logo_width: "175"
+  screenshot: https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-butterfly.png
+  tags: Enterprise,SaaS,Scraping,Scraping,Scraping Tools,Technology
+  apis: []
+- id: QjoU9TVX9g7UpCc6kncGX4Cu2b1AVMGhnCASXlxkFus117
+  name: TextRazor
+  summary: The service provides analysis of selected text passages to identify named
+    entities and statements of fact with disambiguation to distinguish similar text
+    strings. It applies machine learning algorithms and natural language processing
+    to connect a text sample with a knowledge base and identify known elements and
+    their relationships. API methods support submission of a text sample to be parsed.
+  details: The service provides analysis of selected text passages to identify named
+    entities and statements of fact with disambiguation to distinguish similar text
+    strings. It applies machine learning algorithms and natural language processing
+    to connect a text sample with a knowledge base and identify known elements and
+    their relationships. API methods support submission of a text sample to be parsed.
+  website: http://www.textrazor.com
+  twitter: https://twitter.com/TextRazor
+  github: https://github.com/TextRazor
+  blog: ""
+  blogrss: ""
+  logo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/textrazor.gif
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/textrazor.gif
+  tags: Content,Machine Learning,Machine Learning Scraping,Scraping,Semantic,Stack
+    Network,Target
+  apis:
+  - api_id: SRxYozzUNl0g2nVeEUPmhg6u52c0eUiJaEPO7wgPo2A117
+    name: TextRazor
+    slug: textrazor
+    website: http://www.textrazor.com/documentation_rest
+    openapi-spec: ""
+    api-blueprint: ""
+    postman: ""
+    documentation: ""
+    sdk-io: ""
+- id: rDyF009clrIK4DDOSFY123116jnWDehJq4116gDFdLsAH0T70117
+  name: WrapAPI
+  summary: Build an API on top of any website. Turn any website...into a parameterized
+    APIBuild, share, and use APIs made from webpages. Use WrapAPI to scrape sites,
+    build better UIs, and automate online tasks.
+  details: Build an API on top of any website. Turn any website...into a parameterized
+    APIBuild, share, and use APIs made from webpages. Use WrapAPI to scrape sites,
+    build better UIs, and automate online tasks.
+  website: https://wrapapi.com
+  twitter: ""
+  github: ""
+  blog: ""
+  blogrss: ""
+  logo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19089-wrapapi.jpg
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19089-wrapapi.jpg
+  tags: Deployment,internet,SaaS,Scraping,Scraping Tools,Stack Network,Technology
+  apis: []

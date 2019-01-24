@@ -1,0 +1,86 @@
+swagger: "2.0"
+info:
+  title: Hostgroups API
+  description: The Hostgroups API.
+  version: 1.0.0
+host: api.truesight.bmc.com
+basePath: /
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /v1/hostgroups:
+    get:
+      summary: Get All Hostgroups
+      description: Get all of the Hostgroups in your account
+      operationId: get-all-hostgroups
+      responses:
+        200:
+          description: OK
+      tags:
+      - Hostgroups
+    post:
+      summary: Create Hostgroup
+      description: Create a Hostgroup
+      operationId: create-hostgroup
+      responses:
+        200:
+          description: OK
+      tags:
+      - Hostgroups
+  /v1/hostgroups/:hostgroupId:
+    delete:
+      summary: Delete Hostgroup
+      description: Delete an hostgroup
+      operationId: delete-hostgroup
+      parameters:
+      - in: query
+        name: hostgroupIdnThe hostgroup to deletenforceRemovenRemove the hostgroup,
+          even if it&#39;s being used by a dashboard or alarm
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Hostgroups
+    get:
+      summary: Get Hostgroup by Id
+      description: Retrieves a single hostgroup by its id
+      operationId: get-hostgroup-by-id
+      parameters:
+      - in: query
+        name: hostgroupIdnThe Id of the hostgroup you are requesting
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Hostgroups
+    put:
+      summary: Update Hostgroup
+      description: Update a Hostgroup
+      operationId: update-hostgroup
+      responses:
+        200:
+          description: OK
+      tags:
+      - Hostgroups
+  /v1/hostgroups/search:
+    get:
+      summary: Search Hostgroups
+      description: Searches the hostgroups in your account
+      operationId: search-hostgroups
+      parameters:
+      - in: query
+        name: namenThe hostgroup name to search for.  Currently supported search parameters:nnname
+          - search by the name of the hostgroup
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - Hostgroups
+definitions: []

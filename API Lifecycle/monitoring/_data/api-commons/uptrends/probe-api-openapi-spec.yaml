@@ -1,0 +1,82 @@
+swagger: "2.0"
+info:
+  title: Probe API
+  description: The Probe API.
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /probes:
+    get:
+      summary: List&lt;Probe&gt;
+      description: List all monitors
+      operationId: listltprobegt
+      responses:
+        200:
+          description: OK
+      tags:
+      - Probe
+    post:
+      summary: Probe
+      description: Create monitor
+      operationId: probe
+      responses:
+        200:
+          description: OK
+      tags:
+      - Probe
+  /probes/{ProbeGuid}:
+    delete:
+      summary: (empty)
+      description: Delete monitor
+      operationId: empty
+      responses:
+        200:
+          description: OK
+      tags:
+      - Probe
+    get:
+      summary: Probe
+      description: Get monitor
+      operationId: probe
+      responses:
+        200:
+          description: OK
+      tags:
+      - Probe
+    put:
+      summary: (empty)
+      description: Update monitor
+      operationId: empty
+      responses:
+        200:
+          description: OK
+      tags:
+      - Probe
+  ? '/probes/{ProbeGuid}/statistics? Start=&lt;startdate&gt;&amp;End=&lt;enddate&gt;&amp;Dimension=&lt;dimension&gt;u00a0rntttttttttttStart:
+    start date for the requested time period, formatted as yyyy/mm/dd End: end date
+    for the requested time period, format'
+  : get:
+      summary: List&lt;Statistics&gt;
+      description: List statistical data for a monitor
+      operationId: listltstatisticsgt
+      responses:
+        200:
+          description: OK
+      tags:
+      - Probe
+  /probes/{ProbeGuid}/status:
+    get:
+      summary: Status
+      description: Status of a single monitor
+      operationId: status
+      responses:
+        200:
+          description: OK
+      tags:
+      - Probe
+definitions: []

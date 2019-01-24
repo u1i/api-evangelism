@@ -1,0 +1,60 @@
+swagger: "2.0"
+info:
+  title: Alert Incident API
+  description: The Alert Incident API.
+  version: 1.0.0
+host: api.newrelic.com
+basePath: /
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /v2/alerts_incidents.{format}:
+    get:
+      summary: List
+      description: <p>This API endpoint returns a list of the Incidents associated
+        with your New Relic account.</p><p>See our documentation for a discussion
+        on <a href=https://docs.newrelic.com/docs/alerts/new-relic-alerts/rest-api-alerts/rest-api-calls-new-relic-alerts#incidents
+        target=_blank>listing incidents</a> and <a href=https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/pagination-api-output
+        target=_blank>output pagination</a>.</p>
+      operationId: list
+      parameters:
+      - in: query
+        name: page
+        description: Pagination index
+        type: integer
+      responses:
+        200:
+          description: OK
+      tags:
+      - Alert Incident
+definitions:
+  "":
+    properties:
+      incident:
+        description: This is a default description.
+        type: GET
+      id:
+        description: This is a default description.
+        type: GET
+      opened_at:
+        description: This is a default description.
+        type: GET
+      closed_at:
+        description: This is a default description.
+        type: GET
+      incident_preference:
+        description: This is a default description.
+        type: GET
+      links:
+        description: This is a default description.
+        type: GET
+      violations:
+        description: This is a default description.
+        type: GET
+      policy_id:
+        description: This is a default description.
+        type: GET

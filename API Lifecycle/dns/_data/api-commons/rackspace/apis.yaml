@@ -1,0 +1,98 @@
+name: Rackspace
+description: Rackspace is a recognized leader in the IT hosting market. We deliver
+  enterprise-level managed services to businesses of all sizes and kinds around the
+  world. Serving more than 14,000 customers in eight data centers worldwide, Rackspace
+  integrates the industry&rsquo;s best technologies and practices for each customer&rsquo;s
+  specific need and delivers it as a service via the company&rsquo;s promise of Fanatical
+  Support&Acirc;&reg;. We serve as an extension of our customers&rsquo; IT departments,
+  enabling them to focus on their core business. We got started in 1998 and since
+  then Rackspace has grown more than 50 percent a year. There are currently 2,000
+  Rackers around the world serving our customers.
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/rackspace-logo.jpg
+tags:
+- DNS
+created: "2016-10-23"
+modified: "2016-10-23"
+url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/rackspace/apis.yaml
+specificationVersion: "0.14"
+apis:
+- name: DNS Domains API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/rackspace-logo.jpg
+  humanURL: http://www.rackspace.com/
+  baseURL: http://www.rackspace.com/
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/rackspace/dns-domains-api-openapi-spec.yaml
+- name: DNS Limits API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/rackspace-logo.jpg
+  humanURL: http://www.rackspace.com/
+  baseURL: http://www.rackspace.com/
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/rackspace/dns-limits-api-openapi-spec.yaml
+- name: DNS Records API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/rackspace-logo.jpg
+  humanURL: http://www.rackspace.com/
+  baseURL: http://www.rackspace.com/
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/rackspace/dns-records-api-openapi-spec.yaml
+- name: DNS Subdomains API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/rackspace-logo.jpg
+  humanURL: http://www.rackspace.com/
+  baseURL: http://www.rackspace.com/
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/rackspace/dns-subdomains-api-openapi-spec.yaml
+- name: Rackspace Cloud DNS
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/rackspace-logo.jpg
+  humanURL: http://docs.rackspace.com/api/
+  baseURL: http://www.rackspace.com/
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/rackspace/rackspace-cloud-dns-openapi-spec.yaml
+- name: Reverse DNS API
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/rackspace-logo.jpg
+  humanURL: http://www.rackspace.com/
+  baseURL: http://www.rackspace.com/
+  tags:
+  - DNS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/api-evangelist/dns/gh-pages/_data/api-commons/rackspace/reverse-dns-api-openapi-spec.yaml
+x-common:
+- type: x-blog
+  url: http://www.rackspace.com/blog/
+- type: x-blog-rss-feed
+  url: http://www.rackspace.com/blog/feed/rss/
+- type: x-github
+  url: https://github.com/rackspace
+- type: x-twitter
+  url: https://twitter.com/rackspace
+- type: x-website
+  url: http://www.rackspace.com/
+- type: x-webinars
+  url: http://www.rackspace.com/
+- type: x-portal
+  url: http://www.rackspace.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

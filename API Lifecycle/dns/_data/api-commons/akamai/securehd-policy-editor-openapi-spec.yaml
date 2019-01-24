@@ -1,0 +1,338 @@
+swagger: "2.0"
+info:
+  title: SecureHD Policy Editor
+  description: Configure and apply various security services for your Akamai HD Network
+    media content, including Token Authorization, Content Targeting (GEO Protection),
+    Media Encryption and Player Verification protection.
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /config-media-security/v1/security:
+    get:
+      summary: List Policies
+      description: ""
+      operationId: configmediasecurityv1security
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    post:
+      summary: Create a Policy
+      description: ""
+      operationId: configmediasecurityv1security
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-media-security/v1/security/acgs:
+    get:
+      summary: List Access Control Groups
+      description: ""
+      operationId: configmediasecurityv1securityacgs
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-media-security/v1/security/countries:
+    get:
+      summary: List Countries
+      description: ""
+      operationId: configmediasecurityv1securitycountries
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-media-security/v1/security/dmas:
+    get:
+      summary: List Designated Market Areas
+      description: ""
+      operationId: configmediasecurityv1securitydmas
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-media-security/v1/security/live/{domain}/policy:
+    get:
+      summary: Get an HD Config Policy
+      description: ""
+      operationId: configmediasecurityv1securitylivedomainpolicy
+      parameters:
+      - in: String
+        name: domain
+        description: The fully qualified domain name for the host in question.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    put:
+      summary: Modify an HD Config Policy
+      description: ""
+      operationId: configmediasecurityv1securitylivedomainpolicy
+      parameters:
+      - in: String
+        name: domain
+        description: The fully qualified domain name for the host in question.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-media-security/v1/security/live/{domain}/policy/{environment}:
+    get:
+      summary: Get an HD Config Policy per Environment
+      description: ""
+      operationId: configmediasecurityv1securitylivedomainpolicyenvironment
+      parameters:
+      - in: String
+        name: domain
+        description: The fully qualified domain name for the host in question.
+        type: string
+      - in: Enumeration
+        name: environment
+        description: 'The environment. Possible values: Production, Staging.'
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-media-security/v1/security/live/{policyID}/policyassignments:
+    get:
+      summary: List Policy Assignments
+      description: ""
+      operationId: configmediasecurityv1securitylivepolicyidpolicyassignments
+      parameters:
+      - in: Number
+        name: policyID
+        description: The ID of the policy to fetch.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-media-security/v1/security/live/{policyID}/policyassignments/promote:
+    put:
+      summary: Promote a Policy Assignment
+      description: ""
+      operationId: configmediasecurityv1securitylivepolicyidpolicyassignmentspromote
+      parameters:
+      - in: Number
+        name: policyID
+        description: The ID of the policy to fetch.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-media-security/v1/security/live/{policyID}/policyassignments/revert:
+    put:
+      summary: Revert a Policy Assignment Promotion
+      description: ""
+      operationId: configmediasecurityv1securitylivepolicyidpolicyassignmentsrevert
+      parameters:
+      - in: Number
+        name: policyID
+        description: The ID of the policy to fetch.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-media-security/v1/security/live/{policyID}/policyassignments/{environment}:
+    get:
+      summary: Get a Policy Assignment
+      description: ""
+      operationId: configmediasecurityv1securitylivepolicyidpolicyassignmentsenvironment
+      parameters:
+      - in: Enumeration
+        name: environment
+        description: 'The environment. Possible values: Production, Staging.'
+        type: string
+      - in: Number
+        name: policyID
+        description: The ID of the policy to fetch.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-media-security/v1/security/regions:
+    get:
+      summary: List Regions
+      description: ""
+      operationId: configmediasecurityv1securityregions
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-media-security/v1/security/regions/{countryCode}:
+    get:
+      summary: List Regions per Country
+      description: ""
+      operationId: configmediasecurityv1securityregionscountrycode
+      parameters:
+      - in: String
+        name: countryCode
+        description: The country code.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-media-security/v1/security/{policyID}:
+    delete:
+      summary: Mark a Policy for Deletion
+      description: ""
+      operationId: configmediasecurityv1securitypolicyid
+      parameters:
+      - in: Number
+        name: policyID
+        description: The ID of the policy to fetch.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    get:
+      summary: Get a Policy
+      description: ""
+      operationId: configmediasecurityv1securitypolicyid
+      parameters:
+      - in: Number
+        name: policyID
+        description: The ID of the policy to fetch.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    put:
+      summary: Modify a Policy
+      description: ""
+      operationId: configmediasecurityv1securitypolicyid
+      parameters:
+      - in: Number
+        name: policyID
+        description: The ID of the policy to fetch.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-media-security/v1/security/{policyID}/clonePolicy:
+    post:
+      summary: Clone a Policy
+      description: ""
+      operationId: configmediasecurityv1securitypolicyidclonepolicy
+      parameters:
+      - in: Number
+        name: policyID
+        description: The ID of the policy to fetch.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-media-security/v1/security/{policyID}/promote:
+    put:
+      summary: Promote a Policy
+      description: ""
+      operationId: configmediasecurityv1securitypolicyidpromote
+      parameters:
+      - in: Number
+        name: policyID
+        description: The ID of the policy to fetch.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-media-security/v1/security/{policyID}/promoteDelete:
+    delete:
+      summary: Remove a Policy
+      description: ""
+      operationId: configmediasecurityv1securitypolicyidpromotedelete
+      parameters:
+      - in: Number
+        name: policyID
+        description: The ID of the policy to fetch.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-media-security/v1/security/{policyID}/revertDelete:
+    put:
+      summary: Restore a Policy Deletion
+      description: ""
+      operationId: configmediasecurityv1securitypolicyidrevertdelete
+      parameters:
+      - in: Number
+        name: policyID
+        description: The ID of the policy to fetch.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-media-security/v1/security/{policyID}/revertEdit:
+    put:
+      summary: Restore a Policy Edit
+      description: ""
+      operationId: configmediasecurityv1securitypolicyidrevertedit
+      parameters:
+      - in: Number
+        name: policyID
+        description: The ID of the policy to fetch.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /config-media-security/v1/security/{policyID}/{environment}:
+    get:
+      summary: Get Policy per Environment
+      description: ""
+      operationId: configmediasecurityv1securitypolicyidenvironment
+      parameters:
+      - in: Enumeration
+        name: environment
+        description: 'The environment. Possible values: Production, Staging.'
+        type: string
+      - in: Number
+        name: policyID
+        description: The ID of the policy to fetch.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

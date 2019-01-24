@@ -1,0 +1,229 @@
+swagger: "2.0"
+info:
+  title: CPS API
+  description: The Certificate Provisioning System API allows you to create and manage
+    certificates.
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /cps/v2/enrollments/{enrollmentId}:
+    get:
+      summary: Get an Enrollment
+      description: ""
+      operationId: cpsv2enrollmentsenrollmentid
+      parameters:
+      - in: Number
+        name: enrollmentId
+        description: Unique integer identifer for the enrollment.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /cps/v2/enrollments/{enrollmentId}/changes/{changeId}:
+    delete:
+      summary: Cancel a Change
+      description: ""
+      operationId: cpsv2enrollmentsenrollmentidchangeschangeid
+      parameters:
+      - in: Number
+        name: changeId
+        description: Unique integer identifer for the change.
+        type: string
+      - in: Number
+        name: enrollmentId
+        description: Unique integer identifer for the enrollment.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    get:
+      summary: Get Change Status
+      description: ""
+      operationId: cpsv2enrollmentsenrollmentidchangeschangeid
+      parameters:
+      - in: Number
+        name: changeId
+        description: Unique integer identifer for the change.
+        type: string
+      - in: Number
+        name: enrollmentId
+        description: Unique integer identifer for the enrollment.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /cps/v2/enrollments/{enrollmentId}/deployments/production:
+    get:
+      summary: Get a Certificate
+      description: ""
+      operationId: cpsv2enrollmentsenrollmentiddeploymentsproduction
+      parameters:
+      - in: Number
+        name: enrollmentId
+        description: Unique integer identifer for the enrollment.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /cps/v2/enrollments/{enrollmentId}{?deploy-not-before,deploy-not-after,allow-cancel-pending-changes}:
+    delete:
+      summary: Delete an Enrollment
+      description: ""
+      operationId: cpsv2enrollmentsenrollmentiddeploynotbeforedeploynotafterallowcancelpendingchanges
+      parameters:
+      - in: Boolean
+        name: allow-cancel-pending-changes
+        description: When enabled, allows this update to cancel and replace in-process
+          changes.
+        type: string
+      - in: String
+        name: deploy-not-after
+        description: The latest date the certificate can be deployed to the network,
+          formatted as YYYY-MM-DD.
+        type: string
+      - in: String
+        name: deploy-not-before
+        description: The earliest date the certificate can be deployed to the network,
+          formatted as YYYY-MM-DD.
+        type: string
+      - in: Number
+        name: enrollmentId
+        description: Integer identifier for the enrollment.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    put:
+      summary: Update an Enrollment
+      description: ""
+      operationId: cpsv2enrollmentsenrollmentiddeploynotbeforedeploynotafterallowcancelpendingchanges
+      parameters:
+      - in: Boolean
+        name: allow-cancel-pending-changes
+        description: When enabled, allows this update to cancel and replace in-process
+          changes.
+        type: string
+      - in: String
+        name: deploy-not-after
+        description: The latest date the certificate can be deployed to the network,
+          formatted as YYYY-MM-DD.
+        type: string
+      - in: String
+        name: deploy-not-before
+        description: The earliest date the certificate can be deployed to the network,
+          formatted as YYYY-MM-DD.
+        type: string
+      - in: Number
+        name: enrollmentId
+        description: Integer identifier for the enrollment.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /cps/v2/enrollments{?contractId}:
+    get:
+      summary: List Enrollments
+      description: ""
+      operationId: cpsv2enrollmentscontractid
+      parameters:
+      - in: String
+        name: contractId
+        description: Unique identifier for the contract under which to create a new
+          enrollment.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    post:
+      summary: Create an Enrollment
+      description: ""
+      operationId: cpsv2enrollmentscontractid
+      parameters:
+      - in: String
+        name: contractId
+        description: Unique identifier for the contract under which to create a new
+          enrollment.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /cps/v2/sample&#8211;404:
+    get:
+      summary: Get Sample 404 Response
+      description: ""
+      operationId: cpsv2sample8211404
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  /cps/v2/sample&#8211;500:
+    get:
+      summary: Get Sample 500 Response
+      description: ""
+      operationId: cpsv2sample8211500
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  info:
+    get:
+      summary: Confirm a Change
+      description: ""
+      operationId: info
+      parameters:
+      - in: Number
+        name: changeId
+        description: Unique integer identifer for the change.
+        type: string
+      - in: Number
+        name: enrollmentId
+        description: Unique integer identifer for the enrollment.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  update:
+    post:
+      summary: Submit a Change
+      description: ""
+      operationId: update
+      parameters:
+      - in: Number
+        name: changeId
+        description: Unique integer identifer for the change.
+        type: string
+      - in: Number
+        name: enrollmentId
+        description: Unique integer identifer for the enrollment.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

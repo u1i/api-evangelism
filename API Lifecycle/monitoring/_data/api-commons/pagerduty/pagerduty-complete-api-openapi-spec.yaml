@@ -1,0 +1,278 @@
+swagger: "2.0"
+info:
+  title: PagerDuty API
+  description: The PagerDuty API provides programmatic access to entities within a
+    PagerDuty account. It is designed around [RESTful principles](https://en.wikipedia.org/wiki/Representational_state_transfer)
+    with a path structure based on resources and their relationships.All requests
+    and responses are serialized in [JSON](https://en.wikipedia.org/wiki/JSON), including
+    error responses.Schema are designed to be reusable across requests and across
+    endpoints.More sophisticated API clients should treat PagerDuty resources as unique
+    objects keyed by the `id` field that can be used in any API request involving
+    resources of that type.Every resource contains a `type` field that identifies
+    the schema it uses.## Rate limitingEach account and authentication mechanism is
+    limited to the number of API requests it can make every minute. API requests that
+    exceed the API rate limit will return an [HTTP status code](error_codes.html#http_responses)
+    of 429. Different requests may affect your rate limit differently, so clients
+    should always be prepared to be rate limited and respond appropriately.## Read-Only
+    API KeysAPI requests made with read-only keys attempting to access endpoints with
+    methods other than `GET` will return an [HTTP status code](error_codes.html#http_responses)
+    of 403.## Error CodesMost APIs will return an error code from an unsuccessful
+    call. They are described [here](error_codes.html).
+  version: "2.0"
+host: api.pagerduty.com
+basePath: /
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths: []
+definitions:
+  IncidentUrgencyType:
+    properties:
+      type:
+        description: This is a default description.
+        type: get
+      urgency:
+        description: This is a default description.
+        type: get
+  SupportHours:
+    properties:
+      type:
+        description: This is a default description.
+        type: get
+      time_zone:
+        description: This is a default description.
+        type: get
+      days_of_week:
+        description: This is a default description.
+        type: get
+      start_time:
+        description: This is a default description.
+        type: get
+      end_time:
+        description: This is a default description.
+        type: get
+  Reference:
+    properties:
+      id:
+        description: This is a default description.
+        type: get
+      summary:
+        description: This is a default description.
+        type: get
+      type:
+        description: This is a default description.
+        type: get
+      self:
+        description: This is a default description.
+        type: get
+      html_url:
+        description: This is a default description.
+        type: get
+  IncidentNote:
+    properties:
+      id:
+        description: This is a default description.
+        type: get
+      content:
+        description: This is a default description.
+        type: get
+      created_at:
+        description: This is a default description.
+        type: get
+  Notification:
+    properties:
+      id:
+        description: This is a default description.
+        type: get
+      type:
+        description: This is a default description.
+        type: get
+      started_at:
+        description: This is a default description.
+        type: get
+      address:
+        description: This is a default description.
+        type: get
+  Context:
+    properties:
+      type:
+        description: This is a default description.
+        type: get
+  Channel:
+    properties:
+      type:
+        description: This is a default description.
+        type: get
+  LogEntryNotification:
+    properties:
+      type:
+        description: This is a default description.
+        type: get
+      status:
+        description: This is a default description.
+        type: get
+      address:
+        description: This is a default description.
+        type: get
+  ScheduledAction:
+    properties:
+      type:
+        description: This is a default description.
+        type: get
+      at:
+        description: This is a default description.
+        type: get
+      to_urgency:
+        description: This is a default description.
+        type: get
+  IncidentAction:
+    properties:
+      type:
+        description: This is a default description.
+        type: get
+      at:
+        description: This is a default description.
+        type: get
+  PushContactMethodSound:
+    properties:
+      type:
+        description: This is a default description.
+        type: get
+      file:
+        description: This is a default description.
+        type: get
+  EscalationRule:
+    properties:
+      id:
+        description: This is a default description.
+        type: get
+      escalation_delay_in_minutes:
+        description: This is a default description.
+        type: get
+      targets:
+        description: This is a default description.
+        type: get
+  SubSchedule:
+    properties:
+      name:
+        description: This is a default description.
+        type: get
+      rendered_schedule_entries:
+        description: This is a default description.
+        type: get
+      rendered_coverage_percentage:
+        description: This is a default description.
+        type: get
+  ScheduleLayer:
+    properties:
+      id:
+        description: This is a default description.
+        type: get
+      start:
+        description: This is a default description.
+        type: get
+      end:
+        description: This is a default description.
+        type: get
+      users:
+        description: This is a default description.
+        type: get
+      restrictions:
+        description: This is a default description.
+        type: get
+      rotation_virtual_start:
+        description: This is a default description.
+        type: get
+      rotation_turn_length_seconds:
+        description: This is a default description.
+        type: get
+      name:
+        description: This is a default description.
+        type: get
+      rendered_schedule_entries:
+        description: This is a default description.
+        type: get
+      rendered_coverage_percentage:
+        description: This is a default description.
+        type: get
+  ScheduleLayerEntry:
+    properties:
+      start:
+        description: This is a default description.
+        type: get
+      end:
+        description: This is a default description.
+        type: get
+  Override:
+    properties:
+      id:
+        description: This is a default description.
+        type: get
+      start:
+        description: This is a default description.
+        type: get
+      end:
+        description: This is a default description.
+        type: get
+  Restriction:
+    properties:
+      type:
+        description: This is a default description.
+        type: get
+      duration_seconds:
+        description: This is a default description.
+        type: get
+      start_time_of_day:
+        description: This is a default description.
+        type: get
+  Pagination:
+    properties:
+      offset:
+        description: This is a default description.
+        type: get
+      limit:
+        description: This is a default description.
+        type: get
+      more:
+        description: This is a default description.
+        type: get
+      total:
+        description: This is a default description.
+        type: get
+  Error:
+    properties: []
+  ErrorObject:
+    properties:
+      code:
+        description: This is a default description.
+        type: get
+      message:
+        description: This is a default description.
+        type: get
+      errors:
+        description: This is a default description.
+        type: get
+  Assignment:
+    properties:
+      at:
+        description: This is a default description.
+        type: get
+  Acknowledgement:
+    properties:
+      at:
+        description: This is a default description.
+        type: get
+  Oncall:
+    properties:
+      escalation_level:
+        description: This is a default description.
+        type: get
+      start:
+        description: This is a default description.
+        type: get
+      end:
+        description: This is a default description.
+        type: get

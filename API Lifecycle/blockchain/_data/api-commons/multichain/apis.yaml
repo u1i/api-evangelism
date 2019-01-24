@@ -1,0 +1,21 @@
+name: MultiChain
+description: Developers of MultiChain, the popular open source blockchain platform.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26510-www-multichain-com.jpg
+tags:
+- Technology
+- SaaS
+- Enterprise
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/multichain/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: https://www.multichain.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

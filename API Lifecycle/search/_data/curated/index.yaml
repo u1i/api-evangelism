@@ -1,0 +1,1784 @@
+---
+- curated_id: b1ae861d2d88ca390f93ca03310dc864
+  item_date: "2012-04-21 12:49:06"
+  title: Why Startups Need an API
+  url: https://tune.com/blog/startups-need-api/
+  domain: tune.com
+  image: ""
+- curated_id: 00371ef4fd842ec380ecae495627d43e
+  item_date: "2015-01-28 00:00:00"
+  title: NEST 1.4 released
+  url: https://www.elastic.co/blog/nest-1-4-released
+  domain: www.elastic.co
+  image: ""
+- curated_id: 6b76251b07276a52ddde860dd401606a
+  item_date: "2015-01-28 00:00:00"
+  title: This week in Elasticsearch
+  url: https://www.elastic.co/blog/2015-01-28this-week-in-elasticsearch
+  domain: www.elastic.co
+  image: ""
+- curated_id: 242842e0f62f2b5566f1a78040861ff5
+  item_date: "2015-04-08 00:00:00"
+  title: Announcing the Common Crawl Index!
+  url: http://blog.commoncrawl.org/2015/04/announcing-the-common-crawl-index/
+  domain: blog.commoncrawl.org
+  image: ""
+- curated_id: 51decad7789b447f3a81a41ed562d79b
+  item_date: "2015-04-20 00:00:00"
+  title: Google now lets you export your search history
+  url: http://venturebeat.com/2015/04/20/google-now-lets-you-export-your-search-history/
+  domain: venturebeat.com
+  image: ""
+- curated_id: 995570ed9b74bd188c0e259cdadb6946
+  item_date: "2015-04-22 00:00:00"
+  title: Google Enables JSON Search History Downloads
+  url: http://www.programmableweb.com/news/google-enables-json-search-history-downloads/2015/04/22
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: d74fc5e325df78caa335d48b9a1e1c5b
+  item_date: "2015-04-30 00:00:00"
+  title: Full-Text Search is now available for preview in Azure SQL Database
+  url: http://azure.microsoft.com/blog/2015/04/30/full-text-search-is-now-available-for-preview-in-azure-sql-database/
+  domain: azure.microsoft.com
+  image: ""
+- curated_id: c4cd4d7d5e19e01a63d34184a742e3b4
+  item_date: "2015-05-01 00:00:00"
+  title: Introduction to Elasticsearch scripting
+  url: http://blog.qbox.io/introduction-to-elasticsearch-scripting
+  domain: blog.qbox.io
+  image: ""
+- curated_id: 5037f6ef8911e4f653641da6ef836ecd
+  item_date: "2015-05-04 00:00:00"
+  title: 'Webhose.io API Adds Viral Post Search Capabilities '
+  url: http://www.programmableweb.com/news/webhose.io-api-adds-viral-post-search-capabilities/brief/2015/05/04
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 603c005dd6429beb2efd721a2ca76b79
+  item_date: "2015-05-05 00:00:00"
+  title: Peruse is a new natural-language search tool for your Dropbox and Box files
+  url: http://venturebeat.com/2015/05/05/peruse-launch/
+  domain: venturebeat.com
+  image: ""
+- curated_id: 1966e6f6dcacdd7af742f6ae0b91dece
+  item_date: "2015-05-07 00:00:00"
+  title: We Tested How Googlebot Crawls Javascript And Heres What We Learned
+  url: http://searchengineland.com/tested-googlebot-crawls-javascript-heres-learned-220157
+  domain: searchengineland.com
+  image: ""
+- curated_id: e48dc4bd2812933ce52e722dc54f221d
+  item_date: "2015-05-08 00:00:00"
+  title: Sensay Replaces the Search Engine with Human Conversation Using Twilio SMS
+  url: https://www.twilio.com/blog/2015/05/sensay-replaces-the-search-engine-with-human-conversation-using-twilio-sms.html
+  domain: www.twilio.com
+  image: ""
+- curated_id: ef26a1931edbaad47a870f78013edbec
+  item_date: "2015-05-14 00:00:00"
+  title: Venom and Your Qbox Elasticsearch Instances
+  url: http://blog.qbox.io/venom-and-your-qbox-elaticsearch-instances
+  domain: blog.qbox.io
+  image: ""
+- curated_id: 6677877d8b12716b3a570ff8fa800e6d
+  item_date: "2015-05-20 00:00:00"
+  title: Big data search startup Maana launches with $14.2M
+  url: https://hasquotes.wordpress.com/2015/05/20/big-data-search-startup-maana-launches-with-14-2m/
+  domain: hasquotes.wordpress.com
+  image: ""
+- curated_id: 3a45b3723a8ef3512eeb3df25edbf10f
+  item_date: "2015-05-20 00:00:00"
+  title: Elasticsearch ? A High-Performance Full-Text Search Engine
+  url: https://qbox.io/blog/elasticsearch-as-a-high-performance-full-text-search-engine
+  domain: qbox.io
+  image: ""
+- curated_id: 07820e67372e1d522dd3feece182d6fa
+  item_date: "2015-05-21 00:00:00"
+  title: Twitter is back in Google?s search results
+  url: http://royal.pingdom.com/2015/05/21/twitter-back-google-search-results/
+  domain: royal.pingdom.com
+  image: ""
+- curated_id: 5009563a030035eea6de9cd1c396fdfc
+  item_date: "2015-05-21 00:00:00"
+  title: Algolia Strengthens API Market Position With UX Search
+  url: http://www.programmableweb.com/news/algolia-strengthens-api-market-position-ux-search/2015/05/21
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: bcd4fbee4e317f56ed4ba7e51e9fcb2b
+  item_date: "2015-05-22 00:00:00"
+  title: Google Search Console now shows you how well your in-app content is performing
+  url: http://thenextweb.com/dd/2015/05/22/google-search-console-now-shows-you-how-well-your-in-app-content-is-performing/
+  domain: thenextweb.com
+  image: ""
+- curated_id: e7fddadce0f45334dc98b9c6a1f23abe
+  item_date: "2015-05-22 00:00:00"
+  title: Webhose.io API Now Features Similarity Search
+  url: http://www.programmableweb.com/news/webhose.io-api-now-features-similarity-search/brief/2015/05/22
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: b568f6f2c8d3ef1e3ada5c451386fcb5
+  item_date: "2015-05-25 00:00:00"
+  title: configuring similarity algorithms elasticsearch
+  url: http://stackoverflow.com/questions/30461031/configuring-similarity-algorithms-elasticsearch
+  domain: stackoverflow.com
+  image: ""
+- curated_id: c40e155a7b2c4498ebe9df959f7e125d
+  item_date: "2015-05-26 00:00:00"
+  title: Tools for Monitoring Elasticsearch Performance
+  url: https://qbox.io/blog/tools-for-monitoring-elasticsearch-performance
+  domain: qbox.io
+  image: ""
+- curated_id: a905c640ed06f48e05b4052bcc9813ab
+  item_date: "2015-05-27 00:00:00"
+  title: Google Search starts indexing iOS apps
+  url: http://venturebeat.com/2015/05/27/google-search-starts-indexing-ios-apps/
+  domain: venturebeat.com
+  image: ""
+- curated_id: a179653e6bab4eab5051f7c54b224ce4
+  item_date: "2015-05-28 16:15:32"
+  title: Indexing Common Crawl Metadata on Amazon EMR Using Cascading and Elasticsearch
+  url: http://blogs.aws.amazon.com/bigdata/post/TxC0CXZ3RPPK7O/Indexing-Common-Crawl-Metadata-on-Amazon-EMR-Using-Cascading-and-Elasticsearch
+  domain: blogs.aws.amazon.com
+  image: ""
+- curated_id: e78daa9e4c6ab627d7307de206bddd88
+  item_date: "2015-06-01 00:00:00"
+  title: Illuminating the jargon of criminal justice data with Elasticsearch
+  url: http://sunlightfoundation.com/blog/2015/06/02/illuminating-the-jargon-of-criminal-justice-data-with-elasticsearch/
+  domain: sunlightfoundation.com
+  image: ""
+- curated_id: e7bb44e432e7aed2a3d71310eaf3383c
+  item_date: "2015-06-02 00:00:00"
+  title: Full Text Search and Analytics for Websites and Multiple Data Sources
+  url: http://www.searchblox.com/full-text-search-and-analytics-for-websites-and-multiple-data-sources
+  domain: www.searchblox.com
+  image: ""
+- curated_id: f37a42f79d1c09742155a7cb70434509
+  item_date: "2015-06-08 00:00:00"
+  title: Apple?s new search API means war for Google
+  url: http://thenextweb.com/opinion/2015/06/08/apples-new-search-api-means-war-for-google/
+  domain: thenextweb.com
+  image: ""
+- curated_id: 8d3d624df8858785de47b5d516cd273b
+  item_date: "2015-06-08 00:00:00"
+  title: Apple Deep Links Siri Into Apps To Improve Search
+  url: http://www.mediapost.com/publications/article/251518/apple-deep-links-siri-into-apps-to-improve-search.html
+  domain: www.mediapost.com
+  image: ""
+- curated_id: ac2ee777913a916b12ac45c5c3b856af
+  item_date: "2015-06-09 00:00:00"
+  title: ' Apple Search API Heats Up Google Deep Linking Battle'
+  url: http://www.programmableweb.com/news/apple-search-api-heats-google-deep-linking-battle/2015/06/09
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 3c257276c75023838bd7fc2bae489442
+  item_date: "2015-06-19 00:00:00"
+  title: The Rise of DuckDuckGo
+  url: http://www.fastcompany.com/3046943/how-duckduckgo-rode-a-wave-of-post-snowden-anxiety-to-massive-growth
+  domain: www.fastcompany.com
+  image: ""
+- curated_id: 5c85241678b793e229a96b0a9c218e7e
+  item_date: "2015-06-22 00:00:00"
+  title: 'Elasticsearch and elasticity: building a search for government documents'
+  url: https://blog.scraperwiki.com/2015/06/elasticsearch-and-elasticity-building-a-search-for-government-documents/
+  domain: blog.scraperwiki.com
+  image: ""
+- curated_id: e3852cfab5b46283822988b80763132c
+  item_date: "2015-07-01 00:00:00"
+  title: 'Inside Azure Search: Chaos Engineering'
+  url: http://azure.microsoft.com/blog/2015/07/01/inside-azure-search-chaos-engineering/
+  domain: azure.microsoft.com
+  image: ""
+- curated_id: 36f92c566d5b0656c169e2e5ca8810d3
+  item_date: "2015-08-20 00:00:00"
+  title: New Bing API Adds Context-Aware Search to Mobile Apps
+  url: http://www.eweek.com/mobile/new-bing-api-adds-context-aware-search-to-mobile-apps.html
+  domain: www.eweek.com
+  image: ""
+- curated_id: e5fe3b88a530c1438a86a9531f9eaa65
+  item_date: "2015-08-20 00:00:00"
+  title: 'First Do No Harm: Four Things You Should Never do with Elasticsearch'
+  url: http://blog.qbox.io/important-things-never-do-with-elasticsearch
+  domain: blog.qbox.io
+  image: ""
+- curated_id: e5c1a35f392ee7b37dc3fac5ba8f1101
+  item_date: "2015-08-26 00:00:00"
+  title: Introducing OpenCorporates Advanced Search ? more powerful than ever before
+  url: https://blog.opencorporates.com/2015/08/26/introducing-opencorporates-advanced-search-powerful-than-ever-before/
+  domain: blog.opencorporates.com
+  image: ""
+- curated_id: a249c96703ff1dede1bf3f4caca60282
+  item_date: "2015-08-28 00:00:00"
+  title: Search startup Qbox raises $2.4M as it develops ?Project Gossamer?
+  url: http://venturebeat.com/2015/08/28/search-startup-qbox-raises-2-4m-as-it-develops-project-gossamer/
+  domain: venturebeat.com
+  image: ""
+- curated_id: 9f5ca91ce6388c93fec961df490bf78c
+  item_date: "2015-09-02 00:00:00"
+  title: Google CSV Download Scripts Replaced by Search Analytics API
+  url: http://www.programmableweb.com/news/google-csv-download-scripts-replaced-search-analytics-api/brief/2015/09/02
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 8771e1632c5cf28370bc150c19a3028e
+  item_date: "2015-11-25 15:40:55"
+  title: E-commerce search with instantsearch.js by Algolia
+  url: https://community.algolia.com/instantsearch.js/examples/e-commerce/
+  domain: community.algolia.com
+  image: ""
+- curated_id: 0121c594e3857c76a35a5fa7f93d0b23
+  item_date: "2015-12-08 00:00:00"
+  title: 'SQuery: Semantic Database Search'
+  url: http://blog.alchemyapi.com/squery-semantic-database-search
+  domain: blog.alchemyapi.com
+  image: ""
+- curated_id: 5bf56e26e83e422ee1b1bc166a886ef7
+  item_date: "2015-12-16 00:00:00"
+  title: 'Tools we use: Curator for Elasticsearch'
+  url: http://blog.postmarkapp.com/post/134799378298/tools-we-use-curator-for-elasticsearch#_=_
+  domain: blog.postmarkapp.com
+  image: ""
+- curated_id: 1b1c4fd149708ee3a596eb9662be2d94
+  item_date: "2016-01-05 00:00:00"
+  title: 'Article: Exposing the Lucene Library as a Microservice with Baratine'
+  url: http://www.infoq.com/articles/Building-a-Lucene-Microservice-with-Baratine
+  domain: www.infoq.com
+  image: ""
+- curated_id: 7a35b549e5fbbd4c9e615c768efd19bb
+  item_date: "2016-01-06 00:00:00"
+  title: New privacy-focused search engine promises to never sell or store your data
+  url: http://thenextweb.com/insider/2016/01/06/new-privacy-focused-search-engine-promises-to-never-sell-or-store-your-data/
+  domain: thenextweb.com
+  image: ""
+- curated_id: 284f2906fb8ead14617ce1ccb51e5a8e
+  item_date: "2016-01-07 15:25:14"
+  title: instantsearch.js
+  url: https://community.algolia.com/instantsearch.js/
+  domain: community.algolia.com
+  image: ""
+- curated_id: d9245e3fd3bfc214c76bde02f08f2091
+  item_date: "2016-01-18 00:00:00"
+  title: Google Announces Retirement of Several Search APIs
+  url: http://www.programmableweb.com/news/google-announces-retirement-several-search-apis/2016/01/18
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 8cb14e86e86d236fe05704f0454ef43a
+  item_date: "2016-01-25 00:00:00"
+  title: Using Filebeat to Send ElasticSearch Logs to Logsene
+  url: https://dzone.com/articles/using-filebeat-to-send-elasticsearch-logs-to-logse-1
+  domain: dzone.com
+  image: ""
+- curated_id: 35bf920e9e5ae0d88a2da7570bb2c24a
+  item_date: "2016-01-26 00:00:00"
+  title: Building a better iStyles shopping experience with Algolia search
+  url: https://blog.algolia.com/building-a-better-istyles-shopping-experience-with-algolia-search/
+  domain: blog.algolia.com
+  image: ""
+- curated_id: fe4fad139689d857e7388d6cd7d5fd84
+  item_date: "2016-02-01 14:25:03"
+  title: Introduction to Elasticsearch Scripting
+  url: http://okt.to/AE40R5
+  domain: okt.to
+  image: ""
+- curated_id: 473d1f28d317417625056a6f58e57b37
+  item_date: "2016-02-04 00:00:00"
+  title: Running High Performance and Fault Tolerant Elasticsearch Clusters on Docker
+  url: https://dzone.com/articles/running-high-performance-and-fault-tolerant-elasti-2
+  domain: dzone.com
+  image: ""
+- curated_id: 0e9368657ebb5b3c7e4066c9fe335d87
+  item_date: "2016-02-09 00:00:00"
+  title: Were Thrilled to Announce... Moz Local Insights Released from Beta!
+  url: https://moz.com/blog/moz-local-search-insights-announcement-part-2
+  domain: moz.com
+  image: ""
+- curated_id: a213003474eed467ae1b6b5ab5cb4c3a
+  item_date: "2016-02-09 00:00:00"
+  title: 'Tools we use: Curator for Elasticsearch'
+  url: https://postmarkapp.com/blog/tools-we-use-curator-for-elasticsearch
+  domain: postmarkapp.com
+  image: ""
+- curated_id: 07bb0fa82ab37840e3da2fcb20839b87
+  item_date: "2016-02-09 00:00:00"
+  title: 'Solr vs Elasticsearch: Battle of The Query DSLs'
+  url: https://dzone.com/articles/solr-vs-elasticsearch-battle-of-the-query-dsls
+  domain: dzone.com
+  image: ""
+- curated_id: 45bc0c0ef2729b0a30626c679f60a644
+  item_date: "2016-02-10 00:00:00"
+  title: 'Scaling Elasticsearch: Sharding and Availability for Millions of Documents'
+  url: https://dzone.com/articles/scaling-elasticsearch-sharding-and-availability-fo
+  domain: dzone.com
+  image: ""
+- curated_id: 995f048cf50b0542615e68feaa494d68
+  item_date: "2016-02-12 10:58:01"
+  title: A Laymans Visual Guide To Googles Knowledge Graph Search API
+  url: http://searchengineland.com/laymans-visual-guide-googles-knowledge-graph-search-api-241935
+  domain: searchengineland.com
+  image: ""
+- curated_id: 7c0bbd44e9943f4d41afd4fdc0724c26
+  item_date: "2016-02-25 09:03:17"
+  title: Geo-Search on steroid! | Milliseconds Matter
+  url: https://blog.algolia.com/geo-search-on-steroid/
+  domain: blog.algolia.com
+  image: ""
+- curated_id: bc2baf7fcafaede3e2f1ba571930141b
+  item_date: "2016-03-01 00:00:00"
+  title: MongoDB Collection simplifies your search and visualization
+  url: http://www.searchblox.com/mongodb-collection-simplifies-your-search-and-visualization
+  domain: www.searchblox.com
+  image: ""
+- curated_id: dd815a482388463cdb9e40ea7bf4c1b1
+  item_date: "2016-03-07 00:00:00"
+  title: Apache Solr High Speed Data Integration Plugin
+  url: http://www.talend.com/blog/2016/03/07/apache-solr-high-speed-data-integration-plugin
+  domain: www.talend.com
+  image: ""
+- curated_id: 7e18a9e2445eb001a01a74f62d2fc816
+  item_date: "2016-03-09 00:00:00"
+  title: Retirement of certain Google search APIs
+  url: https://developers.googleblog.com/2016/01/retirement-of-certain-google-search-apis.html
+  domain: developers.googleblog.com
+  image: ""
+- curated_id: 282985a573815967f389bdbb1f2c38f0
+  item_date: "2016-03-11 00:00:00"
+  title: ElasticBox introduces ElasticKube to help manage Kubernetes within the enterprise
+  url: http://blog.kubernetes.io/2016/03/elasticbox-introduces-elastickube-to.html
+  domain: blog.kubernetes.io
+  image: ""
+- curated_id: 300754bd1dad99ad4390601337a195d0
+  item_date: "2016-03-16 00:00:00"
+  title: Estimating Costs of Storing Documents in Elasticsearch
+  url: https://dzone.com/articles/estimating-costs-of-storing-documents-in-elasticse
+  domain: dzone.com
+  image: ""
+- curated_id: b6e21032389198574e50f0605b3a46bf
+  item_date: "2016-03-17 00:00:00"
+  title: Microsoft Launches Dev Preview for New Bing Search APIs
+  url: http://www.programmableweb.com/news/microsoft-launches-dev-preview-new-bing-search-apis/brief/2016/03/17
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 061aa49e42615429f06675c0fe4b5de8
+  item_date: "2016-03-22 00:00:00"
+  title: 'Moz Local Industry Report: Whos Winning Wireless Searches?'
+  url: https://moz.com/blog/moz-local-industry-report-whos-winning-wireless-searches
+  domain: moz.com
+  image: ""
+- curated_id: 1a6e2e0391768806507678f7930b0641
+  item_date: "2016-03-22 00:00:00"
+  title: Bing Webmaster API
+  url: https://msdn.microsoft.com/en-us/library/hh969349
+  domain: msdn.microsoft.com
+  image: ""
+- curated_id: 3acf878c44a1c9f56be80593fc955924
+  item_date: "2016-04-02 00:00:00"
+  title: Reindexing Data With Elasticsearch
+  url: https://dzone.com/articles/reindexing-data-with-elasticsearch-1
+  domain: dzone.com
+  image: ""
+- curated_id: 5c975ebce4b89683aeede723d3786ac5
+  item_date: "2016-04-08 00:00:00"
+  title: Planning and Creating Azure Search Indexes
+  url: https://dzone.com/articles/planning-and-creating-azure-search-indexes
+  domain: dzone.com
+  image: ""
+- curated_id: 83154afb25682a85783e961aeafbd4ab
+  item_date: "2016-04-12 00:00:00"
+  title: Crawling a website with the SearchBlox API
+  url: http://www.searchblox.com/crawling-website-searchblox-api
+  domain: www.searchblox.com
+  image: ""
+- curated_id: ad021df4938deb8ddb06cf44a88ab746
+  item_date: "2016-04-19 00:00:00"
+  title: Amazon Kinesis Update ? Amazon Elasticsearch Service Integration,  Shard-Level
+    Metrics, Time-Based Iterators
+  url: https://aws.amazon.com/blogs/aws/amazon-kinesis-update-amazon-elasticsearch-service-integration-shard-level-metrics-time-based-iterators/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: a44768612907e0e56ec4ce1bbd05806f
+  item_date: "2016-04-27 00:00:00"
+  title: Solr 6, SolrCloud and SQL Queries
+  url: https://dzone.com/articles/solr-6-solrcloud-and-sql-queries-1
+  domain: dzone.com
+  image: ""
+- curated_id: 61a9a030c4805eeed799340e94634738
+  item_date: "2016-05-03 00:00:00"
+  title: How to Control Access to Your Amazon Elasticsearch Service Domain
+  url: https://blogs.aws.amazon.com/security/post/Tx3VP208IBVASUQ/How-to-Control-Access-to-Your-Amazon-Elasticsearch-Service-Domain
+  domain: blogs.aws.amazon.com
+  image: ""
+- curated_id: 09e13a1fc2b4a3266c60d258668e3594
+  item_date: "2016-05-03 00:00:00"
+  title: 'Announcing Keyword Explorer: Mozs New Keyword Research Tool'
+  url: https://moz.com/blog/announcing-keyword-explorer-mozs-new-keyword-research-tool
+  domain: moz.com
+  image: ""
+- curated_id: bc34e0f9db5735afd6f4e35fc170e6eb
+  item_date: "2016-05-03 00:00:00"
+  title: Google Search Appliance Connectors integrated with SearchBlox
+  url: http://www.searchblox.com/google-search-appliance-connector-integrated-searchblox
+  domain: www.searchblox.com
+  image: ""
+- curated_id: 1e454ac25dbe2dc43e8a6437c9ee7d64
+  item_date: "2016-05-05 00:00:00"
+  title: Introducing Omnisearch
+  url: https://blog.twitter.com/2016/introducing-omnisearch
+  domain: blog.twitter.com
+  image: ""
+- curated_id: aa1405eb765b7ed495eff79a60a79950
+  item_date: "2016-05-06 00:00:00"
+  title: Reducing precision in custom ranking values
+  url: https://blog.algolia.com/reducing-precision-custom-ranking-values/
+  domain: blog.algolia.com
+  image: ""
+- curated_id: 8972f0aff5eb1cf938a50dadd49588ce
+  item_date: "2016-05-10 00:00:00"
+  title: Introducing Improved User Search Functionality in the IAM Console
+  url: https://blogs.aws.amazon.com/security/post/Tx2GTHP2XG5MH7T/Introducing-Improved-User-Search-Functionality-in-the-IAM-Console
+  domain: blogs.aws.amazon.com
+  image: ""
+- curated_id: 72345e727af43b4ffc0289bad52e54f1
+  item_date: "2016-05-10 00:00:00"
+  title: An Exploration of Podcasting SEO in 2016
+  url: https://moz.com/blog/a-look-at-podcasting-seo-in-2016
+  domain: moz.com
+  image: ""
+- curated_id: ea07ea5ac41f56c48c2283de38db5704
+  item_date: "2016-05-11 00:00:00"
+  title: 'Moz Local: Fixing the Accuracy Pain Point'
+  url: https://moz.com/blog/moz-local-dashboard-updates
+  domain: moz.com
+  image: ""
+- curated_id: 529d1066fe0508b63eac5ad641c08fbf
+  item_date: "2016-05-16 00:00:00"
+  title: Search your knowledge base quickly and easily with Algolia for Zendesk
+  url: https://blog.algolia.com/search-your-kb-quickly-easily-algolia-zendesk/
+  domain: blog.algolia.com
+  image: ""
+- curated_id: 1c7edfb88e90327e63bbfd79f6a58d84
+  item_date: "2016-05-18 00:00:00"
+  title: An Introduction to Elasticsearch
+  url: https://dzone.com/articles/an-introduction-to-elasticsearch
+  domain: dzone.com
+  image: ""
+- curated_id: 51bff0647abd08a548e6e95caa4e98c2
+  item_date: "2016-05-25 00:00:00"
+  title: Inside the Algolia engine part 3?query processing
+  url: https://blog.algolia.com/inside-the-algolia-engine-part-3-query-processing/
+  domain: blog.algolia.com
+  image: ""
+- curated_id: 097bf1e53468fb8095e6f76e2733ff2d
+  item_date: "2016-05-25 00:00:00"
+  title: 'Search Technology: Behind the Scenes'
+  url: https://blog.octopart.com/archives/2016/05/search-technology-behind-the-scenes-1
+  domain: blog.octopart.com
+  image: ""
+- curated_id: 442dc204e93ecb6123c0cecc2de9dd22
+  item_date: "2016-06-03 00:00:00"
+  title: Sourcegraph for GitHub ? Browse and search GitHub like an IDE
+  url: https://chrome.google.com/webstore/detail/sourcegraph-for-github/dgjhfomjieaadpoljlnidmbgkdffpack
+  domain: chrome.google.com
+  image: ""
+- curated_id: 79c09936e038501f176ac89a9a2abd55
+  item_date: "2016-06-06 00:00:00"
+  title: Amazon Search Outage Offers Two Lessons
+  url: https://dzone.com/articles/amazon-search-outage-offers-two-lessons
+  domain: dzone.com
+  image: ""
+- curated_id: 4196cf0984e0914320df65a58fc53356
+  item_date: "2016-06-07 00:00:00"
+  title: Elastic Query in Azure SQL Database and Views
+  url: https://dzone.com/articles/elastic-query-in-azure-sql-database-and-views
+  domain: dzone.com
+  image: ""
+- curated_id: 25578e17a6d7654087e18ff6cfc7d34f
+  item_date: "2016-06-13 00:00:00"
+  title: How Algolia Increased TradePub.com?s Search Conversions by 70%
+  url: https://blog.algolia.com/how-algolia-increased-tradepub-coms-search-conversions-by-70/
+  domain: blog.algolia.com
+  image: ""
+- curated_id: 3198015cabeff7d174bb51e56f96cefd
+  item_date: "2016-06-15 00:00:00"
+  title: Introducing Algolia Places
+  url: https://blog.algolia.com/introducing-algolia-places/
+  domain: blog.algolia.com
+  image: ""
+- curated_id: f2906ecfecd5856fb2a7bc5d25abcfb0
+  item_date: "2016-06-15 00:00:00"
+  title: Algolia Places ? Intelligent address autocomplete for any &lt;input&gt;
+  url: https://community.algolia.com/places/
+  domain: community.algolia.com
+  image: ""
+- curated_id: 95e810cb24e2eb083d452c6cc430d494
+  item_date: "2016-06-21 00:00:00"
+  title: 'Apache Solr vs Elasticsearch: The Feature Smackdown'
+  url: http://techutils.in/2016/06/21/apache-solr-vs-elasticsearch-the-feature-smackdown/
+  domain: techutils.in
+  image: ""
+- curated_id: e106e02bf78f80eaf4041db297b99c05
+  item_date: "2016-06-22 00:00:00"
+  title: 'Google vs. Microsoft Bing Search APIs: A Detailed Comparison'
+  url: http://www.programmableweb.com/news/google-vs.-microsoft-bing-search-apis-detailed-comparison/analysis/2016/06/22
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 93b4d0efcb50e120b6c2ebd18d64a86c
+  item_date: "2016-06-22 00:00:00"
+  title: Developers Choices Are Few When it Comes to Web Search APIs
+  url: http://www.programmableweb.com/news/developers-choices-are-few-when-it-comes-to-web-search-apis/analysis/2016/06/22
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: de81aeace1bc5382a7d7cb8feafb5821
+  item_date: "2016-06-23 00:00:00"
+  title: IP and User Agent Lookup API Search Tool (Search)
+  url: https://codecanyon.net/item/ip-and-user-agent-lookup-api-search-tool/16750113
+  domain: codecanyon.net
+  image: ""
+- curated_id: 1356463bd493fb9c2c0f861ea0500aa6
+  item_date: "2016-06-24 00:00:00"
+  title: Running Elasticsearch on AWS
+  url: https://dzone.com/articles/running-elasticsearch-on-aws
+  domain: dzone.com
+  image: ""
+- curated_id: 291e8f3fd225afc5e15936b8a1b495cd
+  item_date: "2016-06-24 00:00:00"
+  title: Uncoiling the Data in DNA With Elasticsearch
+  url: https://dzone.com/articles/uncoiling-the-data-in-dna-with-elasticsearch
+  domain: dzone.com
+  image: ""
+- curated_id: 70f8135787d3a049c41c2a94bdf89755
+  item_date: "2016-07-01 00:00:00"
+  title: Using Google Tag Manager to Dynamically Generate Schema/JSON-LD Tags
+  url: https://moz.com/blog/using-google-tag-manager-to-dynamically-generate-schema-org-json-ld-tags
+  domain: moz.com
+  image: ""
+- curated_id: 7d3384a35e49543dd2fbec55246619be
+  item_date: "2016-07-01 00:00:00"
+  title: Google Site Search vs. SearchBlox Cloud Search
+  url: http://www.searchblox.com/google-site-search-vs-searchblox-cloud-search
+  domain: www.searchblox.com
+  image: ""
+- curated_id: 8927bff85b8a78ad9f8db68d05e229c9
+  item_date: "2016-07-01 00:00:00"
+  title: New Bing APIs now available for purchase
+  url: https://blogs.msdn.microsoft.com/bingdevcenter/2016/07/01/bing-apis-now-available-for-purchase/
+  domain: blogs.msdn.microsoft.com
+  image: ""
+- curated_id: d319f9c17c915c1fcb650918113d21dc
+  item_date: "2016-07-02 00:00:00"
+  title: Business Data Spider
+  url: https://codecanyon.net/item/business-data-spider/16852865
+  domain: codecanyon.net
+  image: ""
+- curated_id: a6279a307bb6b47814475ebdc45c207a
+  item_date: "2016-07-11 00:00:00"
+  title: Couchbase PHP SDK 2.2.0 ? Example With Full Text Search
+  url: https://dzone.com/articles/php-sdk-220-example-with-full-text-search
+  domain: dzone.com
+  image: ""
+- curated_id: c644b07ed9e25c5375ddc3239bf8d7d2
+  item_date: "2016-07-13 00:00:00"
+  title: Getting started with Elasticsearch and Node.js - Part 3
+  url: https://www.compose.com/articles/getting-started-with-elasticsearch-and-node-js-part-3/
+  domain: www.compose.com
+  image: ""
+- curated_id: 687e74e4bec0d3564b22524c2aa18bce
+  item_date: "2016-07-21 00:00:00"
+  title: RethinkDB Joinery
+  url: https://www.compose.com/articles/rethinkdb-joinery/
+  domain: www.compose.com
+  image: ""
+- curated_id: 471bdd1b2fec8ba6b96c2e1d565e9f25
+  item_date: "2016-07-26 00:00:00"
+  title: Local Google Results Scraper
+  url: https://codecanyon.net/item/local-google-results-scraper-php-class/17195769
+  domain: codecanyon.net
+  image: ""
+- curated_id: a00c793e8810c04d01781edeb54c1c5a
+  item_date: "2016-08-04 00:00:00"
+  title: How to search in Slack
+  url: https://medium.com/m/global-identity
+  domain: medium.com
+  image: ""
+- curated_id: 3ee65b8bcfd5dd0a71b0df07a39af3f4
+  item_date: "2016-08-04 00:00:00"
+  title: How To Implement Product Search by URL
+  url: http://www.indix.com/blog/developer/how-to-implement-product-search-by-url/
+  domain: www.indix.com
+  image: ""
+- curated_id: 409d114f2ccabcbe6e2e9c15ad2c8e4c
+  item_date: "2016-08-05 00:00:00"
+  title: 'Behind the Scenes: Algolia Places'
+  url: https://blog.algolia.com/behind-the-scenes-algolia-places/
+  domain: blog.algolia.com
+  image: ""
+- curated_id: 50690ac8b534ae7e6a23872db05671c7
+  item_date: "2016-08-09 00:00:00"
+  title: July 2016 Crawl Archive Now Available
+  url: http://commoncrawl.org/2016/08/july-2016-crawl-archive-now-available/
+  domain: commoncrawl.org
+  image: ""
+- curated_id: 3aeb35eea8134821d1f089811df27cde
+  item_date: "2016-08-28 00:00:00"
+  title: Scaling Elasticsearch
+  url: https://dzone.com/articles/scaling-elasticsearch
+  domain: dzone.com
+  image: ""
+- curated_id: 1cf8187a25031a7f9070f490762f8efc
+  item_date: "2016-08-29 00:00:00"
+  title: Real-Time Search
+  url: http://blog.itrp.com/2016/08/real-time-search.html
+  domain: blog.itrp.com
+  image: ""
+- curated_id: 42fa5e8a4cf71ec370723cc65ab15904
+  item_date: "2016-09-01 00:00:00"
+  title: 'Solr Enterprise Search: Lucene and Solr 6.2'
+  url: https://dzone.com/articles/solr-enterprise-search-lucene-and-solr-62
+  domain: dzone.com
+  image: ""
+- curated_id: dad0602e64d4115e8b3bf30733136176
+  item_date: "2016-09-13 00:00:00"
+  title: Composes Data Browser comes to Elasticsearch
+  url: https://www.compose.com/articles/composes-data-browser-comes-to-elasticsearch/
+  domain: www.compose.com
+  image: ""
+- curated_id: a1077e84dd0916456dd63c1a28b4bc9d
+  item_date: "2016-09-16 00:00:00"
+  title: Data Sets Containing Robots.txt Files and Non-200 Responses
+  url: http://commoncrawl.org/2016/09/robotstxt-and-404-redirect-data-sets/
+  domain: commoncrawl.org
+  image: ""
+- curated_id: b9de9d937149dcd7e7d8b9265b6dba32
+  item_date: "2016-09-16 00:00:00"
+  title: August 2016 Crawl Archive Now Available
+  url: http://commoncrawl.org/2016/09/august-2016-crawl-archive-now-available/
+  domain: commoncrawl.org
+  image: ""
+- curated_id: 637d8b31accd89c0692abe87ec178e47
+  item_date: "2016-09-19 00:00:00"
+  title: Google Is Grouping Keyword Volumes - What Does This Mean for SEO?
+  url: https://moz.com/blog/google-grouping-keyword-volumes-what-does-this-mean-for-seo
+  domain: moz.com
+  image: ""
+- curated_id: f4c9c78d3e7395803f1df82fc24f5dc9
+  item_date: "2016-09-21 00:00:00"
+  title: How to Fix Crawl Errors in Google Search Console
+  url: https://moz.com/blog/how-to-fix-crawl-errors-in-google-search-console
+  domain: moz.com
+  image: ""
+- curated_id: e86e2d2ea1be8298376bd2ed2450cb6d
+  item_date: "2016-09-26 00:00:00"
+  title: Searching YouTube videos from SearchBlox
+  url: http://www.searchblox.com/searching-youtube-videos-searchblox
+  domain: www.searchblox.com
+  image: ""
+- curated_id: 5f259f8c25a9ec01219bc3d175e973ee
+  item_date: "2016-10-03 00:00:00"
+  title: Getting Started With ElasticSearch
+  url: http://www.c-sharpcorner.com/article/getting-started-with-elasticsearch/
+  domain: www.c-sharpcorner.com
+  image: ""
+- curated_id: b26611abd194433cb5dd2553f9faa2ba
+  item_date: "2016-10-04 00:00:00"
+  title: 'SEO Trek: The Search for Google RankBrain* [New Data]'
+  url: https://moz.com/blog/seo-trek-the-search-for-google-rankbrain-new-data
+  domain: moz.com
+  image: ""
+- curated_id: 3c493512358222a47c8d0e7ed7b7c301
+  item_date: "2016-10-07 00:00:00"
+  title: September 2016 Crawl Archive Now Available
+  url: http://commoncrawl.org/2016/10/september-2016-crawl-archive-now-available/
+  domain: commoncrawl.org
+  image: ""
+- curated_id: b8e3e513fee14e485a15945ebdd260d7
+  item_date: "2016-10-11 00:00:00"
+  title: Powerful and feature-rich Search APIs for Android apps
+  url: https://community.havenondemand.com/t5/Blog/Powerful-and-feature-rich-Search-APIs-for-Android-apps/ba-p/3273
+  domain: community.havenondemand.com
+  image: ""
+- curated_id: f241bb5d724deeaf8ad7df858a221ed3
+  item_date: "2016-10-14 00:00:00"
+  title: Secure Apache Solr Collections and Access Them Programmatically
+  url: https://dzone.com/articles/how-to-secure-apache-solr-collections-and-access-t
+  domain: dzone.com
+  image: ""
+- curated_id: 08925e3e299660e5197725cf19e5c796
+  item_date: "2016-10-17 00:00:00"
+  title: Access Solr data from SearchBlox using Database Collection
+  url: http://www.searchblox.com/access-solr-data-searchblox-using-database-collection
+  domain: www.searchblox.com
+  image: ""
+- curated_id: d55043ae6d8ea8d7d02aaf1dfc2579c2
+  item_date: "2016-10-17 00:00:00"
+  title: How to Use Search Analytics in Google Sheets for Better SEO Insights
+  url: https://moz.com/blog/how-to-use-search-analytics-in-google-sheets-for-better-seo-insights
+  domain: moz.com
+  image: ""
+- curated_id: d39572bd8bef9e118a03ed5a4ce5ff36
+  item_date: "2016-10-18 00:04:15"
+  title: 'B2B Search That Doesn?t Suck: Integrating Algolia Into Your eCommerce Application'
+  url: https://medium.com/@OrderCloudIO/b2b-search-that-doesnt-suck-integrating-algolia-into-your-ecommerce-application-aab876eea394#.ej85aogx8
+  domain: medium.com
+  image: ""
+- curated_id: 0422ad70afdee51b218f9b0bf413993f
+  item_date: "2016-10-21 00:00:00"
+  title: 'Searching CamelCased parameters in API documentation: how we handled it'
+  url: https://blog.algolia.com/searching-camelcased-parameters-in-api-documentation-how-we-handled-it/
+  domain: blog.algolia.com
+  image: ""
+- curated_id: c72445802bce9589b9a60ad1e894466f
+  item_date: "2016-11-01 00:00:00"
+  title: Bringing Algolia?s search-as-you-type experience to Shopify stores
+  url: https://blog.algolia.com/bringing-algolias-search-as-you-type-experience-to-shopify-stores/
+  domain: blog.algolia.com
+  image: ""
+- curated_id: f3929f97758d12aa839d91a0fa3addfb
+  item_date: "2016-11-03 00:00:00"
+  title: Comparing searches at the DNC and RNC
+  url: https://engineeringblog.yelp.com/2016/11/comparing-searches-at-the-dnc-and-rnc.html
+  domain: engineeringblog.yelp.com
+  image: ""
+- curated_id: c5f01a013b7766be00ebf8ebda72e3b7
+  item_date: "2016-12-27 00:00:00"
+  title: Bulk Indexing With ElasticSearch
+  url: https://dzone.com/articles/elasticsearch-bulk-indexing-with-spring
+  domain: dzone.com
+  image: ""
+- curated_id: b67d267aa1be5b2d29d0fd1f79347b18
+  item_date: "2016-12-29 00:00:00"
+  title: Using Apache POI to Convert Excel to an Elasticsearch Compatible JSON
+  url: https://dzone.com/articles/using-apache-poi-to-convert-excel-to-an-elasticsea
+  domain: dzone.com
+  image: ""
+- curated_id: 5f772fc1cf74d7d0981bcaf3d1eb4a51
+  item_date: "2017-01-04 00:00:00"
+  title: An Overview of Query Language Types
+  url: https://dzone.com/articles/query-language-type-overview
+  domain: dzone.com
+  image: ""
+- curated_id: 2d7341b64f7cc21de2705ccc267c4759
+  item_date: "2017-01-04 00:00:00"
+  title: Pingup Extends Reach With New Bing Integration
+  url: http://streetfightmag.com/2017/01/04/pingup-extends-reach-with-new-bing-integration/
+  domain: streetfightmag.com
+  image: ""
+- curated_id: 79f31538ab93e8f428887c5edc5b3633
+  item_date: "2017-01-05 00:00:00"
+  title: Streamlining a search experience with ASP.NET Core and Azure Search
+  url: https://auth0.com/blog/azure-search-with-aspnetcore/
+  domain: auth0.com
+  image: ""
+- curated_id: 197e711f80f04b6b7bd6d06daa288d91
+  item_date: "2017-01-11 00:00:00"
+  title: Announcing the Logz.io Search API
+  url: https://dzone.com/articles/announcing-the-logzio-search-api
+  domain: dzone.com
+  image: ""
+- curated_id: 3b3a345f96192f0a989577c6280352d3
+  item_date: "2017-01-11 00:00:00"
+  title: Improving Visibility in Security Operations with Search-Driven Lookups
+  url: http://blogs.splunk.com/2017/01/11/improving-visibility-in-security-operations-with-search-driven-lookups/
+  domain: blogs.splunk.com
+  image: ""
+- curated_id: dc80c8af72ea5d4d912f5126f44de400
+  item_date: "2017-01-17 00:00:00"
+  title: Searching and Indexing With Apache Lucene
+  url: https://dzone.com/articles/apache-lucene-a-high-performance-and-full-featured
+  domain: dzone.com
+  image: ""
+- curated_id: 5160e00ce98d35f48f465a590e7160a2
+  item_date: "2017-02-01 00:00:00"
+  title: Personalized Search at the Speed of Algolia
+  url: https://blog.algolia.com/personalization/
+  domain: blog.algolia.com
+  image: ""
+- curated_id: 0d316a103d1a2fd60ba15ebe323249f0
+  item_date: "2017-02-02 00:00:00"
+  title: Omnisearch Index Formats
+  url: https://blog.twitter.com/2016/omnisearch-index-formats
+  domain: blog.twitter.com
+  image: ""
+- curated_id: 7799509eb863c4028a56554ea93a09a9
+  item_date: "2017-02-02 00:00:00"
+  title: Search Relevance Infrastructure at Twitter
+  url: https://blog.twitter.com/2016/search-relevance-infrastructure-at-twitter
+  domain: blog.twitter.com
+  image: ""
+- curated_id: a821252813beb4141b98ff5c50db7c11
+  item_date: "2017-02-06 00:00:00"
+  title: With Algolia Offline, Take your Search Bar Everywhere.
+  url: https://blog.algolia.com/with-algolia-offline-take-your-search-bar-everywhere/
+  domain: blog.algolia.com
+  image: ""
+- curated_id: c078973cc4e9bb1ae1118359fc394345
+  item_date: "2017-02-08 00:00:00"
+  title: Pinterest adds visual search for elements in images and through your camera
+  url: https://techcrunch.com/2017/02/08/pinterest-adds-visual-search-for-elements-in-images-and-through-your-camera/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 9bf005740ec2dc96a486d0ed064cb4f3
+  item_date: "2017-02-14 00:00:00"
+  title: ElasticSearch Ransomware Attacks Highlight Need for Better Security
+  url: https://dzone.com/articles/elasticsearch-ransomware-attacks-highlight-need-fo
+  domain: dzone.com
+  image: ""
+- curated_id: 253bc410432435ef8f5404961debb82d
+  item_date: "2017-02-16 00:00:00"
+  title: How to Ship Kibana Server Logs to Elasticsearch
+  url: https://dzone.com/articles/how-to-ship-kibana-server-logs-to-elasticsearch-1
+  domain: dzone.com
+  image: ""
+- curated_id: 6aab04d9e2b6fab68d8797b49023cc2e
+  item_date: "2017-02-16 00:00:00"
+  title: How to Uncover Hidden Keyword-Level Data Using Google Sheets
+  url: https://moz.com/blog/how-to-uncover-hidden-keyword-level-data-using-google-sheets
+  domain: moz.com
+  image: ""
+- curated_id: 3728c0c00286e2b18590fe2dbff4db93
+  item_date: "2017-02-16 00:00:00"
+  title: Exposing ElasticSearch Index Using Scala Akka HTTP
+  url: https://dzone.com/articles/exposing-elastic-search-index-using-scala-akka-htt
+  domain: dzone.com
+  image: ""
+- curated_id: 1303396a38e02671978ef16b205a1e32
+  item_date: "2017-02-22 00:00:00"
+  title: 'Proximity to Searcher is the New #1 Local Search Ranking Factor'
+  url: https://moz.com/blog/proximity-to-searcher-is-new-top-local-search-ranking-factor
+  domain: moz.com
+  image: ""
+- curated_id: 295e80a4be5304556cb7cf4b9baf54dd
+  item_date: "2017-02-27 00:00:00"
+  title: 'Instagram Algorithm: What You Need to Know to Boost Organic Reach'
+  url: https://blog.hootsuite.com/instagram-algorithm/
+  domain: blog.hootsuite.com
+  image: ""
+- curated_id: 8e7138240652e20bc9dbdf7e84de4cd5
+  item_date: "2017-02-27 00:00:00"
+  title: "White nationalists seem to have manipulated Google search results for \u2018Boasian
+    anthropology\u2019"
+  url: http://www.theverge.com/2017/2/27/14748690/google-white-nationalist-boasian-anthropology-search-result
+  domain: www.theverge.com
+  image: ""
+- curated_id: 1f5483cd4da22efd897c7eb07fd7edd7
+  item_date: "2017-03-02 00:00:00"
+  title: Picking up where Google Site Search left off
+  url: https://blog.algolia.com/google-site-search-alternative/
+  domain: blog.algolia.com
+  image: ""
+- curated_id: dbfe9c0f9f84c117edeba87564dd19d0
+  item_date: "2017-03-06 00:00:00"
+  title: Quandl Launches New Search and Browse
+  url: https://blog.quandl.com/quandl-launches-new-search-browse
+  domain: blog.quandl.com
+  image: ""
+- curated_id: ad2d9cb975996a2d933bd5948d97f9e1
+  item_date: "2017-03-07 00:00:00"
+  title: 'Monthly media round-up with AYLIEN News API: February 2017'
+  url: http://blog.aylien.com/monthly-media-round-up-with-aylien-news-api-february-2017/
+  domain: blog.aylien.com
+  image: ""
+- curated_id: f9f5d74ad728c954d4688d0a47781fe4
+  item_date: "2017-03-07 00:00:00"
+  title: The Moz 2016 Annual Report
+  url: https://moz.com/blog/the-moz-2016-annual-report
+  domain: moz.com
+  image: ""
+- curated_id: 3c1c1e6442313dd4ca78a7a81823bc13
+  item_date: "2017-03-13 00:00:00"
+  title: 'A search inside a search: how we brought Inception to Algolia'
+  url: https://blog.algolia.com/search-for-facet-values/
+  domain: blog.algolia.com
+  image: ""
+- curated_id: 1c9c620f25ee10343453fbf4dd870459
+  item_date: "2017-03-13 00:00:00"
+  title: 'Rankings Correlation Study: Domain Authority vs. Branded Search Volume'
+  url: https://moz.com/blog/rankings-correlation-study-domain-authority-vs-branded-search-volume
+  domain: moz.com
+  image: ""
+- curated_id: 3df14c722e4fa2e3d37ff48744153894
+  item_date: "2017-03-14 00:00:00"
+  title: 'News API feature updates: NOT Queries and Canonical URL Extraction'
+  url: http://blog.aylien.com/news-api-feature-updates-not-queries-canonical-url-extraction/
+  domain: blog.aylien.com
+  image: ""
+- curated_id: a832fe1f0809f9fe7465a5f27cd906e8
+  item_date: "2017-03-16 00:00:00"
+  title: 'Migrating from Google Site Search to SearchBlox Cloud: In 3 simple steps'
+  url: https://www.searchblox.com/migrating-google-site-search-searchblox-cloud-3-simple-steps
+  domain: www.searchblox.com
+  image: ""
+- curated_id: 58b39f83b20281ab4edbb1042cbb2aa3
+  item_date: "2017-03-16 13:23:02"
+  title: Google Algorithmic Penalties Still Happen, Post-Penguin 4.0
+  url: https://moz.com/blog/google-algorithmic-penalties-post-penguin
+  domain: moz.com
+  image: ""
+- curated_id: 884d8c661625ee70676ac4c84402e7a1
+  item_date: "2017-03-17 00:00:00"
+  title: Google-hosted Custom Search Engines now use the Element
+  url: https://customsearch.googleblog.com/2011/08/google-hosted-custom-search-engines-now.html
+  domain: customsearch.googleblog.com
+  image: ""
+- curated_id: b010a1e9df4b08f2a5ace941e660f139
+  item_date: "2017-03-17 00:00:00"
+  title: Image results now available from the Custom Search API
+  url: https://customsearch.googleblog.com/2012/02/image-results-now-available-from-custom.html
+  domain: customsearch.googleblog.com
+  image: ""
+- curated_id: 0c9dba61330d58fa99bebbef35fbb4f0
+  item_date: "2017-03-17 00:00:00"
+  title: Submit Pagemaps directly to Custom Search
+  url: https://customsearch.googleblog.com/2011/09/submit-pagemaps-directly-to-custom.html
+  domain: customsearch.googleblog.com
+  image: ""
+- curated_id: 250577d5ad6c3d42145da751f83f0597
+  item_date: "2017-03-18 00:00:00"
+  title: AMP your content - A Preview of AMPed results in Search
+  url: https://webmasters.googleblog.com/2016/08/amp-your-content-preview-of-amped.html
+  domain: webmasters.googleblog.com
+  image: ""
+- curated_id: 1a44eef3ac41b15df0e5ed32948e6c6f
+  item_date: "2017-03-18 00:00:00"
+  title: How can Google Search Console help you AMPlify your site?
+  url: https://webmasters.googleblog.com/2016/09/how-can-google-search-console-help-you.html
+  domain: webmasters.googleblog.com
+  image: ""
+- curated_id: fb5357e73c4b2bebc9359c9da6d0ad6b
+  item_date: "2017-03-18 00:00:00"
+  title: 'Promote your local businesses reviews with schema.org markup '
+  url: https://webmasters.googleblog.com/2016/08/promote-your-local-businesses-reviews.html
+  domain: webmasters.googleblog.com
+  image: ""
+- curated_id: 2b2ad54d71590aebe5c6fb75f3b10a6d
+  item_date: "2017-03-20 00:00:00"
+  title: Helpful Tips for Doing Search in a Low-Volume Niche
+  url: https://moz.com/blog/search-in-low-volume-niche
+  domain: moz.com
+  image: ""
+- curated_id: 472ec1a90d58b7899d32433407acd0a7
+  item_date: "2017-04-03 00:00:00"
+  title: "AWS will let everyone use Amazon Go\u2019s real-time video search tool"
+  url: https://marketingnewsweb.wordpress.com/2017/04/03/aws-will-let-everyone-use-amazon-gos-real-time-video-search-tool/
+  domain: marketingnewsweb.wordpress.com
+  image: ""
+- curated_id: a5a78dd691634cf3cd60bbc01ef83229
+  item_date: "2017-04-04 00:00:00"
+  title: March 2017 Crawl Archive Now Available
+  url: http://commoncrawl.org/2017/04/march-2017-crawl-archive-now-available/
+  domain: commoncrawl.org
+  image: ""
+- curated_id: 846d62501371833a70e7335297199863
+  item_date: "2017-04-06 00:00:00"
+  title: Using IBM Watson Discovery to Query Unstructured Data
+  url: https://dzone.com/articles/using-ibm-watson-discovery-to-query-unstructured-d
+  domain: dzone.com
+  image: ""
+- curated_id: affa11e3a8e4853a82d7507c6f84a2a4
+  item_date: "2017-04-11 00:00:00"
+  title: 'XML Sitemaps: The Most Misunderstood Tool in the SEOs Toolbox'
+  url: https://moz.com/blog/xml-sitemaps
+  domain: moz.com
+  image: ""
+- curated_id: b0035fb8e8918e1ec2db58709a10b1fb
+  item_date: "2017-04-19 00:00:00"
+  title: Know SQL? Get search results from Elasticsearch
+  url: https://www.searchblox.com/know-sql-get-search-results-from-elasticsearch
+  domain: www.searchblox.com
+  image: ""
+- curated_id: b4620d8539d19ba1b2fb2ce19214dfe1
+  item_date: "2017-04-23 00:00:00"
+  title: Build a Plugin and Add a Listener to an Index in ElasticSearch 5
+  url: https://dzone.com/articles/elasticsearch5-how-to-build-a-plugin-and-add-a-lis
+  domain: dzone.com
+  image: ""
+- curated_id: 6ce34b72b41d210d3ceebd7a58de58e3
+  item_date: "2017-05-08 00:00:00"
+  title: April 2017 Crawl Archive Now Available
+  url: http://commoncrawl.org/2017/05/april-2017-crawl-archive-now-available/
+  domain: commoncrawl.org
+  image: ""
+- curated_id: 9775c15444cb0c843fc9719c9cccfdbe
+  item_date: "2017-05-10 00:00:00"
+  title: "Introducing the Bing Search APIs v7 Preview \u2013 Faster, smarter, easier"
+  url: https://blogs.msdn.microsoft.com/bingdevcenter/2017/05/10/introducing-the-bing-search-apis-v7-preview/
+  domain: blogs.msdn.microsoft.com
+  image: ""
+- curated_id: a0d6678f41381e3e5b359a7fc55395c0
+  item_date: "2017-05-10 00:00:00"
+  title: Introduction to the Amazon Elasticsearch Service
+  url: https://avxhm.se/ebooks/naag19979.html
+  domain: avxhm.se
+  image: ""
+- curated_id: 0VTnUfX894TcY5TA/oMFDbEY1bDrlajzsn67Jr80r8M=_15c69750353:53ba9:17464ebe
+  item_date: "2017-06-02 08:37:45"
+  title: 4 ways to improve SEO with schema and structured data
+  url: https://thenextweb.com/?p=1050498
+  domain: thenextweb.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15c6cc9a9b0:408dd6:ca0b49d1
+  item_date: "2017-06-02 13:39:43"
+  title: Grouping API Searches by Similarity
+  url: https://medium.com/p/9da4368a323a
+  domain: medium.com
+  image: ""
+- curated_id: 0qiQVwSkjUCs7NuWbZA7M53GH7jzaiJFe5B8OP0PN+U=_15c795f63c3:7eded9e:cfb784e9
+  item_date: "2017-06-05 09:36:11"
+  title: May 2017 Crawl Archive Now Available
+  url: http://commoncrawl.org/?p=15113
+  domain: commoncrawl.org
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15c82dbb5ac:4b002e:e55a4d93
+  item_date: "2017-06-06 10:00:00"
+  title: Elasticsearch for Apache Hadoop 6.0.0
+  url: https://www.elastic.co/blog/eshadoop-6-0-0-alpha2-released
+  domain: www.elastic.co
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15c7e8b0ac5:39d90:31944e30
+  item_date: "2017-06-06 10:51:26"
+  title: Dimensions of the Ballerina in the Age of Technology
+  url: https://www.elastic.co/blog/dimensions-of-the-ballerina-in-the-age-of-technology
+  domain: www.elastic.co
+  image: ""
+- curated_id: +0rTje4/k1rqstbwhoJuYuIHvom8X6/YL5iXfAXcMuQ=_15c8390502b:578e96:d0168500
+  item_date: "2017-06-07 02:48:33"
+  title: 'New Site Crawl: Rebuilt to Find More Issues on More Pages, Faster Than Ever!'
+  url: https://moz.com/blog/new-site-crawl
+  domain: moz.com
+  image: ""
+- curated_id: 5JqX9UICapOm9YXTnzKIgAA8+Hz1EIPzp0wutAgYmps=_15c82ae2f66:47ad4d:28ce9b86
+  item_date: "2017-06-07 06:06:55"
+  title: How We Optimized Our Web Crawling Pipeline for Faster and Efficient Data
+    Extraction
+  url: https://www.promptcloud.com/?p=33710
+  domain: www.promptcloud.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15c83cc38e6:5d735e:d0168500
+  item_date: "2017-06-07 16:00:00"
+  title: Exploring the API for Elastic Cloud Enterprise
+  url: https://www.elastic.co/blog/exploring-the-api-for-elastic-cloud-enterprise
+  domain: www.elastic.co
+  image: ""
+- curated_id: P6ZHWlrPQ5ILOZ54yDX4aZ046+AnYBvjvT3DdNFTXhQ=_15c9d09b2d0:241f96f:d0168500
+  item_date: "2017-06-12 09:00:27"
+  title: How to Properly Monitor Elasticsearch
+  url: https://thenewstack.io/?p=2486942
+  domain: thenewstack.io
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15ca2004cc1:2b94b54:d0168500
+  item_date: "2017-06-13 06:19:08"
+  title: 'Keeping up with Kibana: This week in Kibana for June 12, 2017'
+  url: https://www.elastic.co/blog/keeping-up-with-kibana-2017-6-12
+  domain: www.elastic.co
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15ca5aea568:30a47cf:d0168500
+  item_date: "2017-06-14 01:17:41"
+  title: "rsp \u2014 realtime search platform"
+  url: https://medium.com/p/88999c71b37
+  domain: medium.com
+  image: ""
+- curated_id: +0rTje4/k1rqstbwhoJuYuIHvom8X6/YL5iXfAXcMuQ=_15cc4dbef10:254927:517b1451
+  item_date: "2017-06-19 17:04:00"
+  title: 'JavaScript &amp; SEO: Making Your Bot Experience As Good As Your User Experience'
+  url: https://moz.com/blog/javascript-seo
+  domain: moz.com
+  image: ""
+- curated_id: PSNTZO8gXFUe+cpCZyApw0vEKWPT4b14D6teBEocIAE=_15cd65ccbe5:1b5ce4a:fe3a8465
+  item_date: "2017-06-23 12:06:29"
+  title: Local businesses can now feature content directly in Google search results
+  url: https://www.theverge.com/2017/6/23/15864404/google-local-businesses-content-search-events-sales-news
+  domain: www.theverge.com
+  image: ""
+- curated_id: PSNTZO8gXFUe+cpCZyApw0vEKWPT4b14D6teBEocIAE=_15ce8fd6a94:303fa6c:fe3a8465
+  item_date: "2017-06-27 02:48:37"
+  title: "Google fined a record \u20AC2.4 billion by the EU for manipulating search
+    results"
+  url: https://www.theverge.com/2017/6/27/15872354/google-eu-fine-antitrust-shopping
+  domain: www.theverge.com
+  image: ""
+- curated_id: cokvuWXR6k4zx4cTNPY1nzhlJpqqTmN3HT0ihkkhjoM=_15cf52e792d:4b6f7fc:517b1451
+  item_date: "2017-06-28 17:00:00"
+  title: Moving Yelp's Core Business Search to Elasticsearch
+  url: https://engineeringblog.yelp.com/2017/06/moving-yelps-core-business-search-to-elasticsearch.html
+  domain: engineeringblog.yelp.com
+  image: ""
+- curated_id: UGoT913Pj2iVsp570XrRhskqe5/o7yyV3N/NTloByRs=_15cf97eb7fe:514657b:5b78a817
+  item_date: "2017-06-30 07:30:21"
+  title: Facebook Messenger wants to become the new Yellow Pages (FB)
+  url: http://www.businessinsider.com/facebook-messenger-become-new-yellow-pages-2017-6?utm_source=feedly&amp;utm_medium=referral
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: 0qiQVwSkjUCs7NuWbZA7M53GH7jzaiJFe5B8OP0PN+U=_15d9d92294e:2daaef:218de7ce
+  item_date: "2017-07-01 02:36:11"
+  title: July 2017 Crawl Archive Now Available
+  url: http://commoncrawl.org/?p=15187
+  domain: commoncrawl.org
+  image: ""
+- curated_id: 0qiQVwSkjUCs7NuWbZA7M53GH7jzaiJFe5B8OP0PN+U=_15d0b681562:54fbd:bb404dd5
+  item_date: "2017-07-03 18:06:40"
+  title: June 2017 Crawl Archive Now Available
+  url: http://commoncrawl.org/?p=15120
+  domain: commoncrawl.org
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15d12c380c9:b66741:1aa8479d
+  item_date: "2017-07-05 12:00:25"
+  title: 'The Future of Data: Big, Fast, Ubiquitous'
+  url: https://www.elastic.co/blog/the-future-of-data-big-fast-ubiquitous
+  domain: www.elastic.co
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15d18f33968:158988f:32bbcd87
+  item_date: "2017-07-06 10:00:00"
+  title: Introducing the Elastic Stack Monitoring Service
+  url: https://www.elastic.co/blog/introducing-the-elastic-stack-monitoring-service
+  domain: www.elastic.co
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15d18f33968:1589891:32bbcd87
+  item_date: "2017-07-06 10:06:00"
+  title: Elasticsearch 5.5.0 released
+  url: https://www.elastic.co/blog/elasticsearch-5-5-0-released
+  domain: www.elastic.co
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15d32acb777:1a29723:4825a421
+  item_date: "2017-07-11 10:20:07"
+  title: Using Elasticsearch and Machine Learning for IT Operations
+  url: https://www.elastic.co/blog/using-elasticsearch-and-machine-learning-for-it-operations
+  domain: www.elastic.co
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15d37d8e731:1e49fb0:bb404dd5
+  item_date: "2017-07-12 10:24:02"
+  title: A Practical Introduction to Elasticsearch
+  url: https://www.elastic.co/blog/a-practical-introduction-to-elasticsearch
+  domain: www.elastic.co
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15d36f5da01:20a1ec0:32bbcd87
+  item_date: "2017-07-12 11:17:20"
+  title: How AerData improved OCR search capability using Elasticsearch
+  url: https://www.elastic.co/blog/how-aerdata-improved-ocr-search-capability-using-elasticsearch
+  domain: www.elastic.co
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15d52b2a742:3f2eb86:bb404dd5
+  item_date: "2017-07-17 15:30:11"
+  title: Alerting on Machine Learning Jobs in Elasticsearch v5.5
+  url: https://www.elastic.co/blog/alerting-on-machine-learning-jobs-in-elasticsearch-v55
+  domain: www.elastic.co
+  image: ""
+- curated_id: 0VTnUfX894TcY5TA/oMFDbEY1bDrlajzsn67Jr80r8M=_15d59ac911f:2717ab:41b98b00
+  item_date: "2017-07-19 00:05:59"
+  title: "Google adds a \u2018follow\u2019 button to search results"
+  url: https://thenextweb.com/?p=1063372
+  domain: thenextweb.com
+  image: ""
+- curated_id: W9U8O8prINoVZrC8tjkQgq9ivE6dXZslCV+Cz7vETzg=_15d5ba13d1e:637e0b:41b98b00
+  item_date: "2017-07-19 09:04:48"
+  title: Finding the right media assets with a powerful new search API
+  url: http://cloudinary.com/blog/finding_the_right_media_assets_with_a_powerful_new_search_api
+  domain: cloudinary.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15d60904789:83233d:8fa6dd97
+  item_date: "2017-07-20 08:07:30"
+  title: It Depends...
+  url: https://www.elastic.co/blog/it-depends
+  domain: www.elastic.co
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15d85028ff2:3b3dc40:53d642ee
+  item_date: "2017-07-27 10:00:07"
+  title: Explaining the Bucket Span in Machine Learning for Elasticsearch
+  url: https://www.elastic.co/blog/explaining-the-bucket-span-in-machine-learning-for-elasticsearch
+  domain: www.elastic.co
+  image: ""
+- curated_id: Ihfxwji+t22ShjrcAU9C1jjgW/GnKU96aASgOecQBk0=_15d9e7debfe:1afe7c0:a2bf0478
+  item_date: "2017-08-01 08:30:30"
+  title: Federated Search for Salesforce ISVs
+  url: http://30.33371
+  domain: "30.33371"
+  image: ""
+- curated_id: 4i+1vhCwmRRLfmB7ypTnMh+ZKSvsz6Rgf0lfR0WWb0w=_15d9f367a69:58f9de:218de7ce
+  item_date: "2017-08-01 12:06:00"
+  title: Pinterest wants you to think of it as a visual search engine
+  url: https://www.engadget.com/2017/08/01/pinterest-centers-lens-search-mobile/
+  domain: www.engadget.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15dbe12108b:7128bd:196efac0
+  item_date: "2017-08-07 10:32:49"
+  title: Small, Medium, or Large
+  url: https://www.elastic.co/blog/small-medium-or-large-scaling-elasticsearch-and-evolving-the-elastic-stack-to-fit
+  domain: www.elastic.co
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15dc5849c06:11bb161:196efac0
+  item_date: "2017-08-09 00:09:54"
+  title: "\u200BBuilding a Better Search Experience in Kibana"
+  url: https://www.elastic.co/blog/building-a-better-search-experience-in-kibana
+  domain: www.elastic.co
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15dcb85d182:353c831:b8b2a437
+  item_date: "2017-08-10 02:25:21"
+  title: 'Brewing in Beats: PostgreSQL module in Metricbeat'
+  url: https://www.elastic.co/blog/brewing-in-beats-postgresql-module-in-metricbeat
+  domain: www.elastic.co
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15dcd9aebee:1dfaa34:196efac0
+  item_date: "2017-08-10 07:17:04"
+  title: 'Sequence IDs: Coming Soon to an Elasticsearch Cluster Near You'
+  url: https://www.elastic.co/blog/elasticsearch-sequence-ids-6-0
+  domain: www.elastic.co
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15deb938bbe:5355de:218de7ce
+  item_date: "2017-08-16 07:58:38"
+  title: Analyzing Network Packets with Wireshark, Elasticsearch, and Kibana
+  url: https://www.elastic.co/blog/analyzing-network-packets-with-wireshark-elasticsearch-and-kibana
+  domain: www.elastic.co
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15dec90d3fa:6c79f0:218de7ce
+  item_date: "2017-08-16 12:37:30"
+  title: Default Security for Elasticsearch and the Elastic Stack
+  url: https://www.elastic.co/blog/default-security-for-elasticsearch-and-the-elastic-stack
+  domain: www.elastic.co
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15df09a3367:ce8194:218de7ce
+  item_date: "2017-08-17 06:56:36"
+  title: Beta Release of Elastic Cloud on Google Cloud Platform (GCP), More Options
+    to Host Elasticsearch
+  url: https://www.elastic.co/blog/beta-release-of-elastic-cloud-hosted-elasticsearch-on-google-cloud-platform-gcp
+  domain: www.elastic.co
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15e0583bed7:273a685:9cc60c90
+  item_date: "2017-08-21 08:56:00"
+  title: Introducing Index Sorting in Elasticsearch 6.0
+  url: https://www.elastic.co/blog/index-sorting-elasticsearch-6-0
+  domain: www.elastic.co
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15e53150c88:35920a2:56b346f
+  item_date: "2017-09-05 10:11:52"
+  title: A Full Stack in One Command
+  url: https://www.elastic.co/blog/a-full-stack-in-one-command
+  domain: www.elastic.co
+  image: ""
+- curated_id: +0rTje4/k1rqstbwhoJuYuIHvom8X6/YL5iXfAXcMuQ=_15e5678d160:38faceb:ed57ae85
+  item_date: "2017-09-05 17:03:00"
+  title: 'The Beginner''s Guide to Structured Data for SEO: A Two'
+  url: https://moz.com/blog/structured-data-for-seo-1
+  domain: moz.com
+  image: ""
+- curated_id: W9U8O8prINoVZrC8tjkQgq9ivE6dXZslCV+Cz7vETzg=_15e586cbde4:3e321fa:56b346f
+  item_date: "2017-09-06 10:32:29"
+  title: SEO
+  url: http://cloudinary.com/blog/seo_friendly_images_rank_higher_on_google_and_facebook
+  domain: cloudinary.com
+  image: ""
+- curated_id: W9U8O8prINoVZrC8tjkQgq9ivE6dXZslCV+Cz7vETzg=_15e586cbde4:3e321fa:56b346f
+  item_date: "2017-09-06 10:32:29"
+  title: SEO
+  url: https://cloudinary.com/blog/seo_friendly_images_rank_higher_on_google_and_facebook
+  domain: cloudinary.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15e71df89cc:8e6045a:feeb522d
+  item_date: "2017-09-11 09:57:05"
+  title: "Algolia Review \u2014 A Hosted Search API Reviewed"
+  url: https://medium.com/p/de7abeeb1a67
+  domain: medium.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15e7c17836f:d36d27:6ea86031
+  item_date: "2017-09-13 02:30:00"
+  title: Creating a threshold alert in Elasticsearch is simpler than ever.
+  url: https://www.elastic.co/blog/creating-a-threshold-alert-in-elasticsearch-is-simpler-than-ever
+  domain: www.elastic.co
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15e8164d6ff:6642d8:4cab23bc
+  item_date: "2017-09-14 10:13:50"
+  title: 'PSD2: Modern Banking API Architectures with the Elastic Stack'
+  url: https://www.elastic.co/blog/psd2-architectures-with-the-elastic-stack
+  domain: www.elastic.co
+  image: ""
+- curated_id: qWvG3upKVjhQsFGaZKAHYPLj/ZqG5EvmI9R31DUAgMw=_15eab59244d:41afd27:6ea86031
+  item_date: "2017-09-22 13:47:59"
+  title: Changes to USGS website highlight the importance of search for public access
+  url: http://sunlightfoundation.com/?p=105978
+  domain: sunlightfoundation.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15eb6c47a74:f65420:55eae650
+  item_date: "2017-09-24 16:13:46"
+  title: "Making your search not suck with Elasticsearch \u2014 Part 7: Machines that
+    learn"
+  url: https://medium.com/p/52a6693c8c09
+  domain: medium.com
+  image: ""
+- curated_id: Ihfxwji+t22ShjrcAU9C1jjgW/GnKU96aASgOecQBk0=_15ebf2f1ab5:50378d:55eae650
+  item_date: "2017-09-26 09:59:21"
+  title: Querying IBM Watson Discovery with Salesforce Federated Search
+  url: http://developer.salesforce.com/blogs/?p=187495
+  domain: developer.salesforce.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15ec51e5d5b:30ded80:c84bd0de
+  item_date: "2017-09-27 13:49:46"
+  title: 'TLS for the Elastic Stack: Elasticsearch, Kibana, Beats, and Logstash'
+  url: https://www.elastic.co/blog/tls-elastic-stack-elasticsearch-kibana-logstash-filebeat
+  domain: www.elastic.co
+  image: ""
+- curated_id: 0qiQVwSkjUCs7NuWbZA7M53GH7jzaiJFe5B8OP0PN+U=_15ed0802f17:41970ad:e05f56c8
+  item_date: "2017-09-29 16:52:27"
+  title: September 2017 Crawl Archive Now Available
+  url: http://commoncrawl.org/?p=15235
+  domain: commoncrawl.org
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15ed57a9b5e:b5bad:9b8472f1
+  item_date: "2017-09-30 15:35:14"
+  title: Elasticsearch new High
+  url: https://medium.com/p/ab7118ed62ec
+  domain: medium.com
+  image: ""
+- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15ed5e8970b:49422bd:c84bd0de
+  item_date: "2017-09-30 20:09:03"
+  title: Google cooperating with Russia probe after Twitter slammed
+  url: http://hosted.ap.org/dynamic/stories/U/US_TRUMP_RUSSIA_PROBE_GOOGLE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
+  domain: hosted.ap.org
+  image: ""
+- curated_id: 57WISYgmRKJyiA6++i53BYoj9ACy3nCrzF2dbHqarcE=_15edd39de78:526b8b5:c84bd0de
+  item_date: "2017-10-02 06:00:00"
+  title: 'RIP: The Semantic Web'
+  url: http://blog.diffbot.com/?p=868
+  domain: blog.diffbot.com
+  image: ""
+- curated_id: AHJDqlO2/3fUkJqj8W614D2ElOgfzZo1CyNFNOPzHfU=_15f02f482e0:1fa9a29:4d363ef0
+  item_date: "2017-10-09 13:38:30"
+  title: How to Add Google Image Search API to Your File Uploader
+  url: https://blog.filestack.com/?p=5822
+  domain: blog.filestack.com
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_15f05bb72f1:da283:626ab4cd
+  item_date: "2017-10-10 03:01:25"
+  title: Rebuilding full text search in Go for our server
+  url: https://medium.com/p/f3fa6cb28b1
+  domain: medium.com
+  image: ""
+- curated_id: 7TEBlXSMajGkv/YSW3g1Klkey5yNzPysA89gpF/QOCo=_15f0bb6b7d4:95607f:626ab4cd
+  item_date: "2017-10-11 01:30:53"
+  title: Using ElasticSearch with Apache Spark
+  url: http://www.bmc.com/blogs/?p=11316
+  domain: www.bmc.com
+  image: ""
+- curated_id: 7TEBlXSMajGkv/YSW3g1Klkey5yNzPysA89gpF/QOCo=_15f0bd6243d:96871:8cbd7d4f
+  item_date: "2017-10-11 02:10:20"
+  title: Using Apache Pig and Hadoop with ElasticSearch with The Elasticsearch
+  url: http://www.bmc.com/blogs/?p=11219
+  domain: www.bmc.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15f0dbcb4d9:30a7d10:4d363ef0
+  item_date: "2017-10-11 12:19:40"
+  title: Lexer's upgrade to Elasticsearch 5.4.1 improved search speeds by 30
+  url: https://www.elastic.co/blog/lexers-upgrade-to-elasticsearch-5-4-1-improved-search-speeds-by-30-40
+  domain: www.elastic.co
+  image: ""
+- curated_id: +0rTje4/k1rqstbwhoJuYuIHvom8X6/YL5iXfAXcMuQ=_15f247f5ebc:39da329:9ac85644
+  item_date: "2017-10-15 17:02:00"
+  title: Does Googlebot Support HTTP/2? Challenging Google's Indexing Claims &ndash;
+    An Experiment
+  url: https://moz.com/blog/challenging-googlebot-experiment
+  domain: moz.com
+  image: ""
+- curated_id: +0rTje4/k1rqstbwhoJuYuIHvom8X6/YL5iXfAXcMuQ=_15f247f5ebc:39da32a:9ac85644
+  item_date: "2017-10-15 17:02:00"
+  title: Google Shares Details About the Technology Behind Googlebot
+  url: https://moz.com/blog/google-shares-details-googlebot
+  domain: moz.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15f35537c57:6a49c0a:4d363ef0
+  item_date: "2017-10-19 20:12:09"
+  title: Getting Started with the Elastic Stack on Microsoft Azure
+  url: https://www.elastic.co/blog/getting-started-with-elasticsearch-and-the-elastic-stack-on-microsoft-azure
+  domain: www.elastic.co
+  image: ""
+- curated_id: 7TEBlXSMajGkv/YSW3g1Klkey5yNzPysA89gpF/QOCo=_15f4ea46c37:21774a:8cbd7d4f
+  item_date: "2017-10-24 02:20:10"
+  title: Using Apache Hive with ElasticSearch
+  url: http://www.bmc.com/blogs/?p=11260
+  domain: www.bmc.com
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_15f53689866:293370a:626ab4cd
+  item_date: "2017-10-25 05:00:44"
+  title: Adthena brings its AI
+  url: http://techcrunch.com/?p=1559228
+  domain: techcrunch.com
+  image: ""
+- curated_id: 0qiQVwSkjUCs7NuWbZA7M53GH7jzaiJFe5B8OP0PN+U=_15f69eabbda:aeb851:7157a206
+  item_date: "2017-10-29 01:21:04"
+  title: October 2017 Crawl Archive Now Available
+  url: http://commoncrawl.org/?p=15253
+  domain: commoncrawl.org
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15f9780520d:10cb0a9:541f3c40
+  item_date: "2017-11-07 04:22:54"
+  title: Deploying Elasticsearch on Microsoft Azure
+  url: https://www.elastic.co/blog/deploying-elasticsearch-on-microsoft-azure
+  domain: www.elastic.co
+  image: ""
+- curated_id: UCl0ga2brIFxqdOiEeK+jDmALWYpuVwbHOdZjHl4nYo=_15fa0fa0e93:29d60f3:aa3e42e1
+  item_date: "2017-11-09 05:31:01"
+  title: Datafiniti Completes The Last Phase of Elasticsearch Migration with Overhaul
+    of Property API
+  url: https://medium.com/p/373bda6cf918
+  domain: medium.com
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_15fa14ca3bc:2999d4:8cbd7d4f
+  item_date: "2017-11-09 07:00:32"
+  title: Elastic acquires search startup Swiftype
+  url: http://techcrunch.com/?p=1565484
+  domain: techcrunch.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_15ffeb1ba8c:40a2963:d77c33d7
+  item_date: "2017-11-20 16:00:00"
+  title: Changing the name of an index in Elasticsearch
+  url: https://medium.com/p/28487b517ad1
+  domain: medium.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15fdea0591e:2aa276b:541f3c40
+  item_date: "2017-11-21 03:15:01"
+  title: 'Brewing in Beats: Autodiscovery with Docker'
+  url: https://www.elastic.co/blog/brewing-in-beats-autodiscovery-with-docker
+  domain: www.elastic.co
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15ff987778e:50114d8:7157a206
+  item_date: "2017-11-26 10:00:57"
+  title: Elastest TestLink Plugin REST API (1)
+  url: https://medium.com/p/3742c28e88d0
+  domain: medium.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_15ffe1efd17:5882429:541f3c40
+  item_date: "2017-11-27 07:01:04"
+  title: A Guide to Natural Language Processing (Part 5)
+  url: https://dzone.com/articles/1834799
+  domain: dzone.com
+  image: ""
+- curated_id: 4i+1vhCwmRRLfmB7ypTnMh+ZKSvsz6Rgf0lfR0WWb0w=_16000bd2a26:101221:3c0bb656
+  item_date: "2017-11-27 19:34:00"
+  title: Google offers real
+  url: https://www.engadget.com/2017/11/27/google-trends-real-time-search-data-news-images-video/
+  domain: www.engadget.com
+  image: ""
+- curated_id: +0rTje4/k1rqstbwhoJuYuIHvom8X6/YL5iXfAXcMuQ=_1600706a872:3463cb:7157a206
+  item_date: "2017-11-28 16:05:00"
+  title: The Complete Guide to Direct Traffic in Google Analytics
+  url: https://moz.com/blog/guide-to-direct-traffic-google-analytics
+  domain: moz.com
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_16008d6515c:4d22b3:d77c33d7
+  item_date: "2017-11-29 09:32:18"
+  title: AWS makes it easier and faster to query data stored in its S3 and Glacier
+    storage services
+  url: http://techcrunch.com/?p=1572424
+  domain: techcrunch.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_1600e0ae42a:ff0167:3c0bb656
+  item_date: "2017-11-30 09:30:00"
+  title: 'Paylocity: From Eyeballs to Automation with Elasticsearch'
+  url: https://www.elastic.co/blog/paylocity-from-eyeballs-to-automation-with-elasticsearch
+  domain: www.elastic.co
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_1600ef9db30:11ae5f2:3c0bb656
+  item_date: "2017-11-30 13:59:58"
+  title: Graph
+  url: https://dzone.com/refcardz/1867903
+  domain: dzone.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_160175befd8:250fa:c8ea36f9
+  item_date: "2017-12-01 15:40:12"
+  title: Compose for ElasticSearch 101
+  url: https://medium.com/p/73cb757a66ee
+  domain: medium.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_1602cfe1162:3f4058e:e597f5ed
+  item_date: "2017-12-06 09:55:11"
+  title: Developing new Kibana visualizations
+  url: https://www.elastic.co/blog/developing-new-kibana-visualizations
+  domain: www.elastic.co
+  image: ""
+- curated_id: p9l1QRJSWsBdfQhLvEqI6rdgjdJrOWvtCS0GvuF9J1Q=_1602d6684dd:3ffef0f:e597f5ed
+  item_date: "2017-12-08 09:55:34"
+  title: Multi
+  url: http://blog.newrelic.com/?p=40353
+  domain: blog.newrelic.com
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_1603f4c9f7a:c0f981:9e976e77
+  item_date: "2017-12-09 23:21:12"
+  title: 'Serverless App: AWS CloudTrail Log Analytics using Amazon Elasticsearch
+    Service'
+  url: https://medium.com/p/f4612b2103c1
+  domain: medium.com
+  image: ""
+- curated_id: +0rTje4/k1rqstbwhoJuYuIHvom8X6/YL5iXfAXcMuQ=_1604ca7ed9e:2f850dd:541f3c40
+  item_date: "2017-12-12 03:29:00"
+  title: Keyword Research Beats Nate Silver's 2016 Presidential Election Prediction
+  url: https://moz.com/blog/keyword-research-2016-presidential-prediction
+  domain: moz.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_16052134e6c:38ada4d:7157a206
+  item_date: "2017-12-13 03:44:20"
+  title: Elastic Stack 6.1.0 Released
+  url: https://www.elastic.co/blog/elastic-stack-6-1-0-released
+  domain: www.elastic.co
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_1606bc4ac91:15873c6:541f3c40
+  item_date: "2017-12-18 07:43:00"
+  title: This Week in Elasticsearch and Apache Lucene
+  url: https://www.elastic.co/blog/this-week-in-elasticsearch-and-apache-lucene-2017-12-18
+  domain: www.elastic.co
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_1606ffa26ed:1c4d482:7157a206
+  item_date: "2017-12-19 10:06:18"
+  title: Smarter Machine Learning Job Placement in Elasticsearch
+  url: https://www.elastic.co/blog/smarter-machine-learning-job-placement-in-elasticsearch
+  domain: www.elastic.co
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_160750a242a:60517a:7157a206
+  item_date: "2017-12-20 07:01:01"
+  title: Elasticsearch for Dummies
+  url: https://dzone.com/articles/1911346
+  domain: dzone.com
+  image: ""
+- curated_id: +0rTje4/k1rqstbwhoJuYuIHvom8X6/YL5iXfAXcMuQ=_1607ddc09dc:40fa5b:7157a206
+  item_date: "2017-12-21 16:01:00"
+  title: 3 Creative Ways to Give Your Content Efforts a Boost
+  url: https://moz.com/blog/give-your-content-a-boost
+  domain: moz.com
+  image: ""
+- curated_id: 0qiQVwSkjUCs7NuWbZA7M53GH7jzaiJFe5B8OP0PN+U=_1607f887e49:726f1c:3c0bb656
+  item_date: "2017-12-22 08:53:02"
+  title: December 2017 Crawl Archive Now Available
+  url: http://commoncrawl.org/?p=15312
+  domain: commoncrawl.org
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_160a6178acc:3cc800a:541f3c40
+  item_date: "2017-12-29 22:01:01"
+  title: 'Elastic Stack 6: What You Need to Know'
+  url: https://dzone.com/articles/1935068
+  domain: dzone.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_161669c267f:2b06064:3c0bb656
+  item_date: "2018-02-05 07:01:39"
+  title: CLI for Indexing Data From Postgres to Elasticsearch
+  url: https://dzone.com/articles/2025546
+  domain: dzone.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_161753ddc67:43621fd:541f3c40
+  item_date: "2018-02-05 07:43:00"
+  title: This Week in Elasticsearch and Apache Lucene
+  url: https://www.elastic.co/blog/this-week-in-elasticsearch-and-apache-lucene-2018-02-05
+  domain: www.elastic.co
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_16170cd708f:3bb225a:3c0bb656
+  item_date: "2018-02-07 07:01:01"
+  title: Java High
+  url: https://dzone.com/articles/2033245
+  domain: dzone.com
+  image: ""
+- curated_id: AxQQtvE65+QaqkYOryE+b2QKezSYDbTCnNIX6p/weC0=_1618a03d6de:48c68a:86e37f75
+  item_date: "2018-02-12 04:36:01"
+  title: 'Serverless App: AWS CloudTrail Log Analytics using Amazon Elasticsearch
+    Service'
+  url: https://medium.com/p/76ed8dfa064a
+  domain: medium.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_161954074cc:70dedfb:7157a206
+  item_date: "2018-02-14 08:52:47"
+  title: How to enable SAML authentication in Kibana and Elasticsearch
+  url: https://www.elastic.co/blog/how-to-enable-saml-authentication-in-kibana-and-elasticsearch
+  domain: www.elastic.co
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_161c4166ce4:b5e514a:7157a206
+  item_date: "2018-02-23 11:12:48"
+  title: Introduction to GDPR with Elasticsearch
+  url: https://www.elastic.co/blog/introduction-to-gdpr-with-elasticsearch
+  domain: www.elastic.co
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_161d199141c:c94b8cc:541f3c40
+  item_date: "2018-02-26 02:01:04"
+  title: Data Analytics Made Easier With Elasticsearch
+  url: https://dzone.com/articles/2074999
+  domain: dzone.com
+  image: ""
+- curated_id: 0qiQVwSkjUCs7NuWbZA7M53GH7jzaiJFe5B8OP0PN+U=_161e7a850d4:1b2cbf2:923c4a60
+  item_date: "2018-03-02 07:46:21"
+  title: February 2018 Crawl Archive Now Available
+  url: http://commoncrawl.org/?p=15398
+  domain: commoncrawl.org
+  image: ""
+- curated_id: 3sOkcm6yz7RzahZqjgGz802Mh9gdTaNECiKVxsvA9Ss=_161e82a0e81:1c07eea:923c4a60
+  item_date: "2018-03-02 10:48:00"
+  title: Bing Entity Search API is now available
+  url: https://searchengineland.com/bing-entity-search-api-now-available-293342
+  domain: searchengineland.com
+  image: ""
+- curated_id: 0VTnUfX894TcY5TA/oMFDbEY1bDrlajzsn67Jr80r8M=_1621b1db8d0:e5a54d:76251cdd
+  item_date: "2018-03-12 09:48:42"
+  title: Google now previews Stack Overflow answers directly in Search
+  url: https://thenextweb.com/?p=1112394
+  domain: thenextweb.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_1622061784e:5a89e1:7d6c1c1c
+  item_date: "2018-03-13 10:16:03"
+  title: Plugins Alongside the X
+  url: https://www.elastic.co/blog/plugins-alongside-the-x-pack-security-plugin-for-elasticsearch
+  domain: www.elastic.co
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_16253dae6ca:47f1308:7d6c1c1c
+  item_date: "2018-03-23 10:08:10"
+  title: Monitor Kubernetes with Beats Autodiscover Feature and Elasticsearch
+  url: https://www.elastic.co/blog/monitor-kubernetes-with-beats-autodiscover-feature-and-elasticsearch
+  domain: www.elastic.co
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_1625f243cb5:f07b40:76251cdd
+  item_date: "2018-03-25 12:09:20"
+  title: SEO with the Google Search Console API and Python
+  url: https://medium.com/p/58d2b185c23b
+  domain: medium.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_162c0be747e:18847fa:7d6c1c1c
+  item_date: "2018-04-13 11:59:25"
+  title: This Week in Elasticsearch and Apache Lucene
+  url: https://www.elastic.co/blog/this-week-in-elasticsearch-and-apache-lucene-2018-04-13
+  domain: www.elastic.co
+  image: ""
+- curated_id: sEDXe7Qvmuk1P5v+jNcYxGwEAOol4+UvbhQKmcm1a48=_1632af8430b:147b6b2:93d646dc
+  item_date: "2018-05-04 00:48:34"
+  title: Dandelion plugin for Elasticsearch
+  url: https://blog.dandelion.eu/?p=428
+  domain: blog.dandelion.eu
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_1634143c979:55431b:2835af05
+  item_date: "2018-05-08 07:55:58"
+  title: 'Lunr: A bit like Solr, but much smaller and not as bright'
+  url: https://lunrjs.com/
+  domain: lunrjs.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_1639a2c5120:85dcc3:2835af05
+  item_date: "2018-05-24 21:00:21"
+  title: This Week in Elasticsearch and Apache Lucene
+  url: https://www.elastic.co/blog/this-week-in-elasticsearch-and-apache-lucene-2018-05-25
+  domain: www.elastic.co
+  image: ""
+- curated_id: 0qiQVwSkjUCs7NuWbZA7M53GH7jzaiJFe5B8OP0PN+U=_163bc392756:39edf37:2835af05
+  item_date: "2018-06-01 08:12:33"
+  title: May 2018 Crawl Archive Now Available
+  url: http://commoncrawl.org/?p=15467
+  domain: commoncrawl.org
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_163c0daedc9:23dff:ed160cc3
+  item_date: "2018-06-02 07:16:01"
+  title: Automated Survey Processing using Contextual Semantic Search
+  url: https://medium.com/p/1f9135ff2787
+  domain: medium.com
+  image: ""
+- curated_id: 3sOkcm6yz7RzahZqjgGz802Mh9gdTaNECiKVxsvA9Ss=_164412a49a5:264fd65:aa514a55
+  item_date: "2018-06-27 04:50:21"
+  title: Google On Expanding The Google Indexing API
+  url: https://www.seroundtable.com/google-indexing-api-25964.html
+  domain: www.seroundtable.com
+  image: ""
+- curated_id: NsOriG9vB4UTHHc+E7z3Iq8VotxRvtvEB9fu/BpjFa4=_164481956df:322c408:386c987f
+  item_date: "2018-06-28 13:29:29"
+  title: List of 21 Search APIs You Can Use Right Now
+  url: https://blog.rapidapi.com/?p=1628
+  domain: blog.rapidapi.com
+  image: ""
+- curated_id: gok/N1aiGTOaio3XQiVmDps/etNkdYHQoJaEJNxzZOQ=_164e27bda75:1af5d32:a8f27987
+  item_date: "2018-06-28 16:49:59"
+  title: Google Search Indexing API
+  url: https://www.programmableweb.com/api/google-search-indexing
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: +0rTje4/k1rqstbwhoJuYuIHvom8X6/YL5iXfAXcMuQ=_1644a67b795:130569:b83afde1
+  item_date: "2018-06-28 17:06:00"
+  title: What Do SEOs Do When Google Removes Organic Search Traffic?
+  url: https://moz.com/blog/google-removing-organic-traffic
+  domain: moz.com
+  image: ""
+- curated_id: 3sOkcm6yz7RzahZqjgGz802Mh9gdTaNECiKVxsvA9Ss=_164937d436a:9f596e6:386c987f
+  item_date: "2018-07-13 04:48:42"
+  title: Search Console Search Analytics API Increased Max Results / Rows To 25000
+  url: https://www.seroundtable.com/search-console-search-analytics-api-max-results-26045.html
+  domain: www.seroundtable.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_164af0d9f18:756d2:e8d3bdb3
+  item_date: "2018-07-18 13:21:01"
+  title: "Elastic Stack \u2014 A Brief Introduction"
+  url: https://medium.com/p/794bc7ff7d4f
+  domain: medium.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_164b7edcb5a:d2ebd81:4e0f6129
+  item_date: "2018-07-19 12:59:00"
+  title: An Introduction to Elasticsearch SQL with Practical Examples
+  url: https://www.elastic.co/blog/an-introduction-to-elasticsearch-sql-with-practical-examples-part-2
+  domain: www.elastic.co
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_164b7edcb5a:d2ebd82:4e0f6129
+  item_date: "2018-07-19 13:00:00"
+  title: An Introduction to Elasticsearch SQL with Practical Examples
+  url: https://www.elastic.co/blog/an-introduction-to-elasticsearch-sql-with-practical-examples-part-1
+  domain: www.elastic.co
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_16502232b34:18aa6d9:6f86c10b
+  item_date: "2018-08-03 16:13:52"
+  title: Stoplight v4.4 Release
+  url: https://medium.com/p/430f8fde7d6d
+  domain: medium.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_1656fdf5647:12907b:4c71e4fe
+  item_date: "2018-08-24 22:03:01"
+  title: Algolia Kindly Provides a Hacker News Search API
+  url: https://dzone.com/articles/2400810
+  domain: dzone.com
+  image: ""
+- curated_id: 0qiQVwSkjUCs7NuWbZA7M53GH7jzaiJFe5B8OP0PN+U=_165774b6095:8d8ce1:4c71e4fe
+  item_date: "2018-08-26 10:06:38"
+  title: August Crawl Archive Introduces Language Annotations
+  url: http://commoncrawl.org/?p=15521
+  domain: commoncrawl.org
+  image: ""
+- curated_id: +0rTje4/k1rqstbwhoJuYuIHvom8X6/YL5iXfAXcMuQ=_16582c66ab6:28f7bc6:215b6325
+  item_date: "2018-08-28 05:29:00"
+  title: A Quarter
+  url: https://moz.com/blog/competitor-backlink-intersect-link-building-tool
+  domain: moz.com
+  image: ""
+- curated_id: +0rTje4/k1rqstbwhoJuYuIHvom8X6/YL5iXfAXcMuQ=_1659e885de1:1148de1:215b6325
+  item_date: "2018-09-02 17:06:00"
+  title: 'Internal Linking &amp; Mobile First: Large Site Crawl Paths in 2018 &amp;
+    Beyond'
+  url: https://moz.com/blog/internal-linking-mobile-first-crawl-paths
+  domain: moz.com
+  image: ""
+- curated_id: xwisz6ZyxTVQZF9ECim7wa+q4F1sMWUZt/heMa4JVws=_165d89faa44:43033:3da9d93
+  item_date: "2018-09-14 07:24:11"
+  title: Installing Kibana
+  url: https://dzone.com/articles/2435645
+  domain: dzone.com
+  image: ""
+- curated_id: HtOfh97mKFupH+scuR/ebe1XsXJQ9qHY5fLu1UemHyY=_165edcf2dcf:443cf7:4db7ac35
+  item_date: "2018-09-17 17:00:00"
+  title: Towards Natural Language Semantic Code Search
+  url: https://githubengineering.com/towards-natural-language-semantic-code-search
+  domain: githubengineering.com
+  image: ""
+- curated_id: ECBXBDwvb2b6Gfl4BLHURbIHfbOKoD5pbQ9v071i3uY=_165f9064e07:14fe560:4db7ac35
+  item_date: "2018-09-20 15:04:04"
+  title: Developers deserve a better search engine
+  url: http://blog.jexia.com/?p=2555
+  domain: blog.jexia.com
+  image: ""
+- curated_id: 5JqX9UICapOm9YXTnzKIgAA8+Hz1EIPzp0wutAgYmps=_16686eeb736:ab9808:9dda0303
+  item_date: "2018-10-17 06:47:54"
+  title: "A Complete Guide to Google\u2019s New Dataset Search Engine"
+  url: https://www.promptcloud.com/?p=40853
+  domain: www.promptcloud.com
+  image: ""
+- curated_id: +0rTje4/k1rqstbwhoJuYuIHvom8X6/YL5iXfAXcMuQ=_1669ae93b10:16db15:6d6653ac
+  item_date: "2018-10-21 17:09:00"
+  title: How to Get More Keyword Metrics for Your Target Keywords
+  url: https://moz.com/blog/more-keyword-metrics
+  domain: moz.com
+  image: ""
+- curated_id: HKwklz9a1LBDBgbulnG916dFzLOZO3KlGWN+5YbUEE4=_166c5dabf62:2cb1880:df8f4700
+  item_date: "2018-10-30 05:29:56"
+  title: Real
+  url: https://www.adweek.com/digital/real-time-political-content-from-twitter-will-be-searchable-via-tagboard-discover/
+  domain: www.adweek.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_166db6c46fb:6b40b6:75727aa2
+  item_date: "2018-11-02 02:12:23"
+  title: This Week in Elasticsearch and Apache Lucene
+  url: https://www.elastic.co/blog/this-week-in-elasticsearch-and-apache-lucene-2018-11-02
+  domain: www.elastic.co
+  image: ""
+...

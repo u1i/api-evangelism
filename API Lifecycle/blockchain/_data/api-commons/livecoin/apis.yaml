@@ -1,0 +1,23 @@
+name: livecoin
+description: 'LiveCoin.net is a modern stock exchange. ufeffufeffufeffufeffufeffTrades
+  are conducted in the following currencies:  Fiat: RUR, USD, EUR.  Cryptocurrency:
+  BTC, LTC, DASH, EMC.'
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26562-www-livecoin-net.jpg
+tags:
+- Technology
+- Marketplace
+- internet
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/livecoin/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: https://www.livecoin.net
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

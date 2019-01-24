@@ -1,0 +1,538 @@
+- building_block_id: growth-in-new-users
+  type: Evangelism
+  category: Goals
+  name: Growth in New Users
+  description: >-
+    Growing the number of new signups for an API platform, increasing the number
+    of new consumers, and potentially establishing as an active user.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-analytics-4.jpeg
+  tags: Evangelism
+- building_block_id: growth-in-existing-user-api-usage
+  type: Evangelism
+  category: Goals
+  name: Growth in Existing User API Usage
+  description: >-
+    Growing the number of existing users who are actively using an API platform,
+    increasing the number of APIs they use, and the number of calls they make.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-analytics-4.jpeg
+  tags: Evangelism
+- building_block_id: brand-awareness
+  type: Evangelism
+  category: Goals
+  name: Brand Awareness
+  description: >-
+    A consistent strategy and set of resources for extending the brand reach for
+    any API platform, by providing a set of instructions and assets for
+    consumers to use.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-brand.png
+  tags: Evangelism
+- building_block_id: more-applications
+  type: Evangelism
+  category: Goals
+  name: More Applications
+  description: Increase the number of applications being developed on top of APIs.
+  image: ''
+  tags: Evangelism
+- building_block_id: new-system-integrations
+  type: Evangelism
+  category: Goals
+  name: New System Integrations
+  description: >-
+    Increase the number of integrations that occur with the API, into other
+    systems.
+  image: ''
+  tags: Evangelism
+- building_block_id: other-goals
+  type: Evangelism
+  category: Goals
+  name: Other Goals
+  description: Any other goal that might be associated with evangelism activities.
+  image: ''
+  tags: Evangelism
+- building_block_id: consumer-/-developer-showcase
+  type: Evangelism
+  category: Consumer Outreach
+  name: Consumer / Developer Showcase
+  description: >-
+    Providing a showcase of the spotlight is put on  developers / consumers who
+    are doing interesting things on the platform.
+  image: ''
+  tags: Evangelism
+- building_block_id: fresh-engagement
+  type: Evangelism
+  category: Consumer Outreach
+  name: Fresh Engagement
+  description: >-
+    Emailing new developers who have registered weekly to see what their
+    immediate needs are, while their registration is fresh in their minds.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-leaf.png
+  tags: Evangelism
+- building_block_id: active-user-engagement
+  type: Evangelism
+  category: Consumer Outreach
+  name: Active User Engagement
+  description: >-
+    Where we reach out to existing, active users of your API and find out what
+    they need, profiling them via Twitter, Facebook, LinkedIn and pulling any
+    profile information to grade and categorize each developer.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-arrows-circular.png
+  tags: Evangelism
+- building_block_id: historical-engagement
+  type: Evangelism
+  category: Consumer Outreach
+  name: Historical Engagement
+  description: >-
+    Emailing historical active and / or inactive developers to engage and
+    understand what their needs are and would make them active or increase
+    activity.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-clock.jpeg
+  tags: Evangelism
+- building_block_id: social-engagement
+  type: Evangelism
+  category: Consumer Outreach
+  name: Social Engagement
+  description: >-
+    When emailing any developer, using Rapportive we establish any URL, Twitter,
+    Facebook or LinkedIn profile they have and reach out via these networks.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-twitter-icon.png
+  tags: Evangelism
+- building_block_id: new-partner-engagement
+  type: Evangelism
+  category: Partner Outreach
+  name: New Partner Engagement
+  description: >-
+    When a new partner is signed up, there is engagement of some sort,
+    on-boarding them properly as a partner.
+  image: ''
+  tags: Evangelism
+- building_block_id: existing-partner-showcase
+  type: Evangelism
+  category: Partner Outreach
+  name: Existing Partner Showcase
+  description: >-
+    The showcasing of existing partners, to make sure the spotlight is on them
+    in blog posts, PR, and social media.
+  image: ''
+  tags: Evangelism
+- building_block_id: projects
+  type: Evangelism
+  category: Blogging
+  name: Projects
+  description: >-
+    Establishing of editorial assembly line of technical projects that can feed
+    blog stories, how-tos, samples and Github libraries.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-tools.png
+  tags: Evangelism
+- building_block_id: stories
+  type: Evangelism
+  category: Blogging
+  name: Stories
+  description: >-
+    Writing, editing and posting of stories derived from projects, with SEO and
+    API area support by design.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-story.png
+  tags: Evangelism
+- building_block_id: syndication
+  type: Evangelism
+  category: Blogging
+  name: Syndication
+  description: >-
+    Syndication to Tumblr, Blogger and other relevant blogging sites available
+    online.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-rss-icon.png
+  tags: Evangelism
+- building_block_id: competition-monitoring
+  type: Evangelism
+  category: Landscape Analysis
+  name: Competition Monitoring
+  description: >-
+    Evaluation of the regular activity of competitors, cultivating an ever
+    growing list of who they are and what they are up to.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-competition.png
+  tags: Evangelism
+- building_block_id: industry-monitoring
+  type: Evangelism
+  category: Landscape Analysis
+  name: Industry Monitoring
+  description: >-
+    Evaluation of relevant topics and trends of overall industry an API is
+    operating within.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-industry.png
+  tags: Evangelism
+- building_block_id: project--developer-sites
+  type: Evangelism
+  category: Landscape Analysis
+  name: Project & Developer Sites
+  description: >-
+    Identifying of relevant project sites like Elance and ODesk, and targeting
+    developers who may be suited for engagement.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-tools.png
+  tags: Evangelism
+- building_block_id: keywords
+  type: Evangelism
+  category: Landscape Analysis
+  name: Keywords
+  description: >-
+    Established a list of keywords to use when searching for topics at search
+    engines, QA, forums, social bookmarking and social networks.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-keyword.png
+  tags: Evangelism
+- building_block_id: city-targeting
+  type: Evangelism
+  category: Landscape Analysis
+  name: City Targeting
+  description: >-
+    Target specific markets in cities that make sense to an overall API
+    evangelism strategy.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-city-skyline.png
+  tags: Evangelism
+- building_block_id: formal-studies
+  type: Evangelism
+  category: Landscape Analysis
+  name: Formal Studies
+  description: >-
+    Conduct formal studies in the sector you are targeting, and potentially new
+    business sectors--share internally or possibly with partners and the public
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-case-study.png
+  tags: Evangelism
+- building_block_id: forum-conversations
+  type: Evangelism
+  category: Forum Management
+  name: Forum Conversations
+  description: >-
+    Responding to forum activity in a timely and engaging way, and conducting
+    general janitorial work around the community.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-conversation-bubbles.png
+  tags: Evangelism
+- building_block_id: forum-posting
+  type: Evangelism
+  category: Forum Management
+  name: Forum Posting
+  description: >-
+    Generating forum activity by anonymous posters or officially with common
+    problems and questions faced throughout community as well as open landscape.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-forum.png
+  tags: Evangelism
+- building_block_id: stories
+  type: Evangelism
+  category: Forum Management
+  name: Stories
+  description: >-
+    Deriving of stories for blog derived from forum activity, and the actual
+    needs of developers to be crafted and published as part of overall editorial
+    strategy.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-story.png
+  tags: Evangelism
+- building_block_id: email-coordination
+  type: Evangelism
+  category: Support
+  name: Email Coordination
+  description: >-
+    Regular coordination, relaying of support issues with central support
+    process.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-email.png
+  tags: Evangelism
+- building_block_id: email-needs-tracking
+  type: Evangelism
+  category: Support
+  name: Email Needs Tracking
+  description: Deriving of common support requests to drive API and API area roadmap.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-email-tracking.png
+  tags: Evangelism
+- building_block_id: github-repository
+  type: Evangelism
+  category: GitHub Management
+  name: Github Repository
+  description: >-
+    Managing of code sample Gists, official code libraries and any samples,
+    starter kits or other code samples generated through projects.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-github.jpg
+  tags: Evangelism
+- building_block_id: github-relationship
+  type: Evangelism
+  category: GitHub Management
+  name: Github Relationship
+  description: >-
+    Managing of followers, forks, downloads and other potential relationships
+    via Github.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-github.jpg
+  tags: Evangelism
+- building_block_id: github-organization
+  type: Evangelism
+  category: GitHub Management
+  name: Github Organization
+  description: >-
+    Are there Github organizations in place in support of outreach? Is there a
+    single one, or multiple ones for different projects, groups, etc?
+  image: ''
+  tags: Evangelism
+- building_block_id: qa-profile-maintenance
+  type: Evangelism
+  category: QA Management
+  name: QA Profile Maintenance
+  description: Ensure that profile on Quora and Stack Overflow are active.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-profile.png
+  tags: Evangelism
+- building_block_id: stack-exchange
+  type: Evangelism
+  category: QA Management
+  name: Stack Exchange
+  description: >-
+    Regular trolling of Stack Exchange / Stack Overflow and responding to
+    relevant [Client Name] or industry related questions.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-stack-exchange.png
+  tags: Evangelism
+- building_block_id: quora
+  type: Evangelism
+  category: QA Management
+  name: Quora
+  description: >-
+    Regular trolling of Quora and responding to relevant [Client Name] or
+    industry related questions.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-quora.png
+  tags: Evangelism
+- building_block_id: qa-seeding
+  type: Evangelism
+  category: QA Management
+  name: QA Seeding
+  description: Seeding of questions by anonymous 3rd party profiles for relevant topics.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-seed.png
+  tags: Evangelism
+- building_block_id: linkedin
+  type: Evangelism
+  category: Social Management
+  name: LinkedIn
+  description: "Setup of new API specific LinkedIn profile page who will follow developers and other relevant users for engagement. \_Posting of all API evangelism activities."
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-linkedin.png
+  tags: Evangelism
+- building_block_id: google-plus
+  type: Evangelism
+  category: Social Management
+  name: Google Plus
+  description: >-
+    Setup of new API specific Google+ company and posting of all API evangelism
+    activities and management of friends.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-google-plus.png
+  tags: Evangelism
+- building_block_id: twitter
+  type: Evangelism
+  category: Social Management
+  name: Twitter
+  description: >-
+    Setup of new API specific Twitter account, and the tweeting of all API
+    evangelism activity, relevant industry landscape activity, discover new
+    followers and engage with followers.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-twitter-icon.png
+  tags: Evangelism
+- building_block_id: facebook
+  type: Evangelism
+  category: Social Management
+  name: Facebook
+  description: >-
+    Setup of new API specific Facebook company, and the posting of all API
+    evangelism activities and management of friends.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-facebook.png
+  tags: Evangelism
+- building_block_id: hacker-news
+  type: Evangelism
+  category: Social Bookmarking
+  name: Hacker News
+  description: >-
+    Social bookmarking of all relevant API evangelism activities as well as
+    relevant industry landscape topics to Hacker News, to keep a fair and
+    balanced profile, as well as network and user engagement.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-hacker-news.png
+  tags: Evangelism
+- building_block_id: stumbleupon
+  type: Evangelism
+  category: Social Bookmarking
+  name: StumbleUpon
+  description: >-
+    Social bookmarking of all relevant API evangelism activities as well as
+    relevant industry landscape topics to StumbleUpon, to keep a fair and
+    balanced profile, as well as network and user engagement.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-stumbleupon.png
+  tags: Evangelism
+- building_block_id: reddit
+  type: Evangelism
+  category: Social Bookmarking
+  name: Reddit
+  description: >-
+    Social bookmarking of all relevant API evangelism activities as well as
+    relevant industry landscape topics to Reddit, to keep a fair and balanced
+    profile, as well as network and user engagement.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-reddit.png
+  tags: Evangelism
+- building_block_id: product-hunt
+  type: Evangelism
+  category: Social Bookmarking
+  name: Product Hunt
+  description: >-
+    Listing of new API offerings via the Product Hunt social product and service
+    platform, showcasing any new resources as they are made available.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/product-hunt-icon.jpg
+  tags: Evangelism
+- building_block_id: roadmap
+  type: Evangelism
+  category: Roadmap
+  name: Roadmap
+  description: >-
+    Provide regular feedback on the API roadmap based upon developer outreach
+    and feedback.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-highway.png
+  tags: Evangelism
+- building_block_id: activity-by-group
+  type: Evangelism
+  category: Reporting
+  name: Activity By Group
+  description: >-
+    Summary and highlights from weekly activity within the each area of API
+    evangelism strategy.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-arrows-circular.png
+  tags: Evangelism
+- building_block_id: new-registrations
+  type: Evangelism
+  category: Reporting
+  name: New Registrations
+  description: Historical and weekly accounting of new developer registrations across APIs.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-register.png
+  tags: Evangelism
+- building_block_id: volume-of-calls
+  type: Evangelism
+  category: Reporting
+  name: Volume of Calls
+  description: Historical and weekly accounting of API calls per API.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-analytics-5.jpeg
+  tags: Evangelism
+- building_block_id: hackathons
+  type: Evangelism
+  category: Events
+  name: Hackathons
+  description: >-
+    What hackathons are coming up in 30, 90, 120 days? Which would should be
+    sponsored, attended, etc.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-hackathon.png
+  tags: Evangelism
+- building_block_id: meetups
+  type: Evangelism
+  category: Events
+  name: Meetups
+  description: >-
+    What are the best Meetups in target cities? Are there different formats that
+    would best meet our goals? Are there any sponsorship or speaking
+    opportunities?
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-meetup.png
+  tags: Evangelism
+- building_block_id: conferences
+  type: Evangelism
+  category: Events
+  name: Conferences
+  description: >-
+    What are the top conferences occurring that we can participate in or
+    attend--pay attention to call for papers of relevant industry events.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-conference.png
+  tags: Evangelism
+- building_block_id: storytelling
+  type: Evangelism
+  category: Internal
+  name: Storytelling
+  description: >-
+    Telling stories of an API isn’t just something you do externally, what
+    stores need to be told internally to make sure an API initiative is
+    successful.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-story.png
+  tags: Evangelism
+- building_block_id: participation
+  type: Evangelism
+  category: Internal
+  name: Participation
+  description: >-
+    It is very healthy to include other people from across the company in API
+    operations. How can we include people from other teams in API evangelism
+    efforts.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-participation.png
+  tags: Evangelism
+- building_block_id: reporting
+  type: Evangelism
+  category: Internal
+  name: Reporting
+  description: >-
+    Sometimes providing regular numbers and reports to key players internally
+    can help keep operations running smooth. What reports can we produce?
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-reports.png
+  tags: Evangelism
+- building_block_id: getting-started
+  type: Evangelism
+  category: Developer Area
+  name: Getting Started
+  description: >-
+    Evolution of getting started page when relevant based upon API and network
+    changes, and relevant developer feedback.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-running.png
+  tags: Evangelism
+- building_block_id: documentation
+  type: Evangelism
+  category: Developer Area
+  name: Documentation
+  description: >-
+    Enhancement and addition to API documentation based upon project development
+    and active developer engagement and feedback
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-documentation.png
+  tags: Evangelism
+- building_block_id: code-samples
+  type: Evangelism
+  category: Developer Area
+  name: Code Samples
+  description: >-
+    Establish new code samples that can be used within API documentation pages,
+    maintain them as API evolves.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-code.png
+  tags: Evangelism

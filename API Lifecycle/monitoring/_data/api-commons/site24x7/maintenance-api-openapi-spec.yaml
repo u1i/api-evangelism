@@ -1,0 +1,33 @@
+swagger: "2.0"
+info:
+  title: Maintenance API
+  description: The Maintenance API.
+  version: 1.0.0
+host: www.site24x7.com.
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /maintenance/{maintenance_id}:
+    delete:
+      summary: Delete Maintenance
+      description: Delete an existing Scheduled Maintenance.
+      operationId: delete-maintenance
+      responses:
+        200:
+          description: OK
+      tags:
+      - Maintenance
+    get:
+      summary: Retrieve Maintenance
+      description: Retrieve configuration of a Scheduled Maintenance.
+      operationId: retrieve-maintenance
+      responses:
+        200:
+          description: OK
+      tags:
+      - Maintenance
+definitions: []

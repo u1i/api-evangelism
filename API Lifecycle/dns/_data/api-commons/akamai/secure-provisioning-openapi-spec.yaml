@@ -1,0 +1,99 @@
+swagger: "2.0"
+info:
+  title: Secure Provisioning
+  description: Securely provision certifications and hostnames.
+  version: 1.0.0
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /config-secure-provisioning-service/v1/sps-requests{?contractId,groupId,after,information}:
+    get:
+      summary: List SPS Requests
+      description: ""
+      operationId: configsecureprovisioningservicev1spsrequestscontractidgroupidafterinformation
+      parameters:
+      - in: String
+        name: after
+        description: 'If specified for GET requests, returns only the SPS requests
+          created after the date entered. Enter the combined date and time in UTC,
+          using the ISO 8601 date format: yyyy-MM-ddTHH:mm:ssZ.'
+        type: string
+      - in: Number
+        name: contractId
+        description: For POST requests, the ID of the contract associated with the
+          new policy. To retrieve the contractId you need, see the Property Manager
+          API.
+        type: string
+      - in: Number
+        name: groupId
+        description: For POST requests, the ID of the group associated with the new
+          policy. To retrieve the groupId you need, see the Property Manager API.
+        type: string
+      - in: Boolean
+        name: information
+        description: If specified for GET requests, returns parameters posted with
+          the SPS request resource.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+    post:
+      summary: Create a Request
+      description: ""
+      operationId: configsecureprovisioningservicev1spsrequestscontractidgroupidafterinformation
+      parameters:
+      - in: String
+        name: after
+        description: 'If specified for GET requests, returns only the SPS requests
+          created after the date entered. Enter the combined date and time in UTC,
+          using the ISO 8601 date format: yyyy-MM-ddTHH:mm:ssZ.'
+        type: string
+      - in: Number
+        name: contractId
+        description: For POST requests, the ID of the contract associated with the
+          new policy. To retrieve the contractId you need, see the Property Manager
+          API.
+        type: string
+      - in: Number
+        name: groupId
+        description: For POST requests, the ID of the group associated with the new
+          policy. To retrieve the groupId you need, see the Property Manager API.
+        type: string
+      - in: Boolean
+        name: information
+        description: If specified for GET requests, returns parameters posted with
+          the SPS request resource.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+  subscriptionId:
+    post:
+      summary: Create a Secure Edge Hostname
+      description: ""
+      operationId: subscriptionid
+      parameters:
+      - in: Number
+        name: contractId
+        description: The ID of the contract associated with the new policy. To retrieve
+          the contractId you need, see the Property Manager API.
+        type: string
+      - in: Number
+        name: groupId
+        description: The ID of the group associated with the new policy. To retrieve
+          the groupId you need, see the Property Manager API.
+        type: string
+      responses:
+        200:
+          description: OK
+      tags:
+      - ""
+definitions: []

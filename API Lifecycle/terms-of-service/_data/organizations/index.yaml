@@ -1,0 +1,72 @@
+---
+- slug: docracy
+  name: Docracy
+  description: Using Docracy's unique document change analysis, we are now tracking
+    terms of service and privacy policies for hundreds of the world's top sites. See
+    below for summaries of recent changes, or to see the complete terms for any of
+    the sites we track.&nbsp;
+  url: https://www.docracy.com/tos/changes
+  shorturl: ""
+  twitter: https://twitter.com/tostracker
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/9d324a915db5158ac92b461b29761a08_400x400.png
+  tags: Terms of Service
+- slug: swedish-api-license
+  name: Swedish API License
+  description: A user agreement for companies that publishes an API. Very adaptable
+    to different legal and business requirements. Based on the Laws of Sweden and
+    published under Creative Commons.
+  url: http://apilicens.se/en/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: https://github.com/APILicense
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/swedish-api-license-2.png
+  tags: Terms of Service
+- slug: termsfeed
+  name: TermsFeed
+  description: 'Create custom agreements that can be legally binding for your users:
+    Privacy Policies, Terms and Conditions, Terms of Use, Terms of Service or Return
+    and Refund Policies.'
+  url: https://termsfeed.com
+  shorturl: ""
+  twitter: ""
+  blog: https://termsfeed.com/blog/
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/terms-feed.png
+  tags: Terms of Service
+- slug: termsofs;didn't-read
+  name: TermsOfS;Didn't Read
+  description: '&ldquo;I have read and agree to the Terms&rdquo; is the biggest lie
+    on the web. We aim to fix that. Terms of service are often too long to read, but
+    it''s important to understand what''s in them. Your rights online depend on them.
+    We hope that our ratings can help you get informed abour your rights.'
+  url: http://tosdr.org/
+  shorturl: ""
+  twitter: https://twitter.com/tosdr
+  blog: http://tosdr.org/blog/index.html
+  blogrss: http://tosdr.org/blog/feed.rss
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/tos-didnt-read-2.png
+  tags: Terms of Service
+- slug: tosback
+  name: TOSBack
+  description: "TOSBack is a collaboration between the&nbsp;EFF, the&nbsp;Internet
+    Society, and&nbsp;ToS;DR. Every day, we check the Terms and Policies of many online
+    services to see if any of them have changed. The project is currently in beta
+    as we are working on some improvements to ensure greater reliability and coverage.
+    For now, please double check any results with\tthe website operator before relying
+    on them for important legal or journalistic purposes."
+  url: https://tosback.org/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/tosback-logo-2.png
+  tags: Terms of Service
+...

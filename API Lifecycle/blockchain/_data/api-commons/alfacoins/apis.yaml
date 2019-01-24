@@ -1,0 +1,21 @@
+name: ALFAcoins
+description: ALFAcoins is a Bitcoin  Cryptocurrency payment processing system with
+  low fees and flexible withdrawal options.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26480-www-alfacoins-com.jpg
+tags:
+- Technology
+- Marketplace
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/alfacoins/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: https://www.alfacoins.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

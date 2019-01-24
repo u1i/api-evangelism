@@ -1,0 +1,30 @@
+name: Cloudant
+description: Cloudant&rsquo;s distributed database-as-a-service (DBaaS) allows developers
+  of fast-growing web and mobile apps to focus on building and improving their products,
+  instead of worrying about scaling and managing their databases on their own.
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ibm-cloudant.png
+tags:
+- Database
+created: "2016-12-24"
+modified: "2016-12-24"
+url: https://raw.githubusercontent.com/api-evangelist/database/gh-pages/_data/api-commons/cloudant/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-blog
+  url: http://blog.cloudant.com/
+- type: x-blog-rss-feed
+  url: https://cloudant.com/?feed=cloudant
+- type: x-github
+  url: https://github.com/cloudant
+- type: x-twitter
+  url: https://twitter.com/IBMcloudant
+- type: x-website
+  url: https://cloudant.com/
+- type: x-webinars
+  url: https://cloudant.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

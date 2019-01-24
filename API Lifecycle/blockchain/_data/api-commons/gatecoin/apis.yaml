@@ -1,0 +1,21 @@
+name: Gatecoin
+description: Gatecoin is a bitcoin and ethereum token exchange based in Hong Kong.
+  Trade BTC and ETH worldwide with USD, EUR and HKD.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26558-gatecoin-com.jpg
+tags:
+- Technology
+- Financial Services
+- Blockchain
+created: "2017-12-26"
+modified: "2017-12-26"
+url: https://raw.githubusercontent.com/api-evangelist/blockchain/master/_data/api-commons/gatecoin/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: https://gatecoin.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com

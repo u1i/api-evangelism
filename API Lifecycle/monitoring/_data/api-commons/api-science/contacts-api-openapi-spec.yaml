@@ -1,0 +1,114 @@
+swagger: "2.0"
+info:
+  title: Contacts API
+  description: The Contacts API.
+  version: 1.0.0
+host: api.pingdom.com
+basePath: /
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  n    /api/{version}/contacts:
+    n    get:
+      summary: Get Contacts List
+      description: '    Returns a list of all contacts.'
+      operationId: get-contacts-list
+      parameters:
+      - in: query
+        name: limit
+        description: Limits the number of returned contacts to the specified quantity.
+        type: <td>integer</td>
+      - in: query
+        name: offset
+        description: Offset for listing. (Requires limit.)
+        type: <td>integer</td>
+      responses:
+        200:
+          description: OK
+      tags:
+      - Contacts
+  /contacts.json:
+    get:
+      summary: Get All Contacts
+      description: Get All Contacts
+      operationId: getAllContacts
+      responses:
+        200:
+          description: OK
+      tags:
+      - Contacts
+    post:
+      summary: Create a Contact
+      description: Create a Contact
+      operationId: createContact
+      parameters:
+      - in: formData
+        name: label
+        description: User-defined label for this contact.
+      - in: formData
+        name: type
+        description: 'Type of contact, options are: email, url, pagerduty'
+      - in: formData
+        name: value
+        description: 'Contents of value vary based on the type of contact being created:
+          an email address, a URL or your PagerDuty API key.'
+      responses:
+        200:
+          description: OK
+      tags:
+      - Contacts
+  /contacts/{id}.json:
+    delete:
+      summary: Delete a Contact
+      description: Delete a Contact
+      operationId: deleteContact
+      parameters:
+      - in: path
+        name: id
+        description: The id for the contact.
+      responses:
+        200:
+          description: OK
+      tags:
+      - Contacts
+    get:
+      summary: Get a Specific Contact
+      description: Get a Specific Contact
+      operationId: getContact
+      parameters:
+      - in: path
+        name: id
+        description: The ID of the contact to retrieve
+      responses:
+        200:
+          description: OK
+      tags:
+      - Contacts
+    patch:
+      summary: Update a Contact
+      description: Update a Contact
+      operationId: updateContact
+      parameters:
+      - in: path
+        name: id
+        description: ID for the contact
+      - in: formData
+        name: label
+        description: User-defined label for this contact.
+      - in: formData
+        name: type
+        description: 'Type of contact, options are: email, url, pagerduty'
+      - in: query
+        name: value
+        description: 'Contents of value vary based on the type of contact being created:
+          an email address, a URL or your PagerDuty API key.'
+      responses:
+        200:
+          description: OK
+      tags:
+      - Contacts
+definitions: []
